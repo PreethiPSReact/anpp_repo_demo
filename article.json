@@ -1,0 +1,1156 @@
+{
+  "version": "1.9",
+  "identifier": "life_article_5390-175-8-1",
+  "title": "Unbound by Rules",
+  "language": "en",
+  "layout": {
+    "columns": 20,
+    "gutter": 20,
+    "margin": 40,
+    "width": 1024
+  },
+  "subtitle": "The left-handed guitarist, who played a right-handed instrument upside down, defied musical gravity in 1968 with Electric Ladyland. But it was also the year Hendrix began to spin out of control.",
+  "metadata": {
+    "dateCreated": "2022-06-13T16:10:35.789Z",
+    "dateModified": "2022-06-07T15:36:50+00:00",
+    "excerpt": "Go figure. Jimi Hendrix didn’t like the Army.",
+    "generatorName": "ANTE Generic Template",
+    "generatorVersion": "0.0.4.33-2022-06-09 18:32",
+    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/0014_ss_78/129522-1-eng-US/0014_ss_782.jpg?q=100"
+  },
+  "documentStyle": {
+    "backgroundColor": "#eee"
+  },
+  "components": [
+    {
+      "role": "container",
+      "layout": {
+        "conditional": [
+          {
+            "conditions": [
+              {
+                "platform": "ios"
+              }
+            ],
+            "ignoreViewportPadding": true
+          },
+          {
+            "conditions": [
+              {
+                "maxViewportWidth": 1366,
+                "minViewportWidth": 1112
+              }
+            ],
+            "ignoreDocumentMargin": "none",
+            "ignoreViewportPadding": "none"
+          }
+        ],
+        "ignoreDocumentMargin": true
+      },
+      "style": {
+        "backgroundColor": "#fff"
+      },
+      "components": [
+        {
+          "//": "==== DEFAULT HEADER: SECTION ===",
+          "role": "heading",
+          "layout": "sectionLayout",
+          "textStyle": "sectionTextStyle",
+          "format": "html",
+          "text": "Music Of 1968 <sub-section>What's That Sound?"
+        },
+        {
+          "role": "container",
+          "layout": "dividerLayout",
+          "style": "dividerSectionHeadStyle"
+        },
+        {
+          "//": "==== DEFAULT HEADER: STRAPLINE/CATEGORY ===",
+          "role": "heading",
+          "layout": "straplineLayout",
+          "style": "straplineStyle",
+          "textStyle": "straplineTextStyle",
+          "format": "html",
+          "text": "JIMI HENDRIX"
+        },
+        {
+          "//": "==== DEFAULT HEADER: TITLE ===",
+          "role": "title",
+          "layout": "titleLayout",
+          "textStyle": "titleTextStyle",
+          "format": "html",
+          "text": "Unbound by Rules"
+        },
+        {
+          "//": "==== DEFAULT HEADER: INTRO ===",
+          "role": "intro",
+          "layout": "introLayout",
+          "textStyle": "introTextStyle",
+          "format": "html",
+          "text": "The left-handed guitarist, who played a right-handed instrument upside down, defied musical gravity in 1968 with <reg>Electric Ladyland</reg>. But it was also the year Hendrix began to spin out of control."
+        },
+        {
+          "//": "======== HERO IMAGE CONTAINER =======",
+          "role": "container",
+          "layout": "heroImageLayout",
+          "components": [
+            {
+              "//": "======== HERO IMAGE - H3255.0/W2392.0 * 100 = 136.0785953 ========",
+              "role": "photo",
+              "layout": "fullBleedPhotoLayout",
+              "caption": {
+                "format": "html",
+                "text": "<b>JIMI SINGS THE BLUES</b> In October 1968, Hendrix and his band played six shows over three days at San Francisco’s historic Winterland Ballroom.",
+                "textStyle": "captionEmbeddedTextStyle"
+              },
+              "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/0014_ss_78/129522-1-eng-US/0014_ss_782.jpg?q=100"
+            },
+            {
+              "role": "caption",
+              "layout": "captionLayout",
+              "style": "captionStyle",
+              "textStyle": "captionTextStyle",
+              "format": "html",
+              "text": "<caption-heading>JIMI SINGS THE BLUES</caption-heading> In October 1968, Hendrix and his band played six shows over three days at San Francisco’s historic Winterland Ballroom."
+            }
+          ]
+        },
+        {
+          "//": "======== BODY CONTAINER =======",
+          "role": "container",
+          "layout": "bodyContainerLayout",
+          "components": [
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyDropCapTextStyle",
+              "format": "html",
+              "text": "Go figure. Jimi Hendrix didn’t like the Army.<br>It was May 1962, and the future guitar-playing voodoo child, assigned to the 101st Airborne Division, was “unable to conform to military rules and regulations,” in the words of an official report. The 18-year-old missed bed check, slept when he was supposed to be working, and was unintelligible in conversation. One superior wanted him discharged. Another narrowed Hendrix’s problem to this: “His mind apparently can not function while performing duties and thinking about his guitar.”"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "Amen to that. Had it been otherwise, the world might never have met James Marshall Hendrix, the Stratocaster-burning, blues-bending left-hander who played a right-handed guitar upside down. Hendrix came seemingly from out of nowhere, was discovered in New York, hustled off to London, where he became a star, and then returned to the U.S., where he introduced himself to Americans at the 1967 Monterey Pop Festival. There, he blew past the Who’s Pete Townshend by torching his guitar and tossing the remains into the audience. For Hendrix, 1968 was the tipping point. He no longer had to worry about money. He was deep into recording his masterpiece, <i>Electric Ladyland</i>, and was an international star."
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1956.0/W1288.0 * 100 = 151.863354 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "caption": {
+                    "format": "html",
+                    "text": "<b>EYES ON YOU</b> The poster for Hendrix’s 1968 concert at the Fillmore East, designed by Rick Griffin.",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/gettyimages_0587/129515-1-eng-US/gettyimages_0582.jpg?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "style": "captionStyle",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>EYES ON YOU</caption-heading> The poster for Hendrix’s 1968 concert at the Fillmore East, designed by Rick Griffin."
+                }
+              ]
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "But 1968 was also the beginning of the end for his band, the Jimi Hendrix Experience. Although <i>Electric Ladyland</i> is celebrated for its innovative techniques and its heavy-hitter cameos (Traffic’s Steve Winwood and Jack Casady of Jefferson Airplane), Hendrix’s perfectionism and the druggie chaos at the studio drove manager Chas Chandler to quit. Construction costs spiraled at the studio Hendrix was building, and to pay the bills he was forced out on the road. Relations between Hendrix and his bass player were so strained on tour that after a fight one night in Gothenburg, Sweden, Hendrix tore up his hotel room in a drug-and-alcohol-fueled rampage. He was found in a pool of his own blood, was taken to the hospital, and, after being charged with criminal damage, was placed under a travel ban by local authorities. Soon the Experience would announce it was dissolving."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "“From mid-’68 onward, things within his organization began to slowly spin out of control,” writes John Perry in <i>Jimi Hendrix’s Electric Ladyland</i>. “The operation…looked to outsiders like a mess of conflicting greed and connivance, a set-up that may arguably have hastened [Hendrix’s] early death.”"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "Hendrix was first drawn to R&amp;B while growing up in Seattle, and he immersed himself in the music. His first “guitar” was a broom. “Pa would come home and see the straw and sh-- from the broom on the floor, because Jimi’d been doing acrobatics with his broom-guitar, and Jimi’d get a whuppin’,” Hendrix’s younger brother, Leon, later told the <i>Guardian</i>’s Ed Vulliamy. After being arrested for riding in a stolen car in 1961, Hendrix agreed to enlist in the Army to avoid jail time, and his early discharge a year later freed him to pursue music full-time. Hendrix landed gigs playing for Little Richard, Curtis Knight, and the Isley Brothers, but he struggled on his own in New York. As it happened, Chas Chandler, the bass player for the Animals, who wanted to get into management, caught a set Hendrix played at Café Wha? early in 1966 and signed him. By September, Hendrix was in London with a recording contract and was subletting an apartment from Ringo Starr."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "The 23-year-old flowered. The blues were more popular in the British capital than in the U.S., and rock music was exploding with musicians—the Who, the Stones—inspired by its sounds. Hendrix fit right in. “White America was listening to Doris Day; black American music got nowhere near white AM radio,” Tony Garland, who was part of Hendrix’s management team, told Vulliamy. “Jimi was too white for black radio. Here, there were a lot of white guys listening to blues from America and wanting to sound like their heroes.”"
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1670.0/W2628.0 * 100 = 63.5464231 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "caption": {
+                    "format": "html",
+                    "text": "Hendrix backstage at the Winterland.",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/0014_04890__048/129508-1-eng-US/0014_04890__0482.jpg?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "style": "captionStyle",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "Hendrix backstage at the Winterland."
+                }
+              ]
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "The expat quickly formed a band, the Jimi Hendrix Experience, and when the trio wasn’t touring, it was in the studio recording. Soon they were cranking out hits like “Hey Joe,” which reached No. 6 on the U.K. chart in early 1967. With the release of <i>Are You Experienced?</i>, their double-platinum debut album, the Experience was all the rage in London. After Hendrix’s performance at Monterey, his career went international."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<i>Electric Ladyland</i>, assembled between July 1967 and August 1968 mostly at New York’s Record Plant, is often hailed as the Jimi Hendrix Experience’s masterpiece, a moody soundscape of jazz, rock, soul, and blues. Hendrix produced and directed every aspect of the album, from first demos to final mixes. He stacked voices and mixed notes in ways that defied music theory. With a wah-wah pedal and bent notes, he transformed Bob Dylan’s “All Along the Watchtower” into one of the best covers ever recorded. Hendrix was typically shy about his singing voice, but he was so pleased with the playback for the cut “Have You Ever Been (to Electric Ladyland),” he pranced about, shouting, “I can sing! I can sing!” The album, released in October, quickly went to No. 1 and became an instant classic."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "But by that time, Hendrix was often operating in a chemical haze. With financial pressures and personality differences heating up, bassist Noel Redding left in early 1969 for a different band. Hendrix considered reforming the Experience, but it wasn’t to be. On September 18, 1970, he died in a London hotel room of an overdose."
+            }
+          ]
+        },
+        {
+          "role": "container",
+          "layout": "bodyContainerLayout",
+          "conditional": [
+            {
+              "conditions": [
+                {
+                  "viewLocation": "article"
+                }
+              ],
+              "hidden": false
+            }
+          ],
+          "hidden": true,
+          "components": [
+            {
+              "role": "container",
+              "layout": "dividerLayout",
+              "style": "dividerSectionHeadStyle"
+            },
+            {
+              "//": "=== VISIT TOC LINK, ONLY VISIBLE IF USER IS IN ARTICLE VIEW ===",
+              "role": "body",
+              "layout": "bodyLayout",
+              "textStyle": "tocTextStyle",
+              "format": "html",
+              "text": "<a href='https://apple.news/A2-YV0etGEeygNywAQ_JCCA'>Tap here</a> to see more from this issue of <i>LIFE</i>"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "componentLayouts": {
+    "attributeLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 15
+    },
+    "authorLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 5
+      }
+    },
+    "blockContainerLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "bodyContainerLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": 10
+    },
+    "bodyLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 10
+    },
+    "bodyNoMarginAboveLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10
+      }
+    },
+    "bottomPhotoDividerLayout": {
+      "//": "UNUSED"
+    },
+    "calloutBodyLayout": {
+      "margin": {
+        "bottom": 12,
+        "top": 12
+      }
+    },
+    "calloutHeadingLayout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "calloutLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "padding": {
+        "bottom": 10,
+        "left": 20,
+        "right": 20,
+        "top": 10
+      }
+    },
+    "captionAdLayout": {
+      "//": "UNUSED"
+    },
+    "captionLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 8,
+      "padding": {
+        "left": 15,
+        "right": 15
+      }
+    },
+    "chefImageLayout": {
+      "maximumWidth": 140,
+      "padding": {
+        "right": 15
+      }
+    },
+    "collectionLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "customAuthorLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10
+      }
+    },
+    "customHeaderTitleLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 12,
+      "padding": {
+        "left": "3cw",
+        "right": "3cw"
+      }
+    },
+    "darkModePaddingLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "padding": 10
+        }
+      ]
+    },
+    "dividerCollectionLayout": {
+      "//": "UNUSED"
+    },
+    "dividerLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 15,
+        "top": 10
+      }
+    },
+    "dividerStandardLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "minimumHeight": 1
+    },
+    "dividerTocLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 15,
+        "top": 20
+      },
+      "minimumHeight": 10
+    },
+    "floatContainerLayout": {
+      "columnSpan": 4,
+      "columnStart": 1,
+      "conditional": [
+        {
+          "columnSpan": 4,
+          "columnStart": 0,
+          "conditions": [
+            {
+              "maxViewportWidth": 415
+            }
+          ]
+        }
+      ]
+    },
+    "fullBleedContainerLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "fullBleedDividerLayout": {
+      "//": "UNUSED"
+    },
+    "fullBleedLayout": {
+      "ignoreDocumentMargin": true
+    },
+    "fullBleedPhotoLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 700
+            }
+          ],
+          "ignoreDocumentMargin": false
+        }
+      ],
+      "ignoreDocumentMargin": true
+    },
+    "galleryPhotoLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "heading2Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 20
+      }
+    },
+    "heading3Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading4Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading5Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading6Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 20
+      }
+    },
+    "headingNoMarginAboveLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 0
+      }
+    },
+    "heroImageLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 15
+      }
+    },
+    "heroImageTallLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 15
+      }
+    },
+    "ingredientsLayout": {
+      "margin": 8
+    },
+    "introLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10
+      }
+    },
+    "listLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 10,
+      "padding": {
+        "left": 10
+      }
+    },
+    "noMarginLayout": {
+      "margin": 0
+    },
+    "productImageStandardLayout": {
+      "minimumHeight": 280
+    },
+    "pullQuoteLayout": {
+      "columnSpan": 16,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 20,
+        "top": 20
+      }
+    },
+    "sectionLayout": {
+      "margin": {
+        "top": 5
+      }
+    },
+    "sidebarBodyLayout": {
+      "margin": {
+        "bottom": 12,
+        "top": 12
+      }
+    },
+    "sidebarDividerLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "minimumHeight": 1
+    },
+    "sidebarFloatContainerLayout": {
+      "columnSpan": 4,
+      "columnStart": 0
+    },
+    "sidebarHeading2Layout": {
+      "margin": {
+        "top": 20
+      }
+    },
+    "sidebarHeading3Layout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "sidebarHeading4Layout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "sidebarIntroLayout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "sidebarLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 20,
+      "padding": {
+        "bottom": 10,
+        "left": 25,
+        "right": 25
+      }
+    },
+    "sidebarSingleBlockContainerLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "sidebarSmallMarginAboveLayout": {
+      "margin": {
+        "top": 2
+      }
+    },
+    "signatureLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "conditional": [
+        {
+          "columnSpan": 20,
+          "columnStart": 0,
+          "conditions": [
+            {
+              "maxViewportWidth": 415
+            }
+          ]
+        }
+      ],
+      "horizontalContentAlignment": "left",
+      "margin": 10,
+      "maximumContentWidth": 100
+    },
+    "singleBlockContainerLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "smallMarginAboveLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 2
+      }
+    },
+    "spacerLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "straplineLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 1
+      }
+    },
+    "titleLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 2
+      }
+    },
+    "topPhotoDividerLayout": {
+      "//": "UNUSED"
+    }
+  },
+  "componentStyles": {
+    "attributeStyle": {
+      "//": "UNUSED"
+    },
+    "authorStyle": {
+      "//": "UNUSED"
+    },
+    "bodyContainerStyle": {
+      "//": "UNUSED"
+    },
+    "calloutStyle": {
+      "border": {
+        "all": {
+          "color": "#8d8d8d",
+          "width": 2
+        }
+      }
+    },
+    "captionAdStyle": {
+      "//": "UNUSED"
+    },
+    "captionStyle": {
+      "border": {
+        "all": {
+          "color": "#8d8d8d",
+          "width": 2
+        },
+        "bottom": false,
+        "left": true,
+        "right": false,
+        "top": false
+      }
+    },
+    "darkModeBackgroundStyle": {
+      "conditional": [
+        {
+          "backgroundColor": "#FFF",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "dividerSectionHeadStyle": {
+      "border": {
+        "all": {
+          "color": "#ececec",
+          "width": 1
+        },
+        "bottom": true,
+        "left": false,
+        "right": false,
+        "top": true
+      },
+      "conditional": [
+        {
+          "border": {
+            "all": {
+              "color": "#666666",
+              "width": 1
+            },
+            "bottom": true,
+            "left": false,
+            "right": false,
+            "top": true
+          },
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "dividerStandardStyle": {
+      "backgroundColor": "#000"
+    },
+    "dividerTocStyle": {
+      "//": "UNUSED"
+    },
+    "fullBleedContainerStyle": {
+      "//": "UNUSED"
+    },
+    "heading2Style": {
+      "//": "UNUSED"
+    },
+    "heading3Style": {
+      "//": "UNUSED"
+    },
+    "heading4Style": {
+      "//": "UNUSED"
+    },
+    "heading5Style": {
+      "//": "UNUSED"
+    },
+    "heading6Style": {
+      "//": "UNUSED"
+    },
+    "introStyle": {
+      "//": "UNUSED"
+    },
+    "paragraphDropCapStyle": {
+      "//": "UNUSED"
+    },
+    "paragraphStyle": {
+      "//": "UNUSED"
+    },
+    "photoContainerStyle": {
+      "//": "UNUSED"
+    },
+    "pullQuoteStyle": {
+      "//": "UNUSED"
+    },
+    "sectionStyle": {
+      "//": "UNUSED"
+    },
+    "sidebarNoBackgroundStyle": {
+      "border": {
+        "all": {
+          "color": "#f2f2f2",
+          "width": 2
+        }
+      }
+    },
+    "sidebarStyle": {
+      "backgroundColor": "#f2f2f2",
+      "conditional": [
+        {
+          "backgroundColor": "#f2f2f2",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "straplineStyle": {
+      "//": "UNUSED"
+    },
+    "titleStyle": {
+      "//": "UNUSED"
+    }
+  },
+  "textStyles": {
+    "creditTextStyle": {
+      "fontName": "AvenirNext-Medium",
+      "fontSize": 10,
+      "textColor": "#8d8d8d",
+      "textTransform": "uppercase",
+      "tracking": 0.1
+    },
+    "default-tag-caption-heading": {
+      "fontName": "AvenirNext-Bold",
+      "fontSize": 14,
+      "textTransform": "uppercase",
+      "tracking": 0.05
+    },
+    "default-tag-emoji": {
+      "fontName": "AppleColorEmoji"
+    },
+    "default-tag-lede": {
+      "fontName": "AvenirNext-Bold"
+    },
+    "default-tag-pullquote-attribution": {
+      "fontName": "Georgia-Bold",
+      "fontSize": 15,
+      "textTransform": "uppercase",
+      "tracking": 0.15
+    },
+    "default-tag-reg": {
+      "fontName": "Georgia"
+    },
+    "default-tag-sidebar-lede": {
+      "fontName": "AvenirNext-Bold",
+      "fontSize": 16,
+      "textTransform": "uppercase",
+      "tracking": 0.05
+    },
+    "default-tag-sub-section": {
+      "fontName": "AvenirNext-Medium"
+    },
+    "endMarkerTextStyle": {
+      "//": "UNUSED"
+    },
+    "subSectionTextStyle": {
+      "//": "UNUSED"
+    }
+  },
+  "componentTextStyles": {
+    "//": {
+      "//": "===================== LIFE OVERRIDES ====================="
+    },
+    "attributeTextStyle": {
+      "fontName": "AvenirNext-Medium",
+      "fontSize": 10,
+      "lineHeight": 14,
+      "textColor": "#8d8d8d",
+      "textTransform": "uppercase",
+      "tracking": 0.1
+    },
+    "authorTextStyle": {
+      "fontName": "Georgia-Bold",
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.05
+    },
+    "bodyCenteredTextStyle": {
+      "fontName": "Georgia",
+      "textAlignment": "center"
+    },
+    "bodyDropCapTextStyle": {
+      "dropCapStyle": {
+        "fontName": "AvenirNext-Medium",
+        "numberOfCharacters": 1,
+        "numberOfLines": 4,
+        "numberOfRaisedLines": 0
+      },
+      "fontName": "Georgia"
+    },
+    "bodyTextStyle": {
+      "fontName": "Georgia"
+    },
+    "calloutBodyTextStyle": {
+      "fontName": "Georgia-Italic",
+      "fontSize": 22,
+      "lineHeight": 28,
+      "textAlignment": "center"
+    },
+    "calloutHeadingTextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "fontSize": 24,
+      "lineHeight": 28,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": -0.05
+    },
+    "captionAdTextStyle": {
+      "//": "UNUSED"
+    },
+    "captionCenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "captionEmbeddedTextStyle": {
+      "fontName": "HelveticaNeue-Bold",
+      "lineHeight": 16
+    },
+    "captionTextStyle": {
+      "fontName": "AvenirNext-Medium",
+      "textAlignment": "left"
+    },
+    "default": {
+      "fontName": "AvenirNext-Medium",
+      "hyphenation": false,
+      "linkStyle": {
+        "underline": true
+      },
+      "textColor": "#000"
+    },
+    "default-author": {
+      "fontSize": 15,
+      "lineHeight": 19
+    },
+    "default-body": {
+      "fontSize": 20,
+      "lineHeight": 26,
+      "paragraphSpacingAfter": 12,
+      "paragraphSpacingBefore": 12
+    },
+    "default-byline": {
+      "//": "UNUSED"
+    },
+    "default-caption": {
+      "fontName": "AvenirNext-Medium",
+      "fontSize": 15,
+      "lineHeight": 22
+    },
+    "default-heading": {
+      "fontSize": 16,
+      "lineHeight": 16
+    },
+    "default-heading2": {
+      "fontSize": 45,
+      "lineHeight": 50
+    },
+    "default-heading3": {
+      "fontSize": 24,
+      "lineHeight": 28
+    },
+    "default-heading4": {
+      "fontSize": 24,
+      "lineHeight": 28
+    },
+    "default-heading5": {
+      "fontSize": 22,
+      "lineHeight": 24
+    },
+    "default-heading6": {
+      "fontSize": 18,
+      "lineHeight": 20
+    },
+    "default-intro": {
+      "fontName": "Avenir-Book",
+      "fontSize": 18,
+      "lineHeight": 20
+    },
+    "default-photographer": {
+      "//": "UNUSED"
+    },
+    "default-pullquote": {
+      "fontSize": 30,
+      "lineHeight": 30
+    },
+    "default-title": {
+      "fontSize": 60,
+      "lineHeight": 66
+    },
+    "floatImageCaptionTextStyle": {
+      "fontName": "AvenirNext-Medium",
+      "textAlignment": "left"
+    },
+    "heading2CenteredTextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "textAlignment": "center"
+    },
+    "heading2TextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "tracking": -0.02
+    },
+    "heading3CenteredTextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": -0.05
+    },
+    "heading3TextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "textTransform": "uppercase",
+      "tracking": -0.05
+    },
+    "heading4CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading4TextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "tracking": -0.01
+    },
+    "heading5CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading5TextStyle": {
+      "fontName": "Georgia-BoldItalic"
+    },
+    "heading6CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading6TextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "tracking": 0.05
+    },
+    "introTextStyle": {
+      "fontName": "Georgia-Italic",
+      "textAlignment": "center"
+    },
+    "listTextStyle": {
+      "fontSize": 17,
+      "lineHeight": 21
+    },
+    "pullQuoteTextStyle": {
+      "fontName": "Georgia",
+      "textAlignment": "center"
+    },
+    "sectionTextStyle": {
+      "fontName": "AvenirNext-Regular",
+      "fontSize": 14,
+      "lineHeight": 16,
+      "textTransform": "uppercase",
+      "tracking": 0.05
+    },
+    "sidebarBodyCenteredTextStyle": {
+      "fontName": "AvenirNext-Medium",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "textAlignment": "center",
+      "tracking": 0.02
+    },
+    "sidebarBodyTextStyle": {
+      "fontName": "AvenirNext-Medium",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "tracking": 0.02
+    },
+    "sidebarHeading2CenteredTextStyle": {
+      "fontName": "Georgia-Bold",
+      "fontSize": 45,
+      "lineHeight": 50,
+      "textAlignment": "center"
+    },
+    "sidebarHeading2TextStyle": {
+      "fontName": "Georgia-Bold",
+      "fontSize": 45,
+      "lineHeight": 50
+    },
+    "sidebarHeading3CenteredTextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "fontSize": 24,
+      "lineHeight": 28,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": -0.05
+    },
+    "sidebarHeading3TextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "fontSize": 24,
+      "lineHeight": 28,
+      "textTransform": "uppercase",
+      "tracking": -0.05
+    },
+    "sidebarHeading4TextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "fontSize": 24,
+      "lineHeight": 28,
+      "tracking": -0.01
+    },
+    "sidebarHeadingCentered4TextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "fontSize": 24,
+      "lineHeight": 28,
+      "textAlignment": "center"
+    },
+    "sidebarIntroTextStyle": {
+      "fontName": "Georgia-Italic",
+      "fontSize": 20,
+      "lineHeight": 26
+    },
+    "straplineTextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.15
+    },
+    "subsectionIntroTextStyle": {
+      "fontName": "Georgia-Italic",
+      "fontSize": 20,
+      "lineHeight": 26,
+      "textAlignment": "left"
+    },
+    "titleTextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "textAlignment": "center"
+    },
+    "tocTextStyle": {
+      "fontName": "AvenirNextCondensed-Medium",
+      "fontSize": 16,
+      "linkStyle": {
+        "underline": true
+      },
+      "textAlignment": "center",
+      "textColor": "#000"
+    }
+  }
+}

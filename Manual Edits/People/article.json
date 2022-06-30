@@ -1,7 +1,7 @@
 {
   "version": "1.9",
-  "identifier": "people_article_677-999-20-2",
-  "title": "Amber Heard Fights the Verdict",
+  "identifier": "people_article_677-1001-18-2",
+  "title": "Baby Boom!",
   "language": "en",
   "layout": {
     "columns": 20,
@@ -9,21 +9,14 @@
     "margin": 40,
     "width": 1024
   },
+  "subtitle": "THE LATEST ON HOLLYWOOD’S GROWING FAMILIES",
   "metadata": {
-    "authors": [
-      "Kara Warner",
-      "Pernilla Cedenheim"
-    ],
-    "dateCreated": "2022-06-22T16:50:09.312Z",
-    "dateModified": "2022-06-22T14:10:27+00:00",
-    "excerpt": "Amber Heard is not finished pleading her case. The actress appeared June 17 on Dateline to discuss her defamation trial against ex Johnny Depp over her domestic abuse claims in a 2018 Washington Post op-ed. A Virginia jury awarded Depp $15 million in damages, which the judge reduced to $10.35 million. “My goal, the only thing I could hope for at this point, is I just want people to see me as a human being,” Heard, 36, who plans to appeal, said in her first on-camera interview since the June 1 verdict. “Even if you think that I am lying, you still couldn’t look me in the eye and tell me that you think on social media there’s been a fair representation.” Says a source: “Amber is still disappointed about the jury’s verdict. It’s hard for her to let it go.” Meanwhile Depp, 59, performed at the Helsinki Blues Festival on June 19 and, an insider says, “has moved on.” ■",
+    "dateCreated": "2022-06-29T16:54:18.074Z",
+    "dateModified": "2022-06-29T14:48:56+00:00",
+    "excerpt": "The country singer, 32, and his wife, 29, welcomed their first child together, son Tex Lawrence, on June 19. “You are the best chillest angel boy and I’m so happy I was chosen to be your mom,” Nicole wrote on Instagram two days after his birth.",
     "generatorName": "ANTE Generic Template",
     "generatorVersion": "0.0.4.33-2022-06-09 18:32",
-    "issue": {
-      "identifier": "July 4, 2022",
-      "tocByline": "By Kara Warner With Reporting by Pernilla Cedenheim"
-    },
-    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/screenshot2_22014/1979175-1-eng-US/screenshot2_2202.png?q=100"
+    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/luke-5012/1986980-1-eng-US/luke-5012.jpg?q=100"
   },
   "documentStyle": {
     "backgroundColor": "#eee"
@@ -71,14 +64,14 @@
           "layout": "titleLayout",
           "textStyle": "titleTextStyle",
           "format": "html",
-          "text": "Amber Heard Fights the Verdict"
+          "text": "Baby Boom!"
         },
         {
-          "role": "author",
-          "layout": "authorLayout",
-          "textStyle": "authorTextStyle",
+          "role": "intro",
+          "layout": "introLayout",
+          "textStyle": "introTextStyle",
           "format": "html",
-          "text": "By <author-name>Kara Warner</author-name> <br/>With reporting by <author-name>Pernilla Cedenheim</author-name>"
+          "text": "THE LATEST ON HOLLYWOOD’S GROWING FAMILIES"
         },
         {
           "//": "======== HERO IMAGE CONTAINER =======",
@@ -86,10 +79,10 @@
           "layout": "heroImageLayout",
           "components": [
             {
-              "//": "======== HERO IMAGE - H1276.0/W1180.0 * 100 = 108.1355932 ========",
-              "role": "image",
+              "//": "======== HERO IMAGE - H1362.0/W1155.0 * 100 = 117.9220779 ========",
+              "role": "photo",
               "layout": "fullBleedPhotoLayout",
-              "URL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/screenshot2_22014/1979175-1-eng-US/screenshot2_2202.png?q=100"
+              "URL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/luke-5012/1986980-1-eng-US/luke-5012.jpg?q=100"
             }
           ]
         },
@@ -99,17 +92,11 @@
           "layout": "bodyContainerLayout",
           "components": [
             {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "singleBlockContainerLayout",
-              "components": [
-                {
-                  "//": "======== IMAGE BLEED - H1885.0/W1367.0 * 100 = 137.8931968 ========",
-                  "role": "photo",
-                  "photoCredit": "KIMMO BRANDT/EPA-EFE/SHUTTERSTOCK",
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/shutterstoc_2193/1979168-1-eng-US/shutterstoc_2192.jpg?q=100"
-                }
-              ]
+              "role": "heading2",
+              "layout": "heading2Layout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Luke &amp; Nicole Combs"
             },
             {
               "role": "body",
@@ -117,32 +104,36 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "Amber Heard is not finished pleading her case. The actress appeared June 17 on <i>Dateline</i> (top) to discuss her defamation trial against ex Johnny Depp over her domestic abuse claims in a 2018 <i>Washington Post</i> op-ed. A Virginia jury awarded Depp $15 million in damages, which the judge reduced to $10.35 million. “My goal, the only thing I could hope for at this point, is I just want people to see me as a human being,” Heard, 36, who plans to appeal, said in her first on-camera interview since the June 1 verdict. “Even if you think that I am lying, you still couldn’t look me in the eye and tell me that you think on social media there’s been a fair representation.” Says a source: “Amber is still disappointed about the jury’s verdict. It’s hard for her to let it go.” Meanwhile Depp, 59, performed at the Helsinki Blues Festival on June 19 (above) and, an insider says, “has moved on.”"
+              "text": "<b>The country singer, 32, and his wife, 29, welcomed their first child together, son Tex Lawrence, on June 19. “You are the best chillest angel boy and I’m so happy I was chosen to be your mom,” Nicole wrote on Instagram two days after his birth.</b>"
             },
             {
+              "//": "======== FULL BLEED CONTAINER ========",
               "role": "container",
-              "layout": "videoContainerLayout",
+              "layout": "fullBleedContainerLayout",
               "components": [
                 {
-                  "role": "image",
-                  "layout": "videoIconLayout",
-                  "accessibilityCaption": "Related Video",
-                  "URL": "https://public-assets.meredithcorp.io/cc3cb289a043bbeb2b389ee413bba896/relatedVideo.png"
-                },
-                {
-                  "role": "body",
-                  "layout": "videoTitleLayout",
-                  "textStyle": "videoTitleTextStyle",
-                  "format": "html",
-                  "text": "Amber Heard Speaks Out About Jury's Verdict"
-                },
-                {
-                  "role": "video",
-                  "style": "videoStyle",
-                  "stillURL": "http://playback.video.meredithcorp.io/people/6307689274112.jpg",
-                  "URL": "http://playback.video.meredithcorp.io/people/6307689274112.m3u8"
+                  "//": "======== IMAGE BLEED - H1541.0/W1367.0 * 100 = 112.7286028 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "photoCredit": "HEATHER SMITH",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/52222-1862/1986973-1-eng-US/52222-1862.jpg?q=100"
                 }
               ]
+            },
+            {
+              "role": "heading2",
+              "layout": "heading2Layout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Patrick &amp; Brittany Mahomes"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>On June 26 the Kansas City Chiefs quarterback and his trainer wife—both 26 and already parents to daughter Sterling Skye, 16 months—confirmed they’re expecting a baby boy after celebrating with a sex-reveal party.</b>"
             }
           ]
         },
@@ -151,7 +142,7 @@
           "layout": "attributeLayout",
           "textStyle": "attributeTextStyle",
           "format": "html",
-          "text": "KIMMO BRANDT/EPA-EFE/SHUTTERSTOCK"
+          "text": "HEATHER SMITH"
         },
         {
           "role": "container",
@@ -179,7 +170,7 @@
               "layout": "bodyLayout",
               "textStyle": "captionTextStyle",
               "format": "html",
-              "text": "<a href='https://apple.news/AYPHCUe5KEeyjWMb6lpL05w'>Tap here</a> to see more from this week's issue of <bold-italic>People<bold-italic>"
+              "text": "<a href='https://apple.news/A7UbhofYeEey3wPC6TBJtrQ'>Tap here</a> to see more from this week's issue of <bold-italic>People<bold-italic>"
             }
           ]
         },
@@ -2012,8 +2003,6 @@
     },
     "titleTextStyle": {
       "fontName": "DidotLTStd-Bold",
-      "fontSize": 55,
-      "lineHeight": 58,
       "tracking": 0.04
     },
     "tocTextStyle": {

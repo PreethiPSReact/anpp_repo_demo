@@ -1,0 +1,1608 @@
+{
+  "version": "1.9",
+  "identifier": "ew_article_708-554-23-1",
+  "title": "Cha Cha Real Smooth’s Cooper Raiff Steps Up to The Mic",
+  "language": "en",
+  "layout": {
+    "columns": 23,
+    "gutter": 20,
+    "margin": 62,
+    "width": 1024
+  },
+  "metadata": {
+    "dateCreated": "2022-03-03T15:14:12.064Z",
+    "dateModified": "2022-02-26T18:51:44+00:00",
+    "generatorName": "ANTE Generic Template",
+    "generatorVersion": "0.0.4.32-SNAPSHOT-2022-04-15 17:09",
+    "thumbnailURL": "https://picsum.photos/id/0/800/600"
+  },
+  "documentStyle": {
+    "backgroundColor": "#04223c"
+  },
+  "components": [
+    {
+      "role": "container",
+      "layout": {
+        "conditional": {
+          "conditions": {
+            "platform": "ios"
+          },
+          "ignoreViewportPadding": true
+        },
+        "ignoreDocumentMargin": true
+      },
+      "style": {
+        "backgroundColor": "#04223c"
+      },
+      "components": [
+        {
+          "role": "container",
+          "layout": {
+            "conditional": [
+              {
+                "conditions": [
+                  {
+                    "platform": "ios"
+                  }
+                ],
+                "ignoreViewportPadding": true
+              },
+              {
+                "conditions": [
+                  {
+                    "maxViewportWidth": 1366,
+                    "minViewportWidth": 1112
+                  }
+                ],
+                "ignoreDocumentMargin": "none",
+                "ignoreViewportPadding": "none"
+              }
+            ],
+            "ignoreDocumentMargin": true
+          },
+          "style": {
+            "style": {
+              "backgroundColor": "#04223c"
+            }
+          },
+          "components": [
+            {
+              "role": "container",
+              "layout": {
+                "ignoreDocumentMargin": "both",
+                "ignoreViewportPadding": "both"
+              },
+              "components": [
+                {
+                  "role": "image",
+                  "layout": {
+                    "ignoreDocumentMargin": "both",
+                    "ignoreViewportPadding": "both"
+                  },
+                  "URL": "https://public-assets.meredithcorp.io/372c21fc40c4498939c41916e9d715b9/lines-top.png",
+                  "animation": {
+                    "preferredStartingPosition": "right",
+                    "type": "move_in",
+                    "userControllable": false
+                  }
+                }
+              ]
+            },
+            {
+              "//": "===== HERO PARALLAX =====",
+              "role": "container",
+              "layout": {
+                "conditional": [
+                  {
+                    "conditions": [
+                      {
+                        "maxViewportWidth": 430
+                      }
+                    ],
+                    "minimumHeight": "76.2cw"
+                  }
+                ],
+                "ignoreDocumentMargin": "both",
+                "ignoreViewportPadding": "both",
+                "minimumHeight": "79.2cw",
+                "padding": {
+                  "bottom": 20
+                }
+              },
+              "style": {
+                "fill": {
+                  "fillMode": "fit",
+                  "type": "image",
+                  "URL": "https://public-assets.meredithcorp.io/18106a0da1dd0d6b2b2b035f14968cb0/ChaCha_Hero.jpg"
+                }
+              },
+              "identifier": "heroParallax",
+              "components": [
+                {
+                  "role": "container",
+                  "anchor": {
+                    "target": "heroParallax",
+                    "targetAnchorPosition": "bottom"
+                  },
+                  "components": [
+                    {
+                      "//": "======== HERO IMAGE CONTAINER =======",
+                      "role": "container",
+                      "layout": "heroImageLayout",
+                      "behavior": {
+                        "factor": 1.5,
+                        "type": "parallax"
+                      },
+                      "components": [
+                        {
+                          "role": "title",
+                          "layout": "titleLayout",
+                          "style": "titleStyle",
+                          "textStyle": "titleTextStyle",
+                          "format": "html",
+                          "text": "<original-bolditalic><pink>Cha Cha Real Smooth</pink></original-bolditalic><pink>’s</pink><br><white>Cooper Raiff Steps Up to the Mic</white>"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "role": "container",
+              "layout": {
+                "ignoreDocumentMargin": "both",
+                "ignoreViewportPadding": "both"
+              },
+              "components": [
+                {
+                  "role": "image",
+                  "layout": {
+                    "ignoreDocumentMargin": "both",
+                    "ignoreViewportPadding": "both"
+                  },
+                  "URL": "https://public-assets.meredithcorp.io/3e583a8853627683b6757637548fa74d/lines-bottom.png",
+                  "animation": {
+                    "preferredStartingPosition": "left",
+                    "type": "move_in",
+                    "userControllable": false
+                  }
+                }
+              ]
+            },
+            {
+              "role": "intro",
+              "layout": "introLayout",
+              "style": "introStyle",
+              "textStyle": "introTextStyle",
+              "format": "html",
+              "text": "<pink>Meet the Gen-Z Renaissance man behind this year's festival sensation, before everybody knows his name.</pink>"
+            },
+            {
+              "role": "author",
+              "layout": "authorLayout",
+              "style": "authorStyle",
+              "textStyle": "authorTextStyle",
+              "format": "html",
+              "text": "<white>By </white><a href=\"https://twitter.com/leahbats\"><white>Leah Greenblatt</white></a>"
+            },
+            {
+              "//": "======== BODY CONTAINER =======",
+              "role": "container",
+              "layout": "bodyContainerLayout2",
+              "style": "bodyContainerStyle",
+              "identifier": "link",
+              "components": [
+                {
+                  "role": "container",
+                  "layout": {
+                    "columnSpan": 1,
+                    "columnStart": 2,
+                    "conditional": [
+                      {
+                        "columnSpan": 1,
+                        "columnStart": 1,
+                        "conditions": [
+                          {
+                            "maxViewportWidth": 430
+                          }
+                        ]
+                      }
+                    ],
+                    "ignoreDocumentGutter": "both"
+                  },
+                  "anchor": {
+                    "target": "floatImage1",
+                    "targetAnchorPosition": "center"
+                  },
+                  "components": [
+                    {
+                      "role": "image",
+                      "layout": {
+                        "conditional": [
+                          {
+                            "conditions": [
+                              {
+                                "maxViewportWidth": 430
+                              }
+                            ],
+                            "maximumContentWidth": "70cw"
+                          }
+                        ],
+                        "ignoreDocumentGutter": "both",
+                        "maximumContentWidth": "70cw",
+                        "padding": {
+                          "top": 10
+                        }
+                      },
+                      "URL": "https://public-assets.meredithcorp.io/bc298c04cd284a629ef54c178f786849/i_Dropcap.png"
+                    }
+                  ]
+                },
+                {
+                  "role": "body",
+                  "layout": "bodyLayout2",
+                  "style": "paragraphStyle",
+                  "textStyle": "bodyTextStyle",
+                  "format": "html",
+                  "text": "<a id='floatImage1'/>t's a good, weird year to be Cooper Raiff. Weeks before his 25th birthday, an age most of his peers mark by being legally permitted to rent a car, he sold his second film to Apple TV+ for $15 million out of January's Sundance Film Festival. His third movie, an offbeat hockey comedy called <i>The Trashers</i> starring <i>Stranger Things'</i> David Harbour, is set to start shooting in the fall. If that sounds like a steep climb for a man you've never heard of, let alone one born during the second Clinton administration, that's because, well, life moves at you pretty fast."
+                },
+                {
+                  "role": "body",
+                  "layout": "bodyLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "bodyTextStyle",
+                  "format": "html",
+                  "text": "Put it down also to some awkward pandemic luck. \"It was a massive bummer,\" the Dallas native admits of the series of unfortunate events that led to his debut, the micro-budget college comedy <i>Shithouse</i>, bowing just as the world (and the movie's host, SXSW) shut down in March 2020. Then its follow-up, <i>Cha Cha Real Smooth</i>, landed at an abruptly online-only Sundance two years later just as the Delta variant surged. \"But it's like, how dare I? It's so hard, and so impossible and so lucky to get a movie made…. And now I'm feeling like, 'All right, third time's a charm.' \""
+                },
+                {
+                  "role": "body",
+                  "layout": "bodyLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "bodyTextStyle",
+                  "format": "html",
+                  "text": "There's already charm to spare in <i>Cha Cha Real Smooth</i>. The winningly scrappy coming-of-age dramedy — which Raiff wrote, directs, and stars in as Andrew, a recent college graduate who crash-lands back in his New Jersey hometown as a reluctant hype man on the local bar mitzvah circuit — begins streaming on Apple TV+ and in theaters June 17, lifted by a raft of glowing festival reviews and the potential to match the crowd-pleasing promise of another high-profile Apple buy from Sundance, the recently minted Oscar winner <i>CODA</i>. The movie's existence stems in no small part from a fateful meeting with Dakota Johnson, who produced the project and costars as Domino, devoted single mother to an autistic teenager named Lola (newcomer Vanessa Burghardt) and elusive object of Andrew's affection."
+                },
+                {
+                  "role": "body",
+                  "layout": "bodyLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "bodyTextStyle",
+                  "format": "html",
+                  "text": "\"<i>Cha Cha</i> was something that I had started writing my freshman year [at California's Occidental College],\" Raiff says. 'But it was just a young mom with a disabled kid, and that was all there was to it: A young person who is in this spot in life, in the beginning of his twenties, where you're needing to start your own party, and she's in her thirties and didn't really have that [chance] because of her kid.\" When he pitched the idea to Johnson and her producing partner, they presumed he already had a script; he bluffed and asked for a week to work on a polish."
+                }
+              ]
+            },
+            {
+              "//": "======== SINGLE BLOCK CONTAINER =======",
+              "role": "container",
+              "layout": {
+                "ignoreDocumentMargin": "both",
+                "ignoreViewportPadding": "both"
+              },
+              "animation": {
+                "//": "The initial transparency of the component 0-1",
+                "initialAlpha": 0,
+                "type": "fade_in",
+                "userControllable": true
+              },
+              "components": [
+                {
+                  "role": "photo",
+                  "layout": {
+                    "ignoreDocumentMargin": "both",
+                    "ignoreViewportPadding": "both"
+                  },
+                  "URL": "https://public-assets.meredithcorp.io/c2ec9957bfebcffdad0d318dd272c27f/Cha%20Cha%20Real%20Smooth%2001.jpg"
+                }
+              ]
+            },
+            {
+              "//": "======== BODY CONTAINER =======",
+              "role": "container",
+              "layout": "bodyContainerLayout2",
+              "style": "bodyContainerStyle",
+              "components": [
+                {
+                  "role": "body",
+                  "layout": "bodyLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "bodyTextStyle",
+                  "format": "html",
+                  "text": "What he penned in a rush from there became the film, essentially — including a part he wrote purposefully (and on pure speculative hope) for Leslie Mann as Andrew's mother, a single parent with her own complicated backstory. \"I sent Leslie a letter that was like, 'I wrote this for you. I'd die for you in this role. I know that it's not a role that you should take, but I really want you to,' \" he remembers. \"And it was that, but also just her relationship with Dakota, really, that got her to do it. And then when she came on board she was like, 'I will only do it if Brad Garrett is my husband.' \" (The towering, spaniel-eyed actor-comedian does indeed appear as Andrew's stepdad and frequent foil.)"
+                },
+                {
+                  "role": "body",
+                  "layout": "bodyLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "bodyTextStyle",
+                  "format": "html",
+                  "text": "Key, too, was getting the tricky character of 15-year-old Lola right on screen. \"My sister is disabled — she can't walk or talk,\" Raiff explains. \"She's not autistic, but she's got buddies who are autistic, and I was interested in making a movie about the visual of every morning having to go all the way for your child for their whole life... When I saw Vanessa's tape — it's one of those things that will make me emotional right now. She's so specific that it just made me cry really hard. And I think it was because some part of her reminded me of my sister. I went back to everyone and I was like, 'Guys, it has to be Vanessa.' And they all listened to me and they trusted me and they loved her too.\""
+                },
+                {
+                  "role": "body",
+                  "layout": "bodyLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "bodyTextStyle",
+                  "format": "html",
+                  "text": "Burghardt's neurodiversity also proved invaluable on set: \"I didn't want to put any onus on her because I wanted to do my job as a writer,\" Raiff recalls. \"But she was very clear about what she loved. Or I would say, 'Do you think this is funny?' And she would say, 'No.' [laughs] But she's a true writer, artist, actress, and that was very helpful in shaping the role.\""
+                }
+              ]
+            },
+            {
+              "//": "======== SINGLE BLOCK CONTAINER =======",
+              "role": "container",
+              "layout": {
+                "ignoreDocumentMargin": "both",
+                "ignoreViewportPadding": "both"
+              },
+              "animation": {
+                "//": "The initial transparency of the component 0-1",
+                "initialAlpha": 0,
+                "type": "fade_in",
+                "userControllable": true
+              },
+              "components": [
+                {
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://public-assets.meredithcorp.io/c705ac593ab3dc1f4a53326155cd5139/Cha%20Cha%20Real%20Smooth%2003.jpg"
+                }
+              ]
+            },
+            {
+              "//": "======== BODY CONTAINER =======",
+              "role": "container",
+              "layout": "bodyContainerLayout2",
+              "style": "bodyContainerStyle",
+              "components": [
+                {
+                  "role": "body",
+                  "layout": "bodyLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "bodyTextStyle",
+                  "format": "html",
+                  "text": "Johnson, too, brought new shades to Domino, who serves as the flex point for Andrew's romantic yearnings and hyperliterate anxiety, but has her own complicated inner world, including an ongoing history of depression. \"She's so smart and very opinionated, and I knew that I was going to lean on her a lot,\" Raiff says of the 32-year-old actress (<i>The Lost Daughter</i>, Netflix's upcoming <i>Persuasion</i> adaptation). \"And she <i>is</i> Domino. She's got the open heart and she grew up too fast in the same way that Domino did, and she can flirt with a wall. But I wanted to really get into her boundaries. She has really good boundaries as a person.\" Plus, he adds, \"I developed a relationship with her over the course of six months before we stepped on set together, so that was really important. She just cared about the movie so much.\""
+                },
+                {
+                  "role": "body",
+                  "layout": "bodyLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "bodyTextStyle",
+                  "format": "html",
+                  "text": "If Andrew's route from a marketing degree at Tulane to the banquet halls of suburban New Jersey makes for pointed Gen-Z comedy, it's the inverse of Raiff's own precocious rise. Raised in Texas, he turned to performing when his junior-high sports dreams fell short (\"I was a basketball player until everyone hit puberty,\" he says wryly. \"And then I developed more hobbies.\"). A series of unlikely muses — he recalls Jeremy Jordan's performance in <i>Newsies</i>, which he saw on Broadway during a family trip to New York, and formative viewings of <i>Lost in Translation</i> in high school — helped shape his idea of himself as a writer and performer. A short he made in school with $300 and a few friends earned him the attention of indie stalwart Jay Duplass (<i>Transparent, Togetherness, Search Party</i>) who became a mentor and helped shepherd <i>Shithouse</i>; it went on to win the Grand Jury Prize at SXSW for Best Narrative Feature."
+                },
+                {
+                  "role": "body",
+                  "layout": "bodyLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "bodyTextStyle",
+                  "format": "html",
+                  "text": "For now, Raiff is camped out at his temporary home in Los Angeles, prepping for <i>The Trashers</i> and waiting for <i>Cha Cha</i> to make its way in the world. In the meantime, he's still getting used to his new reality: \"Apple did some sort of slate-trailer type thing,\" he recalls, of the standard sizzle reel that networks and streaming services put together to tout their future projects. \"And when I saw it, I just was like, 'What?' Because it's two minutes of like, hundred-million-dollar movie, hundred-million-dollar movie, hundred-million-dollar movie, and then a good 25 seconds of dumb-ass little <i>Cha Cha Real Smooth</i> in the middle of these massive Ryan Reynold-Henry Cavill-Dua Lipa [projects]. It felt <i>insane</i>.\" Crazy, maybe, but also a quarter-century in the making — and for Raiff, you could argue, right on time."
+                },
+                {
+                  "role": "body",
+                  "layout": "attributeLayout",
+                  "style": "attributeStyle",
+                  "textStyle": "attributeTextStyle",
+                  "format": "html",
+                  "text": "Apple TV+ (3)"
+                }
+              ]
+            },
+            {
+              "role": "container",
+              "layout": "bodyContainerLayout",
+              "conditional": [
+                {
+                  "conditions": [
+                    {
+                      "viewLocation": "article"
+                    }
+                  ],
+                  "hidden": false
+                }
+              ],
+              "hidden": true,
+              "components": [
+                {
+                  "role": "container",
+                  "layout": "dividerLayout",
+                  "style": "dividerSectionHeadStyle"
+                },
+                {
+                  "//": "=== VISIT TOC LINK, ONLY VISIBLE IF USER IS IN ARTICLE VIEW ===",
+                  "role": "body",
+                  "layout": "bodyLayout",
+                  "textStyle": "tocTextStyle",
+                  "format": "html",
+                  "text": "<white><a href='https://apple.news/AlOjY4bz1Eey_-727XpaCsQ'>Tap here</a> to see more from this issue of <i>Entertainment Weekly</i></white>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "componentLayouts": {
+    "answerBodyLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 5,
+        "left": 0,
+        "right": 0,
+        "top": 0
+      }
+    },
+    "attributeLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": 15
+    },
+    "authorLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 20
+      }
+    },
+    "blockContainerLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "bodyContainerLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": 10
+    },
+    "bodyContainerLayout2": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "maxViewportWidth": 430
+            }
+          ],
+          "padding": {
+            "bottom": 12,
+            "left": 20,
+            "right": 20,
+            "top": 10
+          }
+        }
+      ],
+      "margin": 0,
+      "padding": {
+        "bottom": 12,
+        "left": 10,
+        "right": 10,
+        "top": 10
+      }
+    },
+    "bodyLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": 10
+    },
+    "bodyLayout2": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "padding": {
+        "bottom": 10,
+        "top": 10
+      }
+    },
+    "bodyNoMarginAboveLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 10,
+        "top": 0
+      }
+    },
+    "bodyNoMarginLayout": {
+      "columnSpan": 18,
+      "columnStart": 1
+    },
+    "bottomPhotoDividerLayout": {
+      "//": "UNUSED"
+    },
+    "calloutBodyLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 5
+      }
+    },
+    "calloutHeadingLayout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "calloutLayout": {
+      "columnSpan": 16,
+      "columnStart": 2,
+      "margin": 20,
+      "padding": {
+        "bottom": 10,
+        "left": 20,
+        "right": 20,
+        "top": 0
+      }
+    },
+    "captionAdLayout": {
+      "//": "UNUSED"
+    },
+    "captionLayout": {
+      "margin": 8
+    },
+    "coldOpenTitleLayout": {
+      "ignoreDocumentMargin": "both",
+      "ignoreViewportPadding": "both",
+      "margin": {
+        "bottom": 5,
+        "top": 0
+      }
+    },
+    "collectionLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "contentsHeaderLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 0,
+        "top": 10
+      }
+    },
+    "contentsLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": "5cw",
+        "top": 0
+      },
+      "padding": {
+        "bottom": "4cw",
+        "top": "2cw"
+      }
+    },
+    "dividerCollectionLayout": {
+      "//": "UNUSED"
+    },
+    "dividerLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 15
+      }
+    },
+    "dividerRRLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 0,
+        "top": 0
+      },
+      "minimumHeight": 1
+    },
+    "dividerStandardLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "minimumHeight": 1
+    },
+    "floatContainerLayout": {
+      "columnSpan": 4,
+      "columnStart": 1,
+      "conditional": [
+        {
+          "columnSpan": 4,
+          "columnStart": 0,
+          "conditions": [
+            {
+              "maxViewportWidth": 415
+            }
+          ]
+        }
+      ]
+    },
+    "fullBleedContainerLayout": {
+      "ignoreDocumentMargin": "both",
+      "ignoreViewportPadding": "both",
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "fullBleedDividerLayout": {
+      "//": "UNUSED"
+    },
+    "fullBleedLayout": {
+      "ignoreDocumentMargin": true
+    },
+    "fullBleedPhotoLayout": {
+      "ignoreDocumentMargin": "both",
+      "ignoreViewportPadding": "both"
+    },
+    "galleryPhotoLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "heading2Layout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "top": 20
+      }
+    },
+    "heading3Layout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading4Layout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading5Layout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading6Layout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heroFullBleedPhotoLayout": {
+      "ignoreDocumentMargin": "both",
+      "ignoreViewportPadding": "both"
+    },
+    "heroImageLayout": {
+      "ignoreDocumentMargin": "both",
+      "ignoreViewportPadding": "both",
+      "margin": {
+        "bottom": 5
+      }
+    },
+    "heroImageTallLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 5
+      }
+    },
+    "ingredientsLayout": {
+      "margin": {
+        "bottom": 5,
+        "top": 5
+      }
+    },
+    "introLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 10
+      }
+    },
+    "noMarginLayout": {
+      "columnSpan": 18,
+      "columnStart": 1
+    },
+    "productImageStandardLayout": {
+      "minimumHeight": 280
+    },
+    "pullQuoteLayout": {
+      "columnSpan": 16,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "questionBodyLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 0,
+        "left": 0,
+        "right": 0,
+        "top": "5cw"
+      }
+    },
+    "RRstraplineLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "padding": {
+        "left": 17
+      }
+    },
+    "sectionLayout": {
+      "margin": {
+        "bottom": 5,
+        "top": 5
+      }
+    },
+    "sidebarAuthorLayout": {
+      "margin": {
+        "bottom": 10
+      }
+    },
+    "sidebarBlockContainerLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "sidebarBodyLayout": {
+      "margin": 10
+    },
+    "sidebarBodyNoMarginAboveLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 0
+      }
+    },
+    "sidebarDividerLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 0
+      },
+      "minimumHeight": 1
+    },
+    "sidebarFloatContainerLayout": {
+      "columnSpan": 4,
+      "columnStart": 0
+    },
+    "sidebarHeading2Layout": {
+      "margin": {
+        "top": 20
+      }
+    },
+    "sidebarHeading3Layout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "sidebarHeading4Layout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "sidebarHeading5Layout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "sidebarIntroLayout": {
+      "margin": {
+        "bottom": 2,
+        "top": 2
+      }
+    },
+    "sidebarLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": 20,
+      "padding": {
+        "bottom": 10
+      }
+    },
+    "sidebarSingleBlockContainerLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "sidebarSmallMarginAboveLayout": {
+      "margin": {
+        "top": 2
+      }
+    },
+    "signatureImageLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "horizontalContentAlignment": "left",
+      "margin": 5,
+      "maximumContentWidth": 140
+    },
+    "singleBlockContainerLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "smallMarginAboveLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "top": 2
+      }
+    },
+    "spacerLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "straplineLayout": {
+      "columnSpan": 18,
+      "columnStart": 1
+    },
+    "titleLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 5,
+        "top": 30
+      }
+    },
+    "topPhotoDividerLayout": {
+      "//": "UNUSED"
+    }
+  },
+  "componentStyles": {
+    "attributeStyle": {
+      "//": "UNUSED"
+    },
+    "authorStyle": {
+      "//": "UNUSED"
+    },
+    "bodyContainerStyle": {
+      "//": "UNUSED"
+    },
+    "calloutStyle": {
+      "border": {
+        "all": {
+          "width": 1,
+          "color": "#000"
+        }
+      },
+      "backgroundColor": "#fff",
+      "conditional": [
+        {
+          "border": {
+            "all": {
+              "color": "red",
+              "width": 1
+            }
+          },
+          "backgroundColor": "#000",
+          "conditions": [
+            {
+              "preferredColorScheme": "dark",
+              "minSpecVersion": "1.14"
+            }
+          ]
+        }
+      ]
+    },
+    "captionAdStyle": {
+      "//": "UNUSED"
+    },
+    "dividerSectionHeadStyle": {
+      "border": {
+        "all": {
+          "color": "#ececec",
+          "width": 1
+        },
+        "bottom": true,
+        "left": false,
+        "right": false,
+        "top": true
+      },
+      "conditional": [
+        {
+          "border": {
+            "all": {
+              "color": "#666666",
+              "width": 1
+            },
+            "bottom": true,
+            "left": false,
+            "right": false,
+            "top": true
+          },
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "dividerStandardStyle": {
+      "backgroundColor": "#000"
+    },
+    "fullBleedContainerStyle": {
+      "//": "UNUSED"
+    },
+    "heading2Style": {
+      "//": "UNUSED"
+    },
+    "heading3Style": {
+      "//": "UNUSED"
+    },
+    "heading4Style": {
+      "//": "UNUSED"
+    },
+    "heading5Style": {
+      "//": "UNUSED"
+    },
+    "heading6Style": {
+      "//": "UNUSED"
+    },
+    "ingredientsStyle": {
+      "tableStyle": {
+        "cells": {
+          "height": 22,
+          "conditional": [
+            {
+              "horizontalAlignment": "right",
+              "padding": {
+                "right": 5
+              },
+              "selectors": [
+                {
+                  "columnIndex": 0
+                }
+              ],
+              "width": 10
+            },
+            {
+              "horizontalAlignment": "left",
+              "padding": {
+                "left": 5
+              },
+              "selectors": [
+                {
+                  "columnIndex": 1
+                }
+              ],
+              "width": 75
+            }
+          ],
+          "textStyle": "ingredientsTextStyle",
+          "verticalAlignment": "top"
+        },
+        "columns": {
+          "conditional": [
+            {
+              "selectors": [
+                {
+                  "columnIndex": 0
+                }
+              ],
+              "width": 10
+            },
+            {
+              "selectors": [
+                {
+                  "columnIndex": 1
+                }
+              ],
+              "width": 45
+            }
+          ]
+        }
+      }
+    },
+    "introStyle": {
+      "//": "UNUSED"
+    },
+    "paragraphDropCapStyle": {
+      "//": "UNUSED"
+    },
+    "paragraphStyle": {
+      "//": "UNUSED"
+    },
+    "photoContainerStyle": {
+      "//": "UNUSED"
+    },
+    "pullQuoteStyle": {
+      "border": {
+        "all": {
+          "width": 1,
+          "color": "#111"
+        },
+        "bottom": true,
+        "left": false,
+        "right": false,
+        "top": true
+      }
+    },
+    "sectionStyle": {
+      "//": "UNUSED"
+    },
+    "sidebarStyle": {
+      "backgroundColor": "#f2f2f2",
+      "conditional": [
+        {
+          "backgroundColor": "#8a8a8a",
+          "conditions": [
+            {
+              "preferredColorScheme": "dark",
+              "minSpecVersion": "1.14"
+            }
+          ]
+        }
+      ]
+    },
+    "straplineStyle": {
+      "//": "UNUSED"
+    },
+    "titleStyle": {
+      "//": "UNUSED"
+    },
+    "darkModeBackgroundStyle": {
+      "conditional": [
+        {
+          "backgroundColor": "#FFF",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "sidebarNoBackgroundStyle": {
+      "border": {
+        "all": {
+          "width": 1,
+          "color": "#000"
+        },
+        "bottom": false,
+        "left": true,
+        "right": false,
+        "top": false
+      }
+    },
+    "cornersStyle": {
+      "mask": {
+        "radius": 10,
+        "type": "corners"
+      }
+    }
+  },
+  "textStyles": {
+    "creditTextStyle": {
+      "fontName": "BentonSans-Book",
+      "fontSize": 10,
+      "textColor": "#8d8d8d",
+      "tracking": 0.05
+    },
+    "default-tag-black": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "textColor": "#000"
+        }
+      ],
+      "textColor": "#000"
+    },
+    "default-tag-blue": {
+      "textColor": "#2BADEF"
+    },
+    "default-tag-body-author": {
+      "fontName": "CaslonDoricApp-Regular",
+      "fontSize": 14
+    },
+    "default-tag-caption-heading": {
+      "fontSize": 15,
+      "fontName": "LibreFranklin-Bold",
+      "textTransform": "uppercase"
+    },
+    "default-tag-caption-italic": {
+      "fontName": "CaslonDoricApp-RegularItalic"
+    },
+    "default-tag-coldopen-strapline": {
+      "fontName": "CaslonDoricApp-Medium",
+      "fontSize": 12,
+      "textAlignment": "center",
+      "tracking": 0.15
+    },
+    "default-tag-coldopensmall": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 415
+            }
+          ],
+          "fontSize": 25
+        }
+      ],
+      "fontName": "OriginalSansApp-Three",
+      "fontSize": 16,
+      "textTransform": "uppercase",
+      "tracking": 0.15
+    },
+    "default-tag-color": {
+      "textColor": "#F15A21"
+    },
+    "default-tag-emoji": {
+      "fontName": "AppleColorEmoji"
+    },
+    "default-tag-highlight": {
+      "backgroundColor": "#FEF203"
+    },
+    "default-tag-introitalic": {
+      "fontName": "CaslonDoricApp-RegularNo2Italic"
+    },
+    "default-tag-lede": {
+      "fontName": "LibreFranklin-Bold",
+      "textTransform": "uppercase",
+      "tracking": 0.04,
+      "fontSize": 15
+    },
+    "default-tag-lede-alt": {
+      "fontName": "CaslonDoricApp-Bold",
+      "fontSize": 16,
+      "textColor": "#F15921",
+      "tracking": 0.05
+    },
+    "default-tag-original-bold": {
+      "fontName": "OriginalSansApp-Four"
+    },
+    "default-tag-original-bolditalic": {
+      "fontName": "OriginalSansApp-FourItalic",
+      "tracking": 0.02
+    },
+    "default-tag-original-semibold": {
+      "fontName": "OriginalSansApp-Three"
+    },
+    "default-tag-original-semibolditalic": {
+      "fontName": "OriginalSansApp-ThreeItalic"
+    },
+    "default-tag-pink": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "textColor": "#de9be0"
+        }
+      ],
+      "textColor": "#de9be0"
+    },
+    "default-tag-red": {
+      "textColor": "#EE3124"
+    },
+    "default-tag-semibold-italic": {
+      "fontName": "CaslonDoricApp-SemiboldItalic"
+    },
+    "default-tag-sidebar-lede": {
+      "fontName": "LibreFranklin-Bold"
+    },
+    "default-tag-sidebarintro-regular": {
+      "fontName": "CaslonDoricApp-Semibold"
+    },
+    "default-tag-white": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "textColor": "#fff"
+        }
+      ],
+      "textColor": "#fff"
+    },
+    "endMarkerTextStyle": {
+      "//": "UNUSED"
+    },
+    "subSectionTextStyle": {
+      "//": "UNUSED"
+    },
+    "default-tag-pullquote-attribution": {
+      "fontName": "LibreFranklin-Medium",
+      "fontSize": 13,
+      "textTransform": "uppercase"
+    },
+    "default-tag-body-quote": {
+      "fontName": "LibreFranklin-SemiBold"
+    }
+  },
+  "componentTextStyles": {
+    "//": {
+      "//": "===================== FOOD AND WINE OVERRIDES ====================="
+    },
+    "attributeTextStyle": {
+      "fontName": "BentonSans-Book",
+      "fontSize": 10,
+      "lineHeight": 12,
+      "tracking": 0.05,
+      "textTransform": "uppercase"
+    },
+    "authorTextStyle": {
+      "fontName": "Acta-Book"
+    },
+    "bodyCenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "bodyDropCapTextStyle": {
+      "fontName": "Acta-Book",
+      "dropCapStyle": {
+        "fontName": "Xreles-Headline",
+        "numberOfLines": 4,
+        "numberOfRaisedLines": 0,
+        "numberOfCharacters": 1
+      }
+    },
+    "bodyTextStyle": {
+      "fontName": "Acta-Book"
+    },
+    "calloutBodyTextStyle": {
+      "fontName": "LibreFranklin-Regular",
+      "fontSize": 16,
+      "lineHeight": 20,
+      "textAlignment": "center"
+    },
+    "calloutHeadingTextStyle": {
+      "fontName": "LibreFranklin-Bold",
+      "fontSize": 18,
+      "lineHeight": 20,
+      "textAlignment": "center",
+      "textTransform": "uppercase"
+    },
+    "captionAdTextStyle": {
+      "//": "UNUSED"
+    },
+    "captionCenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "captionEmbeddedTextStyle": {
+      "fontName": "HelveticaNeue",
+      "lineHeight": 16
+    },
+    "captionTextStyle": {
+      "fontName": "BentonSans-Regular"
+    },
+    "coldOpenStraplineTextStyle": {
+      "fontName": "CaslonDoricApp-Medium",
+      "fontSize": 13,
+      "textAlignment": "center",
+      "tracking": 0
+    },
+    "coldOpenTitleTextStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 430
+            }
+          ],
+          "fontSize": 100,
+          "lineHeight": 26
+        }
+      ],
+      "fontName": "OriginalSansApp-Four",
+      "fontSize": 80,
+      "lineHeight": 22,
+      "textAlignment": "center",
+      "tracking": 0.1
+    },
+    "contentsTextStyle": {
+      "fontName": "AvenirNextCondensed-Bold",
+      "fontSize": 16,
+      "lineHeight": 20,
+      "textAlignment": "center"
+    },
+    "contentTextStyles": {
+      "fontName": "CaslonDoricApp-Regular",
+      "fontSize": 12,
+      "lineHeight": 20,
+      "linkStyle": {
+        "underline": {
+          "color": "#F15921"
+        }
+      },
+      "textAlignment": "center",
+      "tracking": 0.1
+    },
+    "default": {
+      "fontName": "BentonSans-Black",
+      "textColor": "#000",
+      "linkStyle": {
+        "textColor": "#366a9b"
+      },
+      "hyphenation": false
+    },
+    "default-author": {
+      "fontSize": 14,
+      "lineHeight": 17
+    },
+    "default-body": {
+      "fontSize": 18,
+      "lineHeight": 24,
+      "paragraphSpacingBefore": 12,
+      "paragraphSpacingAfter": 12
+    },
+    "default-byline": {
+      "//": "UNUSED"
+    },
+    "default-caption": {
+      "fontSize": 14,
+      "lineHeight": 17
+    },
+    "default-heading": {
+      "fontSize": 16,
+      "lineHeight": 16
+    },
+    "default-heading2": {
+      "fontSize": 40,
+      "lineHeight": 42
+    },
+    "default-heading3": {
+      "fontSize": 20,
+      "lineHeight": 22
+    },
+    "default-heading4": {
+      "fontSize": 18,
+      "lineHeight": 20
+    },
+    "default-heading5": {
+      "fontSize": 18,
+      "lineHeight": 20
+    },
+    "default-heading6": {
+      "fontSize": 14,
+      "lineHeight": 16
+    },
+    "default-intro": {
+      "fontSize": 18,
+      "lineHeight": 22
+    },
+    "default-photographer": {
+      "//": "UNUSED"
+    },
+    "default-pullquote": {
+      "fontSize": 32,
+      "lineHeight": 40,
+      "textAlignment": "center"
+    },
+    "default-title": {
+      "fontSize": 56,
+      "lineHeight": 58
+    },
+    "floatImageCaptionTextStyle": {
+      "fontName": "BentonSans-Regular"
+    },
+    "heading2CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading2TextStyle": {
+      "fontName": "Acta-Bold"
+    },
+    "heading3CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading3TextStyle": {
+      "//": "UNUSED"
+    },
+    "heading4CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading4TextStyle": {
+      "fontName": "LibreFranklin-Bold",
+      "textTransform": "uppercase",
+      "tracking": 0.02,
+      "textColor": "#e71f3d"
+    },
+    "heading5CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading5TextStyle": {
+      "//": "UNUSED"
+    },
+    "heading6CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading6TextStyle": {
+      "textTransform": "uppercase"
+    },
+    "ingredientsTextStyle": {
+      "fontName": "LibreFranklin-SemiBold",
+      "fontSize": 15,
+      "lineHeight": 19
+    },
+    "introTextStyle": {
+      "fontName": "Acta-Book"
+    },
+    "mediaBodyTextStyle": {
+      "fontName": "CaslonDoricApp-Regular",
+      "fontSize": 17
+    },
+    "pullQuoteAttributionTextStyle": {
+      "fontName": "CaslonDoricApp-Bold",
+      "fontSize": 14,
+      "lineHeight": 16,
+      "textAlignment": "center",
+      "tracking": 0.05
+    },
+    "pullQuoteTextStyle": {
+      "fontName": "ActaDeck-Light"
+    },
+    "questionTextStyle": {
+      "fontName": "CaslonDoricApp-Bold"
+    },
+    "RRTextStyle": {
+      "fontName": "CaslonDoricApp-Regular",
+      "fontSize": 14,
+      "lineHeight": 14,
+      "tracking": 0.05
+    },
+    "sectionTextStyle": {
+      "fontName": "Xreles-Headline",
+      "tracking": 0.05,
+      "textTransform": "uppercase",
+      "fontSize": 19,
+      "lineHeight": 21
+    },
+    "sidebarAuthorCenteredTextStyle": {
+      "fontName": "CaslonDoricApp-SemiboldItalic",
+      "fontSize": 17,
+      "lineHeight": 21,
+      "textAlignment": "center",
+      "tracking": 0.04
+    },
+    "sidebarAuthorTextStyle": {
+      "fontName": "CaslonDoricApp-SemiboldItalic",
+      "fontSize": 17,
+      "lineHeight": 21,
+      "tracking": 0.04
+    },
+    "sidebarBodyCenteredTextStyle": {
+      "fontName": "CaslonDoricApp-MediumItalic",
+      "lineHeight": 22,
+      "textAlignment": "center"
+    },
+    "sidebarBodyTextStyle": {
+      "fontName": "LibreFranklin-Regular",
+      "fontSize": 16,
+      "lineHeight": 20
+    },
+    "sidebarHeading2CenteredTextStyle": {
+      "fontName": "CaslonDoricApp-Bold",
+      "fontSize": 42,
+      "lineHeight": 44,
+      "textAlignment": "center"
+    },
+    "sidebarHeading2TextStyle": {
+      "fontName": "Acta-Bold"
+    },
+    "sidebarHeading3CenteredTextStyle": {
+      "fontName": "CaslonDoricApp-Semibold",
+      "fontSize": 20,
+      "lineHeight": 22,
+      "textAlignment": "center"
+    },
+    "sidebarHeading3TextStyle": {
+      "fontName": "LibreFranklin-Bold",
+      "textTransform": "uppercase",
+      "fontSize": 17,
+      "lineHeight": 19
+    },
+    "sidebarHeading4TextStyle": {
+      "fontName": "BentonSansCond-Bold",
+      "textTransform": "uppercase",
+      "tracking": 0.02,
+      "fontSize": 16,
+      "lineHeight": 18
+    },
+    "sidebarHeading5TextStyle": {
+      "fontName": "BentonSansCond-Bold",
+      "textTransform": "uppercase",
+      "tracking": 0.02,
+      "fontSize": 14,
+      "lineHeight": 16
+    },
+    "sidebarIntroCenteredTextStyle": {
+      "fontName": "CaslonDoricApp-Regular",
+      "fontSize": 17,
+      "lineHeight": 21,
+      "textAlignment": "center",
+      "tracking": 0.02
+    },
+    "sidebarIntroTextStyle": {
+      "fontName": "LibreFranklin-Regular",
+      "fontSize": 16,
+      "lineHeight": 20
+    },
+    "slugTextStyle": {
+      "fontName": "CaslonDoricApp-Semibold",
+      "fontSize": 16,
+      "lineHeight": 18,
+      "textColor": "#EE3124"
+    },
+    "straplineTextStyle": {
+      "fontName": "BentonSans-Book",
+      "textTransform": "uppercase",
+      "fontSize": 13,
+      "tracking": 0.07,
+      "underline": {
+        "color": "#e71f3d"
+      }
+    },
+    "titleTextStyle": {
+      "fontName": "ActaDeck-Bold"
+    },
+    "tocTextStyle": {
+      "fontName": "AvenirNextCondensed-Medium",
+      "fontSize": 16,
+      "linkStyle": {
+        "underline": true
+      },
+      "textAlignment": "center",
+      "textColor": "#000"
+    },
+    "recipeDetailsTextStyle": {
+      "fontName": "BentonSans-Book",
+      "textTransform": "uppercase",
+      "fontSize": 14,
+      "lineHeight": 16
+    },
+    "recipeTitleTextStyle": {
+      "fontSize": 34,
+      "lineHeight": 36
+    },
+    "recipeBodyTextStyle": {
+      "fontName": "LibreFranklin-Regular",
+      "fontSize": 16,
+      "lineHeight": 20
+    },
+    "recipeNutritionInfoTextStyle": {
+      "fontName": "BentonSans-Regular",
+      "fontSize": 14,
+      "lineHeight": 16
+    },
+    "buyingDetailsTextStyle": {
+      "fontName": "LibreFranklin-Regular",
+      "fontSize": 14,
+      "lineHeight": 16
+    }
+  }
+}

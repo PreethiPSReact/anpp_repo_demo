@@ -1,0 +1,1595 @@
+{
+  "version": "1.9",
+  "identifier": "alr_article_899-131-64-1",
+  "title": "PANTRY POWER",
+  "language": "en",
+  "layout": {
+    "columns": 20,
+    "gutter": 20,
+    "margin": 40,
+    "width": 1024
+  },
+  "subtitle": "<p><b><custom name=\"underline\">You can transform ingredients you probably already have in your pantry&mdash;beans, salsa, and olive oil&mdash;with just five ingredients or less.</custom></b></p>",
+  "metadata": {
+    "dateCreated": "2022-06-21T16:54:29.184Z",
+    "dateModified": "2022-06-21T16:20:36+00:00",
+    "excerpt": "Toss together rinsed and drained canned pinto beans with fresh pico de gallo. Spoon into avocado halves, then sprinkle with crumbled queso fresco.",
+    "generatorName": "ANTE Generic Template",
+    "generatorVersion": "0.0.4.33-2022-06-09 18:32",
+    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p064-065-alt102382-beans-hero/199541-1-eng-GB/p064-065-alt102382-beans-hero.jpg?q=100"
+  },
+  "documentStyle": {
+    "backgroundColor": "#eee"
+  },
+  "components": [
+    {
+      "role": "container",
+      "layout": {
+        "conditional": [
+          {
+            "conditions": [
+              {
+                "platform": "ios"
+              }
+            ],
+            "ignoreViewportPadding": true
+          },
+          {
+            "conditions": [
+              {
+                "maxViewportWidth": 1366,
+                "minViewportWidth": 1112
+              }
+            ],
+            "ignoreDocumentMargin": "none",
+            "ignoreViewportPadding": "none"
+          }
+        ],
+        "ignoreDocumentMargin": true
+      },
+      "style": {
+        "backgroundColor": "#fff"
+      },
+      "components": [
+        {
+          "//": "==== DEFAULT HEADER: SECTION ===",
+          "role": "heading",
+          "layout": "sectionLayout",
+          "textStyle": "sectionTextStyle",
+          "format": "html",
+          "text": "5-INGREDIENT RECIPES"
+        },
+        {
+          "role": "container",
+          "layout": "dividerLayout",
+          "style": "dividerSectionHeadStyle"
+        },
+        {
+          "//": "==== DEFAULT HEADER: TITLE ===",
+          "role": "title",
+          "layout": "titleLayout",
+          "textStyle": "titleTextStyle",
+          "format": "html",
+          "text": "PANTRY POWER"
+        },
+        {
+          "//": "==== DEFAULT HEADER: INTRO ===",
+          "role": "intro",
+          "layout": "introLayout",
+          "textStyle": "introTextStyle",
+          "format": "html",
+          "text": "You can transform ingredients you probably already have in your pantry&mdash;beans, salsa, and olive oil&mdash;with just five ingredients or less."
+        },
+        {
+          "//": "======== HERO IMAGE CONTAINER =======",
+          "role": "container",
+          "layout": "heroImageLayout",
+          "components": [
+            {
+              "//": "======== HERO IMAGE - H1058.0/W1366.0 * 100 = 77.4524158 ========",
+              "role": "photo",
+              "layout": "fullBleedPhotoLayout",
+              "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p064-065-alt102382-beans-hero/199541-1-eng-GB/p064-065-alt102382-beans-hero.jpg?q=100"
+            }
+          ]
+        },
+        {
+          "//": "======== BODY CONTAINER =======",
+          "role": "container",
+          "layout": "bodyContainerLayout",
+          "components": [
+            {
+              "role": "heading2",
+              "layout": "heading2Layout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Beans</i>"
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1515.0/W1366.0 * 100 = 110.9077599 ========",
+                  "role": "photo",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p064-alt102382-stuffed-avocados/199555-1-eng-GB/p064-alt102382-stuffed-avocados.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading3",
+              "layout": "heading3Layout",
+              "textStyle": "heading3TextStyle",
+              "format": "html",
+              "text": "1. Stuffed Avocados"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "Toss together rinsed and drained <bold>canned pinto beans</bold> with <bold>fresh pico de gallo</bold>. Spoon into <bold>avocado halves</bold>, then sprinkle with crumbled <bold>queso fresco</bold>."
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1515.0/W1366.0 * 100 = 110.9077599 ========",
+                  "role": "photo",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p065-alt102382-punched-up-pesto/199569-1-eng-GB/p065-alt102382-punched-up-pesto.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading3",
+              "layout": "heading3Layout",
+              "textStyle": "heading3TextStyle",
+              "format": "html",
+              "text": "2. Punched-Up Pesto"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "Canned beans bring a creamy mouthfeel and nutty flavor to pesto. Just swap out all or some of the <bold>nuts</bold> in any pesto recipe with an equal amount of <bold>canned beans</bold>."
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1515.0/W1366.0 * 100 = 110.9077599 ========",
+                  "role": "photo",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p064-alt102382-crispy-air-fryer-bean-snacks/199534-1-eng-GB/p064-alt102382-crispy-air-fryer-bean-snacks.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading3",
+              "layout": "heading3Layout",
+              "textStyle": "heading3TextStyle",
+              "format": "html",
+              "text": "3. Crispy Air Fryer Bean Snacks"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "Rinse and drain one 15-oz. can <bold>black</bold> or <bold>kidney beans</bold>. Pat dry with paper towels. Drizzle with 1 Tbsp. <bold>olive oil</bold>, then sprinkle with ½ tsp. <bold>chili powder</bold> or other seasoning—such as <bold>Italian</bold>, <bold>Cajun</bold>, <bold>Montreal steak</bold>, or <bold>Jamaican jerk</bold>. (If the seasoning has no salt, add ¼ tsp. <bold>salt</bold>.) Spread beans in a single layer in the basket of an air fryer preheated to 370°F. Cook until crispy, about 15 minutes."
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1515.0/W1366.0 * 100 = 110.9077599 ========",
+                  "role": "photo",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p065-alt102382-vegan-tuna-salad/199548-1-eng-GB/p065-alt102382-vegan-tuna-salad.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading3",
+              "layout": "heading3Layout",
+              "textStyle": "heading3TextStyle",
+              "format": "html",
+              "text": "4. Vegan “Tuna” Salad"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "Coarsely mash together a 15-oz. can rinsed and drained <bold>chickpeas</bold> and ¼ cup <bold>vegan mayonnaise</bold>. Stir in a finely shredded <bold>carrot</bold>, a stalk of finely chopped <bold>celery</bold>, 2 Tbsp. minced <bold>red onion</bold>, and ½ tsp. <bold>salt</bold>. Chill at least 15 minutes to let flavors develop. If desired, serve on <bold>toasted bread</bold> and sprinkle with <bold>black pepper</bold>."
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H931.0/W1366.0 * 100 = 68.1551977 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p066-067-alt102382-olive-oil-hero/199562-1-eng-GB/p066-067-alt102382-olive-oil-hero.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "heading2Layout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Olive Oil</i>"
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1515.0/W1366.0 * 100 = 110.9077599 ========",
+                  "role": "photo",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p066-alt102382-divine-dressing/199576-1-eng-GB/p066-alt102382-divine-dressing.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading3",
+              "layout": "heading3Layout",
+              "textStyle": "heading3TextStyle",
+              "format": "html",
+              "text": "1. Divine Dressing"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "In a screw-top jar, shake together equal amounts of <bold>olive oil</bold> and <bold>vinegar</bold> (balsamic, or red or white wine), a little <bold>mustard</bold>, and a pinch of <bold>salt</bold> and <bold>black pepper</bold>. If you’d like, add minced fresh <bold>garlic</bold> and/or <bold>shallot</bold>, chopped <bold>fresh herbs</bold>, or a bit of <bold>honey</bold>."
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1515.0/W1366.0 * 100 = 110.9077599 ========",
+                  "role": "photo",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p066-alt102382-naked-pasta/199583-1-eng-GB/p066-alt102382-naked-pasta.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading3",
+              "layout": "heading3Layout",
+              "textStyle": "heading3TextStyle",
+              "format": "html",
+              "text": "2. “Naked” Pasta"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "Cook and drain <bold>pasta</bold>, reserving some cooking water. Drizzle pasta with <bold>olive oil</bold>, grated <bold>Parmesan cheese</bold>, and <bold>black pepper</bold>. If needed, add a little of the reserved pasta water to get a slightly saucy consistency. Add shredded <bold>basil leaves</bold> and toss to coat."
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1515.0/W1366.0 * 100 = 110.9077599 ========",
+                  "role": "photo",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p067-alt102382-olive-oil-sundaes/199604-1-eng-GB/p067-alt102382-olive-oil-sundaes.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading3",
+              "layout": "heading3Layout",
+              "textStyle": "heading3TextStyle",
+              "format": "html",
+              "text": "3. Olive Oil Sundaes"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "It may sound odd, but olive oil makes ice cream extra creamy. Drizzle <bold>extra-virgin olive oil</bold> over <bold>vanilla</bold> or <bold>strawberry ice cream</bold>, then add a pinch of <bold>kosher salt</bold>."
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1515.0/W1366.0 * 100 = 110.9077599 ========",
+                  "role": "photo",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p067-alt102382-homemade-pesto/199590-1-eng-GB/p067-alt102382-homemade-pesto.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading3",
+              "layout": "heading3Layout",
+              "textStyle": "heading3TextStyle",
+              "format": "html",
+              "text": "4. Keep It Longer"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "Before refrigerating a jar of <bold>homemade pesto</bold>, add a thin layer of <bold>extra-virgin olive oil</bold> on top of the sauce. The oil will help the pesto keep its green color."
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1515.0/W1366.0 * 100 = 110.9077599 ========",
+                  "role": "photo",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p067-alt102382-zippy-dip/199597-1-eng-GB/p067-alt102382-zippy-dip.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading3",
+              "layout": "heading3Layout",
+              "textStyle": "heading3TextStyle",
+              "format": "html",
+              "text": "5. Zippy Dip"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "Stir together equal amounts of olive <bold>oil</bold>, <bold>balsamic vinegar</bold>, a pinch of <bold>crushed red pepper</bold>, and a sprinkle of grated <bold>Parmesan</bold>. Then dip away with <bold>bread</bold> or <bold>crackers</bold>."
+            },
+            {
+              "//": "====== CALLOUT ======",
+              "role": "container",
+              "layout": "calloutLayout",
+              "style": "calloutStyle",
+              "components": [
+                {
+                  "role": "heading",
+                  "layout": "calloutHeadingLayout",
+                  "textStyle": "calloutHeadingTextStyle",
+                  "format": "html",
+                  "text": "More Olive Oil Ideas"
+                },
+                {
+                  "role": "body",
+                  "layout": "calloutBodyLayout",
+                  "textStyle": "calloutBodyTextStyle",
+                  "format": "html",
+                  "text": "Tap <a datastyle href=\"http://tqr.bz/odw\">here</a> to see more recipes, how-to videos, and local grocery specials!"
+                }
+              ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H906.0/W1366.0 * 100 = 66.3250366 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p068-069-alt102382-salsa-hero/199611-1-eng-GB/p068-069-alt102382-salsa-hero.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "heading2Layout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Salsa</i>"
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1515.0/W1366.0 * 100 = 110.9077599 ========",
+                  "role": "photo",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p068-alt102382-simple-shakshuka/199618-1-eng-GB/p068-alt102382-simple-shakshuka.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading3",
+              "layout": "heading3Layout",
+              "textStyle": "heading3TextStyle",
+              "format": "html",
+              "text": "1. Simple Shakshuka"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "Bring a 16-oz. jar <bold>salsa</bold> to a simmer in a large skillet. Make 4 indentations with a measuring cup and crack an <bold>egg</bold> into each. Sprinkle with <bold>salt</bold> and <bold>black pepper</bold>. Reduce heat; cook, covered, until whites are set, about 3 minutes. Top with <bold>crumbled feta</bold> and chopped fresh <bold>parsley</bold>. <i>Serves 4.</i>"
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1515.0/W1366.0 * 100 = 110.9077599 ========",
+                  "role": "photo",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p068-alt102382-speedy-chili-mac/199625-1-eng-GB/p068-alt102382-speedy-chili-mac.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading3",
+              "layout": "heading3Layout",
+              "textStyle": "heading3TextStyle",
+              "format": "html",
+              "text": "2. Speedy Chili Mac"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "Brown 1 lb. <bold>ground beef</bold> in a large skillet; drain. Add a 15-oz. can drained and rinsed <bold>kidney beans</bold> and a 16-oz. jar <bold>salsa</bold>. Bring to a boil; reduce heat and simmer 5 minutes. Stir in 1 cup cooked <bold>macaroni</bold> and 1 cup shredded <bold>cheddar cheese</bold>. Cook until heated through, about 5 minutes. If desired, sprinkle with sliced <bold>green onion</bold>. <i>Serves 4.</i>"
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1515.0/W1366.0 * 100 = 110.9077599 ========",
+                  "role": "photo",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p069-alt102382-kicky-stuffed-chicken/199632-1-eng-GB/p069-alt102382-kicky-stuffed-chicken.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading3",
+              "layout": "heading3Layout",
+              "textStyle": "heading3TextStyle",
+              "format": "html",
+              "text": "3. Kicky Stuffed Chicken"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "Preheat oven to 425°F. Put a <bold>boneless, skinless chicken breast</bold>, smooth side up, on a work surface. Holding it down with your palm, slice horizontally, stopping three-fourths of the way. Open chicken breast like a book; spread <bold>salsa</bold> on 1 half, then close second half over top. Coat with cooking spray; sprinkle with <bold>salt</bold> and <bold>black pepper</bold>. Bake on a baking sheet about 30 minutes, until an instant-read thermometer inserted into chicken registers 165°F. Top with additional salsa, <bold>Cotija cheese</bold>, and chopped fresh <bold>cilantro</bold>. <i>Serves 1.</i>"
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1515.0/W1366.0 * 100 = 110.9077599 ========",
+                  "role": "photo",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p069-alt102382-super-salsa-sliders/199639-1-eng-GB/p069-alt102382-super-salsa-sliders.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading3",
+              "layout": "heading3Layout",
+              "textStyle": "heading3TextStyle",
+              "format": "html",
+              "text": "4. Super Salsa Sliders"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "Using your hands, combine 1½ lb. <bold>ground beef</bold>, ½ cup <bold>salsa</bold>, and ¼ cup <bold>bread crumbs</bold> in a bowl. Shape into 12 patties; cook in a skillet over medium-high heat about 10 minutes, or until an instant-read thermometer inserted into centers registers 160°F. Serve in <bold>slider buns</bold> with additional salsa. <i>Serves 12.</i>"
+            }
+          ]
+        },
+        {
+          "role": "container",
+          "layout": "bodyContainerLayout",
+          "conditional": [
+            {
+              "conditions": [
+                {
+                  "viewLocation": "article"
+                }
+              ],
+              "hidden": false
+            }
+          ],
+          "hidden": true,
+          "components": [
+            {
+              "role": "container",
+              "layout": "dividerLayout",
+              "style": "dividerSectionHeadStyle"
+            },
+            {
+              "//": "=== VISIT TOC LINK, ONLY VISIBLE IF USER IS IN ARTICLE VIEW ===",
+              "role": "body",
+              "layout": "bodyLayout",
+              "textStyle": "tocTextStyle",
+              "format": "html",
+              "text": "<a href='https://apple.news/AeWTaQfGQEeyRKiYivkxSbA'>Tap here</a> to see more from this issue of <i>Allrecipes</i>"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "componentLayouts": {
+    "attributeLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 15
+    },
+    "authorLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 5
+      }
+    },
+    "blockContainerLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "bodyContainerLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": 10
+    },
+    "bodyLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 2
+      }
+    },
+    "bottomPhotoDividerLayout": {
+      "//": "UNUSED"
+    },
+    "calloutBodyLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 5
+      }
+    },
+    "calloutHeadingLayout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "calloutLayout": {
+      "columnSpan": 16,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "padding": {
+        "bottom": 10,
+        "left": 20,
+        "right": 20,
+        "top": 10
+      }
+    },
+    "captionAdLayout": {
+      "//": "UNUSED"
+    },
+    "captionLayout": {
+      "margin": 8
+    },
+    "collectionLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "darkModePaddingLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "padding": 10
+        }
+      ]
+    },
+    "dividerCollectionLayout": {
+      "//": "UNUSED"
+    },
+    "dividerLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 20,
+        "top": 10
+      }
+    },
+    "dividerStandardLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "minimumHeight": 1
+    },
+    "dividerTocLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 15,
+        "top": 20
+      },
+      "minimumHeight": 10
+    },
+    "floatContainerLayout": {
+      "columnSpan": 4,
+      "columnStart": 1,
+      "conditional": [
+        {
+          "columnSpan": 4,
+          "columnStart": 0,
+          "conditions": [
+            {
+              "maxViewportWidth": 415
+            }
+          ]
+        }
+      ]
+    },
+    "fullBleedContainerLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "fullBleedDividerLayout": {
+      "//": "UNUSED"
+    },
+    "fullBleedLayout": {
+      "ignoreDocumentMargin": true
+    },
+    "fullBleedPhotoLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 700
+            }
+          ],
+          "ignoreDocumentMargin": false
+        }
+      ],
+      "ignoreDocumentMargin": true
+    },
+    "galleryPhotoLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "heading2Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading3Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading4Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading5Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading6Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heroImageLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 15
+      }
+    },
+    "heroImageTallLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 15
+      }
+    },
+    "ingredientsLayout": {
+      "margin": 10
+    },
+    "introLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10
+      }
+    },
+    "noMarginLayout": {
+      "columnSpan": 18,
+      "columnStart": 1
+    },
+    "productImageStandardLayout": {
+      "minimumHeight": 280
+    },
+    "pullQuoteLayout": {
+      "columnSpan": 16,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 25,
+        "top": 15
+      }
+    },
+    "reviewLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "padding": {
+        "left": 85,
+        "top": 2
+      }
+    },
+    "sectionLayout": {
+      "margin": {
+        "top": 5
+      }
+    },
+    "sidebarBodyLayout": {
+      "margin": {
+        "bottom": 10
+      }
+    },
+    "sidebarDividerLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "minimumHeight": 1
+    },
+    "sidebarFloatContainerLayout": {
+      "columnSpan": 4,
+      "columnStart": 0
+    },
+    "sidebarHeading2Layout": {
+      "margin": {
+        "top": 20
+      }
+    },
+    "sidebarHeading3Layout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "sidebarHeading4Layout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "sidebarIntroLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 5
+      }
+    },
+    "sidebarLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 20,
+      "padding": {
+        "bottom": 10,
+        "left": 20,
+        "right": 20
+      }
+    },
+    "sidebarSingleBlockContainerLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "sidebarSmallMarginAboveLayout": {
+      "margin": {
+        "top": 2
+      }
+    },
+    "singleBlockContainerLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "smallMarginAboveLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 2
+      }
+    },
+    "smallSpacerLayout": {
+      "maximumWidth": 5,
+      "minimumWidth": 5
+    },
+    "spacerLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "starsImageLayout": {
+      "margin": {
+        "top": 2
+      },
+      "maximumWidth": 100
+    },
+    "straplineLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "titleLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 5
+      }
+    },
+    "topPhotoDividerLayout": {
+      "//": "UNUSED"
+    },
+    "youSaidContainerLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 500
+            }
+          ],
+          "padding": {
+            "left": "20cw",
+            "right": "20cw"
+          }
+        }
+      ],
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "youSaidImageLayout": {
+      "horizontalContentAlignment": "center",
+      "margin": {
+        "bottom": 10
+      },
+      "maximumContentWidth": 110
+    }
+  },
+  "componentStyles": {
+    "attributeStyle": {
+      "//": "UNUSED"
+    },
+    "authorStyle": {
+      "//": "UNUSED"
+    },
+    "bodyContainerStyle": {
+      "//": "UNUSED"
+    },
+    "calloutStyle": {
+      "border": {
+        "all": {
+          "color": "#FF7E19",
+          "width": 4
+        }
+      }
+    },
+    "calloutStyle2": {
+      "border": {
+        "all": {
+          "color": "#feaa26",
+          "width": 4
+        }
+      }
+    },
+    "captionAdStyle": {
+      "//": "UNUSED"
+    },
+    "darkModeBackgroundStyle": {
+      "conditional": [
+        {
+          "backgroundColor": "#FFF",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "dividerSectionHeadStyle": {
+      "border": {
+        "all": {
+          "color": "#ececec",
+          "width": 1
+        },
+        "bottom": true,
+        "left": false,
+        "right": false,
+        "top": true
+      },
+      "conditional": [
+        {
+          "border": {
+            "all": {
+              "color": "#666666",
+              "width": 1
+            },
+            "bottom": true,
+            "left": false,
+            "right": false,
+            "top": true
+          },
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "dividerStandardStyle": {
+      "backgroundColor": "#000"
+    },
+    "dividerTocStyle": {
+      "//": "UNUSED"
+    },
+    "fullBleedContainerStyle": {
+      "//": "UNUSED"
+    },
+    "heading2Style": {
+      "//": "UNUSED"
+    },
+    "heading3Style": {
+      "//": "UNUSED"
+    },
+    "heading4Style": {
+      "//": "UNUSED"
+    },
+    "heading5Style": {
+      "//": "UNUSED"
+    },
+    "heading6Style": {
+      "//": "UNUSED"
+    },
+    "ingredientsStyle": {
+      "tableStyle": {
+        "cells": {
+          "conditional": [
+            {
+              "horizontalAlignment": "right",
+              "padding": {
+                "right": 5
+              },
+              "selectors": [
+                {
+                  "columnIndex": 0
+                }
+              ],
+              "width": 10
+            },
+            {
+              "horizontalAlignment": "left",
+              "padding": {
+                "left": 5
+              },
+              "selectors": [
+                {
+                  "columnIndex": 1
+                }
+              ],
+              "width": 75
+            }
+          ],
+          "textStyle": "ingredientsTextStyle",
+          "verticalAlignment": "top"
+        },
+        "columns": {
+          "conditional": [
+            {
+              "selectors": [
+                {
+                  "columnIndex": 0
+                }
+              ],
+              "width": 10
+            },
+            {
+              "selectors": [
+                {
+                  "columnIndex": 1
+                }
+              ],
+              "width": 45
+            }
+          ]
+        }
+      }
+    },
+    "introStyle": {
+      "//": "UNUSED"
+    },
+    "paragraphDropCapStyle": {
+      "//": "UNUSED"
+    },
+    "paragraphStyle": {
+      "//": "UNUSED"
+    },
+    "photoContainerStyle": {
+      "//": "UNUSED"
+    },
+    "pullQuoteStyle": {
+      "//": "UNUSED"
+    },
+    "reviewFiveStarsStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "horizontalAlignment": "left",
+            "repeat": "none",
+            "type": "repeatable_image",
+            "URL": "https://public-assets.meredithcorp.io/ba3bbeb190fc45d4b5bb1d08c8fd2a5c/fiveDM.png",
+            "verticalAlignment": "top",
+            "width": 80
+          }
+        }
+      ],
+      "fill": {
+        "horizontalAlignment": "left",
+        "repeat": "none",
+        "type": "repeatable_image",
+        "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common022/86031-1-eng-GB/common022.jpg",
+        "verticalAlignment": "top",
+        "width": 80
+      }
+    },
+    "reviewFourHalfStarsStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "horizontalAlignment": "left",
+            "repeat": "none",
+            "type": "repeatable_image",
+            "URL": "https://public-assets.meredithcorp.io/8700c3d249629b59c38e0b147c58947c/fourDM.png",
+            "verticalAlignment": "top",
+            "width": 80
+          }
+        }
+      ],
+      "fill": {
+        "horizontalAlignment": "left",
+        "repeat": "none",
+        "type": "repeatable_image",
+        "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common0166/108858-1-eng-GB/common012.jpg?q=100",
+        "verticalAlignment": "top",
+        "width": 80
+      }
+    },
+    "reviewFourStarsStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "horizontalAlignment": "left",
+            "repeat": "none",
+            "type": "repeatable_image",
+            "URL": "https://public-assets.meredithcorp.io/8e401d3520fc3b0bec1ecdf6f118edf3/fourstarsDM.png",
+            "verticalAlignment": "top",
+            "width": 80
+          }
+        }
+      ],
+      "fill": {
+        "horizontalAlignment": "left",
+        "repeat": "none",
+        "type": "repeatable_image",
+        "URL": "https://public-assets.meredithcorp.io/4cadea6bc3bbdd6b0bdfab5abedfb66f/fourstars.jpg",
+        "verticalAlignment": "top",
+        "width": 80
+      }
+    },
+    "sectionStyle": {
+      "//": "UNUSED"
+    },
+    "sidebarNoBackgroundStyle": {
+      "border": {
+        "all": {
+          "color": "#000",
+          "width": 2
+        }
+      }
+    },
+    "sidebarStyle": {
+      "backgroundColor": "#f2f2f2",
+      "conditional": [
+        {
+          "backgroundColor": "#828282",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "straplineStyle": {
+      "//": "UNUSED"
+    },
+    "titleStyle": {
+      "//": "UNUSED"
+    },
+    "youSaidImageStyle": {
+      "backgroundColor": "#008080",
+      "mask": {
+        "radius": "60cw",
+        "type": "corners"
+      }
+    }
+  },
+  "textStyles": {
+    "creditTextStyle": {
+      "fontName": "Gotham-Book",
+      "fontSize": 10,
+      "textColor": "#8d8d8d",
+      "tracking": 0.05
+    },
+    "default-tag-bold": {
+      "fontName": "GothamNarrow-Bold"
+    },
+    "default-tag-caption-heading": {
+      "fontName": "Gotham-Black",
+      "fontSize": 15
+    },
+    "default-tag-caption-i": {
+      "fontName": "Gotham-Book"
+    },
+    "default-tag-emoji": {
+      "fontName": "AppleColorEmoji"
+    },
+    "default-tag-lede": {
+      "fontName": "GothamNarrow-Bold",
+      "tracking": 0.02
+    },
+    "default-tag-m": {
+      "fontName": "Gotham-Medium"
+    },
+    "default-tag-mi": {
+      "fontName": "Gotham-MediumItalic"
+    },
+    "default-tag-pullquote-attribution": {
+      "fontName": "GothamCondensed-Medium",
+      "fontSize": 18,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.05
+    },
+    "default-tag-sidebar-lede": {
+      "fontName": "GothamNarrow-Bold"
+    },
+    "default-tag-subsection": {
+      "fontName": "Gotham-Light"
+    },
+    "endMarkerTextStyle": {
+      "//": "UNUSED"
+    },
+    "subSectionTextStyle": {
+      "//": "UNUSED"
+    }
+  },
+  "componentTextStyles": {
+    "//": {
+      "//": "================ ALL RECIPES OVERRIDES ================"
+    },
+    "attributeTextStyle": {
+      "fontName": "GothamNarrow-Book",
+      "fontSize": 10,
+      "lineHeight": 12,
+      "textTransform": "uppercase",
+      "tracking": 0.05
+    },
+    "authorTextStyle": {
+      "fontName": "Gotham-Light",
+      "tracking": 0.1
+    },
+    "bodyCenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "bodyDropCapTextStyle": {
+      "dropCapStyle": {
+        "fontName": "GothamNarrow-ThinItalic",
+        "numberOfCharacters": 1,
+        "numberOfLines": 4,
+        "numberOfRaisedLines": 0
+      },
+      "tracking": 0.02
+    },
+    "bodyTextStyle": {
+      "tracking": 0.02
+    },
+    "calloutBodyTextStyle": {
+      "fontSize": 15,
+      "lineHeight": 19,
+      "linkStyle": {
+        "fontName": "GothamNarrow-Bold",
+        "textColor": "#000",
+        "underline": true
+      },
+      "textAlignment": "center"
+    },
+    "calloutHeadingTextStyle": {
+      "fontName": "Harrietv2Display-Bold",
+      "fontSize": 28,
+      "lineHeight": 30,
+      "textAlignment": "center"
+    },
+    "captionAdTextStyle": {
+      "//": "UNUSED"
+    },
+    "captionCenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "captionEmbeddedTextStyle": {
+      "fontName": "HelveticaNeue",
+      "lineHeight": 16
+    },
+    "captionTextStyle": {
+      "fontName": "Gotham-BookItalic",
+      "linkStyle": {
+        "fontName": "GothamNarrow-Bold",
+        "textColor": "#000",
+        "underline": true
+      },
+      "tracking": 0.02
+    },
+    "default": {
+      "fontName": "GothamNarrow-Book",
+      "hyphenation": false,
+      "linkStyle": {
+        "fontName": "GothamNarrow-Bold",
+        "textColor": "#000",
+        "underline": true
+      },
+      "textColor": "#000"
+    },
+    "default-author": {
+      "fontName": "Avenir-Book",
+      "fontSize": 14,
+      "lineHeight": 16
+    },
+    "default-body": {
+      "fontSize": 16,
+      "lineHeight": 20,
+      "linkStyle": {
+        "fontName": "GothamNarrow-Bold",
+        "textColor": "#000",
+        "underline": true
+      },
+      "paragraphSpacingAfter": 12,
+      "paragraphSpacingBefore": 12
+    },
+    "default-byline": {
+      "//": "UNUSED"
+    },
+    "default-caption": {
+      "fontName": "Avenir-Book",
+      "fontSize": 14,
+      "lineHeight": 16
+    },
+    "default-heading": {
+      "fontSize": 16,
+      "lineHeight": 16
+    },
+    "default-heading2": {
+      "fontSize": 40,
+      "lineHeight": 42
+    },
+    "default-heading3": {
+      "fontSize": 32,
+      "lineHeight": 34
+    },
+    "default-heading4": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 500
+            }
+          ],
+          "fontSize": 24,
+          "lineHeight": 26
+        }
+      ],
+      "fontSize": 28,
+      "lineHeight": 30
+    },
+    "default-heading5": {
+      "fontSize": 17,
+      "lineHeight": 19
+    },
+    "default-heading6": {
+      "fontSize": 18,
+      "lineHeight": 20
+    },
+    "default-intro": {
+      "fontName": "Avenir-Book",
+      "fontSize": 20,
+      "lineHeight": 24
+    },
+    "default-photographer": {
+      "//": "UNUSED"
+    },
+    "default-pullquote": {
+      "fontSize": 44,
+      "lineHeight": 44,
+      "textAlignment": "center"
+    },
+    "default-title": {
+      "fontSize": 70,
+      "lineHeight": 69
+    },
+    "floatImageCaptionTextStyle": {
+      "fontName": "Gotham-BookItalic",
+      "tracking": 0.02
+    },
+    "heading2CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading2TextStyle": {
+      "fontName": "GothamXNarrow-Ultra",
+      "textTransform": "uppercase",
+      "tracking": 0.11
+    },
+    "heading3CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading3TextStyle": {
+      "fontName": "Gotham-Black"
+    },
+    "heading4CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading4TextStyle": {
+      "fontName": "GothamXNarrow-Ultra",
+      "textTransform": "uppercase",
+      "tracking": 0.12
+    },
+    "heading5CenteredTextStyle": {
+      "fontName": "Gotham-Bold",
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.02
+    },
+    "heading5TextStyle": {
+      "fontName": "Gotham-Bold",
+      "textTransform": "uppercase",
+      "tracking": 0.02
+    },
+    "heading6CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading6TextStyle": {
+      "fontName": "GothamXNarrow-Black",
+      "tracking": 0.04
+    },
+    "ingredientsTextStyle": {
+      "fontName": "GothamNarrow-Book",
+      "lineHeight": 24
+    },
+    "introTextStyle": {
+      "fontName": "Gotham-Book",
+      "tracking": 0.03
+    },
+    "pullQuoteTextStyle": {
+      "fontName": "GothamCondensed-LightItalic",
+      "textAlignment": "center"
+    },
+    "recipeDetailsTextStyle": {
+      "fontName": "GothamNarrow-Book",
+      "fontSize": 14,
+      "lineHeight": 16,
+      "linkStyle": {
+        "fontName": "GothamNarrow-Bold",
+        "textColor": "#000",
+        "underline": true
+      }
+    },
+    "reviewsTextStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "textColor": "#fff"
+        }
+      ],
+      "fontName": "GothamNarrow-Black",
+      "textColor": "#000"
+    },
+    "savedTextStyle": {
+      "fontName": "GothamNarrow-Book",
+      "fontSize": 16,
+      "lineHeight": 18,
+      "textTransform": "uppercase"
+    },
+    "sectionTextStyle": {
+      "fontName": "Gotham-Ultra",
+      "fontSize": 14,
+      "tracking": 0.1
+    },
+    "sidebarBodyTextStyle": {
+      "fontName": "GothamNarrow-Book"
+    },
+    "sidebarHeading2TextStyle": {
+      "fontName": "Harrietv2Display-Bold",
+      "tracking": 0.02
+    },
+    "sidebarHeading3TextStyle": {
+      "fontName": "GothamXNarrow-Bold",
+      "fontSize": 28,
+      "lineHeight": 30,
+      "textTransform": "uppercase",
+      "tracking": 0.09
+    },
+    "sidebarHeading4TextStyle": {
+      "fontName": "GothamXNarrow-Bold",
+      "fontSize": 24,
+      "lineHeight": 26,
+      "tracking": 0.02
+    },
+    "sidebarIntroTextStyle": {
+      "fontName": "GothamNarrow-Medium"
+    },
+    "straplineTextStyle": {
+      "fontName": "Gotham-Ultra",
+      "tracking": 0.15
+    },
+    "titleTextStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "stroke": {
+            "color": "#fff",
+            "width": 2
+          },
+          "textColor": "#000"
+        }
+      ],
+      "fontName": "GothamCondensed-Book",
+      "stroke": {
+        "color": "#000000",
+        "width": 2
+      },
+      "textColor": "#fff",
+      "textTransform": "uppercase",
+      "tracking": 0.03
+    },
+    "tocTextStyle": {
+      "fontName": "AvenirNextCondensed-Medium",
+      "fontSize": 16,
+      "linkStyle": {
+        "underline": true
+      },
+      "textAlignment": "center",
+      "textColor": "#000"
+    },
+    "youSaidQuoteTextStyle": {
+      "fontName": "GothamCondensed-LightItalic",
+      "fontSize": 22,
+      "lineHeight": 24,
+      "textAlignment": "center"
+    }
+  }
+}

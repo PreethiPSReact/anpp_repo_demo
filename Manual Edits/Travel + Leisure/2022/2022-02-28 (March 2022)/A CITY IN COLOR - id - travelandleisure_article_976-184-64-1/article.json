@@ -1,0 +1,1913 @@
+{
+  "version": "1.9",
+  "identifier": "coastalliving_article_889-125-44-1",
+  "title": "Boardwalk Bites",
+  "language": "en",
+  "layout": {
+    "columns": 23,
+    "gutter": 20,
+    "margin": 62,
+    "width": 1024
+  },
+  "subtitle": "It’s a summertime feast for the senses! Stroll the sun-warmed slats, catch the scent of kettle corn on the salt-soaked breeze, lick drips of frozen custard from your fingertips, and—above all—feel like a kid again",
+  "metadata": {
+    "authors": [
+      "Photographs by Greg Dupree"
+    ],
+    "dateCreated": "2022-05-20T16:37:20.138Z",
+    "dateModified": "2022-05-19T14:32:21+00:00",
+    "excerpt": "SERVES 6",
+    "generatorName": "ANTE Generic Template",
+    "generatorVersion": "0.0.4.32-2022-04-15 19:20",
+    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/p044-bzo102397-frozen-custard/131491-1-eng-GB/p044-bzo102397-frozen-custard.png?q=100"
+  },
+  "missingData": [
+    {
+      "role": "author",
+      "layout": "authorLayout",
+      "textStyle": "authorTextStyle",
+      "format": "html",
+      "text": "RECIPES BY EMILY NABORS HALL"
+    }
+  ],
+  "documentStyle": {
+    "backgroundColor": "#eee"
+  },
+  "components": [
+    {
+      "role": "container",
+      "layout": {
+        "conditional": [
+          {
+            "conditions": [
+              {
+                "platform": "ios"
+              }
+            ],
+            "ignoreViewportPadding": true
+          },
+          {
+            "conditions": [
+              {
+                "maxViewportWidth": 1366,
+                "minViewportWidth": 1112
+              }
+            ],
+            "ignoreDocumentMargin": "none",
+            "ignoreViewportPadding": "none"
+          }
+        ],
+        "ignoreDocumentMargin": true
+      },
+      "style": {
+        "backgroundColor": "#fff"
+      },
+      "components": [
+        {
+          "//": "======== ANIMATION ========",
+          "role": "container",
+          "layout": {
+            "//": "======== height/width * 100 = minimumHeight ========",
+            "ignoreDocumentMargin": "both",
+            "ignoreViewportPadding": "both",
+            "minimumHeight": "134.831461cw"
+          },
+          "style": {
+            "fill": {
+              "fillMode": "fit",
+              "loop": true,
+              "stillURL": "https://playback.video.meredithcorp.io/*/6307049042112.jpg",
+              "type": "video",
+              "URL": "https://playback.video.meredithcorp.io/*/6307049042112.mp4",
+              "verticalAlignment": "top"
+            }
+          }
+        },
+        {
+          "//": "==== DEFAULT HEADER: INTRO ===",
+          "role": "intro",
+          "layout": "introLayout",
+          "textStyle": "introTextStyle",
+          "format": "html",
+          "text": "It’s a summertime feast for the senses! Stroll the sun-warmed slats, catch the scent of kettle corn on the salt-soaked breeze, lick drips of frozen custard from your fingertips, and—above all—feel like a kid again"
+        },
+        {
+          "role": "author",
+          "layout": "authorLayout",
+          "textStyle": "authorTextStyle",
+          "format": "html",
+          "text": "recipes by emily nabors hall</br>Photographs by Greg Dupree"
+        },
+        {
+          "//": "======== BODY CONTAINER =======",
+          "role": "container",
+          "layout": "bodyContainerLayout1",
+          "style": "bodyblueStyle",
+          "components": [
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1555.0/W1244.0 * 100 = 125.0 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/p045-bzo102397-frozen-custard/131533-1-eng-GB/p045-bzo102397-frozen-custard.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "//": "======== HERO IMAGE CONTAINER =======",
+              "role": "container",
+              "layout": "singleBlockContainerLayout1",
+              "behavior": {
+                "factor": 0.95,
+                "type": "parallax"
+              },
+              "components": [
+                {
+                  "//": "======== HERO IMAGE - H1449.0/W1366.0 * 100 = 106.0761347 ========",
+                  "role": "image",
+                  "layout": {
+                    "//": "IPAD CONDITION STYLING",
+                    "conditional": [
+                      {
+                        "//": "PHONE CONDITION STYLING",
+                        "conditions": [
+                          {
+                            "maxViewportWidth": 415
+                          }
+                        ],
+                        "horizontalContentAlignment": "center",
+                        "maximumContentWidth": "80cw",
+                        "minimumWidth": "80cw"
+                      }
+                    ],
+                    "horizontalContentAlignment": "center",
+                    "maximumContentWidth": "80cw",
+                    "minimumWidth": "80cw"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/p044-bzo102397-frozen-custard/131491-1-eng-GB/p044-bzo102397-frozen-custard.png?q=100"
+                }
+              ]
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>SERVES</lede> 6<br><lede>ACTIVE</lede> 15 min.<br><lede>TOTAL</lede> 4 hours, 45 min., including 4 hours for chilling"
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td>2½</td><td>cups whole milk</td></tr><tr><td>8</td><td>large egg yolks</td></tr><tr><td>1¼</td><td>cups granulated sugar</td></tr><tr><td>1</td><td>Tbsp. vanilla extract</td></tr><tr><td>½</td><td>tsp. kosher salt</td></tr><tr><td>2</td><td>cups heavy whipping cream</td></tr></table>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>1.</lede> Process milk, yolks, sugar, vanilla, and salt in a blender on high until smooth and thick, about 15 seconds. Transfer to a large saucepan, and stir in cream. Cook over medium, stirring constantly, just until mixture begins to bubble and has thickened slightly, about 15 minutes. Remove from heat. Transfer mixture to a bowl, and place plastic wrap directly on warm custard (to prevent a film from forming). Chill until cold, at least 4 hours or up to 24 hours."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>2.</lede> Whisk mixture until smooth. Pour into the freezer container of a 2-quart electric ice-cream maker, and freeze according to manufacturer’s instructions. Transfer custard to a 9- x 5-inch loaf pan, and return to freezer until ready to serve."
+            },
+            {
+              "role": "divider",
+              "stroke": {
+                "color": "#ffffff00",
+                "width": "10cw"
+              }
+            }
+          ]
+        },
+        {
+          "//": "======== BODY CONTAINER =======",
+          "role": "container",
+          "layout": "bodyContainerLayout2",
+          "style": "bodyyellowStyle",
+          "components": [
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1244.0/W1244.0 * 100 = 100.0 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/p046-bzo102397-lemonade/131519-1-eng-GB/p046-bzo102397-lemonade.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "//": "======== HERO IMAGE CONTAINER =======",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "behavior": {
+                "factor": 0.95,
+                "type": "parallax"
+              },
+              "components": [
+                {
+                  "//": "======== HERO IMAGE - H1449.0/W1366.0 * 100 = 106.0761347 ========",
+                  "role": "image",
+                  "layout": {
+                    "//": "IPAD CONDITION STYLING",
+                    "conditional": [
+                      {
+                        "//": "PHONE CONDITION STYLING",
+                        "conditions": [
+                          {
+                            "maxViewportWidth": 415
+                          }
+                        ],
+                        "horizontalContentAlignment": "center",
+                        "maximumContentWidth": "80cw",
+                        "minimumWidth": "80cw"
+                      }
+                    ],
+                    "horizontalContentAlignment": "center",
+                    "maximumContentWidth": "80cw",
+                    "minimumWidth": "80cw"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/p044-bzo102397-lemonade/131543-1-eng-GB/p044-bzo102397-lemonade.png?q=100"
+                }
+              ]
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>SERVES</lede> 4<br><lede>ACTIVE</lede> 15 min.<br><lede>TOTAL</lede> 15 min."
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td>8</td><td>lemons, cut in half</td></tr><tr><td>1</td><td>cup granulated sugar</td></tr><tr><td>3</td><td>cups water, divided</td></tr><tr><td>4</td><td>cups ice cubes, plus more for serving</td></tr></table>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>1.</lede> Squeeze lemon halves to equal 1 cup juice. Reserve juice and 4 squeezed lemon halves."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>2.</lede> Stir together sugar and 1 cup of the water in a small saucepan over medium-high, and cook, stirring often, just until sugar dissolves. Remove from heat, and cool 10 minutes."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>3.</lede> Pour sugar syrup into a large pitcher. Add 4 cups ice, and stir until ice is mostly melted, about 1 minute. Add reserved lemon juice and remaining 2 cups water; stir to combine. Chill lemonade until ready to serve. Place 1 squeezed lemon half and ice in each of 4 tall glasses; pour in lemonade."
+            },
+            {
+              "role": "divider",
+              "stroke": {
+                "color": "#ffffff00",
+                "width": "10cw"
+              }
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1244.0/W1244.0 * 100 = 100.0 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/p046-bzo102397-shrimp-roll/131582-1-eng-GB/p046-bzo102397-shrimp-roll.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "//": "======== HERO IMAGE CONTAINER =======",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "behavior": {
+                "factor": 0.95,
+                "type": "parallax"
+              },
+              "components": [
+                {
+                  "//": "======== HERO IMAGE - H1449.0/W1366.0 * 100 = 106.0761347 ========",
+                  "role": "image",
+                  "layout": {
+                    "//": "IPAD CONDITION STYLING",
+                    "conditional": [
+                      {
+                        "//": "PHONE CONDITION STYLING",
+                        "conditions": [
+                          {
+                            "maxViewportWidth": 415
+                          }
+                        ],
+                        "horizontalContentAlignment": "center",
+                        "maximumContentWidth": "80cw",
+                        "minimumWidth": "80cw"
+                      }
+                    ],
+                    "horizontalContentAlignment": "center",
+                    "maximumContentWidth": "80cw",
+                    "minimumWidth": "80cw"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/p044-bzo102397-shrimp-roll/131542-1-eng-GB/p044-bzo102397-shrimp-roll.png?q=100"
+                }
+              ]
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>SERVES</lede> 6<br><lede>ACTIVE</lede> 15 min.<br><lede>TOTAL</lede> 15 min."
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td>1</td><td>cup mayonnaise</td></tr><tr><td>½</td><td>cup finely chopped celery</td></tr><tr><td>1</td><td>Tbsp. fresh lemon juice</td></tr><tr><td>1</td><td>tsp. hot sauce</td></tr><tr><td>1</td><td>tsp. Old Bay seasoning</td></tr><tr><td>½</td><td>tsp. kosher salt</td></tr><tr><td>½</td><td>tsp. black pepper</td></tr><tr><td>1</td><td>lb. large raw shrimp, steamed, peeled, and roughly chopped</td></tr><tr><td>6</td><td>top-split hot dog buns</td></tr><tr><td>2</td><td>Tbsp. unsalted butter, melted</td></tr><tr><td></td><td>Celery leaves, chopped</td></tr></table>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>1.</lede> Whisk together mayonnaise, celery, lemon juice, hot sauce, Old Bay, salt, and pepper in a medium bowl. Stir together shrimp and half of mayonnaise mixture. (Reserve remaining mayonnaise mixture for another use, such as a dipping sauce or sandwich spread. Mixture will keep in an airtight container in refrigerator up to 1 week.) Cover shrimp mixture, and chill until ready to serve, up to 2 hours."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>2.</lede> Trim just enough of the long sides of each bun to form two straight edges. Brush butter on the trimmed edges of each bun. Heat a large skillet over medium, and cook each buttered side until golden, about 30 seconds per side."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>3.</lede> Divide shrimp mixture among buns, and slice each in half crosswise. Top with chopped celery leaves."
+            },
+            {
+              "role": "divider",
+              "stroke": {
+                "color": "#ffffff00",
+                "width": "10cw"
+              }
+            }
+          ]
+        },
+        {
+          "//": "======== BODY CONTAINER =======",
+          "role": "container",
+          "layout": "bodyContainerLayout2",
+          "style": "bodyblueStyle",
+          "components": [
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1244.0/W1244.0 * 100 = 100.0 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/p047-bzo102397-soft-pretzel/131554-1-eng-GB/p047-bzo102397-soft-pretzel.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "//": "======== HERO IMAGE CONTAINER =======",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "behavior": {
+                "factor": 0.95,
+                "type": "parallax"
+              },
+              "components": [
+                {
+                  "//": "======== HERO IMAGE - H1449.0/W1366.0 * 100 = 106.0761347 ========",
+                  "role": "image",
+                  "layout": {
+                    "//": "IPAD CONDITION STYLING",
+                    "conditional": [
+                      {
+                        "//": "PHONE CONDITION STYLING",
+                        "conditions": [
+                          {
+                            "maxViewportWidth": 415
+                          }
+                        ],
+                        "horizontalContentAlignment": "center",
+                        "maximumContentWidth": "80cw",
+                        "minimumWidth": "80cw"
+                      }
+                    ],
+                    "horizontalContentAlignment": "center",
+                    "maximumContentWidth": "80cw",
+                    "minimumWidth": "80cw"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/p044-bzo102397-soft-pretzel/131526-1-eng-GB/p044-bzo102397-soft-pretzel.png?q=100"
+                }
+              ]
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>SERVES</lede> 4<br><lede>ACTIVE</lede> 30 min.<br><lede>TOTAL</lede> 1 hour, 45 min."
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td>1</td><td>lb. store-bought pizza dough</td></tr><tr><td>8</td><td>cups water</td></tr><tr><td>¼</td><td>cup baking soda</td></tr><tr><td>3</td><td>Tbsp. (1½ oz.) unsalted butter, melted</td></tr><tr><td>2</td><td>tsp. flaky sea salt (such as Maldon Sea Salt Flakes)</td></tr><tr><td></td><td>Yellow mustard, for serving</td></tr></table>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>1.</lede> Let dough stand for 1 hour at room temperature in package."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>2.</lede> Preheat oven to 450°F. Bring water to a boil in a large stockpot over high. While water is heating, turn dough out onto a lightly floured surface; divide dough into 4 equal pieces. Roll 1 dough piece into about a 30-inch rope. Holding 1 end of the dough rope in each hand, make a U-shape on floured surface. Leaving about a 3-inch tail on each end, cross the dough ends. Cross the ends again, twisting them together much like a twist tie. Bring the 3-inch tails down, and attach to dough under bottom of U-shape (1 end at about 5 o’clock and the other at about 7 o’clock), forming the shape of a pretzel. Repeat procedure with remaining 3 dough pieces."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>3.</lede> Add soda to boiling water; stir until soda dissolves. Add 1 dough pretzel to boiling liquid, and cook 1 minute. Transfer boiled pretzel to a lightly greased wire rack over a rimmed baking sheet. Repeat procedure with remaining 3 dough pretzels, making sure to return cooking liquid to a boil before adding another dough pretzel. Let pretzels drain until mostly dry, about 10 minutes."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>4.</lede> Brush pretzels with melted butter; sprinkle with salt. Bake in preheated oven until a deep golden brown, about 8 minutes. Turn pretzels, and bake until a deep golden brown, about 5 minutes. Let cool 5 minutes before serving. Serve with yellow mustard."
+            },
+            {
+              "role": "divider",
+              "stroke": {
+                "color": "#ffffff00",
+                "width": "10cw"
+              }
+            }
+          ]
+        },
+        {
+          "//": "======== BODY CONTAINER =======",
+          "role": "container",
+          "layout": "bodyContainerLayout2",
+          "style": "bodyyellowStyle",
+          "components": [
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1555.0/W1244.0 * 100 = 125.0 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/p048-bzo102397-corn-dogs/131575-1-eng-GB/p048-bzo102397-corn-dogs.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "//": "======== HERO IMAGE CONTAINER =======",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "behavior": {
+                "factor": 0.95,
+                "type": "parallax"
+              },
+              "components": [
+                {
+                  "//": "======== HERO IMAGE - H1449.0/W1366.0 * 100 = 106.0761347 ========",
+                  "role": "image",
+                  "layout": {
+                    "//": "IPAD CONDITION STYLING",
+                    "conditional": [
+                      {
+                        "//": "PHONE CONDITION STYLING",
+                        "conditions": [
+                          {
+                            "maxViewportWidth": 415
+                          }
+                        ],
+                        "horizontalContentAlignment": "center",
+                        "maximumContentWidth": "80cw",
+                        "minimumWidth": "80cw"
+                      }
+                    ],
+                    "horizontalContentAlignment": "center",
+                    "maximumContentWidth": "80cw",
+                    "minimumWidth": "80cw"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/p044-bzo102397-corn-dog/131484-1-eng-GB/p044-bzo102397-corn-dog.png?q=100"
+                }
+              ]
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>SERVES</lede> 6<br><lede>ACTIVE</lede> 30 min.<br><lede>TOTAL</lede> 30 min."
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td></td><td>Canola oil or peanut oil, for frying</td></tr><tr><td>6</td><td>(8-inch) wooden skewers</td></tr><tr><td>6</td><td>hot dogs</td></tr><tr><td>2</td><td>cups self-rising white cornmeal mix</td></tr><tr><td>½</td><td>cup (about 2 oz.) all-purpose flour</td></tr><tr><td>1½</td><td>tsp. kosher salt</td></tr><tr><td>1</td><td>tsp. granulated sugar</td></tr><tr><td>½</td><td>tsp. black pepper</td></tr><tr><td>2</td><td>large eggs, lightly beaten</td></tr><tr><td>½</td><td>cup whole milk</td></tr><tr><td>½</td><td>cup pale beer (such as Budweiser)</td></tr></table>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>1.</lede> Pour oil to a depth of 3 inches in a large heavy Dutch oven (at least 9 inches in diameter), and heat over medium-high to 350°F."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>2.</lede> Meanwhile, insert 1 wooden skewer into 1 end of each hot dog, stopping before skewer breaks though opposite end. Pat hot dogs dry with paper towels."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>3.</lede> Whisk together cornmeal, flour, salt, sugar, and pepper in a large bowl. Make a well in the center, and add eggs, milk, and beer; whisk until smooth. (Batter will be thick.)"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>4.</lede> Working with 1 hot dog at a time, dip into batter, spooning over all sides as necessary to completely cover. Quickly lower corn dog into oil, and fry until golden brown, about 2 minutes per side. Transfer to a wire rack lined with paper towels to drain. Let cool 5 minutes before serving. Discard any excess batter."
+            },
+            {
+              "role": "divider",
+              "stroke": {
+                "color": "#ffffff00",
+                "width": "10cw"
+              }
+            }
+          ]
+        },
+        {
+          "//": "======== BODY CONTAINER =======",
+          "role": "container",
+          "layout": "bodyContainerLayout2",
+          "style": "bodyblueStyle",
+          "components": [
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H3255.0/W2391.0 * 100 = 136.1355082 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/4043601_boa_015/130233-1-eng-GB/4043601_boa_0152.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "//": "======== HERO IMAGE CONTAINER =======",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "behavior": {
+                "factor": 0.95,
+                "type": "parallax"
+              },
+              "components": [
+                {
+                  "//": "======== HERO IMAGE - H1449.0/W1366.0 * 100 = 106.0761347 ========",
+                  "role": "image",
+                  "layout": {
+                    "//": "IPAD CONDITION STYLING",
+                    "conditional": [
+                      {
+                        "//": "PHONE CONDITION STYLING",
+                        "conditions": [
+                          {
+                            "maxViewportWidth": 415
+                          }
+                        ],
+                        "horizontalContentAlignment": "center",
+                        "maximumContentWidth": "80cw",
+                        "minimumWidth": "80cw"
+                      }
+                    ],
+                    "horizontalContentAlignment": "center",
+                    "maximumContentWidth": "80cw",
+                    "minimumWidth": "80cw"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/p044-bzo102397-kettle-corn/131505-1-eng-GB/p044-bzo102397-kettle-corn.png?q=100"
+                }
+              ]
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>SERVES</lede> 6<br><lede>ACTIVE</lede> 10 min.<br><lede>TOTAL</lede> 10 min."
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td>¼</td><td>cup (2 oz.) unsalted butter, melted</td></tr><tr><td>2</td><td>Tbsp. granulated sugar</td></tr><tr><td>2</td><td>tsp. flaky sea salt (such as Maldon Sea Salt Flakes)</td></tr><tr><td>8</td><td>cups freshly popped plain microwave popcorn (from about a 3-oz. bag)</td></tr></table>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>1.</lede> Preheat oven to 250°F. Line a large rimmed baking sheet with parchment paper. Whisk together butter, sugar, and salt in a very large bowl. Add popcorn, and fold gently until popcorn is evenly coated in mixture. Spread in prepared pan."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>2.</lede> Bake in preheated oven 30 minutes, stirring every 10 minutes. Remove pan to a wire rack and cool completely. Popcorn can be stored in an airtight container for up to 1 day."
+            },
+            {
+              "role": "divider",
+              "stroke": {
+                "color": "#ffffff00",
+                "width": "10cw"
+              }
+            }
+          ]
+        },
+        {
+          "//": "======== BODY CONTAINER =======",
+          "role": "container",
+          "layout": "bodyContainerLayout2",
+          "style": "bodyyellowStyle",
+          "components": [
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1244.0/W1244.0 * 100 = 100.0 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/p050-bzo102397-clam-chowder-fritters/131561-1-eng-GB/p050-bzo102397-clam-chowder-fritters.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "//": "======== HERO IMAGE CONTAINER =======",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "behavior": {
+                "factor": 0.95,
+                "type": "parallax"
+              },
+              "components": [
+                {
+                  "//": "======== HERO IMAGE - H1449.0/W1366.0 * 100 = 106.0761347 ========",
+                  "role": "image",
+                  "layout": {
+                    "//": "IPAD CONDITION STYLING",
+                    "conditional": [
+                      {
+                        "//": "PHONE CONDITION STYLING",
+                        "conditions": [
+                          {
+                            "maxViewportWidth": 415
+                          }
+                        ],
+                        "horizontalContentAlignment": "center",
+                        "maximumContentWidth": "80cw",
+                        "minimumWidth": "80cw"
+                      }
+                    ],
+                    "horizontalContentAlignment": "center",
+                    "maximumContentWidth": "80cw",
+                    "minimumWidth": "80cw"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/p044-bzo102397-clam-chowder-fritters/131498-1-eng-GB/p044-bzo102397-clam-chowder-fritters.png?q=100"
+                }
+              ]
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>SERVES</lede> 4<br><lede>ACTIVE</lede> 30 min.<br><lede>TOTAL</lede> 30 min."
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td>½</td><td>cup mayonnaise</td></tr><tr><td>1</td><td>Tbsp. sweet pickle relish</td></tr><tr><td>2</td><td>tsp. fresh lemon juice</td></tr><tr><td>3</td><td>Tbsp. chopped fresh dill, divided</td></tr><tr><td>¾</td><td>tsp. kosher salt, divided</td></tr><tr><td>¾</td><td>tsp. black pepper, divided</td></tr><tr><td>1</td><td>cup self-rising white cornmeal mix</td></tr><tr><td>1</td><td>cup (4¼ oz.) all-purpose flour</td></tr><tr><td>½</td><td>cup buttermilk</td></tr><tr><td>5</td><td>Tbsp. bottled clam juice</td></tr><tr><td>2</td><td>large eggs, lightly beaten</td></tr><tr><td>2½</td><td>cups shucked fresh clams, chopped</td></tr><tr><td>½</td><td>cup finely chopped yellow onion</td></tr><tr><td>½</td><td>cup fresh yellow corn kernels (about 2 small ears)</td></tr><tr><td></td><td>Canola or peanut oil, for frying</td></tr></table>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>1.</lede> Whisk together mayonnaise, relish, lemon juice, 1 tablespoon of the dill, and ¼ teaspoon each of the salt and pepper."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>2.</lede> Whisk together cornmeal, flour, and remaining ½ teaspoon each salt and pepper in a large bowl. Make a well in the center; add buttermilk, clam juice, and eggs, and whisk just until combined. Fold in chopped clams, onion, corn, and remaining 2 tablespoons dill."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>3.</lede> Pour oil to a depth of 3 inches in a large Dutch oven; heat oil over medium-high to 350°F."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>4.</lede> Working in batches, carefully scoop heaping tablespoons of batter into hot oil, and fry, turning occasionally to cook evenly, until deep golden brown, about 3 minutes. (Take care not to overcrowd the Dutch oven.) Transfer to a plate lined with paper towels to drain. Serve immediately."
+            },
+            {
+              "role": "divider",
+              "stroke": {
+                "color": "#ffffff00",
+                "width": "10cw"
+              }
+            }
+          ]
+        },
+        {
+          "//": "======== BODY CONTAINER =======",
+          "role": "container",
+          "layout": "bodyContainerLayout2",
+          "style": "bodyblueStyle",
+          "components": [
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1244.0/W1244.0 * 100 = 100.0 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/p051-bzo102397-italian-ice/131568-1-eng-GB/p051-bzo102397-italian-ice.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "//": "======== HERO IMAGE CONTAINER =======",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "behavior": {
+                "factor": 0.95,
+                "type": "parallax"
+              },
+              "components": [
+                {
+                  "//": "======== HERO IMAGE - H1449.0/W1366.0 * 100 = 106.0761347 ========",
+                  "role": "image",
+                  "layout": {
+                    "//": "IPAD CONDITION STYLING",
+                    "conditional": [
+                      {
+                        "//": "PHONE CONDITION STYLING",
+                        "conditions": [
+                          {
+                            "maxViewportWidth": 415
+                          }
+                        ],
+                        "horizontalContentAlignment": "center",
+                        "maximumContentWidth": "80cw",
+                        "minimumWidth": "80cw"
+                      }
+                    ],
+                    "horizontalContentAlignment": "center",
+                    "maximumContentWidth": "80cw",
+                    "minimumWidth": "80cw"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/p044-bzo102397-italian-ice/131512-1-eng-GB/p044-bzo102397-italian-ice.png?q=100"
+                }
+              ]
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>SERVES</lede> 6<br><lede>ACTIVE</lede> 20 min.<br><lede>TOTAL</lede> 3 hours, 50 min., including 3 hours for freezing"
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td>1</td><td>lb. fresh strawberries, quartered</td></tr><tr><td>1¼</td><td>cups granulated sugar</td></tr><tr><td>½</td><td>cup fresh Key lime juice (from about 8 Key limes)</td></tr><tr><td>2</td><td>cups water</td></tr></table>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>1.</lede> Stir together strawberries, sugar, and lime juice in a large bowl. Coarsely mash strawberries with a potato masher. Let stand at room temperature 30 minutes."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>2.</lede> Process strawberry mixture in a food processor until mostly smooth and liquid, about 30 seconds. Pour into a 13- x 9-inch baking dish; whisk in water until combined."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>3.</lede> Freeze strawberry mixture, stirring with a fork every 30 minutes, just until mixture begins to set, 1 hour to 1½ hours. Once mixture begins to set, use a fork to scrape and loosen mixture, evenly distributing frozen and liquid portions. Continue to freeze and scrape every 30 minutes until mixture is almost completely frozen but slushy enough to scoop, about 2 hours. Scoop into bowls, and serve immediately."
+            },
+            {
+              "role": "divider",
+              "stroke": {
+                "color": "#ffffff00",
+                "width": "10cw"
+              }
+            }
+          ]
+        },
+        {
+          "role": "container",
+          "layout": "bodyContainerLayout",
+          "components": [
+            {
+              "role": "body",
+              "layout": "attributeLayout",
+              "textStyle": "attributeTextStyle",
+              "format": "html",
+              "text": "PROP STYLING: RACHAEL BURROW AND CLAIRE SPOLLEN; FOOD STYLING: PAIGE GRANDJEAN AND EMILY NABORS HALL"
+            }
+          ]
+        },
+        {
+          "role": "container",
+          "layout": "bodyContainerLayout",
+          "conditional": [
+            {
+              "conditions": [
+                {
+                  "viewLocation": "article"
+                }
+              ],
+              "hidden": false
+            }
+          ],
+          "hidden": true,
+          "components": [
+            {
+              "role": "container",
+              "layout": "dividerLayout",
+              "style": "dividerSectionHeadStyle"
+            },
+            {
+              "//": "=== VISIT TOC LINK, ONLY VISIBLE IF USER IS IN ARTICLE VIEW ===",
+              "role": "body",
+              "layout": "bodyLayout",
+              "textStyle": "tocTextStyle",
+              "format": "html",
+              "text": "<a href='https://apple.news/Atu42odFLEeyNtj96zSKRvQ'>Tap here</a> to see more from this issue of <i>Coastal Living</i>"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "componentLayouts": {
+    "attributeLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": 15
+    },
+    "authorLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": "5cw"
+      }
+    },
+    "blockContainerLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "bodyContainerLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": 10
+    },
+    "bodyContainerLayout1": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 0,
+        "left": 10,
+        "right": 10,
+        "top": 10
+      }
+    },
+    "bodyContainerLayout2": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 0,
+        "left": 10,
+        "right": 10,
+        "top": 0
+      }
+    },
+    "bodyLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 10,
+        "top": 2
+      }
+    },
+    "bodySmallMarginAboveLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 10,
+        "top": 10
+      }
+    },
+    "bottomPhotoDividerLayout": {
+      "//": "UNUSED"
+    },
+    "calloutBodyLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 5
+      }
+    },
+    "calloutHeadingLayout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "calloutLayout": {
+      "columnSpan": 16,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "padding": {
+        "bottom": 10,
+        "left": 20,
+        "right": 20,
+        "top": 10
+      }
+    },
+    "captionAdLayout": {
+      "//": "UNUSED"
+    },
+    "captionLayout": {
+      "margin": 8
+    },
+    "collectionLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "darkModePaddingLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "padding": 10
+        }
+      ]
+    },
+    "dividerCollectionLayout": {
+      "//": "UNUSED"
+    },
+    "dividerLayout": {
+      "margin": {
+        "bottom": 20,
+        "top": 10
+      }
+    },
+    "dividerStandardLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "minimumHeight": 1
+    },
+    "dividerTocLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 15,
+        "top": 20
+      },
+      "minimumHeight": 10
+    },
+    "floatContainerLayout": {
+      "columnSpan": 4,
+      "columnStart": 1,
+      "conditional": [
+        {
+          "columnSpan": 4,
+          "columnStart": 0,
+          "conditions": [
+            {
+              "maxViewportWidth": 415
+            }
+          ]
+        }
+      ]
+    },
+    "fullBleedContainerLayout": {
+      "ignoreDocumentMargin": "both",
+      "ignoreViewportPadding": "both",
+      "margin": {
+        "bottom": 10,
+        "top": 0
+      }
+    },
+    "fullBleedDividerLayout": {
+      "//": "UNUSED"
+    },
+    "fullBleedLayout": {
+      "ignoreDocumentMargin": true
+    },
+    "fullBleedPhotoLayout": {
+      "ignoreDocumentMargin": true
+    },
+    "galleryPhotoLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "heading2Layout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading3Layout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading4Layout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading5Layout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading6Layout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heroImageLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 15
+      }
+    },
+    "heroImageTallLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 10,
+        "top": 15
+      }
+    },
+    "ingredientsLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 10
+      }
+    },
+    "ingredientsNoMarginAboveLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 0
+      }
+    },
+    "introLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 10,
+        "top": "5cw"
+      }
+    },
+    "noMarginLayout": {
+      "columnSpan": 19,
+      "columnStart": 2
+    },
+    "productImageStandardLayout": {
+      "minimumHeight": 280
+    },
+    "pullQuoteBodyLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 0,
+        "top": 5
+      }
+    },
+    "pullQuoteLayout": {
+      "columnSpan": 20,
+      "columnStart": 0,
+      "margin": {
+        "bottom": 15,
+        "top": 15
+      }
+    },
+    "sectionLayout": {
+      "margin": {
+        "bottom": "20",
+        "top": 5
+      }
+    },
+    "sidebarBodyLayout": {
+      "margin": {
+        "bottom": 10
+      }
+    },
+    "sidebarDividerLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "minimumHeight": 1
+    },
+    "sidebarFloatContainerLayout": {
+      "columnSpan": 4,
+      "columnStart": 0
+    },
+    "sidebarHeading2Layout": {
+      "margin": {
+        "top": 20
+      }
+    },
+    "sidebarHeading3Layout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "sidebarHeading4Layout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "sidebarIntroLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 5
+      }
+    },
+    "sidebarLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": 20,
+      "padding": {
+        "bottom": 10,
+        "left": 20,
+        "right": 20
+      }
+    },
+    "sidebarSingleBlockContainerLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "sidebarSmallMarginAboveLayout": {
+      "margin": {
+        "top": 2
+      }
+    },
+    "singleBlockContainerLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "singleBlockContainerLayout1": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "smallMarginAboveLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "top": 2
+      }
+    },
+    "smallSpacerLayout": {
+      "maximumWidth": 5,
+      "minimumWidth": 5
+    },
+    "spacerLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "starsImageLayout": {
+      "margin": {
+        "top": 2
+      },
+      "maximumWidth": 100
+    },
+    "straplineLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "top": 10
+      }
+    },
+    "titleLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "top": 5
+      }
+    },
+    "topPhotoDividerLayout": {
+      "//": "UNUSED"
+    },
+    "youSaidContainerLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "youSaidImageLayout": {
+      "horizontalContentAlignment": "center",
+      "margin": {
+        "bottom": 10
+      }
+    }
+  },
+  "componentStyles": {
+    "attributeStyle": {
+      "//": "UNUSED"
+    },
+    "authorStyle": {
+      "//": "UNUSED"
+    },
+    "bodyblueStyle": {
+      "backgroundColor": "#c5e8fb",
+      "conditional": [
+        {
+          "backgroundColor": "#c5e8fb",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "bodyContainerStyle": {
+      "//": "UNUSED"
+    },
+    "bodyyellowStyle": {
+      "backgroundColor": "#fdfaca",
+      "conditional": [
+        {
+          "backgroundColor": "#fdfaca",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "calloutStyle": {
+      "border": {
+        "all": {
+          "color": "#009A5A",
+          "width": 4
+        }
+      }
+    },
+    "captionAdStyle": {
+      "//": "UNUSED"
+    },
+    "darkModeBackgroundStyle": {
+      "conditional": [
+        {
+          "backgroundColor": "#FFF",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "dividerSectionHeadStyle": {
+      "border": {
+        "all": {
+          "color": "#ececec",
+          "width": 1
+        },
+        "bottom": true,
+        "left": false,
+        "right": false,
+        "top": true
+      },
+      "conditional": [
+        {
+          "border": {
+            "all": {
+              "color": "#666666",
+              "width": 1
+            },
+            "bottom": true,
+            "left": false,
+            "right": false,
+            "top": true
+          },
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "dividerStandardStyle": {
+      "backgroundColor": "#000"
+    },
+    "dividerTocStyle": {
+      "//": "UNUSED"
+    },
+    "fullBleedContainerStyle": {
+      "//": "UNUSED"
+    },
+    "heading2Style": {
+      "//": "UNUSED"
+    },
+    "heading3Style": {
+      "//": "UNUSED"
+    },
+    "heading4Style": {
+      "//": "UNUSED"
+    },
+    "heading5Style": {
+      "//": "UNUSED"
+    },
+    "heading6Style": {
+      "//": "UNUSED"
+    },
+    "ingredientsStyle": {
+      "tableStyle": {
+        "cells": {
+          "conditional": [
+            {
+              "horizontalAlignment": "right",
+              "padding": {
+                "right": 5
+              },
+              "selectors": [
+                {
+                  "columnIndex": 0
+                }
+              ],
+              "width": 10
+            },
+            {
+              "horizontalAlignment": "left",
+              "padding": {
+                "left": 5
+              },
+              "selectors": [
+                {
+                  "columnIndex": 1
+                }
+              ],
+              "width": 75
+            }
+          ],
+          "textStyle": "ingredientsTextStyle",
+          "verticalAlignment": "top"
+        },
+        "columns": {
+          "conditional": [
+            {
+              "selectors": [
+                {
+                  "columnIndex": 0
+                }
+              ],
+              "width": 10
+            },
+            {
+              "selectors": [
+                {
+                  "columnIndex": 1
+                }
+              ],
+              "width": 45
+            }
+          ]
+        }
+      }
+    },
+    "introStyle": {
+      "//": "UNUSED"
+    },
+    "paragraphDropCapStyle": {
+      "//": "UNUSED"
+    },
+    "paragraphStyle": {
+      "//": "UNUSED"
+    },
+    "photoContainerStyle": {
+      "//": "UNUSED"
+    },
+    "pullQuoteStyle": {
+      "//": "UNUSED"
+    },
+    "sectionStyle": {
+      "//": "UNUSED"
+    },
+    "sidebarNoBackgroundStyle": {
+      "border": {
+        "all": {
+          "color": "#000",
+          "width": 2
+        }
+      }
+    },
+    "sidebarStyle": {
+      "backgroundColor": "#f2f2f2"
+    },
+    "straplineStyle": {
+      "//": "UNUSED"
+    },
+    "titleStyle": {
+      "//": "UNUSED"
+    },
+    "youSaidImageStyle": {
+      "backgroundColor": "#008080",
+      "mask": {
+        "radius": "60cw",
+        "type": "corners"
+      }
+    }
+  },
+  "textStyles": {
+    "creditTextStyle": {
+      "fontName": "Gotham-Book",
+      "fontSize": 10,
+      "textColor": "#8d8d8d",
+      "tracking": 0.05
+    },
+    "default-tag-caption-heading": {
+      "fontName": "Gotham-Medium",
+      "fontSize": 15
+    },
+    "default-tag-caption-i": {
+      "fontName": "Gotham-Book"
+    },
+    "default-tag-emoji": {
+      "fontName": "AppleColorEmoji"
+    },
+    "default-tag-lede": {
+      "fontName": "GothamNarrow-Bold",
+      "tracking": 0.02
+    },
+    "default-tag-pullquote-attribution": {
+      "fontName": "ChronicleDisplay-Roman",
+      "fontSize": 16,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.05
+    },
+    "default-tag-sidebar-lede": {
+      "fontName": "Gotham-Bold",
+      "textDecoration": "uppercase"
+    },
+    "default-tag-subsection": {
+      "fontName": "Gotham-Medium",
+      "fontSize": 16,
+      "textColor": "#009A5A",
+      "textDecoration": "uppercase",
+      "tracking": 0.1
+    },
+    "endMarkerTextStyle": {
+      "//": "UNUSED"
+    },
+    "subSectionTextStyle": {
+      "//": "UNUSED"
+    }
+  },
+  "componentTextStyles": {
+    "//": {
+      "//": "================ ALL RECIPES OVERRIDES ================"
+    },
+    "attributeTextStyle": {
+      "fontName": "GothamNarrow-Book",
+      "fontSize": 10,
+      "lineHeight": 12,
+      "tracking": 0.05
+    },
+    "authorTextStyle": {
+      "fontName": "Noteworthy-Bold",
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.05
+    },
+    "bodyCenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "bodyDropCapTextStyle": {
+      "dropCapStyle": {
+        "fontName": "ChronicleDisplay-Light",
+        "numberOfCharacters": 1,
+        "numberOfLines": 5,
+        "numberOfRaisedLines": 0,
+        "padding": 5,
+        "textColor": "#000f"
+      },
+      "fontName": "ChronicleDisplay-Roman"
+    },
+    "bodyTextStyle": {
+      "tracking": 0.02
+    },
+    "calloutBodyTextStyle": {
+      "fontName": "Gotham-Book",
+      "fontSize": 15,
+      "lineHeight": 19,
+      "textAlignment": "center"
+    },
+    "calloutHeadingTextStyle": {
+      "fontName": "ChronicleDisplay-Bold",
+      "fontSize": 28,
+      "lineHeight": 30,
+      "textAlignment": "center"
+    },
+    "captionAdTextStyle": {
+      "//": "UNUSED"
+    },
+    "captionCenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "captionEmbeddedTextStyle": {
+      "fontName": "HelveticaNeue",
+      "lineHeight": 16
+    },
+    "captionTextStyle": {
+      "fontName": "Gotham-Book",
+      "tracking": 0.02
+    },
+    "default": {
+      "fontName": "ChronicleDisplay-Roman",
+      "hyphenation": false,
+      "linkStyle": {
+        "fontName": "ChronicleDisplay-Bold",
+        "textColor": "#000",
+        "underline": true
+      },
+      "textColor": "#000"
+    },
+    "default-author": {
+      "fontName": "Avenir-Book",
+      "fontSize": 14,
+      "lineHeight": 20
+    },
+    "default-body": {
+      "fontSize": 16,
+      "lineHeight": 20,
+      "paragraphSpacingAfter": 12,
+      "paragraphSpacingBefore": 12
+    },
+    "default-byline": {
+      "//": "UNUSED"
+    },
+    "default-caption": {
+      "fontName": "Avenir-Book",
+      "fontSize": 14,
+      "lineHeight": 16
+    },
+    "default-heading": {
+      "fontSize": 16,
+      "lineHeight": 16
+    },
+    "default-heading2": {
+      "fontSize": 42,
+      "lineHeight": 44
+    },
+    "default-heading3": {
+      "fontSize": 32,
+      "lineHeight": 34
+    },
+    "default-heading4": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 500
+            }
+          ],
+          "fontSize": 24,
+          "lineHeight": 26
+        }
+      ],
+      "fontSize": 26,
+      "lineHeight": 28
+    },
+    "default-heading5": {
+      "fontSize": 19,
+      "lineHeight": 21
+    },
+    "default-heading6": {
+      "fontSize": 17,
+      "lineHeight": 19
+    },
+    "default-intro": {
+      "fontName": "Avenir-Book",
+      "fontSize": 20,
+      "lineHeight": 24
+    },
+    "default-photographer": {
+      "//": "UNUSED"
+    },
+    "default-pullquote": {
+      "fontSize": 44,
+      "lineHeight": 44,
+      "textAlignment": "center"
+    },
+    "default-title": {
+      "fontSize": 66,
+      "lineHeight": 59
+    },
+    "floatImageCaptionTextStyle": {
+      "fontName": "Gotham-BookItalic",
+      "tracking": 0.02
+    },
+    "heading2CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading2TextStyle": {
+      "fontName": "ChronicleDisplay-Bold",
+      "textTransform": "uppercase",
+      "tracking": 0.03
+    },
+    "heading3CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading3TextStyle": {
+      "fontName": "Gotham-Bold",
+      "textTransform": "uppercase",
+      "tracking": 0.03
+    },
+    "heading4CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading4TextStyle": {
+      "fontName": "ChronicleDisplay-Bold",
+      "textTransform": "uppercase",
+      "tracking": 0.03
+    },
+    "heading5CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading5TextStyle": {
+      "fontName": "GothamNarrow-Bold",
+      "textTransform": "uppercase"
+    },
+    "heading6CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading6TextStyle": {
+      "fontName": "GothamNarrow-Bold",
+      "textTransform": "uppercase"
+    },
+    "ingredientsTextStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "textColor": "#000"
+        }
+      ],
+      "fontName": "GothamNarrow-Book",
+      "lineHeight": 24
+    },
+    "introTextStyle": {
+      "fontName": "Gotham-Book",
+      "textAlignment": "center",
+      "tracking": 0.03
+    },
+    "pullQuoteTextStyle": {
+      "fontName": "ChronicleDisplay-Bold",
+      "fontSize": 25,
+      "lineHeight": 35,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.03
+    },
+    "recipeDetailsTextStyle": {
+      "fontName": "GothamNarrow-Book",
+      "fontSize": 14,
+      "lineHeight": 16
+    },
+    "reviewsTextStyle": {
+      "fontName": "GothamNarrow-Black"
+    },
+    "savedTextStyle": {
+      "fontName": "GothamNarrow-Book",
+      "fontSize": 16,
+      "lineHeight": 18,
+      "textTransform": "uppercase"
+    },
+    "sectionTextStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 415
+            }
+          ],
+          "lineHeight": 32
+        }
+      ],
+      "fontName": "ChronicleDisplay-Semi",
+      "fontSize": 20,
+      "lineHeight": 20,
+      "textAlignment": "center",
+      "tracking": 0.02
+    },
+    "sidebarBodyTextStyle": {
+      "fontName": "Gotham-Book"
+    },
+    "sidebarHeading2TextStyle": {
+      "fontName": "ChronicleDisplay-Bold",
+      "fontSize": 32,
+      "lineHeight": 38,
+      "textColor": "#009A5A",
+      "textTransform": "uppercase",
+      "tracking": 0.03
+    },
+    "sidebarHeading3TextStyle": {
+      "fontName": "Gotham-Bold",
+      "fontSize": 28,
+      "lineHeight": 30,
+      "textTransform": "uppercase",
+      "tracking": 0.03
+    },
+    "sidebarHeading4TextStyle": {
+      "fontName": "Gotham-Bold",
+      "fontSize": 24,
+      "lineHeight": 26,
+      "tracking": 0.03
+    },
+    "sidebarIntroTextStyle": {
+      "fontName": "Gotham-Medium"
+    },
+    "straplineTextStyle": {
+      "fontName": "Gotham-Ultra",
+      "tracking": 0.15
+    },
+    "titleTextStyle": {
+      "fontName": "ChronicleDisplay-Bold",
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.03
+    },
+    "tocTextStyle": {
+      "fontName": "AvenirNextCondensed-Medium",
+      "fontSize": 16,
+      "linkStyle": {
+        "underline": true
+      },
+      "textAlignment": "center",
+      "textColor": "#000"
+    }
+  }
+}

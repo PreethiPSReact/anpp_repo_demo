@@ -1,7 +1,7 @@
 {
   "version": "1.9",
-  "identifier": "alr_article_899-131-2-1",
-  "title": "MASTHEAD",
+  "identifier": "alr_article_899-131-4-1",
+  "title": "HEAD STARTERS",
   "language": "en",
   "layout": {
     "columns": 20,
@@ -9,13 +9,137 @@
     "margin": 40,
     "width": 1024
   },
+  "subtitle": "<p><b><custom name=\"underline\">Save time with dinners that make tasty use of prepared packaged products, such as frozen spinach, jarred salsa, rotisserie chicken, and refrigerated pizza dough.</custom></b></p>",
   "metadata": {
-    "dateCreated": "2022-06-21T16:53:46.356Z",
-    "dateModified": "2022-06-17T17:00:19+00:00",
-    "excerpt": "EXECUTIVE FOOD EDITOR Shelli McConnell",
-    "generatorName": "ANTE Generic Template",
-    "generatorVersion": "0.0.4.33-2022-06-09 18:32"
+    "dateCreated": "2022-06-21T16:54:03.742Z",
+    "dateModified": "2022-06-21T14:39:34+00:00",
+    "excerpt": "HANDS-ON 10 MIN",
+    "generatorName": "All-Recipes -- Recipe",
+    "generatorVersion": "0.0.4.33-2022-06-09 18:32",
+    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p004-005-alt102382-andys-spicy-green-chile-pork2/199688-1-eng-GB/p004-005-alt102382-andys-spicy-green-chile-pork.jpg?q=100"
   },
+  "missingData": [
+    {
+      "//": "======== SINGLE BLOCK CONTAINER ========",
+      "role": "container",
+      "layout": "singleBlockContainerLayout",
+      "components": [
+        {
+          "//": "======== IMAGE BLOCK - H78.0/W424.0 * 100 = 18.3962264 ========",
+          "role": "photo",
+          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0005-015/197357-1-eng-GB/f0005-012.jpg?q=100"
+        }
+      ]
+    },
+    {
+      "role": "body",
+      "layout": "bodyLayout",
+      "style": "paragraphStyle",
+      "textStyle": "bodyTextStyle",
+      "format": "html",
+      "text": "301 REVIEWS"
+    },
+    {
+      "//": "======== SINGLE BLOCK CONTAINER ========",
+      "role": "container",
+      "layout": "singleBlockContainerLayout",
+      "components": [
+        {
+          "//": "======== IMAGE BLOCK - H74.0/W420.0 * 100 = 17.6190476 ========",
+          "role": "photo",
+          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0006-0147/197336-1-eng-GB/f0006-012.jpg?q=100"
+        }
+      ]
+    },
+    {
+      "role": "body",
+      "layout": "bodyLayout",
+      "style": "paragraphStyle",
+      "textStyle": "bodyTextStyle",
+      "format": "html",
+      "text": "772 REVIEWS"
+    },
+    {
+      "//": "======== SINGLE BLOCK CONTAINER ========",
+      "role": "container",
+      "layout": "singleBlockContainerLayout",
+      "components": [
+        {
+          "//": "======== IMAGE BLOCK - H74.0/W421.0 * 100 = 17.5771971 ========",
+          "role": "photo",
+          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0008-0113/197308-1-eng-GB/f0008-012.jpg?q=100"
+        }
+      ]
+    },
+    {
+      "role": "body",
+      "layout": "bodyLayout",
+      "style": "paragraphStyle",
+      "textStyle": "bodyTextStyle",
+      "format": "html",
+      "text": "248 REVIEWS"
+    },
+    {
+      "//": "======== SINGLE BLOCK CONTAINER ========",
+      "role": "container",
+      "layout": "singleBlockContainerLayout",
+      "components": [
+        {
+          "//": "======== IMAGE BLOCK - H74.0/W421.0 * 100 = 17.5771971 ========",
+          "role": "photo",
+          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0009-0119/197280-1-eng-GB/f0009-012.jpg?q=100"
+        }
+      ]
+    },
+    {
+      "role": "body",
+      "layout": "bodyLayout",
+      "style": "paragraphStyle",
+      "textStyle": "bodyTextStyle",
+      "format": "html",
+      "text": "251 REVIEWS"
+    },
+    {
+      "//": "======== SINGLE BLOCK CONTAINER ========",
+      "role": "container",
+      "layout": "singleBlockContainerLayout",
+      "components": [
+        {
+          "//": "======== IMAGE BLOCK - H74.0/W421.0 * 100 = 17.5771971 ========",
+          "role": "photo",
+          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0010-0116/197259-1-eng-GB/f0010-012.jpg?q=100"
+        }
+      ]
+    },
+    {
+      "role": "body",
+      "layout": "bodyLayout",
+      "style": "paragraphStyle",
+      "textStyle": "bodyTextStyle",
+      "format": "html",
+      "text": "777 REVIEWS"
+    },
+    {
+      "//": "======== SINGLE BLOCK CONTAINER ========",
+      "role": "container",
+      "layout": "singleBlockContainerLayout",
+      "components": [
+        {
+          "//": "======== IMAGE BLOCK - H74.0/W421.0 * 100 = 17.5771971 ========",
+          "role": "photo",
+          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0011-0120/197238-1-eng-GB/f0011-012.jpg?q=100"
+        }
+      ]
+    },
+    {
+      "role": "body",
+      "layout": "bodyLayout",
+      "style": "paragraphStyle",
+      "textStyle": "bodyTextStyle",
+      "format": "html",
+      "text": "3,012 REVIEWS"
+    }
+  ],
   "documentStyle": {
     "backgroundColor": "#eee"
   },
@@ -55,7 +179,7 @@
           "layout": "sectionLayout",
           "textStyle": "sectionTextStyle",
           "format": "html",
-          "text": "MASTHEAD"
+          "text": "5INGREDIENT RECIPES"
         },
         {
           "role": "container",
@@ -68,19 +192,69 @@
           "layout": "titleLayout",
           "textStyle": "titleTextStyle",
           "format": "html",
-          "text": "MASTHEAD"
+          "text": "HEAD STARTERS"
         },
         {
-          "//": "======== BODY CONTAINER =======",
+          "//": "==== DEFAULT HEADER: INTRO ===",
+          "role": "intro",
+          "layout": "introLayout",
+          "textStyle": "introTextStyle",
+          "format": "html",
+          "text": "Save time with dinners that make tasty use of prepared packaged products, such as frozen spinach, jarred salsa, rotisserie chicken, and refrigerated pizza dough."
+        },
+        {
+          "//": "======== HERO IMAGE CONTAINER =======",
+          "role": "container",
+          "layout": "heroImageLayout",
+          "components": [
+            {
+              "//": "======== HERO IMAGE - H1822.0/W1366.0 * 100 = 133.3821376 ========",
+              "role": "photo",
+              "layout": "fullBleedPhotoLayout",
+              "caption": {
+                "format": "html",
+                "text": "<b>Head Starter</b><br>Jarred green salsa",
+                "textStyle": "captionEmbeddedTextStyle"
+              },
+              "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p004-005-alt102382-andys-spicy-green-chile-pork2/199688-1-eng-GB/p004-005-alt102382-andys-spicy-green-chile-pork.jpg?q=100"
+            },
+            {
+              "role": "caption",
+              "layout": "captionLayout",
+              "textStyle": "captionTextStyle",
+              "format": "html",
+              "text": "<caption-heading>Head Starter</caption-heading><br>Jarred green salsa"
+            }
+          ]
+        },
+        {
+          "//": "======== BEGIN RECIPES BODY CONTAINER =======",
           "role": "container",
           "layout": "bodyContainerLayout",
+          "style": "bodyContainerStyle",
           "components": [
             {
               "role": "heading2",
-              "layout": "heading2Layout",
+              "layout": "bodyLayout",
               "textStyle": "heading2TextStyle",
               "format": "html",
-              "text": "Allrecipes Specials"
+              "text": "Andy’s Spicy Green Chile Pork"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "recipeDetailsTextStyle",
+              "format": "html",
+              "text": "<lede>HANDS-ON </lede>10 MIN <lede>TOTAL</lede> 8 HR, 10 MIN <lede>SERVES </lede>8 <br><lede>SUBMITTED BY </lede>ANDYMPLS"
+            },
+            {
+              "role": "heading",
+              "layout": "reviewLayout",
+              "style": "reviewFiveStarsStyle",
+              "textStyle": "reviewsTextStyle",
+              "format": "html",
+              "text": "301 REVIEWS"
             },
             {
               "role": "body",
@@ -88,7 +262,13 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>EXECUTIVE FOOD EDITOR</lede> Shelli McConnell"
+              "text": "<i>For taco night, serve the shredded pork in small tortillas with sliced radishes and limes for squeezing.</i>"
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td>2</td><td>cups chopped white onion (1 large onion)</td></tr><tr><td>2½</td><td>lb. pork shoulder roast</td></tr><tr><td>1½</td><td>tsp. salt</td></tr><tr><td>½</td><td>tsp. black pepper</td></tr><tr><td>1</td><td>(16-oz.) jar green salsa</td></tr><tr><td>½</td><td>cup chopped fresh cilantro, plus more for garnish</td></tr><tr><td>2</td><td>serrano peppers, or to taste</td></tr></table>"
             },
             {
               "role": "body",
@@ -96,22 +276,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>EXECUTIVE CREATIVE DIRECTOR</lede> Michael D. Belknap"
-            },
-            {
-              "role": "heading3",
-              "layout": "heading3Layout",
-              "textStyle": "heading3TextStyle",
-              "format": "html",
-              "text": "Editorial"
-            },
-            {
-              "role": "body",
-              "layout": "bodyNoMarginAboveLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Food Editor</b> Caitlyn Diimig, RD"
+              "text": "<lede>1.</lede> Spread onion in a 4½- to 5-qt. slow cooker. Sprinkle pork all over with salt and pepper; transfer to slow cooker. Pour salsa over pork, sprinkle with cilantro, and add serranos."
             },
             {
               "role": "body",
@@ -119,7 +284,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>Contributing Food Editor</b> Annie Peterson"
+              "text": "<lede>2.</lede> Cook, covered, on Low until meat falls apart easily, about 8 hours. Gently transfer pork to a platter; shred using 2 forks. Remove and chop serranos."
             },
             {
               "role": "body",
@@ -127,7 +292,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>Contributing Copy Editor</b> Steven Blaski"
+              "text": "<lede>3.</lede> Pour cooking liquid through a sieve set over a bowl; return half the liquid to slow cooker along with the strained vegetables and shredded pork. Add chopped serranos to taste. Garnish with additional cilantro."
             },
             {
               "role": "body",
@@ -135,252 +300,103 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>Contributing Proofreader</b> Terri Fredrickson"
+              "text": "<lede><a href=\"http://armagazine.com/andys-spicy-green-chile-pork\">armagazine.com/andys-spicy-green-chile-pork</a></i></lede>"
             },
             {
               "role": "body",
               "layout": "bodyLayout",
               "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
+              "textStyle": "attributeTextStyle",
               "format": "html",
-              "text": "<b>Editorial Administrative Assistant</b> Gabrielle Renslow"
+              "text": "PER 1-CUP SERVING: 222 CAL; 13G FAT (5G SAT); 19G PRO; 6G CARB (1G FIBER, 3G SUGARS); 485MG SODIUM"
             },
             {
-              "role": "heading3",
-              "layout": "heading3Layout",
-              "textStyle": "heading3TextStyle",
-              "format": "html",
-              "text": "Art"
+              "//": "======= YOU SAID CONTAINER ======",
+              "role": "container",
+              "layout": "youSaidContainerLayout",
+              "components": [
+                {
+                  "role": "container",
+                  "layout": {
+                    "margin": {
+                      "bottom": 10
+                    }
+                  },
+                  "contentDisplay": {
+                    "alignment": "center",
+                    "distribution": "narrow",
+                    "maximumWidth": 80,
+                    "type": "collection"
+                  },
+                  "components": [
+                    {
+                      "role": "image",
+                      "style": {
+                        "backgroundColor": "#008080",
+                        "mask": {
+                          "radius": 80,
+                          "type": "corners"
+                        }
+                      },
+                      "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/kat_high/197364-1-eng-GB/kat_high2.jpg?q=100"
+                    }
+                  ]
+                },
+                {
+                  "role": "pullquote",
+                  "textStyle": "youSaidQuoteTextStyle",
+                  "format": "html",
+                  "text": "“This is fantastic! My husband said this was the best chile verde dish he has tasted in years. I took some to my coworkers, and they raved about it, too.”<br><pullquote-attribution>– KAT</pullquote-attribution>"
+                }
+              ]
             },
             {
-              "role": "body",
-              "layout": "bodyNoMarginAboveLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Creative Director</b> Kyli Hassebrock"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Associate Art Director</b> Laura Engel"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Contributing Designers</b> Shelley Caldwell, Brianna Greene"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Intern</b> Claire Taets"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Photography Director</b> Paden Reich"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Photographers</b> Antonis Achilleos, Caitlin Bensel, Carson Downing"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Stylists</b> Ruth Blackburn, Kay E. Clarke, Christina Daley, Margaret Monroe Dickey, Emily Nabors Hall, Sue Mitchell, Kelsey Moylan, Ali Ramee"
-            },
-            {
-              "role": "heading3",
-              "layout": "heading3Layout",
-              "textStyle": "heading3TextStyle",
-              "format": "html",
-              "text": "Editorial Administration"
-            },
-            {
-              "role": "body",
-              "layout": "bodyNoMarginAboveLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Editorial Director</b> Jill Waage"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Assistant Managing Editor</b> Jennifer Speer Ramundt"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Senior Copy Editors</b> Erika Bjorklund, Madelaine Jerousek-Smith, Martha Coloff Long"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Lead Business Office Assistant</b> Gabrielle Renslow"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Associate Production Director</b> Patrick McGowan"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Director, Premedia Services</b> Amy Tincher-Durik"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Director, Quality</b> Joseph Kohler"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Director, Food Studios</b> Allison Lowery"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Director, Test Kitchen</b> Lynn Blanchard"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Director, Photo Studio</b> Reese Strickland"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Photo Studio Set Construction Manager</b> Dave Decarlo"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Studios Coordinator</b> Terri Charter"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Premedia Trafficking Supervisor</b> Chris Sprague"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Assistant Director, Premedia Imaging</b> Michael Sturtz"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Color Quality Analysts</b> Heidi Parcel, Sarah Schroeder"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>MEREDITH PREMIUM PUBLISHING SENIOR VICE PRESIDENT &amp; GROUP PUBLISHER</b>&nbsp;Mark Josephson"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Vice President &amp; General Manager</b> Jeremy Biloon"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Vice President, Group Editorial Director</b> Stephen Orr"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Director, Editorial Operations &amp; Finance</b> Greg Kayko"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Director, Brand Marketing</b> Jean Kennedy"
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1078.0/W1366.0 * 100 = 78.9165447 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "caption": {
+                    "format": "html",
+                    "text": "<b>Head Starters</b><br>Frozen pie crust &amp; bacon bits",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p006-alt102382-easy-bacon-cheese-quiche2/199695-1-eng-GB/p006-alt102382-easy-bacon-cheese-quiche.jpg?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Head Starters</caption-heading><br>Frozen pie crust &amp; bacon bits"
+                }
+              ]
             },
             {
               "role": "heading2",
-              "layout": "heading2Layout",
+              "layout": "bodyLayout",
               "textStyle": "heading2TextStyle",
               "format": "html",
-              "text": "<a href=\"http://Allrecipes.com\">Allrecipes.Com</a>"
+              "text": "Easy Bacon and Cheese Quiche"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "recipeDetailsTextStyle",
+              "format": "html",
+              "text": "<lede>HANDS-ON</lede> 10 MIN <lede>TOTAL</lede> 40 MIN <lede>SERVES</lede> 6 <br><lede>SUBMITTED BY</lede> DAWN EGAN"
+            },
+            {
+              "role": "heading",
+              "layout": "reviewLayout",
+              "style": "reviewFiveStarsStyle",
+              "textStyle": "reviewsTextStyle",
+              "format": "html",
+              "text": "772 REVIEWS"
             },
             {
               "role": "body",
@@ -388,7 +404,13 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>SENIOR VICE PRESIDENT AND GROUP GENERAL MANAGER, FOOD</lede>&nbsp;Eric Handelsman"
+              "text": "<i>Top wedges of this quiche with chopped fresh chives.</i>"
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td>1</td><td>(9-inch) deep-dish frozen pie crust</td></tr><tr><td>2</td><td>cups shredded Swiss and/or grated Parmesan cheese (8 oz.)</td></tr><tr><td>½</td><td>cup real bacon bits</td></tr><tr><td>4</td><td>eggs, lightly beaten</td></tr><tr><td>1</td><td>cup half-and-half</td></tr></table>"
             },
             {
               "role": "body",
@@ -396,7 +418,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>Senior Vice President &amp; General Manager</b> Molly Fergus"
+              "text": "<lede>1.</lede> Preheat oven to 400°F."
             },
             {
               "role": "body",
@@ -404,7 +426,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>General Manager</b> Lorraine Goldberg"
+              "text": "<lede>2.</lede> Put frozen pie crust on a baking sheet. Stir together cheese, and bacon bits in a bowl; spread evenly in crust. In the same bowl, whisk together eggs and half-and-half; pour over cheese mixture."
             },
             {
               "role": "body",
@@ -412,22 +434,126 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>Editorial Director</b> Ashley Kappel"
+              "text": "<lede>3.</lede> Bake 15 minutes. Reduce heat to 350°F; continue baking until quiche begins to brown, top is puffed, and a knife inserted in center comes out clean, 12 to 15 minutes more."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede><a href=\"http://armagazine.com/easy-bacon-and-cheese-quiche\">armagazine.com/easy-bacon-and-cheese-quiche</a></i></lede>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "attributeTextStyle",
+              "format": "html",
+              "text": "PER SLICE: 484 CAL; 32G FAT (14G SAT); 22G PRO; 23G CARB (1G FIBER, 2G SUGARS); 855MG SODIUM"
+            },
+            {
+              "//": "======= YOU SAID CONTAINER ======",
+              "role": "container",
+              "layout": "youSaidContainerLayout",
+              "components": [
+                {
+                  "role": "container",
+                  "layout": {
+                    "margin": {
+                      "bottom": 10
+                    }
+                  },
+                  "contentDisplay": {
+                    "alignment": "center",
+                    "distribution": "narrow",
+                    "maximumWidth": 80,
+                    "type": "collection"
+                  },
+                  "components": [
+                    {
+                      "role": "image",
+                      "style": {
+                        "backgroundColor": "#008080",
+                        "mask": {
+                          "radius": 80,
+                          "type": "corners"
+                        }
+                      },
+                      "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/susanlogsdo_076/197343-1-eng-GB/susanlogsdo_0762.jpg?q=100"
+                    }
+                  ]
+                },
+                {
+                  "role": "pullquote",
+                  "textStyle": "youSaidQuoteTextStyle",
+                  "format": "html",
+                  "text": "“I’ve added broccoli, chopped tomatoes, and mushrooms; substituted ham for the bacon; and gone Tex-Mex with pepper Jack, jalapeños and salsa.”<br><pullquote-attribution>– SUSAN LOGSDON</pullquote-attribution>"
+                }
+              ]
+            },
+            {
+              "//": "======= YOU SAID CONTAINER ======",
+              "role": "container",
+              "layout": "youSaidContainerLayout",
+              "components": [
+                {
+                  "role": "pullquote",
+                  "layout": "bodySmallMarginAboveLayout",
+                  "textStyle": "youSaidQuoteTextStyle",
+                  "format": "html",
+                  "text": "“I added a can of well-drained crabmeat and fresh spinach, and cooked it 10 minutes longer. I love this recipe. It’s quick and easy and tastes so good!”<br><pullquote-attribution>– DEE</pullquote-attribution>"
+                }
+              ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1823.0/W1366.0 * 100 = 133.4553441 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "caption": {
+                    "format": "html",
+                    "text": "<b>Head Starter</b><br>Canned tuna",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p007-alt102382-tuna-alfredo/199135-1-eng-GB/p007-alt102382-tuna-alfredo.jpg?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Head Starter</caption-heading><br>Canned tuna"
+                }
+              ]
             },
             {
               "role": "heading2",
-              "layout": "heading2Layout",
+              "layout": "bodyLayout",
               "textStyle": "heading2TextStyle",
               "format": "html",
-              "text": "Allrecipes Magazine"
+              "text": "Tuna Alfredo"
             },
             {
               "role": "body",
-              "layout": "bodyNoMarginAboveLayout",
+              "layout": "bodyLayout",
               "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
+              "textStyle": "recipeDetailsTextStyle",
               "format": "html",
-              "text": "<lede>EDITOR IN CHIEF</lede> Nichole Aksamit"
+              "text": "<lede>HANDS-ON</lede> 15 MIN <lede>TOTAL</lede> 15 MIN <lede>SERVES</lede> 6 <br><lede>SUBMITTED BY</lede> EATANDRUN"
+            },
+            {
+              "//": "***** NEW RECIPE LINK *****",
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "recipeDetailsTextStyle",
+              "format": "html",
+              "text": "<a href=\"http://armagazine.com/tuna-alfredo\">NEW RECIPE GO ONLINE TO RATE &amp; REVIEW</a>"
             },
             {
               "role": "body",
@@ -435,7 +561,13 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>CREATIVE DIRECTOR</lede> Kyli Hassebrock"
+              "text": "<i>Give this pasta a burst of color and flavor with chopped fresh parsley and freshly ground black pepper.</i>"
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td>1</td><td>(15-oz.) jar Alfredo sauce</td></tr><tr><td>1</td><td>lemon, zested and juiced</td></tr><tr><td>1</td><td>Tbsp. drained capers</td></tr><tr><td>½</td><td>tsp. black pepper</td></tr><tr><td>2</td><td>(5-oz.) cans tuna, drained and flaked</td></tr><tr><td>12</td><td>oz. fettuccine, cooked according to package directions</td></tr></table>"
             },
             {
               "role": "body",
@@ -443,7 +575,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>Deputy Editor</b> Carrie Boyd"
+              "text": "Stir together Alfredo sauce, ½ tsp. lemon zest, 3 Tbsp. lemon juice, capers, and pepper in a small saucepan. Stir in tuna; cook over medium heat until heated through, about 5 minutes. Serve over fettuccine."
             },
             {
               "role": "body",
@@ -451,7 +583,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>Senior Food &amp; Features Editor</b> Cheryl Slocum"
+              "text": "<lede><a href=\"http://armagazine.com/tuna-alfredo\">armagazine.com/tuna-alfredo</a></i></lede>"
             },
             {
               "role": "body",
@@ -459,38 +591,63 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>Food Editor</b> Caitlyn Diimig, RD"
+              "text": "<b><i>QUICK</i></b>"
             },
             {
               "role": "body",
               "layout": "bodyLayout",
               "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
+              "textStyle": "attributeTextStyle",
               "format": "html",
-              "text": "<b>Associate Art Director</b> Laura Engel"
+              "text": "PER SERVING (1 CUP PASTA AND <b>⅓</b> CUP SAUCE): 386 CAL; 14G FAT (8G SAT); 19G PRO; 47G CARB (2G FIBER, 5G SUGARS); 581MG SODIUM"
             },
             {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Editorial Administrative Assistant</b> Courtney Bush"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Test Kitchen</b> Lynn Blanchard; Sarah Brekke; Linda Brewer, RD; Olivia Dansky; Juliana Hale; Julia Levy; Emily Nienhaus; Karen Rankin"
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H3255.0/W2220.0 * 100 = 146.6216216 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "caption": {
+                    "format": "html",
+                    "text": "<b>Head Starter</b><br>Refrigerated pizza dough",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/103100734-1_075/197315-1-eng-GB/103100734-1_0752.jpg?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Head Starter</caption-heading><br>Refrigerated pizza dough"
+                }
+              ]
             },
             {
               "role": "heading2",
-              "layout": "heading2Layout",
+              "layout": "bodyLayout",
               "textStyle": "heading2TextStyle",
               "format": "html",
-              "text": "Advertising &amp; Business"
+              "text": "Pear and Gorgonzola Pizza"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "recipeDetailsTextStyle",
+              "format": "html",
+              "text": "<lede>HANDS-ON</lede> 15 MIN <lede>TOTAL</lede> 30 MIN <lede>SERVES</lede> 8 <br><lede>SUBMITTED BY</lede> BRIAN GOLDEN"
+            },
+            {
+              "role": "heading",
+              "layout": "reviewLayout",
+              "style": "reviewFourHalfStarsStyle",
+              "textStyle": "reviewsTextStyle",
+              "format": "html",
+              "text": "248 REVIEWS"
             },
             {
               "role": "body",
@@ -498,14 +655,107 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>PUBLISHER</lede> Donna Lindskog"
+              "text": "<i>Add a little green to this pizza by sprinkling it with chopped fresh chives after baking.</i>"
             },
             {
-              "role": "heading3",
-              "layout": "heading3Layout",
-              "textStyle": "heading3TextStyle",
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td>1</td><td>(16-oz.) pkg. refrigerated pizza dough</td></tr><tr><td>4</td><td>oz. sliced provolone cheese (about 5 slices)</td></tr><tr><td>2</td><td>Bosc pears, thinly sliced</td></tr><tr><td>½</td><td>cup chopped walnuts</td></tr><tr><td>½</td><td>cup crumbled Gorgonzola or other blue cheese (2 oz.)</td></tr><tr><td>¼</td><td>tsp. salt</td></tr></table>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "Advertising"
+              "text": "Preheat oven to 450°F. Lightly coat a large baking sheet with cooking spray. Press dough into a 12-inch round on baking sheet; evenly layer on provolone, pears, walnuts, and Gorgonzola. Bake until cheese is melted and crust is golden brown, 13 to 15 minutes. Sprinkle with salt."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede><a href=\"http://armagazine.com/pear-and-gorgonzola-pizza\">armagazine.com/pear-and-gorgonzola-pizza</a></i></lede>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b><i>QUICK</i></b> | <b><i>VEGETARIAN</i></b>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "attributeTextStyle",
+              "format": "html",
+              "text": "PER SLICE: 296 CAL; 13G FAT (5G SAT); 11G PRO; 35G CARB (3G FIBER, 5G SUGARS); 598MG SODIUM"
+            },
+            {
+              "//": "======= YOU SAID CONTAINER ======",
+              "role": "container",
+              "layout": "youSaidContainerLayout",
+              "components": [
+                {
+                  "role": "pullquote",
+                  "layout": "bodySmallMarginAboveLayout",
+                  "textStyle": "youSaidQuoteTextStyle",
+                  "format": "html",
+                  "text": "“I used refrigerated crescent roll dough as the crust. For color and some sweetness, I sprinkled ½ cup dried cranberries over the provolone.”<br><pullquote-attribution>– TERESSA DEJONG DRENTH</pullquote-attribution>"
+                }
+              ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1496.0/W1366.0 * 100 = 109.5168375 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "caption": {
+                    "format": "html",
+                    "text": "<b>Head Starter</b><br>Rotisserie chicken",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p009-alt102382-enchanted-sour-cream-chicken-enchiladas/199146-1-eng-GB/p009-alt102382-enchanted-sour-cream-chicken-enchiladas.jpg?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Head Starter</caption-heading><br>Rotisserie chicken"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "bodyLayout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Enchanted Sour Cream Chicken Enchiladas"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "recipeDetailsTextStyle",
+              "format": "html",
+              "text": "<lede>HANDS-ON</lede> 15 MIN <lede>TOTAL</lede> 30 MIN <lede>SERVES</lede> 6 <br><lede>SUBMITTED BY</lede> KATE"
+            },
+            {
+              "role": "heading",
+              "layout": "reviewLayout",
+              "style": "reviewFourStarsStyle",
+              "textStyle": "reviewsTextStyle",
+              "format": "html",
+              "text": "251 REVIEWS"
             },
             {
               "role": "body",
@@ -513,7 +763,13 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<i>NEW YORK: <a href='tel:2124551344'>212-455-1344</a></i>"
+              "text": "<i>Garnish these enchiladas with chopped fresh cilantro and sliced jalapeño peppers.</i>"
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td>2</td><td>cups cubed rotisserie chicken</td></tr><tr><td>1</td><td>cup sour cream</td></tr><tr><td>¼</td><td>tsp. salt</td></tr><tr><td>¼</td><td>tsp. black pepper</td></tr><tr><td>½</td><td>cup oil</td></tr><tr><td>12</td><td>(5-inch) corn tortillas</td></tr><tr><td>1</td><td>(4-oz.) can chopped green chiles, drained</td></tr><tr><td>2</td><td>cups shredded Monterey Jack cheese (8 oz.)</td></tr></table>"
             },
             {
               "role": "body",
@@ -521,7 +777,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>Account Manager</b> Maggie Connolly"
+              "text": "<lede>1.</lede> Preheat oven to 400°F. Grease a 9x13-inch baking dish. Stir together chicken, sour cream, salt, and pepper in a bowl."
             },
             {
               "role": "body",
@@ -529,7 +785,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>Account Manager</b> Sara D’Angelo"
+              "text": "<lede>2.</lede> Heat oil in a skillet over medium-high heat. Dip 1 tortilla into hot oil until softened, about 10 seconds. Spoon 1 heaping Tbsp. chicken mixture in a line across middle of tortilla; roll into a cylinder. Transfer enchilada, seam side down, to prepared baking dish. Repeat with remaining tortillas and filling. Sprinkle with green chiles and cheese."
             },
             {
               "role": "body",
@@ -537,7 +793,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>Sales Director</b> Tyler Hub"
+              "text": "<lede>3.</lede> Bake until cheese has melted and enchiladas are hot, 12 to 15 minutes."
             },
             {
               "role": "body",
@@ -545,7 +801,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<i>CHICAGO: <a href='tel:3128531224'>312-853-1224</a></i>"
+              "text": "<lede><a href=\"http://armagazine.com/enchanted-sour-cream-chicken-enchiladas\">armagazine.com/enchanted-sour-cream-chicken-enchiladas</a></i></lede>"
             },
             {
               "role": "body",
@@ -553,62 +809,103 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>Account Director</b> Jennifer Swanton"
+              "text": "<b><i>QUICK</i></b>"
             },
             {
               "role": "body",
               "layout": "bodyLayout",
               "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
+              "textStyle": "attributeTextStyle",
               "format": "html",
-              "text": "<b>Account Director</b> Michelle Butler-Mingey"
+              "text": "PER SERVING (2 ENCHILADAS): 363 CAL; 22G FAT (11G SAT); 25G PRO; 16G CARB (1G FIBER, 1G SUGARS); 469MG SODIUM"
+            },
+            {
+              "//": "======= YOU SAID CONTAINER ======",
+              "role": "container",
+              "layout": "youSaidContainerLayout",
+              "components": [
+                {
+                  "role": "container",
+                  "layout": {
+                    "margin": {
+                      "bottom": 10
+                    }
+                  },
+                  "contentDisplay": {
+                    "alignment": "center",
+                    "distribution": "narrow",
+                    "maximumWidth": 80,
+                    "type": "collection"
+                  },
+                  "components": [
+                    {
+                      "role": "image",
+                      "style": {
+                        "backgroundColor": "#008080",
+                        "mask": {
+                          "radius": 80,
+                          "type": "corners"
+                        }
+                      },
+                      "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/102949890/197287-1-eng-GB/1029498902.jpg?q=100"
+                    }
+                  ]
+                },
+                {
+                  "role": "pullquote",
+                  "textStyle": "youSaidQuoteTextStyle",
+                  "format": "html",
+                  "text": "“I diced one small onion and two small plum tomatoes and mixed them into the filling. Yummy!”<br><pullquote-attribution>– YARA CASTILLO</pullquote-attribution>"
+                }
+              ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1470.0/W1366.0 * 100 = 107.61347 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "caption": {
+                    "format": "html",
+                    "text": "<b>Head Starter</b><br>Chicken in a pouch",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p010-alt102382-classic-chicken-salad/199163-1-eng-GB/p010-alt102382-classic-chicken-salad.jpg?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Head Starter</caption-heading><br>Chicken in a pouch"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "bodyLayout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Classic Chicken Salad"
             },
             {
               "role": "body",
               "layout": "bodyLayout",
               "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
+              "textStyle": "recipeDetailsTextStyle",
               "format": "html",
-              "text": "<b>National Travel Director</b> Katy Hildman"
+              "text": "<lede>HANDS-ON</lede> 10 MIN <lede>TOTAL</lede> 10 MIN <lede>SERVES</lede> 2 <br><lede>SUBMITTED BY</lede> JACKIE"
             },
             {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
+              "role": "heading",
+              "layout": "reviewLayout",
+              "style": "reviewFiveStarsStyle",
+              "textStyle": "reviewsTextStyle",
               "format": "html",
-              "text": "<i>DETROIT: <a href='tel:2482052571'>248-205-2571</a></i>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Detroit Director</b> Karen Barnhart"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<i>LOS ANGELES: <a href='tel:3102687159'>310-268-7159</a></i>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Account Manager</b> Blair Shales"
-            },
-            {
-              "role": "heading3",
-              "layout": "heading3Layout",
-              "textStyle": "heading3TextStyle",
-              "format": "html",
-              "text": "Marketing"
+              "text": "777 REVIEWS"
             },
             {
               "role": "body",
@@ -616,7 +913,13 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>Associate Publisher, Marketing</b> Sandra Salerno Roth"
+              "text": "<i>Serve this simple salad in lettuce leaves sprinkled with chopped fresh parsley.</i>"
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td>½</td><td>cup sliced or slivered almonds</td></tr><tr><td>½</td><td>cup mayonnaise</td></tr><tr><td>1</td><td>Tbsp. lemon juice</td></tr><tr><td>¼</td><td>tsp. black pepper</td></tr><tr><td>4</td><td>(2.6-oz.) pouches cooked chopped chicken</td></tr><tr><td>1</td><td>celery stalk, chopped</td></tr></table>"
             },
             {
               "role": "body",
@@ -624,7 +927,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>Art Director</b> Tracy D’Agostino"
+              "text": "<lede>1.</lede> Toast almonds in a dry skillet over medium heat, shaking skillet frequently, 4 to 5 minutes (they burn easily, so watch carefully)."
             },
             {
               "role": "body",
@@ -632,7 +935,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>Associate Marketing Manager</b> Harley Gates"
+              "text": "<lede>2.</lede> Stir together mayonnaise, lemon juice, and pepper in a bowl. Add chicken, celery, and almonds; toss to coat."
             },
             {
               "role": "body",
@@ -640,7 +943,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>Executive Director, Brand Communication</b> Elizabeth Marsh"
+              "text": "<lede><a href=\"http://armagazine.com/chicken-salad\">armagazine.com/chicken-salad</a></i></lede>"
             },
             {
               "role": "body",
@@ -648,7 +951,83 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>Director, Sales Strategy &amp; Insights</b> Nancy Elias"
+              "text": "<b><i>HEALTHY</i></b> | <b><i>QUICK</i></b>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "attributeTextStyle",
+              "format": "html",
+              "text": "PER SERVING: 779 CAL; 63G FAT (9G SAT); 44G PRO; 8G CARB (3G FIBER, 2G SUGARS); 403MG SODIUM"
+            },
+            {
+              "//": "======= YOU SAID CONTAINER ======",
+              "role": "container",
+              "layout": "youSaidContainerLayout",
+              "components": [
+                {
+                  "role": "pullquote",
+                  "layout": "bodySmallMarginAboveLayout",
+                  "textStyle": "youSaidQuoteTextStyle",
+                  "format": "html",
+                  "text": "“I substituted shredded carrots for the celery, sunflower seeds for the almonds, and added ¼ cup chopped onion. I served it open-faced on toasted cheese bagels.”<br><pullquote-attribution>– HEATHER</pullquote-attribution>"
+                }
+              ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1278.0/W1366.0 * 100 = 93.5578331 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "caption": {
+                    "format": "html",
+                    "text": "<b>Head Starter</b><br>Frozen spinach",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p011-alt102382-spinach-artichoke-chicken/199170-1-eng-GB/p011-alt102382-spinach-artichoke-chicken.jpg?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Head Starter</caption-heading><br>Frozen spinach"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "bodyLayout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Spinach-Artichoke Chicken"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "recipeDetailsTextStyle",
+              "format": "html",
+              "text": "<lede>HANDS-ON</lede> 10 MIN <lede>TOTAL</lede> 45 MIN <lede>SERVES</lede> 6 <br><lede>SUBMITTED BY</lede> AMANDA BIBB"
+            },
+            {
+              "role": "heading",
+              "layout": "reviewLayout",
+              "style": "reviewFourStarsStyle",
+              "textStyle": "reviewsTextStyle",
+              "format": "html",
+              "text": "3,012 REVIEWS"
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td>1</td><td>(15-oz.) can artichoke hearts, drained and chopped</td></tr><tr><td>1</td><td>(10-oz.) pkg. frozen spinach, thawed and squeezed dry</td></tr><tr><td>¾</td><td>cup grated Parmesan cheese (3 oz.)</td></tr><tr><td>¾</td><td>cup mayonnaise</td></tr><tr><td>½</td><td>tsp. black pepper</td></tr><tr><td>¼</td><td>tsp. garlic powder (optional)</td></tr><tr><td>6</td><td>boneless, skinless chicken breasts</td></tr></table>"
             },
             {
               "role": "body",
@@ -656,22 +1035,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>Senior Research Manager</b> Cheryl Campbell"
-            },
-            {
-              "role": "heading3",
-              "layout": "heading3Layout",
-              "textStyle": "heading3TextStyle",
-              "format": "html",
-              "text": "Production"
-            },
-            {
-              "role": "body",
-              "layout": "bodyNoMarginAboveLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Senior Production Manager</b> Jennifer Paugh"
+              "text": "<lede>1.</lede> Preheat oven to 375°F. Line a 10x15-inch baking pan with foil; lightly coat with cooking spray."
             },
             {
               "role": "body",
@@ -679,22 +1043,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>Assistant Director, Premedia Trafficking</b> Jill Cruchelow"
-            },
-            {
-              "role": "heading3",
-              "layout": "heading3Layout",
-              "textStyle": "heading3TextStyle",
-              "format": "html",
-              "text": "Circulation &amp; Finance"
-            },
-            {
-              "role": "body",
-              "layout": "bodyNoMarginAboveLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Consumer Marketing Manager</b> Laura Krogh"
+              "text": "<lede>2.</lede> Stir together artichokes, spinach, Parmesan, mayonnaise, pepper, and garlic powder (if using). Arrange chicken in prepared pan. Cover evenly with artichoke mixture."
             },
             {
               "role": "body",
@@ -702,7 +1051,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>Business Manager</b> Leslie Rohr"
+              "text": "<lede>3.</lede> Bake chicken 35 to 40 minutes, or until an instant-read thermometer inserted into thickest parts registers 165°F."
             },
             {
               "role": "body",
@@ -710,7 +1059,44 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>PRESIDENT, LIFESTYLE</lede>&nbsp;Alysia Borsa"
+              "text": "<lede><a href=\"http://armagazine.com/spinach-artichoke-chicken\">armagazine.com/spinach-artichoke-chicken</a></i></lede>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b><i>HEALTHY</i></b> | <b><i>GLUTEN-FREE</i></b>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "attributeTextStyle",
+              "format": "html",
+              "text": "PER SERVING (1 BREAST AND <b>¼</b> CUP TOPPING): 469 CAL; 28G FAT (6G SAT); 44G PRO; 9G CARB (4G FIBER, 1G SUGARS); 477MG SODIUM"
+            },
+            {
+              "//": "======= YOU SAID CONTAINER ======",
+              "role": "container",
+              "layout": "youSaidContainerLayout",
+              "components": [
+                {
+                  "role": "pullquote",
+                  "layout": "bodySmallMarginAboveLayout",
+                  "textStyle": "youSaidQuoteTextStyle",
+                  "format": "html",
+                  "text": "“It freezes and reheats well, so I double the chicken recipe and freeze half for a meal later on. Occasionally, I’ll add a can of diced green chiles.”<br><pullquote-attribution>– STACY</pullquote-attribution>"
+                },
+                {
+                  "role": "pullquote",
+                  "layout": "bodySmallMarginAboveLayout",
+                  "textStyle": "youSaidQuoteTextStyle",
+                  "format": "html",
+                  "text": "“You can make this with frozen artichoke hearts for a little less sodium. Sprinkle a few capers on top and add a little paprika or cayenne pepper.”<br><pullquote-attribution>– ITALIANFOODIE</pullquote-attribution>"
+                }
+              ]
             }
           ]
         },
@@ -781,6 +1167,14 @@
         "top": 2
       }
     },
+    "bodySmallMarginAboveLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 10
+      }
+    },
     "bottomPhotoDividerLayout": {
       "//": "UNUSED"
     },
@@ -814,14 +1208,6 @@
     },
     "captionLayout": {
       "margin": 8
-    },
-    "collectionLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
-      "margin": {
-        "bottom": 10,
-        "top": 20
-      }
     },
     "darkModePaddingLayout": {
       "conditional": [
@@ -963,7 +1349,10 @@
       }
     },
     "ingredientsLayout": {
-      "margin": 10
+      "margin": {
+        "bottom": 10,
+        "top": 10
+      }
     },
     "introLayout": {
       "columnSpan": 18,
@@ -976,9 +1365,6 @@
       "columnSpan": 18,
       "columnStart": 1
     },
-    "productImageStandardLayout": {
-      "minimumHeight": 280
-    },
     "pullQuoteLayout": {
       "columnSpan": 16,
       "columnStart": 2,
@@ -990,6 +1376,10 @@
     "reviewLayout": {
       "columnSpan": 18,
       "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 5
+      },
       "padding": {
         "left": 85,
         "top": 2
@@ -1150,6 +1540,14 @@
         "all": {
           "width": 4,
           "color": "#000"
+        }
+      }
+    },
+    "calloutStyle2": {
+      "border": {
+        "all": {
+          "color": "#feaa26",
+          "width": 4
         }
       }
     },
@@ -1404,6 +1802,13 @@
     },
     "titleStyle": {
       "//": "UNUSED"
+    },
+    "youSaidImageStyle": {
+      "backgroundColor": "#008080",
+      "mask": {
+        "radius": "60cw",
+        "type": "corners"
+      }
     }
   },
   "textStyles": {
@@ -1411,6 +1816,9 @@
       "fontName": "CaslonDoricApp-Regular",
       "fontSize": 10,
       "textColor": "#8d8d8d"
+    },
+    "default-tag-bold": {
+      "fontName": "GothamNarrow-Bold"
     },
     "default-tag-caption-heading": {
       "fontName": "CaslonDoricApp-Bold",
@@ -1427,6 +1835,12 @@
       "fontName": "CaslonDoricApp-Bold",
       "fontSize": 16,
       "tracking": 0.05
+    },
+    "default-tag-m": {
+      "fontName": "Gotham-Medium"
+    },
+    "default-tag-mi": {
+      "fontName": "Gotham-MediumItalic"
     },
     "default-tag-pullquote-attribution": {
       "fontName": "GothamCondensed-Medium",
@@ -1727,7 +2141,12 @@
     "recipeDetailsTextStyle": {
       "fontName": "GothamNarrow-Book",
       "fontSize": 14,
-      "lineHeight": 16
+      "lineHeight": 16,
+      "linkStyle": {
+        "fontName": "GothamNarrow-Bold",
+        "textColor": "#000",
+        "underline": true
+      }
     },
     "reviewsTextStyle": {
       "conditional": [

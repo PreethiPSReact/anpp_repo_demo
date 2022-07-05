@@ -1,7 +1,7 @@
 {
   "version": "1.9",
-  "identifier": "alr_article_899-131-4-1",
-  "title": "HEAD STARTERS",
+  "identifier": "alr_article_899-131-22-1",
+  "title": "PICK YOUR POT",
   "language": "en",
   "layout": {
     "columns": 20,
@@ -9,14 +9,14 @@
     "margin": 40,
     "width": 1024
   },
-  "subtitle": "<p><b><custom name=\"underline\">Save time with dinners that make tasty use of prepared packaged products, such as frozen spinach, jarred salsa, rotisserie chicken, and refrigerated pizza dough.</custom></b></p>",
+  "subtitle": "<p><b><custom name=\"underline\">What&rsquo;s your go-to cooking vessel? Whether it&rsquo;s your skillet, air fryer, electric multicooker, or slow cooker, you can put it to great use with these simple recipes.</custom></b></p>",
   "metadata": {
-    "dateCreated": "2022-06-21T16:54:03.742Z",
-    "dateModified": "2022-06-21T14:39:34+00:00",
-    "excerpt": "HANDS-ON 10 MIN",
+    "dateCreated": "2022-06-21T16:54:12.143Z",
+    "dateModified": "2022-06-21T15:00:56+00:00",
+    "excerpt": "HANDS-ON 15 MIN",
     "generatorName": "All-Recipes -- Recipe",
     "generatorVersion": "0.0.4.33-2022-06-09 18:32",
-    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p004-005-alt102382-andys-spicy-green-chile-pork2/199688-1-eng-GB/p004-005-alt102382-andys-spicy-green-chile-pork.jpg?q=100"
+    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p022-023-alt102382-red-curry-chicken/199247-1-eng-GB/p022-023-alt102382-red-curry-chicken.jpg?q=100"
   },
   "missingData": [
     {
@@ -25,9 +25,9 @@
       "layout": "singleBlockContainerLayout",
       "components": [
         {
-          "//": "======== IMAGE BLOCK - H78.0/W424.0 * 100 = 18.3962264 ========",
+          "//": "======== IMAGE BLOCK - H74.0/W421.0 * 100 = 17.5771971 ========",
           "role": "photo",
-          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0005-015/197357-1-eng-GB/f0005-012.jpg?q=100"
+          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0023-0131/197779-1-eng-GB/f0023-012.jpg?q=100"
         }
       ]
     },
@@ -37,27 +37,7 @@
       "style": "paragraphStyle",
       "textStyle": "bodyTextStyle",
       "format": "html",
-      "text": "301 REVIEWS"
-    },
-    {
-      "//": "======== SINGLE BLOCK CONTAINER ========",
-      "role": "container",
-      "layout": "singleBlockContainerLayout",
-      "components": [
-        {
-          "//": "======== IMAGE BLOCK - H74.0/W420.0 * 100 = 17.6190476 ========",
-          "role": "photo",
-          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0006-0147/197336-1-eng-GB/f0006-012.jpg?q=100"
-        }
-      ]
-    },
-    {
-      "role": "body",
-      "layout": "bodyLayout",
-      "style": "paragraphStyle",
-      "textStyle": "bodyTextStyle",
-      "format": "html",
-      "text": "772 REVIEWS"
+      "text": "19 REVIEWS"
     },
     {
       "//": "======== SINGLE BLOCK CONTAINER ========",
@@ -67,7 +47,7 @@
         {
           "//": "======== IMAGE BLOCK - H74.0/W421.0 * 100 = 17.5771971 ========",
           "role": "photo",
-          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0008-0113/197308-1-eng-GB/f0008-012.jpg?q=100"
+          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0024-0134/197758-1-eng-GB/f0024-012.jpg?q=100"
         }
       ]
     },
@@ -77,7 +57,67 @@
       "style": "paragraphStyle",
       "textStyle": "bodyTextStyle",
       "format": "html",
-      "text": "248 REVIEWS"
+      "text": "2,498 REVIEWS"
+    },
+    {
+      "//": "======== SINGLE BLOCK CONTAINER ========",
+      "role": "container",
+      "layout": "singleBlockContainerLayout",
+      "components": [
+        {
+          "//": "======== IMAGE BLOCK - H120.0/W647.0 * 100 = 18.5471406 ========",
+          "role": "photo",
+          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0025-0132/197730-1-eng-GB/f0025-012.jpg?q=100"
+        }
+      ]
+    },
+    {
+      "role": "body",
+      "layout": "bodyLayout",
+      "style": "paragraphStyle",
+      "textStyle": "bodyTextStyle",
+      "format": "html",
+      "text": "111 REVIEWS"
+    },
+    {
+      "//": "======== SINGLE BLOCK CONTAINER ========",
+      "role": "container",
+      "layout": "singleBlockContainerLayout",
+      "components": [
+        {
+          "//": "======== IMAGE BLOCK - H120.0/W647.0 * 100 = 18.5471406 ========",
+          "role": "photo",
+          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0026-0144/197709-1-eng-GB/f0026-012.jpg?q=100"
+        }
+      ]
+    },
+    {
+      "role": "body",
+      "layout": "bodyLayout",
+      "style": "paragraphStyle",
+      "textStyle": "bodyTextStyle",
+      "format": "html",
+      "text": "15 REVIEWS"
+    },
+    {
+      "//": "======== SINGLE BLOCK CONTAINER ========",
+      "role": "container",
+      "layout": "singleBlockContainerLayout",
+      "components": [
+        {
+          "//": "======== IMAGE BLOCK - H120.0/W647.0 * 100 = 18.5471406 ========",
+          "role": "photo",
+          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0028-0140/197667-1-eng-GB/f0028-012.jpg?q=100"
+        }
+      ]
+    },
+    {
+      "role": "body",
+      "layout": "bodyLayout",
+      "style": "paragraphStyle",
+      "textStyle": "bodyTextStyle",
+      "format": "html",
+      "text": "291 REVIEWS"
     },
     {
       "//": "======== SINGLE BLOCK CONTAINER ========",
@@ -87,7 +127,7 @@
         {
           "//": "======== IMAGE BLOCK - H74.0/W421.0 * 100 = 17.5771971 ========",
           "role": "photo",
-          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0009-0119/197280-1-eng-GB/f0009-012.jpg?q=100"
+          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0029-0131/197646-1-eng-GB/f0029-012.jpg?q=100"
         }
       ]
     },
@@ -97,7 +137,27 @@
       "style": "paragraphStyle",
       "textStyle": "bodyTextStyle",
       "format": "html",
-      "text": "251 REVIEWS"
+      "text": "18 REVIEWS"
+    },
+    {
+      "//": "======== SINGLE BLOCK CONTAINER ========",
+      "role": "container",
+      "layout": "singleBlockContainerLayout",
+      "components": [
+        {
+          "//": "======== IMAGE BLOCK - H120.0/W647.0 * 100 = 18.5471406 ========",
+          "role": "photo",
+          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0030-0140/197625-1-eng-GB/f0030-012.jpg?q=100"
+        }
+      ]
+    },
+    {
+      "role": "body",
+      "layout": "bodyLayout",
+      "style": "paragraphStyle",
+      "textStyle": "bodyTextStyle",
+      "format": "html",
+      "text": "157 REVIEWS"
     },
     {
       "//": "======== SINGLE BLOCK CONTAINER ========",
@@ -107,7 +167,7 @@
         {
           "//": "======== IMAGE BLOCK - H74.0/W421.0 * 100 = 17.5771971 ========",
           "role": "photo",
-          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0010-0116/197259-1-eng-GB/f0010-012.jpg?q=100"
+          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0031-0134/197597-1-eng-GB/f0031-012.jpg?q=100"
         }
       ]
     },
@@ -117,27 +177,7 @@
       "style": "paragraphStyle",
       "textStyle": "bodyTextStyle",
       "format": "html",
-      "text": "777 REVIEWS"
-    },
-    {
-      "//": "======== SINGLE BLOCK CONTAINER ========",
-      "role": "container",
-      "layout": "singleBlockContainerLayout",
-      "components": [
-        {
-          "//": "======== IMAGE BLOCK - H74.0/W421.0 * 100 = 17.5771971 ========",
-          "role": "photo",
-          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0011-0120/197238-1-eng-GB/f0011-012.jpg?q=100"
-        }
-      ]
-    },
-    {
-      "role": "body",
-      "layout": "bodyLayout",
-      "style": "paragraphStyle",
-      "textStyle": "bodyTextStyle",
-      "format": "html",
-      "text": "3,012 REVIEWS"
+      "text": "6,487 REVIEWS"
     }
   ],
   "documentStyle": {
@@ -192,7 +232,7 @@
           "layout": "titleLayout",
           "textStyle": "titleTextStyle",
           "format": "html",
-          "text": "HEAD STARTERS"
+          "text": "PICK YOUR POT"
         },
         {
           "//": "==== DEFAULT HEADER: INTRO ===",
@@ -200,7 +240,7 @@
           "layout": "introLayout",
           "textStyle": "introTextStyle",
           "format": "html",
-          "text": "Save time with dinners that make tasty use of prepared packaged products, such as frozen spinach, jarred salsa, rotisserie chicken, and refrigerated pizza dough."
+          "text": "What&rsquo;s your go-to cooking vessel? Whether it&rsquo;s your skillet, air fryer, electric multicooker, or slow cooker, you can put it to great use with these simple recipes."
         },
         {
           "//": "======== HERO IMAGE CONTAINER =======",
@@ -208,22 +248,22 @@
           "layout": "heroImageLayout",
           "components": [
             {
-              "//": "======== HERO IMAGE - H1822.0/W1366.0 * 100 = 133.3821376 ========",
+              "//": "======== HERO IMAGE - H1545.0/W1366.0 * 100 = 113.1039531 ========",
               "role": "photo",
               "layout": "fullBleedPhotoLayout",
               "caption": {
                 "format": "html",
-                "text": "<b>Head Starter</b><br>Jarred green salsa",
+                "text": "<b>Make It in a</b><br>Skillet",
                 "textStyle": "captionEmbeddedTextStyle"
               },
-              "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p004-005-alt102382-andys-spicy-green-chile-pork2/199688-1-eng-GB/p004-005-alt102382-andys-spicy-green-chile-pork.jpg?q=100"
+              "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p022-023-alt102382-red-curry-chicken/199247-1-eng-GB/p022-023-alt102382-red-curry-chicken.jpg?q=100"
             },
             {
               "role": "caption",
               "layout": "captionLayout",
               "textStyle": "captionTextStyle",
               "format": "html",
-              "text": "<caption-heading>Head Starter</caption-heading><br>Jarred green salsa"
+              "text": "<caption-heading>Make It in a</caption-heading><br>Skillet"
             }
           ]
         },
@@ -238,7 +278,7 @@
               "layout": "bodyLayout",
               "textStyle": "heading2TextStyle",
               "format": "html",
-              "text": "Andy’s Spicy Green Chile Pork"
+              "text": "Red Curry Chicken"
             },
             {
               "role": "body",
@@ -246,29 +286,80 @@
               "style": "paragraphStyle",
               "textStyle": "recipeDetailsTextStyle",
               "format": "html",
-              "text": "<lede>HANDS-ON </lede>10 MIN <lede>TOTAL</lede> 8 HR, 10 MIN <lede>SERVES </lede>8 <br><lede>SUBMITTED BY </lede>ANDYMPLS"
+              "text": "<lede>HANDS-ON</lede> 15 MIN <lede>TOTAL</lede> 30 MIN <lede>SERVES</lede> 4 <br><lede>SUBMITTED BY</lede> CULINARY ENVY"
             },
             {
-              "role": "heading",
-              "layout": "reviewLayout",
-              "style": "reviewFiveStarsStyle",
-              "textStyle": "reviewsTextStyle",
-              "format": "html",
-              "text": "301 REVIEWS"
+              "//": "====== REVIEWS ======",
+              "role": "container",
+              "layout": "bodyLayout2",
+              "contentDisplay": {
+                "type": "horizontal_stack"
+              },
+              "components": [
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": true
+                    }
+                  ],
+                  "hidden": false,
+                  "URL": "https://public-assets.meredithcorp.io/4cadea6bc3bbdd6b0bdfab5abedfb66f/fourstars.jpg"
+                },
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": false
+                    }
+                  ],
+                  "hidden": true,
+                  "URL": "https://public-assets.meredithcorp.io/8e401d3520fc3b0bec1ecdf6f118edf3/fourstarsDM.png"
+                },
+                {
+                  "role": "container",
+                  "layout": "smallSpacerLayout"
+                },
+                {
+                  "role": "body",
+                  "layout": {
+                    "padding": {
+                      "top": 0
+                    }
+                  },
+                  "textStyle": "reviewsTextStyle",
+                  "format": "html",
+                  "text": "19 REVIEWS"
+                }
+              ]
             },
             {
               "role": "body",
-              "layout": "bodyNoMarginAboveLayout",
+              "layout": "bodyLayout",
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<i>For taco night, serve the shredded pork in small tortillas with sliced radishes and limes for squeezing.</i>"
+              "text": "<i>Serve this simple curry with fresh basil and sliced chile pepper, plus lime wedges for squeezing.</i>"
             },
             {
               "role": "htmltable",
               "layout": "ingredientsLayout",
               "style": "ingredientsStyle",
-              "html": "<table><tr><td>2</td><td>cups chopped white onion (1 large onion)</td></tr><tr><td>2½</td><td>lb. pork shoulder roast</td></tr><tr><td>1½</td><td>tsp. salt</td></tr><tr><td>½</td><td>tsp. black pepper</td></tr><tr><td>1</td><td>(16-oz.) jar green salsa</td></tr><tr><td>½</td><td>cup chopped fresh cilantro, plus more for garnish</td></tr><tr><td>2</td><td>serrano peppers, or to taste</td></tr></table>"
+              "html": "<table><tr><td>1</td><td>(7-oz.) pkg. dried rice stick vermicelli noodles</td></tr><tr><td>2</td><td>Tbsp. olive oil or vegetable oil</td></tr><tr><td>1</td><td>lb. boneless, skinless chicken breasts, cut into bite-size pieces</td></tr><tr><td>¼</td><td>tsp. salt</td></tr><tr><td>1</td><td>(14-oz.) can unsweetened coconut milk</td></tr><tr><td>1</td><td>cup water</td></tr><tr><td>¼</td><td>cup red curry paste</td></tr></table>"
             },
             {
               "role": "body",
@@ -276,7 +367,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>1.</lede> Spread onion in a 4½- to 5-qt. slow cooker. Sprinkle pork all over with salt and pepper; transfer to slow cooker. Pour salsa over pork, sprinkle with cilantro, and add serranos."
+              "text": "<lede>1.</lede> Soak noodles in hot water 2 minutes; drain."
             },
             {
               "role": "body",
@@ -284,7 +375,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>2.</lede> Cook, covered, on Low until meat falls apart easily, about 8 hours. Gently transfer pork to a platter; shred using 2 forks. Remove and chop serranos."
+              "text": "<lede>2.</lede> Heat oil in a large skillet over high heat. Season chicken with salt. Cook until browned, about 4 minutes."
             },
             {
               "role": "body",
@@ -292,7 +383,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>3.</lede> Pour cooking liquid through a sieve set over a bowl; return half the liquid to slow cooker along with the strained vegetables and shredded pork. Add chopped serranos to taste. Garnish with additional cilantro."
+              "text": "<lede>3.</lede> Stir in drained noodles, coconut milk, water, and red curry paste. Bring mixture to boiling. Reduce heat and simmer, uncovered, until sauce is creamy and chicken is no longer pink, about 5 minutes."
             },
             {
               "role": "body",
@@ -300,7 +391,15 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede><a href=\"http://armagazine.com/andys-spicy-green-chile-pork\">armagazine.com/andys-spicy-green-chile-pork</a></i></lede>"
+              "text": "<a href=\"http://armagazine.com/red-curry-chicken\">armagazine.com/red-curry-chicken</a>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b><i>HIDDEN GEM</i></b> | <b><i>QUICK</i></b> | <b><i>GLUTEN-FREE</i></b>"
             },
             {
               "role": "body",
@@ -308,7 +407,327 @@
               "style": "paragraphStyle",
               "textStyle": "attributeTextStyle",
               "format": "html",
-              "text": "PER 1-CUP SERVING: 222 CAL; 13G FAT (5G SAT); 19G PRO; 6G CARB (1G FIBER, 3G SUGARS); 485MG SODIUM"
+              "text": "PER SERVING (1<b>½</b> CUPS): 579 CAL; 26G FAT (16G SAT); 29G PRO; 51G CARB (3G FIBER, 2G SUGARS); 911MG SODIUM"
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1225.0/W1366.0 * 100 = 89.6778917 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "caption": {
+                    "format": "html",
+                    "text": "<b>Make It in a</b><br>Skillet",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p024-alt102382-chicken-fried-chicken/199261-1-eng-GB/p024-alt102382-chicken-fried-chicken.jpg?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Make It in a</caption-heading><br>Skillet"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "bodyLayout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Chicken-Fried Chicken"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "recipeDetailsTextStyle",
+              "format": "html",
+              "text": "<lede>HANDS-ON</lede> 30 MIN <lede>TOTAL</lede> 40 MIN <lede>SERVES</lede> 6 <br><lede>SUBMITTED BY</lede> CASSJW"
+            },
+            {
+              "//": "====== REVIEWS ======",
+              "role": "container",
+              "layout": "bodyLayout2",
+              "contentDisplay": {
+                "type": "horizontal_stack"
+              },
+              "components": [
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": true
+                    }
+                  ],
+                  "hidden": false,
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common022/86031-1-eng-GB/common022.jpg"
+                },
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": false
+                    }
+                  ],
+                  "hidden": true,
+                  "URL": "https://public-assets.meredithcorp.io/ba3bbeb190fc45d4b5bb1d08c8fd2a5c/fiveDM.png"
+                },
+                {
+                  "role": "container",
+                  "layout": "smallSpacerLayout"
+                },
+                {
+                  "role": "body",
+                  "layout": {
+                    "padding": {
+                      "top": 0
+                    }
+                  },
+                  "textStyle": "reviewsTextStyle",
+                  "format": "html",
+                  "text": "2,498 REVIEWS"
+                }
+              ]
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td></td><td>Vegetable oil, for frying (about 2 cups)</td></tr><tr><td>¾</td><td>cup crushed saltine crackers (about 21 crackers)</td></tr><tr><td>2</td><td>Tbsp. dry potato flakes</td></tr><tr><td>2</td><td>Tbsp. flour</td></tr><tr><td>1</td><td>tsp. seasoned salt</td></tr><tr><td>½</td><td>tsp. black pepper</td></tr><tr><td>1</td><td>egg</td></tr><tr><td>1</td><td>Tbsp. water</td></tr><tr><td>6</td><td>(6- to 8-oz.) boneless, skinless chicken breasts</td></tr></table>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>1.</lede> Heat oil in a large skillet over medium heat until it reaches 350°F, 10 to 15 minutes."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>2.</lede> Meanwhile, put crushed crackers, potato flakes, flour, seasoned salt, and pepper in a large zip-top plastic bag. Seal bag, then shake to mix well."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>3.</lede> Whisk egg with the water in a shallow bowl. Dip each chicken breast in egg mixture, then put in bag with crumb mixture. Seal bag and shake to coat."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>4.</lede> Add chicken to hot oil in skillet; cook, turning frequently, 15 to 20 minutes, until golden brown and an instant-read thermometer inserted into thickest parts registers 165°F."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<a href=\"http://armagazine.com/chicken-fried-chicken\">armagazine.com/chicken-fried-chicken</a>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b><i>HEALTHY</i></b>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "attributeTextStyle",
+              "format": "html",
+              "text": "PER BREAST: 327 CAL; 13G FAT (2G SAT); 41G PRO; 9G CARB (1G FIBER, 0G SUGARS); 410MG SODIUM"
+            },
+            {
+              "//": "======= YOU SAID CONTAINER ======",
+              "role": "container",
+              "layout": "youSaidContainerLayout",
+              "components": [
+                {
+                  "role": "pullquote",
+                  "textStyle": "youSaidQuoteTextStyle",
+                  "format": "html",
+                  "text": "“I dredged the chicken in a bowl with ½ cup flour and a little seasoned salt, then in a second bowl with the egg, and then in a third bowl with the crumbs.”<br><pullquote-attribution>– SHEILA L.</pullquote-attribution>"
+                }
+              ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1716.0/W1366.0 * 100 = 125.6222548 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p025-alt102382-honey-apple-pork-chops/199268-1-eng-GB/p025-alt102382-honey-apple-pork-chops.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "bodyLayout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Honey-Apple Pork Chops"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "recipeDetailsTextStyle",
+              "format": "html",
+              "text": "<lede>HANDS-ON</lede> 10 MIN <lede>TOTAL</lede> 25 MIN <lede>SERVES</lede> 4 <br><lede>SUBMITTED BY</lede> CHRISTIE BIGGERS"
+            },
+            {
+              "//": "====== REVIEWS ======",
+              "role": "container",
+              "layout": "bodyLayout2",
+              "contentDisplay": {
+                "type": "horizontal_stack"
+              },
+              "components": [
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": true
+                    }
+                  ],
+                  "hidden": false,
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common0166/108858-1-eng-GB/common012.jpg?q=100"
+                },
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": false
+                    }
+                  ],
+                  "hidden": true,
+                  "URL": "https://public-assets.meredithcorp.io/8700c3d249629b59c38e0b147c58947c/fourDM.png"
+                },
+                {
+                  "role": "container",
+                  "layout": "smallSpacerLayout"
+                },
+                {
+                  "role": "body",
+                  "layout": {
+                    "padding": {
+                      "top": 0
+                    }
+                  },
+                  "textStyle": "reviewsTextStyle",
+                  "format": "html",
+                  "text": "111 REVIEWS"
+                }
+              ]
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td>4</td><td>(1-inch-thick) boneless or bone-in pork chops (about 2¼ lb.)</td></tr><tr><td>½</td><td>tsp. salt</td></tr><tr><td>½</td><td>tsp. black pepper</td></tr><tr><td>1</td><td>Tbsp. olive oil</td></tr><tr><td>2</td><td>apples, cut into wedges <i>[You could substitute 4 fresh apricots or peaches.]</i></td></tr><tr><td>3</td><td>cloves garlic, minced</td></tr><tr><td>2</td><td>Tbsp. honey</td></tr><tr><td>1</td><td>Tbsp. chopped fresh sage</td></tr></table>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>1.</lede> Pat chops dry with paper towels; season both sides with salt and pepper. Heat oil in a large skillet over medium-high heat; brown chops 3 to 5 minutes per side."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>2.</lede> Stir in apples, garlic, and honey. Reduce heat to medium-low and simmer, covered, about 5 minutes, until pork is tender and an instant-read thermometer inserted into centers registers 145°F. Sprinkle with sage."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<a href=\"http://armagazine.com/honey-apple-pork-chops\">armagazine.com/honey-apple-pork-chops</a>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b><i>HEALTHY</i></b> | <b><i>QUICK</i></b> | <b><i>GLUTEN-FREE</i></b>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "attributeTextStyle",
+              "format": "html",
+              "text": "PER SERVING: 303 CAL; 8G FAT (2G SAT); 43G PRO; 14G CARB (1G FIBER, 12G SUGARS); 246MG SODIUM"
+            },
+            {
+              "//": "======= YOU SAID CONTAINER ======",
+              "role": "container",
+              "layout": "youSaidContainerLayout",
+              "components": [
+                {
+                  "role": "pullquote",
+                  "textStyle": "youSaidQuoteTextStyle",
+                  "format": "html",
+                  "text": "“I seared the meat about four minutes per side. I then removed the pork, added the sauce, and simmered until it thickened up a bit. I returned the meat to the pan and simmered only five or so minutes.”<br><pullquote-attribution>– ASCHILL</pullquote-attribution>"
+                }
+              ]
             },
             {
               "//": "======= YOU SAID CONTAINER ======",
@@ -338,7 +757,7 @@
                           "type": "corners"
                         }
                       },
-                      "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/kat_high/197364-1-eng-GB/kat_high2.jpg?q=100"
+                      "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/tieraconyer_081/197737-1-eng-GB/tieraconyer_0812.jpg?q=100"
                     }
                   ]
                 },
@@ -346,7 +765,7 @@
                   "role": "pullquote",
                   "textStyle": "youSaidQuoteTextStyle",
                   "format": "html",
-                  "text": "“This is fantastic! My husband said this was the best chile verde dish he has tasted in years. I took some to my coworkers, and they raved about it, too.”<br><pullquote-attribution>– KAT</pullquote-attribution>"
+                  "text": "“I added a lot more honey and used canned apricots. Be generous with salt on the chops. I served this with rice to absorb some sauce. A big hit!”<br><pullquote-attribution>– TIERA CONYERS-EVERITT</pullquote-attribution>"
                 }
               ]
             },
@@ -356,22 +775,22 @@
               "layout": "fullBleedContainerLayout",
               "components": [
                 {
-                  "//": "======== IMAGE BLEED - H1078.0/W1366.0 * 100 = 78.9165447 ========",
+                  "//": "======== IMAGE BLEED - H1779.0/W1366.0 * 100 = 130.2342606 ========",
                   "role": "photo",
                   "layout": "fullBleedPhotoLayout",
                   "caption": {
                     "format": "html",
-                    "text": "<b>Head Starters</b><br>Frozen pie crust &amp; bacon bits",
+                    "text": "<b>Make It in an</b><br>Air fryer",
                     "textStyle": "captionEmbeddedTextStyle"
                   },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p006-alt102382-easy-bacon-cheese-quiche2/199695-1-eng-GB/p006-alt102382-easy-bacon-cheese-quiche.jpg?q=100"
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p026-alt102382-air-fryer-ribeye-steak/199254-1-eng-GB/p026-alt102382-air-fryer-ribeye-steak.jpg?q=100"
                 },
                 {
                   "role": "caption",
                   "layout": "captionLayout",
                   "textStyle": "captionTextStyle",
                   "format": "html",
-                  "text": "<caption-heading>Head Starters</caption-heading><br>Frozen pie crust &amp; bacon bits"
+                  "text": "<caption-heading>Make It in an</caption-heading><br>Air fryer"
                 }
               ]
             },
@@ -380,7 +799,7 @@
               "layout": "bodyLayout",
               "textStyle": "heading2TextStyle",
               "format": "html",
-              "text": "Easy Bacon and Cheese Quiche"
+              "text": "Air Fryer Ribeye Steak"
             },
             {
               "role": "body",
@@ -388,29 +807,72 @@
               "style": "paragraphStyle",
               "textStyle": "recipeDetailsTextStyle",
               "format": "html",
-              "text": "<lede>HANDS-ON</lede> 10 MIN <lede>TOTAL</lede> 40 MIN <lede>SERVES</lede> 6 <br><lede>SUBMITTED BY</lede> DAWN EGAN"
+              "text": "<lede>HANDS-ON</lede> 5 MIN <lede>TOTAL</lede> 2 HR, 25 MIN <lede>SERVES</lede> 2 <br><lede>SUBMITTED BY</lede> ALAN"
             },
             {
-              "role": "heading",
-              "layout": "reviewLayout",
-              "style": "reviewFiveStarsStyle",
-              "textStyle": "reviewsTextStyle",
-              "format": "html",
-              "text": "772 REVIEWS"
-            },
-            {
-              "role": "body",
-              "layout": "bodyNoMarginAboveLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<i>Top wedges of this quiche with chopped fresh chives.</i>"
+              "//": "====== REVIEWS ======",
+              "role": "container",
+              "layout": "bodyLayout2",
+              "contentDisplay": {
+                "type": "horizontal_stack"
+              },
+              "components": [
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": true
+                    }
+                  ],
+                  "hidden": false,
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common022/86031-1-eng-GB/common022.jpg"
+                },
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": false
+                    }
+                  ],
+                  "hidden": true,
+                  "URL": "https://public-assets.meredithcorp.io/ba3bbeb190fc45d4b5bb1d08c8fd2a5c/fiveDM.png"
+                },
+                {
+                  "role": "container",
+                  "layout": "smallSpacerLayout"
+                },
+                {
+                  "role": "body",
+                  "layout": {
+                    "padding": {
+                      "top": 0
+                    }
+                  },
+                  "textStyle": "reviewsTextStyle",
+                  "format": "html",
+                  "text": "15 REVIEWS"
+                }
+              ]
             },
             {
               "role": "htmltable",
               "layout": "ingredientsLayout",
               "style": "ingredientsStyle",
-              "html": "<table><tr><td>1</td><td>(9-inch) deep-dish frozen pie crust</td></tr><tr><td>2</td><td>cups shredded Swiss and/or grated Parmesan cheese (8 oz.)</td></tr><tr><td>½</td><td>cup real bacon bits</td></tr><tr><td>4</td><td>eggs, lightly beaten</td></tr><tr><td>1</td><td>cup half-and-half</td></tr></table>"
+              "html": "<table><tr><td>⅓</td><td>cup less-sodium soy sauce</td></tr><tr><td>3</td><td>Tbsp. olive oil</td></tr><tr><td>1</td><td>Tbsp. Montreal Steak Seasoning or other grill seasoning</td></tr><tr><td>2</td><td>(1½-inch-thick) ribeye steaks</td></tr><tr><td>1</td><td>Tbsp. water</td></tr></table>"
             },
             {
               "role": "body",
@@ -418,7 +880,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>1.</lede> Preheat oven to 400°F."
+              "text": "<lede>1.</lede> Put soy sauce, oil, and steak seasoning in a large zip-top plastic bag; seal and shake to combine. Add steaks to bag; seal and turn to coat. Chill at least 2 hours."
             },
             {
               "role": "body",
@@ -426,7 +888,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>2.</lede> Put frozen pie crust on a baking sheet. Stir together cheese, and bacon bits in a bowl; spread evenly in crust. In the same bowl, whisk together eggs and half-and-half; pour over cheese mixture."
+              "text": "<lede>2.</lede> Remove steaks from bag, discarding marinade, and pat off excess oil with paper towels."
             },
             {
               "role": "body",
@@ -434,7 +896,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>3.</lede> Bake 15 minutes. Reduce heat to 350°F; continue baking until quiche begins to brown, top is puffed, and a knife inserted in center comes out clean, 12 to 15 minutes more."
+              "text": "<lede>3.</lede> Add about 1 Tbsp. water to air fryer pan (to prevent smoking) and preheat to 400°F. Arrange steaks in a single layer in fryer basket; cook 5 minutes. Turn steaks; cook until desired doneness (145°F for medium-rare), 5 to 10 minutes."
             },
             {
               "role": "body",
@@ -442,7 +904,23 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede><a href=\"http://armagazine.com/easy-bacon-and-cheese-quiche\">armagazine.com/easy-bacon-and-cheese-quiche</a></i></lede>"
+              "text": "<lede>4.</lede> Remove steaks from air fryer and let stand about 4 minutes before serving."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<a href=\"http://armagazine.com/air-fryer-ribeye-steak\">armagazine.com/air-fryer-ribeye-steak</a>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b><i>HIDDEN GEM</i></b>"
             },
             {
               "role": "body",
@@ -450,7 +928,272 @@
               "style": "paragraphStyle",
               "textStyle": "attributeTextStyle",
               "format": "html",
-              "text": "PER SLICE: 484 CAL; 32G FAT (14G SAT); 22G PRO; 23G CARB (1G FIBER, 2G SUGARS); 855MG SODIUM"
+              "text": "PER STEAK: 419 CAL; 21G FAT (7G SAT); 57G PRO; 0G CARB (0G FIBER, 0G SUGARS); 405MG SODIUM"
+            },
+            {
+              "//": "======= YOU SAID CONTAINER ======",
+              "role": "container",
+              "layout": "youSaidContainerLayout",
+              "components": [
+                {
+                  "role": "pullquote",
+                  "textStyle": "youSaidQuoteTextStyle",
+                  "format": "html",
+                  "text": "“My husband was so upset that I was putting our ribeyes in the air fryer—until they came out! He was amazed. When it’s just the two of us, we will probably never grill our steak again.”<br><pullquote-attribution>– TBURGESS</pullquote-attribution>"
+                }
+              ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1687.0/W1366.0 * 100 = 123.4992679 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p027-alt102382-scallops-lemon-herb-sauce/199275-1-eng-GB/p027-alt102382-scallops-lemon-herb-sauce.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "bodyLayout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Scallops With Lemon-Herb Sauce"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "recipeDetailsTextStyle",
+              "format": "html",
+              "text": "<lede>HANDS-ON</lede> 10 MIN <lede>TOTAL</lede> 20 MIN <lede>SERVES</lede> 2"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "recipeDetailsTextStyle",
+              "format": "html",
+              "text": "<a href=\"http://armagazine.com/scallops-with-lemon-herb-sauce\">NEW RECIPE GO ONLINE TO RATE &amp; REVIEW</a>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<i>Be sure to cook the scallops to temperature. They may not brown in the fryer, so don’t wait for a golden crust to tell you they’re ready.</i>"
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td>8</td><td>large sea scallops (8 oz. total), rinsed and patted dry</td></tr><tr><td>¼</td><td>tsp. black pepper</td></tr><tr><td>⅛</td><td>tsp. salt</td></tr><tr><td>¼</td><td>cup olive oil</td></tr><tr><td>2</td><td>Tbsp. chopped parsley, plus more for garnish</td></tr><tr><td>2</td><td>tsp. finely chopped capers</td></tr><tr><td>1</td><td>tsp. finely grated lemon zest</td></tr><tr><td>½</td><td>tsp. finely chopped garlic</td></tr><tr><td></td><td>Lemon wedges (optional)</td></tr></table>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>1.</lede> Preheat an air fryer to 400°F. Coat fryer basket with cooking spray."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>2.</lede> Sprinkle scallops with pepper and salt. Arrange scallops in fryer basket and coat with cooking spray. Cook about 6 minutes, or until an instant-read thermometer inserted in centers registers 120°F."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>3.</lede> Meanwhile, stir together oil, parsley, capers, lemon zest, and garlic in a small bowl; drizzle sauce over scallops. Garnish with parsley leaves and lemon wedges (if using)."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<a href=\"http://armagazine.com/scallops-with-lemon-herb-sauce\">armagazine.com/scallops-with-lemon-herb-sauce</a>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b><i>HEALTHY</i></b> | <b><i>QUICK</i></b> | <b><i>GLUTEN-FREE</i></b>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "attributeTextStyle",
+              "format": "html",
+              "text": "PER 4-SCALLOP SERVING: 348 CAL; 30G FAT (4G SAT); 14G PRO; 5G CARB (0G FIBER, 0G SUGARS); 660MG SODIUM"
+            },
+            {
+              "//": "======= YOU SAID CONTAINER ======",
+              "role": "container",
+              "layout": "youSaidContainerLayout",
+              "components": [
+                {
+                  "role": "pullquote",
+                  "textStyle": "youSaidQuoteTextStyle",
+                  "format": "html",
+                  "text": "“I never would have thought to put scallops in the air fryer, but I will never cook them any other way. Super easy recipe to follow for a fresh and delicious dinner on the table in no time!”<br><pullquote-attribution>– ALLY SORRELLS</pullquote-attribution>"
+                }
+              ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H2702.0/W1843.0 * 100 = 146.60879 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/m7003925_bp_083/197681-1-eng-GB/m7003925_bp_0832.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "bodyLayout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Instant Pot Barbecued Beef Ribs"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "recipeDetailsTextStyle",
+              "format": "html",
+              "text": "<lede>HANDS-ON</lede> 10 MIN <lede>TOTAL</lede> 1 HR <lede>SERVES</lede> 4 <br><lede>SUBMITTED BY</lede> SHARRON"
+            },
+            {
+              "//": "====== REVIEWS ======",
+              "role": "container",
+              "layout": "bodyLayout2",
+              "contentDisplay": {
+                "type": "horizontal_stack"
+              },
+              "components": [
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": true
+                    }
+                  ],
+                  "hidden": false,
+                  "URL": "https://public-assets.meredithcorp.io/4cadea6bc3bbdd6b0bdfab5abedfb66f/fourstars.jpg"
+                },
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": false
+                    }
+                  ],
+                  "hidden": true,
+                  "URL": "https://public-assets.meredithcorp.io/8e401d3520fc3b0bec1ecdf6f118edf3/fourstarsDM.png"
+                },
+                {
+                  "role": "container",
+                  "layout": "smallSpacerLayout"
+                },
+                {
+                  "role": "body",
+                  "layout": {
+                    "padding": {
+                      "top": 0
+                    }
+                  },
+                  "textStyle": "reviewsTextStyle",
+                  "format": "html",
+                  "text": "291 REVIEWS"
+                }
+              ]
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<i>Sprinkle these ribs with sliced green onion just before serving.</i>"
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td>1½</td><td>cups water</td></tr><tr><td>1</td><td>cup ketchup</td></tr><tr><td>1</td><td>(6-oz.) can tomato paste</td></tr><tr><td>¾</td><td>cup packed brown sugar</td></tr><tr><td>½</td><td>cup cider vinegar</td></tr><tr><td>2</td><td>Tbsp. yellow mustard</td></tr><tr><td>1¼</td><td>tsp. salt</td></tr><tr><td>4</td><td>lb. beef short ribs or beef back ribs</td></tr></table>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>1.</lede> Mix together water, ketchup, tomato paste, brown sugar, vinegar, mustard, and salt in an electric multicooker, stirring to dissolve brown sugar and salt. Add ribs and turn to coat."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>2.</lede> Close and lock lid. Select High Pressure and set timer for 30 minutes. (Allow about 9 minutes for pressure to build.) Let pressure release naturally, about 10 minutes. Carefully remove lid. Transfer ribs to a platter. Serve with sauce after skimming off fat."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<a href=\"http://armagazine.com/slow-cooker-barbecued-beef-ribs\">armagazine.com/slow-cooker-barbecued-beef-ribs</a>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b><i>GLUTEN-FREE</i></b>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "attributeTextStyle",
+              "format": "html",
+              "text": "PER SERVING (7<b>¼</b> OZ. MEAT WITHOUT BONES AND <b>¼</b> CUP SAUCE): 765 CAL; 31G FAT (13G SAT); 55G PRO; 66G CARB (2G FIBER, 58G SUGARS); 1,547MG SODIUM"
             },
             {
               "//": "======= YOU SAID CONTAINER ======",
@@ -480,7 +1223,7 @@
                           "type": "corners"
                         }
                       },
-                      "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/susanlogsdo_076/197343-1-eng-GB/susanlogsdo_0762.jpg?q=100"
+                      "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/lori/197674-1-eng-GB/lori2.jpg?q=100"
                     }
                   ]
                 },
@@ -488,9 +1231,162 @@
                   "role": "pullquote",
                   "textStyle": "youSaidQuoteTextStyle",
                   "format": "html",
-                  "text": "“I’ve added broccoli, chopped tomatoes, and mushrooms; substituted ham for the bacon; and gone Tex-Mex with pepper Jack, jalapeños and salsa.”<br><pullquote-attribution>– SUSAN LOGSDON</pullquote-attribution>"
+                  "text": "“Terrific! I seasoned the ribs with salt and pepper, then seared them on all sides before adding to the cooker. That provides a caramelized crust on the ribs.”<br><pullquote-attribution>– LORI</pullquote-attribution>"
                 }
               ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H3255.0/W2211.0 * 100 = 147.2184532 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "caption": {
+                    "format": "html",
+                    "text": "<b>Make It in an</b><br>Electric multicooker",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/103038711/197653-1-eng-GB/1030387112.jpg?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Make It in an</caption-heading><br>Electric multicooker"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "bodyLayout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Instant Pot Frozen Salmon"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "recipeDetailsTextStyle",
+              "format": "html",
+              "text": "<lede>HANDS-ON </lede>5 MIN <lede>TOTAL </lede>20 MIN <lede>SERVES </lede>4 <br/><lede>SUBMITTED BY </lede>CAROL CASTELLUCCI MILLER"
+            },
+            {
+              "//": "====== REVIEWS ======",
+              "role": "container",
+              "layout": "bodyLayout2",
+              "contentDisplay": {
+                "type": "horizontal_stack"
+              },
+              "components": [
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": true
+                    }
+                  ],
+                  "hidden": false,
+                  "URL": "https://public-assets.meredithcorp.io/4cadea6bc3bbdd6b0bdfab5abedfb66f/fourstars.jpg"
+                },
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": false
+                    }
+                  ],
+                  "hidden": true,
+                  "URL": "https://public-assets.meredithcorp.io/8e401d3520fc3b0bec1ecdf6f118edf3/fourstarsDM.png"
+                },
+                {
+                  "role": "container",
+                  "layout": "smallSpacerLayout"
+                },
+                {
+                  "role": "body",
+                  "layout": {
+                    "padding": {
+                      "top": 0
+                    }
+                  },
+                  "textStyle": "reviewsTextStyle",
+                  "format": "html",
+                  "text": "18 REVIEWS"
+                }
+              ]
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td>1</td><td>cup cold water</td></tr><tr><td>¼</td><td>cup lemon juice</td></tr><tr><td>4</td><td>frozen salmon fillets (about 1 lb.)</td></tr><tr><td>¼</td><td>tsp. salt</td></tr><tr><td>⅛</td><td>tsp. black pepper</td></tr><tr><td>1</td><td>lemon, cut into wedges</td></tr></table>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>1.</lede> Add water and lemon juice to an electric multicooker. Insert a steamer rack and spray with cooking spray. Arrange salmon, skin sides down, on rack (fillets may overlap slightly)."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>2.</lede> Cover and lock lid. Set on High Pressure and bring up to pressure. Immediately quick-release steam. Salmon should flake easily with a fork."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>3.</lede> Sprinkle with salt and pepper. Serve with lemon wedges."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<a href=\"http://armagazine.com/instant-pot-frozen-salmon\">armagazine.com/instant-pot-frozen-salmon</a>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b><i>HEALTHY</i></b> | <b><i>QUICK</i></b> | <b><i>GLUTEN-FREE</i></b>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "attributeTextStyle",
+              "format": "html",
+              "text": "PER FILLET: 243 CAL; 15G FAT (4G SAT); 24G PRO; 4G CARB (1G FIBER, 1G SUGARS); 215MG SODIUM"
             },
             {
               "//": "======= YOU SAID CONTAINER ======",
@@ -499,10 +1395,9 @@
               "components": [
                 {
                   "role": "pullquote",
-                  "layout": "bodySmallMarginAboveLayout",
                   "textStyle": "youSaidQuoteTextStyle",
                   "format": "html",
-                  "text": "“I added a can of well-drained crabmeat and fresh spinach, and cooked it 10 minutes longer. I love this recipe. It’s quick and easy and tastes so good!”<br><pullquote-attribution>– DEE</pullquote-attribution>"
+                  "text": "“I added cauliflower to the pot before the salmon. I also used lots of dill on the salmon.”<br><pullquote-attribution>– SEQUOYAH KEARNS</pullquote-attribution>"
                 }
               ]
             },
@@ -512,22 +1407,10 @@
               "layout": "fullBleedContainerLayout",
               "components": [
                 {
-                  "//": "======== IMAGE BLEED - H1823.0/W1366.0 * 100 = 133.4553441 ========",
+                  "//": "======== IMAGE BLEED - H1743.0/W1366.0 * 100 = 127.5988287 ========",
                   "role": "photo",
                   "layout": "fullBleedPhotoLayout",
-                  "caption": {
-                    "format": "html",
-                    "text": "<b>Head Starter</b><br>Canned tuna",
-                    "textStyle": "captionEmbeddedTextStyle"
-                  },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p007-alt102382-tuna-alfredo/199135-1-eng-GB/p007-alt102382-tuna-alfredo.jpg?q=100"
-                },
-                {
-                  "role": "caption",
-                  "layout": "captionLayout",
-                  "textStyle": "captionTextStyle",
-                  "format": "html",
-                  "text": "<caption-heading>Head Starter</caption-heading><br>Canned tuna"
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p030-alt102382-sweet-sour-brisket/199282-1-eng-GB/p030-alt102382-sweet-sour-brisket.jpg?q=100"
                 }
               ]
             },
@@ -536,7 +1419,7 @@
               "layout": "bodyLayout",
               "textStyle": "heading2TextStyle",
               "format": "html",
-              "text": "Tuna Alfredo"
+              "text": "Sweet-and-Sour Brisket"
             },
             {
               "role": "body",
@@ -544,124 +1427,72 @@
               "style": "paragraphStyle",
               "textStyle": "recipeDetailsTextStyle",
               "format": "html",
-              "text": "<lede>HANDS-ON</lede> 15 MIN <lede>TOTAL</lede> 15 MIN <lede>SERVES</lede> 6 <br><lede>SUBMITTED BY</lede> EATANDRUN"
+              "text": "<lede>HANDS-ON</lede> 15 MIN <lede>TOTAL</lede> 3 HR, 10 MIN <lede>SERVES</lede> 10 <br><lede>SUBMITTED BY</lede> LOUISE"
             },
             {
-              "//": "***** NEW RECIPE LINK *****",
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "recipeDetailsTextStyle",
-              "format": "html",
-              "text": "<a href=\"http://armagazine.com/tuna-alfredo\">NEW RECIPE GO ONLINE TO RATE &amp; REVIEW</a>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<i>Give this pasta a burst of color and flavor with chopped fresh parsley and freshly ground black pepper.</i>"
-            },
-            {
-              "role": "htmltable",
-              "layout": "ingredientsLayout",
-              "style": "ingredientsStyle",
-              "html": "<table><tr><td>1</td><td>(15-oz.) jar Alfredo sauce</td></tr><tr><td>1</td><td>lemon, zested and juiced</td></tr><tr><td>1</td><td>Tbsp. drained capers</td></tr><tr><td>½</td><td>tsp. black pepper</td></tr><tr><td>2</td><td>(5-oz.) cans tuna, drained and flaked</td></tr><tr><td>12</td><td>oz. fettuccine, cooked according to package directions</td></tr></table>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "Stir together Alfredo sauce, ½ tsp. lemon zest, 3 Tbsp. lemon juice, capers, and pepper in a small saucepan. Stir in tuna; cook over medium heat until heated through, about 5 minutes. Serve over fettuccine."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede><a href=\"http://armagazine.com/tuna-alfredo\">armagazine.com/tuna-alfredo</a></i></lede>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b><i>QUICK</i></b>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "attributeTextStyle",
-              "format": "html",
-              "text": "PER SERVING (1 CUP PASTA AND <b>⅓</b> CUP SAUCE): 386 CAL; 14G FAT (8G SAT); 19G PRO; 47G CARB (2G FIBER, 5G SUGARS); 581MG SODIUM"
-            },
-            {
-              "//": "======== FULL BLEED CONTAINER ========",
+              "//": "====== REVIEWS ======",
               "role": "container",
-              "layout": "fullBleedContainerLayout",
+              "layout": "bodyLayout2",
+              "contentDisplay": {
+                "type": "horizontal_stack"
+              },
               "components": [
                 {
-                  "//": "======== IMAGE BLEED - H3255.0/W2220.0 * 100 = 146.6216216 ========",
-                  "role": "photo",
-                  "layout": "fullBleedPhotoLayout",
-                  "caption": {
-                    "format": "html",
-                    "text": "<b>Head Starter</b><br>Refrigerated pizza dough",
-                    "textStyle": "captionEmbeddedTextStyle"
-                  },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/103100734-1_075/197315-1-eng-GB/103100734-1_0752.jpg?q=100"
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": true
+                    }
+                  ],
+                  "hidden": false,
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common0166/108858-1-eng-GB/common012.jpg?q=100"
                 },
                 {
-                  "role": "caption",
-                  "layout": "captionLayout",
-                  "textStyle": "captionTextStyle",
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": false
+                    }
+                  ],
+                  "hidden": true,
+                  "URL": "https://public-assets.meredithcorp.io/8700c3d249629b59c38e0b147c58947c/fourDM.png"
+                },
+                {
+                  "role": "container",
+                  "layout": "smallSpacerLayout"
+                },
+                {
+                  "role": "body",
+                  "layout": {
+                    "padding": {
+                      "top": 0
+                    }
+                  },
+                  "textStyle": "reviewsTextStyle",
                   "format": "html",
-                  "text": "<caption-heading>Head Starter</caption-heading><br>Refrigerated pizza dough"
+                  "text": "157 REVIEWS"
                 }
               ]
-            },
-            {
-              "role": "heading2",
-              "layout": "bodyLayout",
-              "textStyle": "heading2TextStyle",
-              "format": "html",
-              "text": "Pear and Gorgonzola Pizza"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "recipeDetailsTextStyle",
-              "format": "html",
-              "text": "<lede>HANDS-ON</lede> 15 MIN <lede>TOTAL</lede> 30 MIN <lede>SERVES</lede> 8 <br><lede>SUBMITTED BY</lede> BRIAN GOLDEN"
-            },
-            {
-              "role": "heading",
-              "layout": "reviewLayout",
-              "style": "reviewFourHalfStarsStyle",
-              "textStyle": "reviewsTextStyle",
-              "format": "html",
-              "text": "248 REVIEWS"
-            },
-            {
-              "role": "body",
-              "layout": "bodyNoMarginAboveLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<i>Add a little green to this pizza by sprinkling it with chopped fresh chives after baking.</i>"
             },
             {
               "role": "htmltable",
               "layout": "ingredientsLayout",
               "style": "ingredientsStyle",
-              "html": "<table><tr><td>1</td><td>(16-oz.) pkg. refrigerated pizza dough</td></tr><tr><td>4</td><td>oz. sliced provolone cheese (about 5 slices)</td></tr><tr><td>2</td><td>Bosc pears, thinly sliced</td></tr><tr><td>½</td><td>cup chopped walnuts</td></tr><tr><td>½</td><td>cup crumbled Gorgonzola or other blue cheese (2 oz.)</td></tr><tr><td>¼</td><td>tsp. salt</td></tr></table>"
+              "html": "<table><tr><td>4</td><td>lb. beef brisket, fat trimmed</td></tr><tr><td>2</td><td>cups sliced onions (about 2 onions)</td></tr><tr><td>1</td><td>cup water</td></tr><tr><td>1</td><td>cup ketchup</td></tr><tr><td>¾</td><td>cup packed brown sugar</td></tr><tr><td>½</td><td>cup white vinegar</td></tr><tr><td>1</td><td>Tbsp. kosher salt</td></tr><tr><td>1</td><td>clove garlic, minced</td></tr></table>"
             },
             {
               "role": "body",
@@ -669,7 +1500,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "Preheat oven to 450°F. Lightly coat a large baking sheet with cooking spray. Press dough into a 12-inch round on baking sheet; evenly layer on provolone, pears, walnuts, and Gorgonzola. Bake until cheese is melted and crust is golden brown, 13 to 15 minutes. Sprinkle with salt."
+              "text": "<lede>1.</lede> Brown brisket over medium-high heat in a large skillet, about 4 minutes per side. Stir together onions and remaining ingredients in a 5- to 6-qt. slow cooker. Add brisket and turn to coat. Cook, covered, until meat is tender, 5 to 6 hours on High or 10 to 12 hours on Low."
             },
             {
               "role": "body",
@@ -677,7 +1508,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede><a href=\"http://armagazine.com/pear-and-gorgonzola-pizza\">armagazine.com/pear-and-gorgonzola-pizza</a></i></lede>"
+              "text": "<lede>2.</lede> Transfer brisket to a cutting board. Tent lightly with foil and let stand 15 minutes before slicing against the grain. Skim any fat from sauce and serve sauce with brisket."
             },
             {
               "role": "body",
@@ -685,7 +1516,15 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b><i>QUICK</i></b> | <b><i>VEGETARIAN</i></b>"
+              "text": "<a href=\"http://armagazine.com/sweet-and-sour-brisket\">armagazine.com/sweet-and-sour-brisket</a>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b><i>GLUTEN-FREE</i></b>"
             },
             {
               "role": "body",
@@ -693,7 +1532,7 @@
               "style": "paragraphStyle",
               "textStyle": "attributeTextStyle",
               "format": "html",
-              "text": "PER SLICE: 296 CAL; 13G FAT (5G SAT); 11G PRO; 35G CARB (3G FIBER, 5G SUGARS); 598MG SODIUM"
+              "text": "PER 4-OZ. SERVING: 389 CAL; 18G FAT (7G SAT); 30G PRO; 26G CARB (1G FIBER, 23G SUGARS); 611MG SODIUM"
             },
             {
               "//": "======= YOU SAID CONTAINER ======",
@@ -702,10 +1541,9 @@
               "components": [
                 {
                   "role": "pullquote",
-                  "layout": "bodySmallMarginAboveLayout",
                   "textStyle": "youSaidQuoteTextStyle",
                   "format": "html",
-                  "text": "“I used refrigerated crescent roll dough as the crust. For color and some sweetness, I sprinkled ½ cup dried cranberries over the provolone.”<br><pullquote-attribution>– TERESSA DEJONG DRENTH</pullquote-attribution>"
+                  "text": "“I browned the meat in a pan and then put it in a slow cooker for 12 hours on Low. It’s perfect: I can start the meat before work, and it’s ready when I have guests over in the evening.”<br><pullquote-attribution>– FRESHJIVEN</pullquote-attribution>"
                 }
               ]
             },
@@ -715,22 +1553,22 @@
               "layout": "fullBleedContainerLayout",
               "components": [
                 {
-                  "//": "======== IMAGE BLEED - H1496.0/W1366.0 * 100 = 109.5168375 ========",
+                  "//": "======== IMAGE BLEED - H1213.0/W1366.0 * 100 = 88.7994143 ========",
                   "role": "photo",
                   "layout": "fullBleedPhotoLayout",
                   "caption": {
                     "format": "html",
-                    "text": "<b>Head Starter</b><br>Rotisserie chicken",
+                    "text": "<b>Make It in a</b><br>Slow cooker",
                     "textStyle": "captionEmbeddedTextStyle"
                   },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p009-alt102382-enchanted-sour-cream-chicken-enchiladas/199146-1-eng-GB/p009-alt102382-enchanted-sour-cream-chicken-enchiladas.jpg?q=100"
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p031-alt102382-zesty-slow-cooker-chicken-barbecue/199289-1-eng-GB/p031-alt102382-zesty-slow-cooker-chicken-barbecue.jpg?q=100"
                 },
                 {
                   "role": "caption",
                   "layout": "captionLayout",
                   "textStyle": "captionTextStyle",
                   "format": "html",
-                  "text": "<caption-heading>Head Starter</caption-heading><br>Rotisserie chicken"
+                  "text": "<caption-heading>Make It in a</caption-heading><br>Slow cooker"
                 }
               ]
             },
@@ -739,7 +1577,7 @@
               "layout": "bodyLayout",
               "textStyle": "heading2TextStyle",
               "format": "html",
-              "text": "Enchanted Sour Cream Chicken Enchiladas"
+              "text": "Zesty Slow Cooker Chicken Barbecue"
             },
             {
               "role": "body",
@@ -747,29 +1585,80 @@
               "style": "paragraphStyle",
               "textStyle": "recipeDetailsTextStyle",
               "format": "html",
-              "text": "<lede>HANDS-ON</lede> 15 MIN <lede>TOTAL</lede> 30 MIN <lede>SERVES</lede> 6 <br><lede>SUBMITTED BY</lede> KATE"
+              "text": "<lede>HANDS-ON</lede> 15 MIN <lede>TOTAL</lede> 4 HR, 15 MIN <lede>SERVES</lede> 8 <br><lede>SUBMITTED BY</lede> SUZANNE ELIZABETH MASTAW"
             },
             {
-              "role": "heading",
-              "layout": "reviewLayout",
-              "style": "reviewFourStarsStyle",
-              "textStyle": "reviewsTextStyle",
-              "format": "html",
-              "text": "251 REVIEWS"
+              "//": "====== REVIEWS ======",
+              "role": "container",
+              "layout": "bodyLayout2",
+              "contentDisplay": {
+                "type": "horizontal_stack"
+              },
+              "components": [
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": true
+                    }
+                  ],
+                  "hidden": false,
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common0166/108858-1-eng-GB/common012.jpg?q=100"
+                },
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": false
+                    }
+                  ],
+                  "hidden": true,
+                  "URL": "https://public-assets.meredithcorp.io/8700c3d249629b59c38e0b147c58947c/fourDM.png"
+                },
+                {
+                  "role": "container",
+                  "layout": "smallSpacerLayout"
+                },
+                {
+                  "role": "body",
+                  "layout": {
+                    "padding": {
+                      "top": 0
+                    }
+                  },
+                  "textStyle": "reviewsTextStyle",
+                  "format": "html",
+                  "text": "6,487 REVIEWS"
+                }
+              ]
             },
             {
               "role": "body",
-              "layout": "bodyNoMarginAboveLayout",
+              "layout": "bodyLayout",
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<i>Garnish these enchiladas with chopped fresh cilantro and sliced jalapeño peppers.</i>"
+              "text": "<i>Pile the pulled chicken with desired toppings, such as sliced cheese, red onion, and/or avocado.</i>"
             },
             {
               "role": "htmltable",
               "layout": "ingredientsLayout",
               "style": "ingredientsStyle",
-              "html": "<table><tr><td>2</td><td>cups cubed rotisserie chicken</td></tr><tr><td>1</td><td>cup sour cream</td></tr><tr><td>¼</td><td>tsp. salt</td></tr><tr><td>¼</td><td>tsp. black pepper</td></tr><tr><td>½</td><td>cup oil</td></tr><tr><td>12</td><td>(5-inch) corn tortillas</td></tr><tr><td>1</td><td>(4-oz.) can chopped green chiles, drained</td></tr><tr><td>2</td><td>cups shredded Monterey Jack cheese (8 oz.)</td></tr></table>"
+              "html": "<table><tr><td>1</td><td>(12-oz.) bottle barbecue sauce</td></tr><tr><td>½</td><td>cup Italian salad dressing</td></tr><tr><td>¼</td><td>cup packed brown sugar</td></tr><tr><td>2</td><td>Tbsp. Worcestershire sauce</td></tr><tr><td>6</td><td>boneless, skinless chicken breasts</td></tr><tr><td>8</td><td>hamburger buns</td></tr></table>"
             },
             {
               "role": "body",
@@ -777,7 +1666,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>1.</lede> Preheat oven to 400°F. Grease a 9x13-inch baking dish. Stir together chicken, sour cream, salt, and pepper in a bowl."
+              "text": "<lede>1.</lede> Stir together barbecue sauce, salad dressing, brown sugar, and Worcestershire in a 6-qt. slow cooker. Add chicken and toss to coat. Cook, covered, 4 to 5 hours on Low."
             },
             {
               "role": "body",
@@ -785,7 +1674,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>2.</lede> Heat oil in a skillet over medium-high heat. Dip 1 tortilla into hot oil until softened, about 10 seconds. Spoon 1 heaping Tbsp. chicken mixture in a line across middle of tortilla; roll into a cylinder. Transfer enchilada, seam side down, to prepared baking dish. Repeat with remaining tortillas and filling. Sprinkle with green chiles and cheese."
+              "text": "<lede>2.</lede> Transfer chicken to a cutting board or plate, then shred with 2 forks. Return to slow cooker; stir to coat. Serve on hamburger buns."
             },
             {
               "role": "body",
@@ -793,23 +1682,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>3.</lede> Bake until cheese has melted and enchiladas are hot, 12 to 15 minutes."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede><a href=\"http://armagazine.com/enchanted-sour-cream-chicken-enchiladas\">armagazine.com/enchanted-sour-cream-chicken-enchiladas</a></i></lede>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b><i>QUICK</i></b>"
+              "text": "<a href=\"http://armagazine.com/zesty-slow-cooker-chicken-barbecue\">armagazine.com/zesty-slow-cooker-chicken-barbecue</a>"
             },
             {
               "role": "body",
@@ -817,7 +1690,7 @@
               "style": "paragraphStyle",
               "textStyle": "attributeTextStyle",
               "format": "html",
-              "text": "PER SERVING (2 ENCHILADAS): 363 CAL; 22G FAT (11G SAT); 25G PRO; 16G CARB (1G FIBER, 1G SUGARS); 469MG SODIUM"
+              "text": "PER SERVING (INCLUDING BUNS): 401 CAL; 8G FAT (2G SAT); 33G PRO; 46G CARB (1G FIBER, 24G SUGARS); 895MG SODIUM"
             },
             {
               "//": "======= YOU SAID CONTAINER ======",
@@ -847,7 +1720,7 @@
                           "type": "corners"
                         }
                       },
-                      "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/102949890/197287-1-eng-GB/1029498902.jpg?q=100"
+                      "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/marilynwood_082/197604-1-eng-GB/marilynwood_0822.jpg?q=100"
                     }
                   ]
                 },
@@ -855,246 +1728,7 @@
                   "role": "pullquote",
                   "textStyle": "youSaidQuoteTextStyle",
                   "format": "html",
-                  "text": "“I diced one small onion and two small plum tomatoes and mixed them into the filling. Yummy!”<br><pullquote-attribution>– YARA CASTILLO</pullquote-attribution>"
-                }
-              ]
-            },
-            {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "fullBleedContainerLayout",
-              "components": [
-                {
-                  "//": "======== IMAGE BLEED - H1470.0/W1366.0 * 100 = 107.61347 ========",
-                  "role": "photo",
-                  "layout": "fullBleedPhotoLayout",
-                  "caption": {
-                    "format": "html",
-                    "text": "<b>Head Starter</b><br>Chicken in a pouch",
-                    "textStyle": "captionEmbeddedTextStyle"
-                  },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p010-alt102382-classic-chicken-salad/199163-1-eng-GB/p010-alt102382-classic-chicken-salad.jpg?q=100"
-                },
-                {
-                  "role": "caption",
-                  "layout": "captionLayout",
-                  "textStyle": "captionTextStyle",
-                  "format": "html",
-                  "text": "<caption-heading>Head Starter</caption-heading><br>Chicken in a pouch"
-                }
-              ]
-            },
-            {
-              "role": "heading2",
-              "layout": "bodyLayout",
-              "textStyle": "heading2TextStyle",
-              "format": "html",
-              "text": "Classic Chicken Salad"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "recipeDetailsTextStyle",
-              "format": "html",
-              "text": "<lede>HANDS-ON</lede> 10 MIN <lede>TOTAL</lede> 10 MIN <lede>SERVES</lede> 2 <br><lede>SUBMITTED BY</lede> JACKIE"
-            },
-            {
-              "role": "heading",
-              "layout": "reviewLayout",
-              "style": "reviewFiveStarsStyle",
-              "textStyle": "reviewsTextStyle",
-              "format": "html",
-              "text": "777 REVIEWS"
-            },
-            {
-              "role": "body",
-              "layout": "bodyNoMarginAboveLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<i>Serve this simple salad in lettuce leaves sprinkled with chopped fresh parsley.</i>"
-            },
-            {
-              "role": "htmltable",
-              "layout": "ingredientsLayout",
-              "style": "ingredientsStyle",
-              "html": "<table><tr><td>½</td><td>cup sliced or slivered almonds</td></tr><tr><td>½</td><td>cup mayonnaise</td></tr><tr><td>1</td><td>Tbsp. lemon juice</td></tr><tr><td>¼</td><td>tsp. black pepper</td></tr><tr><td>4</td><td>(2.6-oz.) pouches cooked chopped chicken</td></tr><tr><td>1</td><td>celery stalk, chopped</td></tr></table>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>1.</lede> Toast almonds in a dry skillet over medium heat, shaking skillet frequently, 4 to 5 minutes (they burn easily, so watch carefully)."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>2.</lede> Stir together mayonnaise, lemon juice, and pepper in a bowl. Add chicken, celery, and almonds; toss to coat."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede><a href=\"http://armagazine.com/chicken-salad\">armagazine.com/chicken-salad</a></i></lede>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b><i>HEALTHY</i></b> | <b><i>QUICK</i></b>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "attributeTextStyle",
-              "format": "html",
-              "text": "PER SERVING: 779 CAL; 63G FAT (9G SAT); 44G PRO; 8G CARB (3G FIBER, 2G SUGARS); 403MG SODIUM"
-            },
-            {
-              "//": "======= YOU SAID CONTAINER ======",
-              "role": "container",
-              "layout": "youSaidContainerLayout",
-              "components": [
-                {
-                  "role": "pullquote",
-                  "layout": "bodySmallMarginAboveLayout",
-                  "textStyle": "youSaidQuoteTextStyle",
-                  "format": "html",
-                  "text": "“I substituted shredded carrots for the celery, sunflower seeds for the almonds, and added ¼ cup chopped onion. I served it open-faced on toasted cheese bagels.”<br><pullquote-attribution>– HEATHER</pullquote-attribution>"
-                }
-              ]
-            },
-            {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "fullBleedContainerLayout",
-              "components": [
-                {
-                  "//": "======== IMAGE BLEED - H1278.0/W1366.0 * 100 = 93.5578331 ========",
-                  "role": "photo",
-                  "layout": "fullBleedPhotoLayout",
-                  "caption": {
-                    "format": "html",
-                    "text": "<b>Head Starter</b><br>Frozen spinach",
-                    "textStyle": "captionEmbeddedTextStyle"
-                  },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p011-alt102382-spinach-artichoke-chicken/199170-1-eng-GB/p011-alt102382-spinach-artichoke-chicken.jpg?q=100"
-                },
-                {
-                  "role": "caption",
-                  "layout": "captionLayout",
-                  "textStyle": "captionTextStyle",
-                  "format": "html",
-                  "text": "<caption-heading>Head Starter</caption-heading><br>Frozen spinach"
-                }
-              ]
-            },
-            {
-              "role": "heading2",
-              "layout": "bodyLayout",
-              "textStyle": "heading2TextStyle",
-              "format": "html",
-              "text": "Spinach-Artichoke Chicken"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "recipeDetailsTextStyle",
-              "format": "html",
-              "text": "<lede>HANDS-ON</lede> 10 MIN <lede>TOTAL</lede> 45 MIN <lede>SERVES</lede> 6 <br><lede>SUBMITTED BY</lede> AMANDA BIBB"
-            },
-            {
-              "role": "heading",
-              "layout": "reviewLayout",
-              "style": "reviewFourStarsStyle",
-              "textStyle": "reviewsTextStyle",
-              "format": "html",
-              "text": "3,012 REVIEWS"
-            },
-            {
-              "role": "htmltable",
-              "layout": "ingredientsLayout",
-              "style": "ingredientsStyle",
-              "html": "<table><tr><td>1</td><td>(15-oz.) can artichoke hearts, drained and chopped</td></tr><tr><td>1</td><td>(10-oz.) pkg. frozen spinach, thawed and squeezed dry</td></tr><tr><td>¾</td><td>cup grated Parmesan cheese (3 oz.)</td></tr><tr><td>¾</td><td>cup mayonnaise</td></tr><tr><td>½</td><td>tsp. black pepper</td></tr><tr><td>¼</td><td>tsp. garlic powder (optional)</td></tr><tr><td>6</td><td>boneless, skinless chicken breasts</td></tr></table>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>1.</lede> Preheat oven to 375°F. Line a 10x15-inch baking pan with foil; lightly coat with cooking spray."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>2.</lede> Stir together artichokes, spinach, Parmesan, mayonnaise, pepper, and garlic powder (if using). Arrange chicken in prepared pan. Cover evenly with artichoke mixture."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>3.</lede> Bake chicken 35 to 40 minutes, or until an instant-read thermometer inserted into thickest parts registers 165°F."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede><a href=\"http://armagazine.com/spinach-artichoke-chicken\">armagazine.com/spinach-artichoke-chicken</a></i></lede>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b><i>HEALTHY</i></b> | <b><i>GLUTEN-FREE</i></b>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "attributeTextStyle",
-              "format": "html",
-              "text": "PER SERVING (1 BREAST AND <b>¼</b> CUP TOPPING): 469 CAL; 28G FAT (6G SAT); 44G PRO; 9G CARB (4G FIBER, 1G SUGARS); 477MG SODIUM"
-            },
-            {
-              "//": "======= YOU SAID CONTAINER ======",
-              "role": "container",
-              "layout": "youSaidContainerLayout",
-              "components": [
-                {
-                  "role": "pullquote",
-                  "layout": "bodySmallMarginAboveLayout",
-                  "textStyle": "youSaidQuoteTextStyle",
-                  "format": "html",
-                  "text": "“It freezes and reheats well, so I double the chicken recipe and freeze half for a meal later on. Occasionally, I’ll add a can of diced green chiles.”<br><pullquote-attribution>– STACY</pullquote-attribution>"
-                },
-                {
-                  "role": "pullquote",
-                  "layout": "bodySmallMarginAboveLayout",
-                  "textStyle": "youSaidQuoteTextStyle",
-                  "format": "html",
-                  "text": "“You can make this with frozen artichoke hearts for a little less sodium. Sprinkle a few capers on top and add a little paprika or cayenne pepper.”<br><pullquote-attribution>– ITALIANFOODIE</pullquote-attribution>"
+                  "text": "“I love this! The only change I made was to add ½ cup diced onion and 1 tsp. liquid smoke.”<br><pullquote-attribution>– MARILYN WOODARD THOMPSON</pullquote-attribution>"
                 }
               ]
             }
@@ -1167,11 +1801,11 @@
         "top": 2
       }
     },
-    "bodySmallMarginAboveLayout": {
+    "bodyLayout2": {
       "columnSpan": 18,
       "columnStart": 1,
       "margin": {
-        "bottom": 10,
+        "bottom": 15,
         "top": 10
       }
     },
@@ -1376,9 +2010,17 @@
     "reviewLayout": {
       "columnSpan": 18,
       "columnStart": 1,
+      "padding": {
+        "left": 85,
+        "top": 2
+      }
+    },
+    "reviewLayout2": {
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
         "bottom": 10,
-        "top": 5
+        "top": 2
       },
       "padding": {
         "left": 85,

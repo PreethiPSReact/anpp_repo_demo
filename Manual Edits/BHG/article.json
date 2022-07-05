@@ -1,6 +1,6 @@
 {
   "version": "1.9",
-  "identifier": "alr_article_899-131-22-1",
+  "identifier": "alr_article_899-131-22-14",
   "title": "PICK YOUR POT",
   "language": "en",
   "layout": {
@@ -232,7 +232,7 @@
           "layout": "titleLayout",
           "textStyle": "titleTextStyle",
           "format": "html",
-          "text": "PICK YOUR POT"
+          "text": "Pick Your Pot"
         },
         {
           "//": "==== DEFAULT HEADER: INTRO ===",
@@ -253,7 +253,7 @@
               "layout": "fullBleedPhotoLayout",
               "caption": {
                 "format": "html",
-                "text": "<b>Make It in a</b><br>Skillet",
+                "text": "<b>MAKE IT IN A</b><br>Skillet",
                 "textStyle": "captionEmbeddedTextStyle"
               },
               "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p022-023-alt102382-red-curry-chicken/199247-1-eng-GB/p022-023-alt102382-red-curry-chicken.jpg?q=100"
@@ -286,7 +286,7 @@
               "style": "paragraphStyle",
               "textStyle": "recipeDetailsTextStyle",
               "format": "html",
-              "text": "<lede>HANDS-ON</lede> 15 MIN <lede>TOTAL</lede> 30 MIN <lede>SERVES</lede> 4 <br><lede>SUBMITTED BY</lede> CULINARY ENVY"
+              "text": "<m>HANDS-ON</m> 15 min.br><m>TOTAL</m> 30 min.br><m>SERVES</m> 4 <br><m>SUBMITTED BY</m> CULINARY ENVY"
             },
             {
               "//": "====== REVIEWS ======",
@@ -353,7 +353,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<i>Serve this simple curry with fresh basil and sliced chile pepper, plus lime wedges for squeezing.</i>"
+              "text": "<italic>Serve this simple curry with fresh basil and sliced chile pepper, plus lime wedges for squeezing.</italic>"
             },
             {
               "role": "htmltable",
@@ -399,7 +399,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b><i>HIDDEN GEM</i></b> | <b><i>QUICK</i></b> | <b><i>GLUTEN-FREE</i></b>"
+              "text": "<b><italic>HIDDEN GEM</italic></b> | <b><italic>QUICK</italic></b> | <b><italic>GLUTEN-FREE</italic></b>"
             },
             {
               "role": "body",
@@ -420,7 +420,7 @@
                   "layout": "fullBleedPhotoLayout",
                   "caption": {
                     "format": "html",
-                    "text": "<b>Make It in a</b><br>Skillet",
+                    "text": "<b>MAKE IT IN A</b><br>Skillet",
                     "textStyle": "captionEmbeddedTextStyle"
                   },
                   "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p024-alt102382-chicken-fried-chicken/199261-1-eng-GB/p024-alt102382-chicken-fried-chicken.jpg?q=100"
@@ -447,7 +447,7 @@
               "style": "paragraphStyle",
               "textStyle": "recipeDetailsTextStyle",
               "format": "html",
-              "text": "<lede>HANDS-ON</lede> 30 MIN <lede>TOTAL</lede> 40 MIN <lede>SERVES</lede> 6 <br><lede>SUBMITTED BY</lede> CASSJW"
+              "text": "<m>HANDS-ON</m> 30 min.br><m>TOTAL</m> 40 min.br><m>SERVES</m> 6 <br><m>SUBMITTED BY</m> CASSJW"
             },
             {
               "//": "====== REVIEWS ======",
@@ -560,7 +560,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b><i>HEALTHY</i></b>"
+              "text": "<b><italic>HEALTHY</italic></b>"
             },
             {
               "role": "body",
@@ -609,7 +609,7 @@
               "style": "paragraphStyle",
               "textStyle": "recipeDetailsTextStyle",
               "format": "html",
-              "text": "<lede>HANDS-ON</lede> 10 MIN <lede>TOTAL</lede> 25 MIN <lede>SERVES</lede> 4 <br><lede>SUBMITTED BY</lede> CHRISTIE BIGGERS"
+              "text": "<m>HANDS-ON</m> 10 min.br><m>TOTAL</m> 25 min.br><m>SERVES</m> 4 <br><m>SUBMITTED BY</m> Chr.STIE BIGGERS"
             },
             {
               "//": "====== REVIEWS ======",
@@ -706,7 +706,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b><i>HEALTHY</i></b> | <b><i>QUICK</i></b> | <b><i>GLUTEN-FREE</i></b>"
+              "text": "<b><italic>HEALTHY</italic></b> | <b><italic>QUICK</italic></b> | <b><italic>GLUTEN-FREE</italic></b>"
             },
             {
               "role": "body",
@@ -780,7 +780,7 @@
                   "layout": "fullBleedPhotoLayout",
                   "caption": {
                     "format": "html",
-                    "text": "<b>Make It in an</b><br>Air fryer",
+                    "text": "<b>MAKE IT IN AN</b><br>Air fryer",
                     "textStyle": "captionEmbeddedTextStyle"
                   },
                   "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p026-alt102382-air-fryer-ribeye-steak/199254-1-eng-GB/p026-alt102382-air-fryer-ribeye-steak.jpg?q=100"
@@ -807,7 +807,7 @@
               "style": "paragraphStyle",
               "textStyle": "recipeDetailsTextStyle",
               "format": "html",
-              "text": "<lede>HANDS-ON</lede> 5 MIN <lede>TOTAL</lede> 2 HR, 25 MIN <lede>SERVES</lede> 2 <br><lede>SUBMITTED BY</lede> ALAN"
+              "text": "<m>HANDS-ON</m> 5 min.br><m>TOTAL</m> 2 hr. 25 min.br><m>SERVES</m> 2 <br><m>SUBMITTED BY</m> ALAN"
             },
             {
               "//": "====== REVIEWS ======",
@@ -920,7 +920,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b><i>HIDDEN GEM</i></b>"
+              "text": "<b><italic>HIDDEN GEM</italic></b>"
             },
             {
               "role": "body",
@@ -969,7 +969,7 @@
               "style": "paragraphStyle",
               "textStyle": "recipeDetailsTextStyle",
               "format": "html",
-              "text": "<lede>HANDS-ON</lede> 10 MIN <lede>TOTAL</lede> 20 MIN <lede>SERVES</lede> 2"
+              "text": "<m>HANDS-ON</m> 10 min.br><m>TOTAL</m> 20 min.br><m>SERVES</m> 2"
             },
             {
               "role": "body",
@@ -985,7 +985,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<i>Be sure to cook the scallops to temperature. They may not brown in the fryer, so don’t wait for a golden crust to tell you they’re ready.</i>"
+              "text": "<italic>Be sure to cook the scallops to temperature. They may not brown in the fryer, so don’t wait for a golden crust to tell you they’re ready.</italic>"
             },
             {
               "role": "htmltable",
@@ -1031,7 +1031,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b><i>HEALTHY</i></b> | <b><i>QUICK</i></b> | <b><i>GLUTEN-FREE</i></b>"
+              "text": "<b><italic>HEALTHY</italic></b> | <b><italic>QUICK</italic></b> | <b><italic>GLUTEN-FREE</italic></b>"
             },
             {
               "role": "body",
@@ -1080,7 +1080,7 @@
               "style": "paragraphStyle",
               "textStyle": "recipeDetailsTextStyle",
               "format": "html",
-              "text": "<lede>HANDS-ON</lede> 10 MIN <lede>TOTAL</lede> 1 HR <lede>SERVES</lede> 4 <br><lede>SUBMITTED BY</lede> SHARRON"
+              "text": "<m>HANDS-ON</m> 10 min.br><m>TOTAL</m> 1 hr.br><m>SERVES</m> 4 <br><m>SUBMITTED BY</m> SHARRON"
             },
             {
               "//": "====== REVIEWS ======",
@@ -1147,7 +1147,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<i>Sprinkle these ribs with sliced green onion just before serving.</i>"
+              "text": "<italic>Sprinkle these ribs with sliced green onion just before serving.</italic>"
             },
             {
               "role": "htmltable",
@@ -1185,7 +1185,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b><i>GLUTEN-FREE</i></b>"
+              "text": "<b><italic>GLUTEN-FREE</italic></b>"
             },
             {
               "role": "body",
@@ -1246,7 +1246,7 @@
                   "layout": "fullBleedPhotoLayout",
                   "caption": {
                     "format": "html",
-                    "text": "<b>Make It in an</b><br>Electric multicooker",
+                    "text": "<b>MAKE IT IN AN</b><br>Electric multicooker",
                     "textStyle": "captionEmbeddedTextStyle"
                   },
                   "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/103038711/197653-1-eng-GB/1030387112.jpg?q=100"
@@ -1273,7 +1273,7 @@
               "style": "paragraphStyle",
               "textStyle": "recipeDetailsTextStyle",
               "format": "html",
-              "text": "<lede>HANDS-ON </lede>5 MIN <lede>TOTAL </lede>20 MIN <lede>SERVES </lede>4 <br/><lede>SUBMITTED BY </lede>CAROL CASTELLUCCI MILLER"
+              "text": "<m>HANDS-ON </m>5 min.br><m>TOTAL </m>20 min.br><m>SERVES </m>4 <br/><m>SUBMITTED BY </m>CAROL CASTELLUCCI MILLER"
             },
             {
               "//": "====== REVIEWS ======",
@@ -1378,7 +1378,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b><i>HEALTHY</i></b> | <b><i>QUICK</i></b> | <b><i>GLUTEN-FREE</i></b>"
+              "text": "<b><italic>HEALTHY</italic></b> | <b><italic>QUICK</italic></b> | <b><italic>GLUTEN-FREE</italic></b>"
             },
             {
               "role": "body",
@@ -1427,7 +1427,7 @@
               "style": "paragraphStyle",
               "textStyle": "recipeDetailsTextStyle",
               "format": "html",
-              "text": "<lede>HANDS-ON</lede> 15 MIN <lede>TOTAL</lede> 3 HR, 10 MIN <lede>SERVES</lede> 10 <br><lede>SUBMITTED BY</lede> LOUISE"
+              "text": "<m>HANDS-ON</m> 15 min.br><m>TOTAL</m> 3 hr. 10 min.br><m>SERVES</m> 10 <br><m>SUBMITTED BY</m> LOUISE"
             },
             {
               "//": "====== REVIEWS ======",
@@ -1524,7 +1524,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b><i>GLUTEN-FREE</i></b>"
+              "text": "<b><italic>GLUTEN-FREE</italic></b>"
             },
             {
               "role": "body",
@@ -1558,7 +1558,7 @@
                   "layout": "fullBleedPhotoLayout",
                   "caption": {
                     "format": "html",
-                    "text": "<b>Make It in a</b><br>Slow cooker",
+                    "text": "<b>MAKE IT IN A</b><br>Slow cooker",
                     "textStyle": "captionEmbeddedTextStyle"
                   },
                   "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p031-alt102382-zesty-slow-cooker-chicken-barbecue/199289-1-eng-GB/p031-alt102382-zesty-slow-cooker-chicken-barbecue.jpg?q=100"
@@ -1585,7 +1585,7 @@
               "style": "paragraphStyle",
               "textStyle": "recipeDetailsTextStyle",
               "format": "html",
-              "text": "<lede>HANDS-ON</lede> 15 MIN <lede>TOTAL</lede> 4 HR, 15 MIN <lede>SERVES</lede> 8 <br><lede>SUBMITTED BY</lede> SUZANNE ELIZABETH MASTAW"
+              "text": "<m>HANDS-ON</m> 15 min.br><m>TOTAL</m> 4 hr. 15 min.br><m>SERVES</m> 8 <br><m>SUBMITTED BY</m> SUZANNE ELIZABETH MASTAW"
             },
             {
               "//": "====== REVIEWS ======",
@@ -1652,7 +1652,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<i>Pile the pulled chicken with desired toppings, such as sliced cheese, red onion, and/or avocado.</i>"
+              "text": "<italic>Pile the pulled chicken with desired toppings, such as sliced cheese, red onion, and/or avocado.</italic>"
             },
             {
               "role": "htmltable",
@@ -2178,12 +2178,7 @@
       "//": "UNUSED"
     },
     "calloutStyle": {
-      "border": {
-        "all": {
-          "width": 4,
-          "color": "#000"
-        }
-      }
+      "//": "UNUSED"
     },
     "calloutStyle2": {
       "border": {
@@ -2242,7 +2237,7 @@
       ]
     },
     "dividerStandardStyle": {
-      "backgroundColor": "#000"
+      "backgroundColor": "#ccc"
     },
     "dividerTocStyle": {
       "//": "UNUSED"
@@ -2291,7 +2286,7 @@
                   "columnIndex": 1
                 }
               ],
-              "width": 90
+              "width": 75
             }
           ],
           "textStyle": "ingredientsTextStyle",
@@ -2305,7 +2300,7 @@
                   "columnIndex": 0
                 }
               ],
-              "width": 5
+              "width": 10
             },
             {
               "selectors": [
@@ -2430,14 +2425,7 @@
       }
     },
     "sidebarStyle": {
-      "border": {
-        "all": {
-          "width": 2,
-          "color": "#000"
-        },
-        "left": false,
-        "right": false
-      }
+      "//": "UNUSED"
     },
     "straplineStyle": {
       "//": "UNUSED"
@@ -2451,21 +2439,34 @@
         "radius": "60cw",
         "type": "corners"
       }
+    },
+    "dividerDoubleStyle": {
+      "border": {
+        "all": {
+          "color": "#222",
+          "width": 1
+        },
+        "bottom": true,
+        "left": false,
+        "right": false,
+        "top": true
+      }
     }
   },
   "textStyles": {
     "creditTextStyle": {
-      "fontName": "CaslonDoricApp-Regular",
+      "fontName": "Gotham-Light",
       "fontSize": 10,
-      "textColor": "#8d8d8d"
+      "textColor": "#8d8d8d",
+      "tracking": 0.05
     },
     "default-tag-bold": {
       "fontName": "GothamNarrow-Bold"
     },
     "default-tag-caption-heading": {
-      "fontName": "CaslonDoricApp-Bold",
-      "fontSize": 15,
-      "tracking": 0.05
+      "fontName": "Gotham-Bold",
+      "fontSize": 16,
+      "textTransform": "uppercase"
     },
     "default-tag-caption-i": {
       "fontName": "Gotham-Book"
@@ -2474,9 +2475,8 @@
       "fontName": "AppleColorEmoji"
     },
     "default-tag-lede": {
-      "fontName": "CaslonDoricApp-Bold",
-      "fontSize": 16,
-      "tracking": 0.05
+      "fontName": "Gotham-Bold",
+      "fontSize": 17
     },
     "default-tag-m": {
       "fontName": "Gotham-Medium"
@@ -2485,15 +2485,12 @@
       "fontName": "Gotham-MediumItalic"
     },
     "default-tag-pullquote-attribution": {
-      "fontName": "GothamCondensed-Medium",
-      "fontSize": 18,
-      "textAlignment": "center",
+      "fontName": "SurveyorText-LightItalic",
       "textTransform": "uppercase",
-      "tracking": 0.05
+      "fontSize": 16
     },
     "default-tag-sidebar-lede": {
-      "fontName": "CaslonDoricApp-Bold",
-      "fontSize": 16
+      "fontName": "Gotham-Medium"
     },
     "default-tag-subsection": {
       "fontName": "Gotham-Light"
@@ -2575,69 +2572,61 @@
     },
     "default-tag-sidebarintro-regular": {
       "fontName": "CaslonDoricApp-Semibold"
+    },
+    "default-tag-title-italic": {
+      "fontName": "HTFDidot-M42MediumItalic"
+    },
+    "default-tag-bracket": {
+      "fontSize": 30,
+      "textColor": "#ED096F"
+    },
+    "default-tag-caption-bold": {
+      "fontName": "Gotham-Bold"
+    },
+    "default-tag-italic": {
+      "fontName": "SurveyorText-LightItalic"
     }
   },
   "componentTextStyles": {
     "//": {
-      "//": "===================== ENTERTAINMENT WEEKLY OVERRIDES ====================="
+      "//": "===================== BETTER HOMES AND GARDENS OVERRIDES ====================="
     },
     "attributeTextStyle": {
-      "fontName": "CaslonDoricApp-Regular",
+      "fontName": "Gotham-Light",
       "fontSize": 10,
       "textTransform": "uppercase",
-      "lineHeight": 12
+      "lineHeight": 12,
+      "tracking": 0.05
     },
     "authorTextStyle": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minSpecVersion": "1.14",
-              "preferredColorScheme": "dark"
-            }
-          ],
-          "linkStyle": {
-            "underline": {
-              "color": "#eee"
-            }
-          }
-        }
-      ],
-      "fontName": "CaslonDoricApp-SemiboldItalic",
-      "linkStyle": {
-        "underline": {
-          "color": "#999"
-        }
-      },
-      "tracking": 0.05
+      "fontName": "SurveyorText-LightItalic"
     },
     "bodyCenteredTextStyle": {
       "textAlignment": "center"
     },
     "bodyDropCapTextStyle": {
-      "fontName": "FreightTextProBook-Regular",
       "dropCapStyle": {
-        "fontName": "CaslonDoricApp-Bold",
-        "numberOfLines": 3,
-        "numberOfRaisedLines": 0,
-        "numberOfCharacters": 1
+        "fontName": "DidotLTStd-Roman",
+        "numberOfCharacters": 1,
+        "numberOfLines": 4,
+        "numberOfRaisedLines": 0
       }
     },
     "bodyTextStyle": {
-      "fontName": "FreightTextProBook-Regular"
+      "//": "UNUSED"
     },
     "calloutBodyTextStyle": {
-      "fontName": "CaslonDoricApp-Regular",
-      "fontSize": 16,
-      "lineHeight": 20,
+      "fontName": "Gotham-Light",
+      "fontSize": 20,
+      "lineHeight": 24,
       "textAlignment": "center"
     },
     "calloutHeadingTextStyle": {
-      "fontName": "CaslonDoricApp-Bold",
-      "fontSize": 24,
-      "lineHeight": 26,
+      "fontName": "Gotham-Bold",
+      "fontSize": 16,
+      "lineHeight": 20,
       "textAlignment": "center",
-      "textColor": "#F15A21"
+      "textTransform": "uppercase"
     },
     "captionAdTextStyle": {
       "//": "UNUSED"
@@ -2650,145 +2639,140 @@
       "lineHeight": 16
     },
     "captionTextStyle": {
-      "fontName": "CaslonDoricApp-Regular",
-      "tracking": 0.05
+      "fontName": "Gotham-Medium",
+      "linkStyle": {
+        "fontName": "Gotham-MediumItalic",
+        "underline": true
+      },
+      "textAlignment": "center"
     },
     "default": {
-      "fontName": "CaslonDoricApp-Bold",
-      "textColor": "#000",
+      "fontName": "SurveyorText-Light",
+      "hyphenation": false,
       "linkStyle": {
         "underline": true
       },
-      "hyphenation": false
+      "textColor": "#221E1F"
     },
     "default-author": {
       "fontSize": 14,
-      "lineHeight": 16
+      "lineHeight": 18
     },
     "default-body": {
       "fontSize": 18,
-      "lineHeight": 24,
-      "paragraphSpacingBefore": 12,
-      "paragraphSpacingAfter": 12
+      "lineHeight": 22,
+      "paragraphSpacingAfter": 12,
+      "paragraphSpacingBefore": 12
     },
     "default-byline": {
       "//": "UNUSED"
     },
     "default-caption": {
-      "fontName": "Avenir-Book",
       "fontSize": 14,
-      "lineHeight": 16
+      "lineHeight": 18
     },
     "default-heading": {
       "fontSize": 16,
       "lineHeight": 16
     },
     "default-heading2": {
-      "fontSize": 35,
-      "lineHeight": 37
-    },
-    "default-heading3": {
-      "fontSize": 21,
-      "lineHeight": 23
-    },
-    "default-heading4": {
-      "fontSize": 18,
-      "lineHeight": 24
-    },
-    "default-heading5": {
-      "fontSize": 17,
-      "lineHeight": 19
-    },
-    "default-heading6": {
-      "fontSize": 16,
-      "lineHeight": 18
-    },
-    "default-intro": {
       "conditional": [
         {
           "conditions": [
             {
-              "minViewportWidth": 430
+              "minViewportWidth": 500
             }
           ],
-          "fontSize": 18,
-          "lineHeight": 24
+          "fontSize": 36,
+          "lineHeight": 40
         }
       ],
-      "fontSize": 16,
+      "fontSize": 46,
+      "lineHeight": 47
+    },
+    "default-heading3": {
+      "fontSize": 20,
       "lineHeight": 22
+    },
+    "default-heading4": {
+      "fontSize": 18,
+      "lineHeight": 20
+    },
+    "default-heading5": {
+      "fontSize": 18,
+      "lineHeight": 20
+    },
+    "default-heading6": {
+      "//": "UNUSED"
+    },
+    "default-intro": {
+      "fontSize": 16,
+      "lineHeight": 18
     },
     "default-photographer": {
       "//": "UNUSED"
     },
     "default-pullquote": {
-      "fontSize": 39,
-      "lineHeight": 39
+      "fontSize": 18,
+      "lineHeight": 20
     },
     "default-title": {
-      "fontSize": 45,
-      "lineHeight": 47
+      "fontSize": 62,
+      "lineHeight": 60
     },
     "floatImageCaptionTextStyle": {
-      "fontName": "CaslonDoricApp-Regular",
-      "tracking": 0.05
+      "fontName": "Gotham-Medium",
+      "textAlignment": "center"
     },
     "heading2CenteredTextStyle": {
       "textAlignment": "center"
     },
     "heading2TextStyle": {
-      "fontName": "CaslonDoricApp-Bold"
+      "fontName": "SurveyorFine-Book"
     },
     "heading3CenteredTextStyle": {
       "textAlignment": "center"
     },
     "heading3TextStyle": {
-      "fontName": "CaslonDoricApp-Bold",
+      "fontName": "Gotham-Bold",
       "textTransform": "uppercase"
     },
     "heading4CenteredTextStyle": {
       "textAlignment": "center"
     },
     "heading4TextStyle": {
-      "fontName": "CaslonDoricApp-Bold"
+      "fontName": "Gotham-Bold",
+      "textTransform": "uppercase"
     },
     "heading5CenteredTextStyle": {
       "textAlignment": "center"
     },
     "heading5TextStyle": {
-      "fontName": "CaslonDoricApp-Bold"
+      "fontName": "Gotham-Bold"
     },
     "heading6CenteredTextStyle": {
       "fontName": "CaslonDoricApp-Bold",
       "textAlignment": "center"
     },
     "heading6TextStyle": {
-      "fontName": "CaslonDoricApp-Bold",
-      "textTransform": "uppercase"
+      "//": "UNUSED"
     },
     "ingredientsTextStyle": {
-      "fontName": "CaslonDoricApp-MediumItalic"
+      "fontName": "Gotham-Medium",
+      "fontSize": 15,
+      "lineHeight": 19
     },
     "introTextStyle": {
-      "fontName": "CaslonDoricApp-RegularNo2",
-      "tracking": 0.05
+      "fontName": "Gotham-Light"
     },
     "pullQuoteTextStyle": {
-      "fontName": "CaslonDoricApp-Light",
-      "textAlignment": "center",
-      "tracking": 0.05,
-      "fontSize": 39,
-      "lineHeight": 45
+      "fontName": "Gotham-Light",
+      "textTransform": "uppercase"
     },
     "recipeDetailsTextStyle": {
-      "fontName": "GothamNarrow-Book",
-      "fontSize": 14,
-      "lineHeight": 16,
-      "linkStyle": {
-        "fontName": "GothamNarrow-Bold",
-        "textColor": "#000",
-        "underline": true
-      }
+      "fontName": "Gotham-Light",
+      "fontSize": 15,
+      "lineHeight": 17
     },
     "reviewsTextStyle": {
       "conditional": [
@@ -2812,29 +2796,33 @@
       "textTransform": "uppercase"
     },
     "sectionTextStyle": {
-      "fontName": "CaslonDoricApp-Medium",
+      "fontName": "Gotham-Bold",
       "fontSize": 14,
-      "tracking": 0.03
+      "lineHeight": 16,
+      "textTransform": "uppercase",
+      "tracking": 0.1
     },
     "sidebarBodyTextStyle": {
-      "fontName": "CaslonDoricApp-Medium",
-      "lineHeight": 22
+      "fontName": "Gotham-Light",
+      "fontSize": 16,
+      "lineHeight": 20
     },
     "sidebarHeading2TextStyle": {
-      "fontName": "CaslonDoricApp-Bold",
+      "fontName": "SurveyorFine-Book",
       "fontSize": 42,
-      "lineHeight": 44
+      "lineHeight": 44,
+      "textTransform": "uppercase"
     },
     "sidebarHeading3TextStyle": {
-      "fontName": "CaslonDoricApp-Semibold",
-      "fontSize": 20,
-      "lineHeight": 22,
+      "fontName": "Gotham-Bold",
+      "fontSize": 18,
+      "lineHeight": 20,
       "textTransform": "uppercase"
     },
     "sidebarHeading4TextStyle": {
-      "fontName": "CaslonDoricApp-Semibold",
-      "fontSize": 18,
-      "lineHeight": 20
+      "fontName": "Gotham-Bold",
+      "fontSize": 16,
+      "lineHeight": 18
     },
     "sidebarIntroTextStyle": {
       "fontName": "CaslonDoricApp-Regular",
@@ -2843,14 +2831,14 @@
       "tracking": 0.02
     },
     "straplineTextStyle": {
-      "fontName": "OriginalSansApp-Three",
-      "fontSize": 16,
-      "lineHeight": 18,
-      "tracking": 0.05
+      "fontName": "Gotham-Bold",
+      "textTransform": "uppercase",
+      "fontSize": 15
     },
     "titleTextStyle": {
-      "fontName": "OriginalSansApp-Four",
-      "tracking": 0.05
+      "fontName": "DidotLTStd-Roman",
+      "textColor": "#000",
+      "tracking": -0.02
     },
     "tocTextStyle": {
       "fontName": "AvenirNextCondensed-Medium",
@@ -2957,20 +2945,23 @@
       "tracking": 0.04
     },
     "sidebarBodyCenteredTextStyle": {
-      "fontName": "CaslonDoricApp-MediumItalic",
-      "lineHeight": 22,
+      "fontName": "Gotham-Light",
+      "fontSize": 16,
+      "lineHeight": 20,
       "textAlignment": "center"
     },
     "sidebarHeading2CenteredTextStyle": {
-      "fontName": "CaslonDoricApp-Bold",
+      "fontName": "SurveyorFine-Book",
       "fontSize": 42,
       "lineHeight": 44,
+      "textTransform": "uppercase",
       "textAlignment": "center"
     },
     "sidebarHeading3CenteredTextStyle": {
-      "fontName": "CaslonDoricApp-Semibold",
-      "fontSize": 20,
-      "lineHeight": 22,
+      "fontName": "Gotham-Bold",
+      "fontSize": 18,
+      "lineHeight": 20,
+      "textTransform": "uppercase",
       "textAlignment": "center"
     },
     "sidebarHeading5TextStyle": {
@@ -2978,6 +2969,28 @@
       "fontSize": 18,
       "lineHeight": 18,
       "tracking": 0.05
+    },
+    "sidebarHeading4CenteredTextStyle": {
+      "fontName": "Gotham-Bold",
+      "fontSize": 16,
+      "lineHeight": 18,
+      "textAlignment": "center"
+    },
+    "bhgInsiderBodyTextStyle": {
+      "fontName": "Gotham-Medium",
+      "fontSize": 16,
+      "lineHeight": 22,
+      "textAlignment": "center"
+    },
+    "recipeBodyTextStyle": {
+      "fontName": "Gotham-Light",
+      "fontSize": 16,
+      "lineHeight": 20
+    },
+    "recipeNutritionInfoTextStyle": {
+      "fontName": "Gotham-Light",
+      "fontSize": 14,
+      "lineHeight": 16
     }
   }
 }

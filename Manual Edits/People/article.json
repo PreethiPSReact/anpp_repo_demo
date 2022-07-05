@@ -1,456 +1,581 @@
 {
   "version": "1.9",
-  "identifier": "ew_article_708-554-23-1",
-  "title": "Cha Cha Real Smooth’s Cooper Raiff Steps Up to The Mic",
+  "identifier": "health_article_881-167-17-1",
+  "title": "BARE NECESSITIES",
   "language": "en",
   "layout": {
-    "columns": 23,
+    "columns": 20,
     "gutter": 20,
-    "margin": 62,
-    "width": 1024
+    "margin": 40,
+    "width": 768
   },
+  "subtitle": "Putting on that swimsuit for the first day of summer can give anyone pause—most of us have something we’d rather not show to the world. We turned to the experts for solutions to common issues, so you can relax and feel good in your skin.",
   "metadata": {
-    "dateCreated": "2022-03-03T15:14:12.064Z",
-    "dateModified": "2022-02-26T18:51:44+00:00",
+    "authors": [
+      "By LISA DESANTIS"
+    ],
+    "dateCreated": "2021-04-30T13:55:36.900Z",
+    "dateModified": "2021-04-30T02:05:42+00:00",
+    "excerpt": "Shaving is the most popular method, but it doesn’t last long (hello, stubble that shows up the next day). And it can lead to ingrowns, especially on the bikini line, where the hair is curlier, says Sabrina Fabi, MD, a dermatologist in San Diego. Instead, try a depilatory cream—new formulas smell better than ever and may have soothing ingredients. 1. Nair Bladeless Shave ($9; walmart.com), for example, is available with CBD broad-spectrum hemp oil, lavender oil, or rose water. Let the cream sit for 5 to 10 minutes before rinsing; it dissolves the hair shaft below the skin’s surface so results last longer than with shaving.",
     "generatorName": "ANTE Generic Template",
-    "generatorVersion": "0.0.4.32-SNAPSHOT-2022-04-15 17:09",
-    "thumbnailURL": "https://picsum.photos/id/0/800/600"
+    "generatorVersion": "0.0.4.25-2021-03-26 14:16",
+    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_881/storage/images/media2/images/tlp-kabo-23_034/221982-1-eng-US/tlp-kabo-23_0342.jpg?w=450"
   },
+  "missingData": [
+    {
+      "role": "body",
+      "layout": "bodyLayout",
+      "style": "paragraphStyle",
+      "textStyle": "bodyTextStyle",
+      "format": "html",
+      "text": "The best way to remove hair—if you want to—depends on lifestyle, skin sensitivity, etc. Here’s what really works."
+    }
+  ],
   "documentStyle": {
-    "backgroundColor": "#04223c"
+    "backgroundColor": "#fff"
   },
   "components": [
     {
-      "role": "container",
-      "layout": {
-        "conditional": {
-          "conditions": {
-            "platform": "ios"
-          },
-          "ignoreViewportPadding": true
+      "//": "====== CUSTOM HEADER - BEAUTY ======",
+      "role": "header",
+      "layout": "customHeaderLayout",
+      "style": "customHeaderStyle",
+      "components": [
+        {
+          "role": "title",
+          "textStyle": "customSectionHeadingTextStyle",
+          "format": "html",
+          "text": "Beauty"
         },
-        "ignoreDocumentMargin": true
+        {
+          "role": "body",
+          "textStyle": "customSectionSubHeadingBeautyTextStyle",
+          "format": "html",
+          "text": "SKIN CARE | MAKEUP | INNOVATIONS"
+        }
+      ]
+    },
+    {
+      "role": "title",
+      "layout": "titleLayout",
+      "textStyle": "titleTextStyle",
+      "format": "html",
+      "text": "Bare Necessities"
+    },
+    {
+      "role": "intro",
+      "layout": "introLayout",
+      "textStyle": "introTextStyle",
+      "format": "html",
+      "text": "Putting on that swimsuit for the first day of summer can give anyone pause—most of us have something we’d rather not show to the world. We turned to the experts for solutions to common issues, so you can relax and feel good in your skin."
+    },
+    {
+      "role": "author",
+      "layout": "authorLayout",
+      "textStyle": "authorTextStyle",
+      "format": "html",
+      "text": "By Lisa D<small>e</small>santis"
+    },
+    {
+      "//": "===== sticky animation =====",
+      "role": "section",
+      "layout": {
+        "ignoreDocumentMargin": "both",
+        "ignoreViewportPadding": "both"
       },
-      "style": {
-        "backgroundColor": "#04223c"
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "scene": {
+            "fadeColor": "#000000",
+            "type": "fading_sticky_header"
+          }
+        }
+      ],
+      "scene": {
+        "fadeColor": "#ffffff",
+        "type": "fading_sticky_header"
       },
       "components": [
         {
-          "role": "container",
-          "layout": {
-            "conditional": [
-              {
-                "conditions": [
-                  {
-                    "platform": "ios"
-                  }
-                ],
-                "ignoreViewportPadding": true
-              },
-              {
-                "conditions": [
-                  {
-                    "maxViewportWidth": 1366,
-                    "minViewportWidth": 1112
-                  }
-                ],
-                "ignoreDocumentMargin": "none",
-                "ignoreViewportPadding": "none"
-              }
-            ],
-            "ignoreDocumentMargin": true
-          },
-          "style": {
-            "style": {
-              "backgroundColor": "#04223c"
-            }
-          },
+          "role": "header",
+          "layout": "heroImageLayout",
           "components": [
             {
-              "role": "container",
+              "role": "photo",
+              "layout": "fullBleedPhotoLayout",
+              "URL": "https://public-assets.meredithcorp.io/24b0f3279ef80494038ca2c74f0ce4af/bare-herov2.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "container",
+      "layout": "fullBleedContainerLayout2",
+      "components": [
+        {
+          "role": "photo",
+          "layout": "fullBleedPhotoLayout",
+          "URL": "https://cdn-assets.ziniopro.com/var/site_881/storage/images/media2/images/tlp-deal-00_033/221975-1-eng-US/tlp-deal-00_0332.jpg?q=100"
+        }
+      ]
+    },
+    {
+      "//": "======== BODY CONTAINER =======",
+      "role": "container",
+      "layout": "bodyContainerLayout",
+      "components": [
+        {
+          "role": "heading2",
+          "layout": "heading2Layout",
+          "textStyle": "heading2TextStyle",
+          "format": "html",
+          "text": "Smooth the Skin"
+        },
+        {
+          "role": "intro",
+          "layout": "introLayout",
+          "textStyle": "introTextStyle",
+          "format": "html",
+          "text": "The best way to remove hair—if you want to—depends on lifestyle, skin sensitivity, etc. Here’s what really works."
+        },
+        {
+          "//": "======== FULL BLEED CONTAINER ========",
+          "role": "container",
+          "layout": "fullBleedContainerLayout",
+          "components": [
+            {
+              "//": "======== IMAGE BLEED - H2201.0/W1366.0 * 100 = 161.1273792 ========",
+              "role": "image",
               "layout": {
-                "ignoreDocumentMargin": "both",
-                "ignoreViewportPadding": "both"
+                "maximumContentWidth": "60cw"
               },
+              "URL": "https://public-assets.meredithcorp.io/fca73dc5523d7fc13214a340ec7aae1d/blade.png"
+            }
+          ]
+        },
+        {
+          "role": "heading3",
+          "layout": "heading3Layout",
+          "textStyle": "heading3TextStyle",
+          "format": "html",
+          "text": "At Home"
+        },
+        {
+          "role": "body",
+          "layout": "bodyNoMarginAboveLayout",
+          "style": "paragraphStyle",
+          "textStyle": "bodyTextStyle",
+          "format": "html",
+          "text": "Shaving is the most popular method, but it doesn’t last long (hello, stubble that shows up the next day). And it can lead to ingrowns, especially on the bikini line, where the hair is curlier, says Sabrina Fabi, MD, a dermatologist in San Diego. Instead, try a depilatory cream—new formulas smell better than ever and may have soothing ingredients. <b>1. Nair Bladeless Shave</b> ($9; <a href=\"http://walmart.com\">walmart.com</a>)</i>, for example, is available with CBD broad-spectrum hemp oil, lavender oil, or rose water. Let the cream sit for 5 to 10 minutes before rinsing; it dissolves the hair shaft below the skin’s surface so results last longer than with shaving."
+        },
+        {
+          "//": "======== FULL BLEED CONTAINER ========",
+          "role": "container",
+          "layout": "fullBleedContainerLayout",
+          "components": [
+            {
+              "//": "======== IMAGE BLEED - H2201.0/W1366.0 * 100 = 161.1273792 ========",
+              "role": "image",
+              "layout": {
+                "maximumContentWidth": "60cw"
+              },
+              "URL": "https://public-assets.meredithcorp.io/6a6dad79dc2abac7fd9af46490a2319f/braun.png"
+            }
+          ]
+        },
+        {
+          "role": "heading3",
+          "layout": "heading3Layout",
+          "textStyle": "heading3TextStyle",
+          "format": "html",
+          "text": "Go-To Gadget"
+        },
+        {
+          "role": "body",
+          "layout": "bodyNoMarginAboveLayout",
+          "style": "paragraphStyle",
+          "textStyle": "bodyTextStyle",
+          "format": "html",
+          "text": "Another at-home way to nix fuzz is with an epilator, which pulls out a bunch of hairs at once from the root—not completely painless, but the results can last up to four weeks, and you don’t have to wait until hair is a certain length to use it. <b>2. Braun Silk-épil 9 Flex</b> ($180; <a href=\"http://amazon.com\">amazon.com</a>)</i> features a flexible head that hugs the contours of your body and better grips the hair. Pro tip: This one can be used in the shower or bath—warm water will help the hair follicles open and may even reduce pain."
+        },
+        {
+          "role": "heading3",
+          "layout": "heading3Layout",
+          "textStyle": "heading3TextStyle",
+          "format": "html",
+          "text": "At a Salon"
+        },
+        {
+          "role": "body",
+          "layout": "bodyNoMarginAboveLayout",
+          "style": "paragraphStyle",
+          "textStyle": "bodyTextStyle",
+          "format": "html",
+          "text": "Waxing keeps you hair-free for an extended time, but you’ll need an appointment every three to four weeks, depending on how fast your hair grows, says Gina Petak, a specialist in training and development at European Wax Center. Similarly, a process called sugaring also pulls the hair from the root: It’s done with a paste of sugar, lemon, and water, and it’s said to be less painful than waxing because the mixture sticks to just the hair, not the skin. “The sugar paste wraps around the hair shaft, which both lubricates and makes the hair more pliable,” explains Courtney Claghorn, CEO and founder of Sugared + Bronzed. For either method, there needs to be enough hair for the wax or sugar paste to grab onto: at least ¼ inch for the former and at least ⅛ inch for the latter. So for those who don’t like any growth at <i>all</i>, these may not be the right options for you."
+        },
+        {
+          "role": "heading3",
+          "layout": "heading3Layout",
+          "textStyle": "heading3TextStyle",
+          "format": "html",
+          "text": "In Office"
+        },
+        {
+          "role": "body",
+          "layout": "bodyNoMarginAboveLayout",
+          "style": "paragraphStyle",
+          "textStyle": "bodyTextStyle",
+          "format": "html",
+          "text": "Most derms will tell you that laser hair removal is the best way to achieve long-term results. But it also comes with a heftier price tag. According to the American Society of Plastic Surgeons, the average cost of a laser-hair-removal session is $287, and the price will vary depending on what part of the body is being treated along with the number of sessions you require. Another factor to consider: It works best for those with lighter skin and darker hair; there’s a risk of hyperpigmentation in those with melanin-rich skin. That’s why Paul Jarrod Frank, MD, a cosmetic dermatologist in New York City, recommends the Motus AX and LightSheer Duet lasers—they work on most skin tones, even darker ones. “Most patients only need four to six treatments to see an 85 percent hair loss,” says Dr. Frank. And you don’t have to worry about ingrown hairs with laser, adds Dr. Fabi."
+        },
+        {
+          "//": "====== CALLOUT ======",
+          "role": "container",
+          "layout": "calloutLayout",
+          "style": "calloutStyle",
+          "components": [
+            {
+              "//": "======== SINGLE BLOCK CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
               "components": [
                 {
+                  "//": "======== IMAGE BLOCK - H561.0/W234.0 * 100 = 239.7435897 ========",
                   "role": "image",
                   "layout": {
-                    "ignoreDocumentMargin": "both",
-                    "ignoreViewportPadding": "both"
+                    "maximumContentWidth": "30cw"
                   },
-                  "URL": "https://public-assets.meredithcorp.io/372c21fc40c4498939c41916e9d715b9/lines-top.png",
-                  "animation": {
-                    "preferredStartingPosition": "right",
-                    "type": "move_in",
-                    "userControllable": false
-                  }
+                  "URL": "https://public-assets.meredithcorp.io/614385978fe7bf20a4580e2f7e829ad8/flamingoing_.png"
                 }
               ]
             },
             {
-              "//": "===== HERO PARALLAX =====",
-              "role": "container",
+              "role": "heading",
+              "layout": "calloutHeadingLayout",
+              "textStyle": "calloutHeadingTextStyle",
+              "format": "html",
+              "text": "Outsmart Ingrowns"
+            },
+            {
+              "role": "body",
+              "layout": "calloutBodyLayout",
+              "textStyle": "calloutBodyTextStyle",
+              "format": "html",
+              "text": "Ingrown hairs are common after hair removal—growing strands can curve down or get stuck under a buildup of dead skin. An AHA exfoliant like <sidebar-lede>Flamingo Ingrown Spot Treatment</sidebar-lede> ($10; <a href=\"http://shopflamingo.com\">shopflamingo.com</a>)</i> can help. Use twice daily to resolve ingrowns and soothe irritation.</b>"
+            }
+          ]
+        },
+        {
+          "role": "container",
+          "layout": "dividerStandardLayout",
+          "style": "dividerStandardStyle"
+        },
+        {
+          "//": "======== FULL BLEED CONTAINER ========",
+          "role": "container",
+          "layout": "fullBleedContainerLayout",
+          "components": [
+            {
+              "//": "======== IMAGE BLEED - H1712.0/W1367.0 * 100 = 125.2377469 ========",
+              "role": "photo",
+              "layout": "fullBleedPhotoLayout",
+              "URL": "https://cdn-assets.ziniopro.com/var/site_881/storage/images/media2/images/tlp-nala-09_031/221954-1-eng-US/tlp-nala-09_0312.jpg?q=100"
+            }
+          ]
+        },
+        {
+          "role": "heading2",
+          "layout": "heading2Layout",
+          "textStyle": "heading2TextStyle",
+          "format": "html",
+          "text": "Lessen Cellulite"
+        },
+        {
+          "role": "intro",
+          "layout": "introLayout",
+          "textStyle": "introTextStyle",
+          "format": "html",
+          "text": "Between 80 and 90 percent of women have it at some point, and it has nothing to do with your weight or how often you hit the gym. According to Dr. Fabi, the dimpling occurs when the connective cords that tether the layer of fat to the underlying muscle tissue pulls down, causing fat to accumulate and creating that orange-peel look. There’s no “cure,” but there are a few ways to help diminish its appearance."
+        },
+        {
+          "//": "======== FULL BLEED CONTAINER ========",
+          "role": "container",
+          "layout": "fullBleedContainerLayout",
+          "components": [
+            {
+              "//": "======== IMAGE BLEED - H1313.0/W1367.0 * 100 = 96.049744 ========",
+              "role": "image",
               "layout": {
-                "conditional": [
-                  {
-                    "conditions": [
-                      {
-                        "maxViewportWidth": 430
-                      }
-                    ],
-                    "minimumHeight": "76.2cw"
-                  }
-                ],
-                "ignoreDocumentMargin": "both",
-                "ignoreViewportPadding": "both",
-                "minimumHeight": "79.2cw",
+                "maximumContentWidth": "55cw"
+              },
+              "URL": "https://public-assets.meredithcorp.io/73d30f91f68f8a0d22fb7fee7bdffa87/btight.png"
+            },
+            {
+              "//": "======== IMAGE BLOCK - H434.0/W473.0 * 100 = 91.7547569 ========",
+              "role": "image",
+              "layout": {
+                "maximumContentWidth": "55cw",
                 "padding": {
-                  "bottom": 20
+                  "top": 10
                 }
               },
-              "style": {
-                "fill": {
-                  "fillMode": "fit",
-                  "type": "image",
-                  "URL": "https://public-assets.meredithcorp.io/18106a0da1dd0d6b2b2b035f14968cb0/ChaCha_Hero.jpg"
-                }
-              },
-              "identifier": "heroParallax",
-              "components": [
-                {
-                  "role": "container",
-                  "anchor": {
-                    "target": "heroParallax",
-                    "targetAnchorPosition": "bottom"
-                  },
-                  "components": [
-                    {
-                      "//": "======== HERO IMAGE CONTAINER =======",
-                      "role": "container",
-                      "layout": "heroImageLayout",
-                      "behavior": {
-                        "factor": 1.5,
-                        "type": "parallax"
-                      },
-                      "components": [
-                        {
-                          "role": "title",
-                          "layout": "titleLayout",
-                          "style": "titleStyle",
-                          "textStyle": "titleTextStyle",
-                          "format": "html",
-                          "text": "<original-bolditalic><pink>Cha Cha Real Smooth</pink></original-bolditalic><pink>’s</pink><br><white>Cooper Raiff Steps Up to the Mic</white>"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
+              "URL": "https://public-assets.meredithcorp.io/31a99fdb572ca2c76d86b4b1d2777855/bodybutter.png"
+            }
+          ]
+        },
+        {
+          "role": "heading3",
+          "layout": "heading3Layout",
+          "textStyle": "heading3TextStyle",
+          "format": "html",
+          "text": "At Home"
+        },
+        {
+          "role": "body",
+          "layout": "bodyNoMarginAboveLayout",
+          "style": "paragraphStyle",
+          "textStyle": "bodyTextStyle",
+          "format": "html",
+          "text": "Two ingredients known to help smooth cellulite are caffeine and retinol. The former is a temporary fix because it revs up blood circulation and reduces water retention, which helps flatten the tissue. Try <b>1. Maëlys B-Tight Lift &amp;</b> <b>Firm Booty Mask</b> ($49; <a href=\"http://maelyscosmetics.com\">maelyscosmetics.com</a>)</i>. Retinol stimulates collagen production, and increased collagen leads to thicker skin, which lessens the appearance of dimpling, explains Dr. Fabi. In addition, a 2014 study published in the journal of <i>Clinical, Cosmetic and Investigational Dermatology</i> found that retinol, when used twice a day, improved the appearance of cellulite after three months. We like <b>2. Josie Maran Argan Pro-Retinol Whipped Body Butter</b> ($46; <a href=\"http://sephora.com\">sephora.com</a>)</i>. Just remember that retinol exfoliates, which leaves skin more vulnerable to sunburn, meaning you’ll need to be diligent about sunscreen use!"
+        },
+        {
+          "//": "======== SINGLE BLOCK CONTAINER ========",
+          "role": "container",
+          "layout": "singleBlockContainerLayout",
+          "components": [
             {
-              "role": "container",
+              "//": "======== IMAGE BLOCK - H694.0/W248.0 * 100 = 279.8387097 ========",
+              "role": "image",
               "layout": {
-                "ignoreDocumentMargin": "both",
-                "ignoreViewportPadding": "both"
+                "maximumContentWidth": "50cw"
               },
-              "components": [
-                {
-                  "role": "image",
-                  "layout": {
-                    "ignoreDocumentMargin": "both",
-                    "ignoreViewportPadding": "both"
-                  },
-                  "URL": "https://public-assets.meredithcorp.io/3e583a8853627683b6757637548fa74d/lines-bottom.png",
-                  "animation": {
-                    "preferredStartingPosition": "left",
-                    "type": "move_in",
-                    "userControllable": false
-                  }
-                }
-              ]
-            },
+              "URL": "https://public-assets.meredithcorp.io/cf57dd9647ef4a8639d15b15005617c4/brush.png"
+            }
+          ]
+        },
+        {
+          "role": "heading3",
+          "layout": "heading3Layout",
+          "textStyle": "heading3TextStyle",
+          "format": "html",
+          "text": "Go-To Gadget"
+        },
+        {
+          "role": "body",
+          "layout": "bodyNoMarginAboveLayout",
+          "style": "paragraphStyle",
+          "textStyle": "bodyTextStyle",
+          "format": "html",
+          "text": "Manual massage can help, too. When you’re applying body lotions, actually knead the skin. Another way to boost circulation, according to Jennifer Woog, treatments supervisor at Rancho Valencia Resort &amp; Spa in Rancho Santa Fe, California, is to use a dry brush—the tool is a staple in spa treatments. <b>3. De La Heart The Body Brush</b> ($28; <a href=\"http://delaheart.com\">delaheart.com</a>)</i> fits in the palm of your hand. Before you shower, start brushing at your feet, using upward strokes on your legs toward your heart. Repeat from your hands and up the arms."
+        },
+        {
+          "role": "heading3",
+          "layout": "heading3Layout",
+          "textStyle": "heading3TextStyle",
+          "format": "html",
+          "text": "In Office"
+        },
+        {
+          "role": "body",
+          "layout": "bodyNoMarginAboveLayout",
+          "style": "paragraphStyle",
+          "textStyle": "bodyTextStyle",
+          "format": "html",
+          "text": "Qwo is a newly available FDA-approved injectable that’s for patients with 12 to 24 dimples on the buttocks—your provider will determine your eligibility. Enzymes called collagenases are injected into the dimpled area to release the fibrous bands that cause the tethered look on the surface. The result: a redistribution of fat cells and the stimulation of new collagen, which make for a smooth appearance. At $695–$995 for each of the three necessary sessions (over a two-month period), it’s not cheap; however, results are permanent. Expect some bruising, but discomfort should be minimal."
+        },
+        {
+          "role": "container",
+          "layout": "dividerStandardLayout",
+          "style": "dividerStandardStyle"
+        },
+        {
+          "role": "heading2",
+          "layout": "heading2Layout",
+          "textStyle": "heading2TextStyle",
+          "format": "html",
+          "text": "Tackle Spider Veins"
+        },
+        {
+          "role": "intro",
+          "layout": "introLayout",
+          "textStyle": "introTextStyle",
+          "format": "html",
+          "text": "Those pesky little leg veins seem to appear out of nowhere, especially for pregnant women or those over the age of 30 (thanks, hormones). The good news is they’re not dangerous and they’re easy to hide or treat."
+        },
+        {
+          "//": "======== FULL BLEED CONTAINER ========",
+          "role": "container",
+          "layout": "fullBleedContainerLayout",
+          "components": [
             {
-              "role": "intro",
-              "layout": "introLayout",
-              "style": "introStyle",
-              "textStyle": "introTextStyle",
-              "format": "html",
-              "text": "<pink>Meet the Gen-Z Renaissance man behind this year's festival sensation, before everybody knows his name.</pink>"
-            },
-            {
-              "role": "author",
-              "layout": "authorLayout",
-              "style": "authorStyle",
-              "textStyle": "authorTextStyle",
-              "format": "html",
-              "text": "<white>By </white><a href=\"https://twitter.com/leahbats\"><white>Leah Greenblatt</white></a>"
-            },
-            {
-              "//": "======== BODY CONTAINER =======",
-              "role": "container",
-              "layout": "bodyContainerLayout2",
-              "style": "bodyContainerStyle",
-              "identifier": "link",
-              "components": [
-                {
-                  "role": "container",
-                  "layout": {
-                    "columnSpan": 1,
-                    "columnStart": 2,
-                    "conditional": [
-                      {
-                        "columnSpan": 1,
-                        "columnStart": 1,
-                        "conditions": [
-                          {
-                            "maxViewportWidth": 430
-                          }
-                        ]
-                      }
-                    ],
-                    "ignoreDocumentGutter": "both"
-                  },
-                  "anchor": {
-                    "target": "floatImage1",
-                    "targetAnchorPosition": "center"
-                  },
-                  "components": [
-                    {
-                      "role": "image",
-                      "layout": {
-                        "conditional": [
-                          {
-                            "conditions": [
-                              {
-                                "maxViewportWidth": 430
-                              }
-                            ],
-                            "maximumContentWidth": "70cw"
-                          }
-                        ],
-                        "ignoreDocumentGutter": "both",
-                        "maximumContentWidth": "70cw",
-                        "padding": {
-                          "top": 10
-                        }
-                      },
-                      "URL": "https://public-assets.meredithcorp.io/bc298c04cd284a629ef54c178f786849/i_Dropcap.png"
-                    }
-                  ]
-                },
-                {
-                  "role": "body",
-                  "layout": "bodyLayout2",
-                  "style": "paragraphStyle",
-                  "textStyle": "bodyTextStyle",
-                  "format": "html",
-                  "text": "<a id='floatImage1'/>t's a good, weird year to be Cooper Raiff. Weeks before his 25th birthday, an age most of his peers mark by being legally permitted to rent a car, he sold his second film to Apple TV+ for $15 million out of January's Sundance Film Festival. His third movie, an offbeat hockey comedy called <i>The Trashers</i> starring <i>Stranger Things'</i> David Harbour, is set to start shooting in the fall. If that sounds like a steep climb for a man you've never heard of, let alone one born during the second Clinton administration, that's because, well, life moves at you pretty fast."
-                },
-                {
-                  "role": "body",
-                  "layout": "bodyLayout",
-                  "style": "paragraphStyle",
-                  "textStyle": "bodyTextStyle",
-                  "format": "html",
-                  "text": "Put it down also to some awkward pandemic luck. \"It was a massive bummer,\" the Dallas native admits of the series of unfortunate events that led to his debut, the micro-budget college comedy <i>Shithouse</i>, bowing just as the world (and the movie's host, SXSW) shut down in March 2020. Then its follow-up, <i>Cha Cha Real Smooth</i>, landed at an abruptly online-only Sundance two years later just as the Delta variant surged. \"But it's like, how dare I? It's so hard, and so impossible and so lucky to get a movie made…. And now I'm feeling like, 'All right, third time's a charm.' \""
-                },
-                {
-                  "role": "body",
-                  "layout": "bodyLayout",
-                  "style": "paragraphStyle",
-                  "textStyle": "bodyTextStyle",
-                  "format": "html",
-                  "text": "There's already charm to spare in <i>Cha Cha Real Smooth</i>. The winningly scrappy coming-of-age dramedy — which Raiff wrote, directs, and stars in as Andrew, a recent college graduate who crash-lands back in his New Jersey hometown as a reluctant hype man on the local bar mitzvah circuit — begins streaming on Apple TV+ and in theaters June 17, lifted by a raft of glowing festival reviews and the potential to match the crowd-pleasing promise of another high-profile Apple buy from Sundance, the recently minted Oscar winner <i>CODA</i>. The movie's existence stems in no small part from a fateful meeting with Dakota Johnson, who produced the project and costars as Domino, devoted single mother to an autistic teenager named Lola (newcomer Vanessa Burghardt) and elusive object of Andrew's affection."
-                },
-                {
-                  "role": "body",
-                  "layout": "bodyLayout",
-                  "style": "paragraphStyle",
-                  "textStyle": "bodyTextStyle",
-                  "format": "html",
-                  "text": "\"<i>Cha Cha</i> was something that I had started writing my freshman year [at California's Occidental College],\" Raiff says. 'But it was just a young mom with a disabled kid, and that was all there was to it: A young person who is in this spot in life, in the beginning of his twenties, where you're needing to start your own party, and she's in her thirties and didn't really have that [chance] because of her kid.\" When he pitched the idea to Johnson and her producing partner, they presumed he already had a script; he bluffed and asked for a week to work on a polish."
-                }
-              ]
-            },
-            {
-              "//": "======== SINGLE BLOCK CONTAINER =======",
-              "role": "container",
+              "//": "======== IMAGE BLEED - H2198.0/W1366.0 * 100 = 160.9077599 ========",
+              "role": "image",
               "layout": {
-                "ignoreDocumentMargin": "both",
-                "ignoreViewportPadding": "both"
+                "maximumContentWidth": "60cw"
               },
-              "animation": {
-                "//": "The initial transparency of the component 0-1",
-                "initialAlpha": 0,
-                "type": "fade_in",
-                "userControllable": true
-              },
-              "components": [
-                {
-                  "role": "photo",
-                  "layout": {
-                    "ignoreDocumentMargin": "both",
-                    "ignoreViewportPadding": "both"
-                  },
-                  "URL": "https://public-assets.meredithcorp.io/c2ec9957bfebcffdad0d318dd272c27f/Cha%20Cha%20Real%20Smooth%2001.jpg"
-                }
-              ]
-            },
+              "URL": "https://public-assets.meredithcorp.io/de90a9bf50895a52bac4b57caa0cce58/beauty.png"
+            }
+          ]
+        },
+        {
+          "role": "heading3",
+          "layout": "heading3Layout",
+          "textStyle": "heading3TextStyle",
+          "format": "html",
+          "text": "At Home"
+        },
+        {
+          "role": "body",
+          "layout": "bodyNoMarginAboveLayout",
+          "style": "paragraphStyle",
+          "textStyle": "bodyTextStyle",
+          "format": "html",
+          "text": "What concealer does for under-eye circles, it can do for leg discoloration, too. <b>4. Fenty Beauty Body Sauce Body Luminizing Tint</b> ($48; <a href=\"http://sephora.com\">sephora.com</a>)</i> is a concealer-luminizer hybrid that blurs imperfections and leaves behind a subtle glow. Choose from seven water-resistant shades."
+        },
+        {
+          "role": "heading3",
+          "layout": "heading3Layout",
+          "textStyle": "heading3TextStyle",
+          "format": "html",
+          "text": "In Office"
+        },
+        {
+          "role": "body",
+          "layout": "bodyNoMarginAboveLayout",
+          "style": "paragraphStyle",
+          "textStyle": "bodyTextStyle",
+          "format": "html",
+          "text": "“Spider veins are like branches of a tree trunk. If you just trim the branches, they will sprout again, so you need to eliminate the trunk,” explains Dr. Fabi. “The trunks are the blue veins that feed the red and purple spider veins.” Her method of choice is sclerotherapy; a solution is injected into the veins, which causes them to collapse or “scar.” The collapsed vein is absorbed by the body and disappears. The procedure can take three to four months to heal, and bruising on the surface may last a few weeks, but you’re left with long-term results. Also important to note: You’ll have to wear a compression stocking for a week or so after each treatment. Most patients will need two to four appointments, with a single session costing between $500 and $700."
+        },
+        {
+          "//": "======== SIDEBAR =======",
+          "role": "container",
+          "layout": "sidebarLayout",
+          "style": "sidebarStyle",
+          "components": [
             {
-              "//": "======== BODY CONTAINER =======",
-              "role": "container",
-              "layout": "bodyContainerLayout2",
-              "style": "bodyContainerStyle",
-              "components": [
-                {
-                  "role": "body",
-                  "layout": "bodyLayout",
-                  "style": "paragraphStyle",
-                  "textStyle": "bodyTextStyle",
-                  "format": "html",
-                  "text": "What he penned in a rush from there became the film, essentially — including a part he wrote purposefully (and on pure speculative hope) for Leslie Mann as Andrew's mother, a single parent with her own complicated backstory. \"I sent Leslie a letter that was like, 'I wrote this for you. I'd die for you in this role. I know that it's not a role that you should take, but I really want you to,' \" he remembers. \"And it was that, but also just her relationship with Dakota, really, that got her to do it. And then when she came on board she was like, 'I will only do it if Brad Garrett is my husband.' \" (The towering, spaniel-eyed actor-comedian does indeed appear as Andrew's stepdad and frequent foil.)"
-                },
-                {
-                  "role": "body",
-                  "layout": "bodyLayout",
-                  "style": "paragraphStyle",
-                  "textStyle": "bodyTextStyle",
-                  "format": "html",
-                  "text": "Key, too, was getting the tricky character of 15-year-old Lola right on screen. \"My sister is disabled — she can't walk or talk,\" Raiff explains. \"She's not autistic, but she's got buddies who are autistic, and I was interested in making a movie about the visual of every morning having to go all the way for your child for their whole life... When I saw Vanessa's tape — it's one of those things that will make me emotional right now. She's so specific that it just made me cry really hard. And I think it was because some part of her reminded me of my sister. I went back to everyone and I was like, 'Guys, it has to be Vanessa.' And they all listened to me and they trusted me and they loved her too.\""
-                },
-                {
-                  "role": "body",
-                  "layout": "bodyLayout",
-                  "style": "paragraphStyle",
-                  "textStyle": "bodyTextStyle",
-                  "format": "html",
-                  "text": "Burghardt's neurodiversity also proved invaluable on set: \"I didn't want to put any onus on her because I wanted to do my job as a writer,\" Raiff recalls. \"But she was very clear about what she loved. Or I would say, 'Do you think this is funny?' And she would say, 'No.' [laughs] But she's a true writer, artist, actress, and that was very helpful in shaping the role.\""
-                }
-              ]
-            },
-            {
-              "//": "======== SINGLE BLOCK CONTAINER =======",
-              "role": "container",
-              "layout": {
-                "ignoreDocumentMargin": "both",
-                "ignoreViewportPadding": "both"
-              },
-              "animation": {
-                "//": "The initial transparency of the component 0-1",
-                "initialAlpha": 0,
-                "type": "fade_in",
-                "userControllable": true
-              },
-              "components": [
-                {
-                  "role": "photo",
-                  "layout": "fullBleedPhotoLayout",
-                  "URL": "https://public-assets.meredithcorp.io/c705ac593ab3dc1f4a53326155cd5139/Cha%20Cha%20Real%20Smooth%2003.jpg"
-                }
-              ]
-            },
-            {
-              "//": "======== BODY CONTAINER =======",
-              "role": "container",
-              "layout": "bodyContainerLayout2",
-              "style": "bodyContainerStyle",
-              "components": [
-                {
-                  "role": "body",
-                  "layout": "bodyLayout",
-                  "style": "paragraphStyle",
-                  "textStyle": "bodyTextStyle",
-                  "format": "html",
-                  "text": "Johnson, too, brought new shades to Domino, who serves as the flex point for Andrew's romantic yearnings and hyperliterate anxiety, but has her own complicated inner world, including an ongoing history of depression. \"She's so smart and very opinionated, and I knew that I was going to lean on her a lot,\" Raiff says of the 32-year-old actress (<i>The Lost Daughter</i>, Netflix's upcoming <i>Persuasion</i> adaptation). \"And she <i>is</i> Domino. She's got the open heart and she grew up too fast in the same way that Domino did, and she can flirt with a wall. But I wanted to really get into her boundaries. She has really good boundaries as a person.\" Plus, he adds, \"I developed a relationship with her over the course of six months before we stepped on set together, so that was really important. She just cared about the movie so much.\""
-                },
-                {
-                  "role": "body",
-                  "layout": "bodyLayout",
-                  "style": "paragraphStyle",
-                  "textStyle": "bodyTextStyle",
-                  "format": "html",
-                  "text": "If Andrew's route from a marketing degree at Tulane to the banquet halls of suburban New Jersey makes for pointed Gen-Z comedy, it's the inverse of Raiff's own precocious rise. Raised in Texas, he turned to performing when his junior-high sports dreams fell short (\"I was a basketball player until everyone hit puberty,\" he says wryly. \"And then I developed more hobbies.\"). A series of unlikely muses — he recalls Jeremy Jordan's performance in <i>Newsies</i>, which he saw on Broadway during a family trip to New York, and formative viewings of <i>Lost in Translation</i> in high school — helped shape his idea of himself as a writer and performer. A short he made in school with $300 and a few friends earned him the attention of indie stalwart Jay Duplass (<i>Transparent, Togetherness, Search Party</i>) who became a mentor and helped shepherd <i>Shithouse</i>; it went on to win the Grand Jury Prize at SXSW for Best Narrative Feature."
-                },
-                {
-                  "role": "body",
-                  "layout": "bodyLayout",
-                  "style": "paragraphStyle",
-                  "textStyle": "bodyTextStyle",
-                  "format": "html",
-                  "text": "For now, Raiff is camped out at his temporary home in Los Angeles, prepping for <i>The Trashers</i> and waiting for <i>Cha Cha</i> to make its way in the world. In the meantime, he's still getting used to his new reality: \"Apple did some sort of slate-trailer type thing,\" he recalls, of the standard sizzle reel that networks and streaming services put together to tout their future projects. \"And when I saw it, I just was like, 'What?' Because it's two minutes of like, hundred-million-dollar movie, hundred-million-dollar movie, hundred-million-dollar movie, and then a good 25 seconds of dumb-ass little <i>Cha Cha Real Smooth</i> in the middle of these massive Ryan Reynold-Henry Cavill-Dua Lipa [projects]. It felt <i>insane</i>.\" Crazy, maybe, but also a quarter-century in the making — and for Raiff, you could argue, right on time."
-                },
-                {
-                  "role": "body",
-                  "layout": "attributeLayout",
-                  "style": "attributeStyle",
-                  "textStyle": "attributeTextStyle",
-                  "format": "html",
-                  "text": "Apple TV+ (3)"
-                }
-              ]
-            },
-            {
+              "//": "======== SIDEBAR BODY CONTAINER =======",
               "role": "container",
               "layout": "bodyContainerLayout",
-              "conditional": [
-                {
-                  "conditions": [
-                    {
-                      "viewLocation": "article"
-                    }
-                  ],
-                  "hidden": false
-                }
-              ],
-              "hidden": true,
               "components": [
                 {
-                  "role": "container",
-                  "layout": "dividerLayout",
-                  "style": "dividerSectionHeadStyle"
+                  "role": "heading2",
+                  "layout": "sidebarHeading2Layout",
+                  "textStyle": "sidebarHeading2TextStyle",
+                  "format": "html",
+                  "text": "Body of Work"
                 },
                 {
-                  "//": "=== VISIT TOC LINK, ONLY VISIBLE IF USER IS IN ARTICLE VIEW ===",
                   "role": "body",
-                  "layout": "bodyLayout",
-                  "textStyle": "tocTextStyle",
+                  "layout": "sidebarIntroLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "sidebarIntroTextStyle",
                   "format": "html",
-                  "text": "<white><a href='https://apple.news/AlOjY4bz1Eey_-727XpaCsQ'>Tap here</a> to see more from this issue of <i>Entertainment Weekly</i></white>"
+                  "text": "Ever wonder about body-sculpting treatments? Here’s the lowdown on three popular ones."
+                },
+                {
+                  "//": "======== SIDEBAR SINGLE BLOCK CONTAINER ========",
+                  "role": "container",
+                  "layout": "sidebarSingleBlockContainerLayout",
+                  "components": [
+                    {
+                      "//": "======== IMAGE BLOCK - H1744.0/W1367.0 * 100 = 127.5786394 ========",
+                      "role": "image",
+                      "URL": "https://cdn-assets.ziniopro.com/var/site_881/storage/images/media2/images/tlp-iama-01_037/221912-1-eng-US/tlp-iama-01_0372.jpg?q=100"
+                    }
+                  ]
+                },
+                {
+                  "role": "body",
+                  "layout": "sidebarBodyLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "sidebarBodyTextStyle",
+                  "format": "html",
+                  "text": "<b>CoolTone is for people who want extra help defining the abdomen, thighs, or buttocks.</b> It uses magnetic muscle stimulation to engage the muscles, making them contract, resulting in a more sculpted look. (The contractions feel mild and are mostly tolerated well.) For four 30-minute treatments within two weeks, it’s about $2,000. The outcome isn’t permanent—Dr. Fabi recommends upkeep sessions every four to six months."
+                },
+                {
+                  "role": "body",
+                  "layout": "sidebarBodyLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "sidebarBodyTextStyle",
+                  "format": "html",
+                  "text": "<b>If you’re looking for fat reduction rather than simply toning, consider SculpSure.</b> Most commonly used on the belly, love handles, back, thighs, and under the chin, it uses light-based technology to heat the fat cells and melt them, reducing the amount of fat cells you have in about 25 minutes. The destroyed fat cells won’t come back, but cells that remain can grow larger again with weight gain. Expect to pay about $1,000 per session, depending on the area of the body being treated. (Many doctors will offer a deal if you require more than one treatment, or if you’re treating multiple areas). You could feel pain that many liken to intense muscle cramps with a warming sensation, but most providers have nitrous oxide (laughing gas) to help."
+                },
+                {
+                  "role": "body",
+                  "layout": "sidebarBodyLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "sidebarBodyTextStyle",
+                  "format": "html",
+                  "text": "<b>For a less invasive form of liposuction, look into BodyTite.</b> A probe is inserted through a very small incision; it works with an external electrode to emit radiofrequency energy that dissolves fat, then removes it and tightens skin simultaneously. It’s used in places like the chin and neck, abdomen, buttocks, hips, knees, thighs, and upper arms. Dr. Frank likes it for patients who are looking to remove more than 12 ounces of fat as well as tighten skin. The treatment will cost you about $3,000, depending on the area, and typically requires a few days for recovery and a compression garment to help with healing. Results can last years, but as skin ages and stretches, a patient may require another treatment down the line."
                 }
               ]
             }
           ]
+        },
+        {
+          "role": "body",
+          "layout": "attributeLayout",
+          "textStyle": "attributeTextStyle",
+          "format": "html",
+          "text": "Kat Borchart/The Licensing Project; Woman: Deniz Alaca/The Licensing Project, Nat Lanyon/The Licensing Project; Product images courtesty of manufacturers; Runner: Ian Maddox/The Licensing Project"
+        }
+      ]
+    },
+    {
+      "role": "container",
+      "layout": "bodyContainerLayout",
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "viewLocation": "article"
+            }
+          ],
+          "hidden": false
+        }
+      ],
+      "hidden": true,
+      "components": [
+        {
+          "role": "container",
+          "layout": "dividerLayout",
+          "style": "dividerSectionHeadStyle"
+        },
+        {
+          "//": "=== VISIT TOC LINK, ONLY VISIBLE IF USER IS IN ARTICLE VIEW ===",
+          "role": "body",
+          "layout": "bodyLayout",
+          "textStyle": "tocTextStyle",
+          "format": "html",
+          "text": "<a href='https://apple.news/ALut7AahwEeu6DTM4ql0FLA'>Tap here</a> to see more from this issue of <i>Health</i>"
         }
       ]
     }
   ],
   "componentLayouts": {
-    "answerBodyLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
-      "margin": {
-        "bottom": 5,
-        "left": 0,
-        "right": 0,
-        "top": 0
-      }
-    },
     "attributeLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": 15
     },
     "authorLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
-        "bottom": 20
+        "bottom": 10
       }
     },
     "blockContainerLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "ignoreDocumentMargin": true,
       "margin": {
         "bottom": 10,
@@ -461,54 +586,17 @@
       "ignoreDocumentMargin": true,
       "margin": 10
     },
-    "bodyContainerLayout2": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "maxViewportWidth": 430
-            }
-          ],
-          "padding": {
-            "bottom": 12,
-            "left": 20,
-            "right": 20,
-            "top": 10
-          }
-        }
-      ],
-      "margin": 0,
-      "padding": {
-        "bottom": 12,
-        "left": 10,
-        "right": 10,
-        "top": 10
-      }
-    },
     "bodyLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": 10
     },
-    "bodyLayout2": {
-      "columnSpan": 19,
-      "columnStart": 2,
-      "padding": {
-        "bottom": 10,
-        "top": 10
-      }
-    },
     "bodyNoMarginAboveLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
-      "margin": {
-        "bottom": 10,
-        "top": 0
-      }
-    },
-    "bodyNoMarginLayout": {
       "columnSpan": 18,
-      "columnStart": 1
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10
+      }
     },
     "bottomPhotoDividerLayout": {
       "//": "UNUSED"
@@ -532,7 +620,7 @@
         "bottom": 10,
         "left": 20,
         "right": 20,
-        "top": 0
+        "top": 10
       }
     },
     "captionAdLayout": {
@@ -541,68 +629,77 @@
     "captionLayout": {
       "margin": 8
     },
-    "coldOpenTitleLayout": {
-      "ignoreDocumentMargin": "both",
-      "ignoreViewportPadding": "both",
-      "margin": {
-        "bottom": 5,
-        "top": 0
-      }
-    },
     "collectionLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
         "bottom": 10,
         "top": 20
       }
     },
-    "contentsHeaderLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+    "customHeaderLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
-        "bottom": 0,
-        "top": 10
-      }
-    },
-    "contentsLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
-      "margin": {
-        "bottom": "5cw",
-        "top": 0
+        "bottom": 30
       },
       "padding": {
-        "bottom": "4cw",
-        "top": "2cw"
+        "bottom": 20,
+        "top": 35
       }
+    },
+    "darkModePaddingLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "margin": {
+            "bottom": 10,
+            "top": 10
+          },
+          "padding": "10"
+        }
+      ]
     },
     "dividerCollectionLayout": {
       "//": "UNUSED"
     },
     "dividerLayout": {
-      "ignoreDocumentMargin": true,
-      "margin": {
-        "bottom": 15
-      }
-    },
-    "dividerRRLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
-      "margin": {
-        "bottom": 0,
-        "top": 0
-      },
-      "minimumHeight": 1
+      "//": "UNUSED"
     },
     "dividerStandardLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
         "bottom": 10,
         "top": 20
       },
       "minimumHeight": 1
+    },
+    "dividerTocLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 15,
+        "top": 20
+      },
+      "minimumHeight": 1
+    },
+    "editorSigLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "horizontalContentAlignment": "left",
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "maximumContentWidth": "25cw",
+      "minimumHeight": 100
     },
     "floatContainerLayout": {
       "columnSpan": 4,
@@ -620,11 +717,17 @@
       ]
     },
     "fullBleedContainerLayout": {
-      "ignoreDocumentMargin": "both",
-      "ignoreViewportPadding": "both",
+      "ignoreDocumentMargin": true,
       "margin": {
         "bottom": 10,
         "top": 20
+      }
+    },
+    "fullBleedContainerLayout2": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 0,
+        "top": 10
       }
     },
     "fullBleedDividerLayout": {
@@ -634,8 +737,17 @@
       "ignoreDocumentMargin": true
     },
     "fullBleedPhotoLayout": {
-      "ignoreDocumentMargin": "both",
-      "ignoreViewportPadding": "both"
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 700
+            }
+          ],
+          "ignoreDocumentMargin": false
+        }
+      ],
+      "ignoreDocumentMargin": true
     },
     "galleryPhotoLayout": {
       "ignoreDocumentMargin": true,
@@ -645,74 +757,79 @@
       }
     },
     "heading2Layout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
         "top": 20
       }
     },
     "heading3Layout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
         "top": 10
       }
     },
     "heading4Layout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
         "top": 10
       }
     },
     "heading5Layout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
         "top": 10
       }
     },
     "heading6Layout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
-        "top": 10
+        "top": 20
       }
     },
-    "heroFullBleedPhotoLayout": {
-      "ignoreDocumentMargin": "both",
-      "ignoreViewportPadding": "both"
-    },
     "heroImageLayout": {
-      "ignoreDocumentMargin": "both",
-      "ignoreViewportPadding": "both",
+      "ignoreDocumentMargin": true,
       "margin": {
-        "bottom": 5
+        "bottom": 10,
+        "top": 15
       }
     },
     "heroImageTallLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
-        "bottom": 5
+        "bottom": 10,
+        "top": 15
       }
     },
     "ingredientsLayout": {
       "margin": {
-        "bottom": 5,
-        "top": 5
+        "bottom": 5
       }
     },
     "introLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
-        "bottom": 10
+        "bottom": 12
       }
     },
     "noMarginLayout": {
       "columnSpan": 18,
       "columnStart": 1
+    },
+    "photoCreditLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "top": 8
+      },
+      "padding": {
+        "right": 15
+      }
     },
     "productImageStandardLayout": {
       "minimumHeight": 280
@@ -720,43 +837,69 @@
     "pullQuoteLayout": {
       "columnSpan": 16,
       "columnStart": 2,
+      "conditional": [
+        {
+          "columnSpan": 16,
+          "columnStart": 2,
+          "conditions": [
+            {
+              "minViewportWidth": 600
+            }
+          ],
+          "padding": {
+            "bottom": 30,
+            "left": "7cw",
+            "right": "7cw",
+            "top": 30
+          }
+        }
+      ],
+      "margin": 20,
+      "padding": {
+        "bottom": 25,
+        "left": 20,
+        "right": 20,
+        "top": 22
+      }
+    },
+    "recipeIconLayout": {
+      "horizontalContentAlignment": "center",
+      "maximumContentWidth": 30
+    },
+    "recipeKeyImageLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "horizontalContentAlignment": "left",
+      "margin": {
+        "bottom": 10,
+        "top": 5
+      },
+      "maximumContentWidth": 370,
+      "URL": "https://public-assets-dev.meredithcorp.io/a74420c0cf40518e44c2f5741bff24e2/key.png"
+    },
+    "recipeLabelLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "horizontalContentAlignment": "left",
       "margin": {
         "bottom": 10,
         "top": 20
-      }
+      },
+      "maximumContentWidth": "25cw",
+      "minimumHeight": 35
     },
-    "questionBodyLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+    "recipeSubheadLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
-        "bottom": 0,
-        "left": 0,
-        "right": 0,
-        "top": "5cw"
-      }
-    },
-    "RRstraplineLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
-      "padding": {
-        "left": 17
+        "bottom": 4,
+        "top": 5
       }
     },
     "sectionLayout": {
       "margin": {
-        "bottom": 5,
+        "bottom": 25,
         "top": 5
-      }
-    },
-    "sidebarAuthorLayout": {
-      "margin": {
-        "bottom": 10
-      }
-    },
-    "sidebarBlockContainerLayout": {
-      "margin": {
-        "bottom": 10,
-        "top": 20
       }
     },
     "sidebarBodyLayout": {
@@ -764,14 +907,13 @@
     },
     "sidebarBodyNoMarginAboveLayout": {
       "margin": {
-        "bottom": 10,
-        "top": 0
+        "bottom": 10
       }
     },
     "sidebarDividerLayout": {
       "margin": {
         "bottom": 10,
-        "top": 0
+        "top": 20
       },
       "minimumHeight": 1
     },
@@ -781,7 +923,8 @@
     },
     "sidebarHeading2Layout": {
       "margin": {
-        "top": 20
+        "bottom": 10,
+        "top": 10
       }
     },
     "sidebarHeading3Layout": {
@@ -794,23 +937,21 @@
         "top": 10
       }
     },
-    "sidebarHeading5Layout": {
-      "margin": {
-        "top": 10
-      }
-    },
     "sidebarIntroLayout": {
       "margin": {
-        "bottom": 2,
-        "top": 2
+        "bottom": 10,
+        "top": 5
       }
     },
     "sidebarLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": 20,
       "padding": {
-        "bottom": 10
+        "bottom": 10,
+        "left": 30,
+        "right": 30,
+        "top": 10
       }
     },
     "sidebarSingleBlockContainerLayout": {
@@ -824,31 +965,29 @@
         "top": 2
       }
     },
-    "signatureImageLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
-      "horizontalContentAlignment": "left",
-      "margin": 5,
-      "maximumContentWidth": 140
+    "sidebarStraplineLayout": {
+      "margin": {
+        "top": 10
+      }
     },
     "singleBlockContainerLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
         "bottom": 10,
         "top": 20
       }
     },
     "smallMarginAboveLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
         "top": 2
       }
     },
     "spacerLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
         "bottom": 10,
         "top": 20
@@ -856,14 +995,16 @@
     },
     "straplineLayout": {
       "columnSpan": 18,
-      "columnStart": 1
+      "columnStart": 1,
+      "margin": {
+        "bottom": 4
+      }
     },
     "titleLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
-        "bottom": 5,
-        "top": 30
+        "bottom": 15
       }
     },
     "topPhotoDividerLayout": {
@@ -883,20 +1024,34 @@
     "calloutStyle": {
       "border": {
         "all": {
-          "width": 1,
-          "color": "#000"
+          "width": 5,
+          "color": "lightpink",
+          "possibleColors": {
+            "red": "#db3832",
+            "blue": "#4289ab",
+            "yellow": "#fdb913",
+            "seafoamGreen": "#94b9b6",
+            "grey": "#59595b",
+            "gold": "#847336"
+          }
         }
       },
-      "backgroundColor": "#fff",
       "conditional": [
         {
           "border": {
             "all": {
-              "color": "red",
-              "width": 1
+              "width": 5,
+              "color": "lightpink",
+              "possibleColors": {
+                "red": "#db3832",
+                "blue": "#4289ab",
+                "yellow": "#fdb913",
+                "seafoamGreen": "#94b9b6",
+                "grey": "#59595b",
+                "gold": "#847336"
+              }
             }
           },
-          "backgroundColor": "#000",
           "conditions": [
             {
               "preferredColorScheme": "dark",
@@ -909,16 +1064,42 @@
     "captionAdStyle": {
       "//": "UNUSED"
     },
+    "customHeaderStyle": {
+      "backgroundColor": "#FDEAEB",
+      "conditional": [
+        {
+          "backgroundColor": "#FDEAEB",
+          "conditions": [
+            {
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "darkModeBackgroundStyle": {
+      "conditional": [
+        {
+          "backgroundColor": "#FFF",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
     "dividerSectionHeadStyle": {
       "border": {
         "all": {
-          "color": "#ececec",
+          "color": "#59595b",
           "width": 1
         },
         "bottom": true,
         "left": false,
         "right": false,
-        "top": true
+        "top": false
       },
       "conditional": [
         {
@@ -930,7 +1111,7 @@
             "bottom": true,
             "left": false,
             "right": false,
-            "top": true
+            "top": false
           },
           "conditions": [
             {
@@ -943,6 +1124,33 @@
     },
     "dividerStandardStyle": {
       "backgroundColor": "#000"
+    },
+    "dividerTocStyle": {
+      "//": "UNUSED"
+    },
+    "editorSigStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "fillMode": "fit",
+            "horizontalAlignment": "left",
+            "type": "image",
+            "URL": "https://public-assets.meredithcorp.io/6a4d216cc9de23a7e8167b2d1c0a2530/amyconway-3.png"
+          }
+        }
+      ],
+      "fill": {
+        "fillMode": "fit",
+        "horizontalAlignment": "left",
+        "type": "image",
+        "URL": "https://cdn-assets.ziniopro.com/var/site_881/storage/images/media2/images/amyconway_s_0082/160366-1-eng-US/amyconway_s_0082.jpg?q=100"
+      }
     },
     "fullBleedContainerStyle": {
       "//": "UNUSED"
@@ -965,7 +1173,6 @@
     "ingredientsStyle": {
       "tableStyle": {
         "cells": {
-          "height": 22,
           "conditional": [
             {
               "horizontalAlignment": "right",
@@ -1014,6 +1221,9 @@
               "width": 45
             }
           ]
+        },
+        "rows": {
+          "height": 20
         }
       }
     },
@@ -1030,25 +1240,310 @@
       "//": "UNUSED"
     },
     "pullQuoteStyle": {
-      "border": {
-        "all": {
-          "width": 1,
-          "color": "#111"
-        },
-        "bottom": true,
-        "left": false,
-        "right": false,
-        "top": true
+      "//": "UNUSED"
+    },
+    "recipeLabelStyleGF": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "fillMode": "fit",
+            "horizontalAlignment": "left",
+            "type": "image",
+            "URL": "https://public-assets.meredithcorp.io/dfbbf2648453bca9aa4103c69dc0bd45/recipe-gf.png"
+          }
+        }
+      ],
+      "fill": {
+        "fillMode": "fit",
+        "horizontalAlignment": "left",
+        "type": "image",
+        "URL": "https://public-assets.meredithcorp.io/dfeb90a955a7147a00a5ee9d2db0ba02/recipe-gf.jpg"
+      }
+    },
+    "recipeLabelStyleGFCentered": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "fillMode": "fit",
+            "horizontalAlignment": "center",
+            "type": "image",
+            "URL": "https://public-assets.meredithcorp.io/dfbbf2648453bca9aa4103c69dc0bd45/recipe-gf.png"
+          }
+        }
+      ],
+      "fill": {
+        "fillMode": "fit",
+        "horizontalAlignment": "center",
+        "type": "image",
+        "URL": "https://public-assets.meredithcorp.io/dfeb90a955a7147a00a5ee9d2db0ba02/recipe-gf.jpg"
+      }
+    },
+    "recipeLabelStyleHF": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "fillMode": "fit",
+            "horizontalAlignment": "left",
+            "type": "image",
+            "URL": "https://public-assets.meredithcorp.io/ce1f31c4570bbaa3b49d547bd8429f45/recipe-hf.png"
+          }
+        }
+      ],
+      "fill": {
+        "fillMode": "fit",
+        "horizontalAlignment": "left",
+        "type": "image",
+        "URL": "https://public-assets.meredithcorp.io/18db01f9c694387b540dc500a5ea8f8a/recipe-hf.jpg"
+      }
+    },
+    "recipeLabelStyleHFCentered": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "fillMode": "fit",
+            "horizontalAlignment": "center",
+            "type": "image",
+            "URL": "https://public-assets.meredithcorp.io/ce1f31c4570bbaa3b49d547bd8429f45/recipe-hf.png"
+          }
+        }
+      ],
+      "fill": {
+        "fillMode": "fit",
+        "horizontalAlignment": "center",
+        "type": "image",
+        "URL": "https://public-assets.meredithcorp.io/18db01f9c694387b540dc500a5ea8f8a/recipe-hf.jpg"
+      }
+    },
+    "recipeLabelStyleHP": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "fillMode": "fit",
+            "horizontalAlignment": "left",
+            "type": "image",
+            "URL": "https://public-assets.meredithcorp.io/93ffc89bd8769a3b27583d8d134e4aa0/recipe-hp.png"
+          }
+        }
+      ],
+      "fill": {
+        "fillMode": "fit",
+        "horizontalAlignment": "left",
+        "type": "image",
+        "URL": "https://public-assets.meredithcorp.io/cc365a9d946e629f954cf7e27638edd7/recipe-hp.jpg"
+      }
+    },
+    "recipeLabelStyleHPCentered": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "fillMode": "fit",
+            "horizontalAlignment": "center",
+            "type": "image",
+            "URL": "https://public-assets.meredithcorp.io/93ffc89bd8769a3b27583d8d134e4aa0/recipe-hp.png"
+          }
+        }
+      ],
+      "fill": {
+        "fillMode": "fit",
+        "horizontalAlignment": "center",
+        "type": "image",
+        "URL": "https://public-assets.meredithcorp.io/cc365a9d946e629f954cf7e27638edd7/recipe-hp.jpg"
+      }
+    },
+    "recipeLabelStyleV": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "fillMode": "fit",
+            "horizontalAlignment": "left",
+            "type": "image",
+            "URL": "https://public-assets.meredithcorp.io/aae176470f83acb5f8ce099508788935/recipe-v.png"
+          }
+        }
+      ],
+      "fill": {
+        "fillMode": "fit",
+        "horizontalAlignment": "left",
+        "type": "image",
+        "URL": "https://public-assets.meredithcorp.io/2c98d7efd2ffa980b3283cab6654a319/recipe-v.jpg"
+      }
+    },
+    "recipeLabelStyleVCentered": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "fillMode": "fit",
+            "horizontalAlignment": "Center",
+            "type": "image",
+            "URL": "https://public-assets.meredithcorp.io/aae176470f83acb5f8ce099508788935/recipe-v.png"
+          }
+        }
+      ],
+      "fill": {
+        "fillMode": "fit",
+        "horizontalAlignment": "center",
+        "type": "image",
+        "URL": "https://public-assets.meredithcorp.io/2c98d7efd2ffa980b3283cab6654a319/recipe-v.jpg"
+      }
+    },
+    "recipeLabelStyleVE": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "fillMode": "fit",
+            "horizontalAlignment": "left",
+            "type": "image",
+            "URL": "https://public-assets.meredithcorp.io/9f017d09f19a549a7e69be76e8699460/recipe-ve.png"
+          }
+        }
+      ],
+      "fill": {
+        "fillMode": "fit",
+        "horizontalAlignment": "left",
+        "type": "image",
+        "URL": "https://public-assets.meredithcorp.io/f83a6de315a61acf3ad247ab382270d2/recipe-ve.jpg"
+      }
+    },
+    "recipeLabelStyleVECentered": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "fillMode": "fit",
+            "horizontalAlignment": "center",
+            "type": "image",
+            "URL": "https://public-assets.meredithcorp.io/9f017d09f19a549a7e69be76e8699460/recipe-ve.png"
+          }
+        }
+      ],
+      "fill": {
+        "fillMode": "fit",
+        "horizontalAlignment": "center",
+        "type": "image",
+        "URL": "https://public-assets.meredithcorp.io/f83a6de315a61acf3ad247ab382270d2/recipe-ve.jpg"
       }
     },
     "sectionStyle": {
       "//": "UNUSED"
     },
-    "sidebarStyle": {
-      "backgroundColor": "#f2f2f2",
+    "sidebarNoBackgroundStyle": {
+      "border": {
+        "all": {
+          "color": "#f8ecdc",
+          "width": 4
+        }
+      },
       "conditional": [
         {
-          "backgroundColor": "#8a8a8a",
+          "border": {
+            "all": {
+              "color": "#f8ecdc",
+              "width": 4
+            }
+          },
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "sidebarStyle": {
+      "border": {
+        "all": {
+          "width": 5,
+          "color": "lightpink",
+          "possibleColors": {
+            "red": "#db3832",
+            "blue": "#4289ab",
+            "yellow": "#fdb913",
+            "seafoamGreen": "#94b9b6",
+            "grey": "#59595b",
+            "gold": "#847336"
+          }
+        },
+        "left": false,
+        "right": false
+      },
+      "conditional": [
+        {
+          "border": {
+            "all": {
+              "width": 5,
+              "color": "lightpink",
+              "possibleColors": {
+                "red": "#db3832",
+                "blue": "#4289ab",
+                "yellow": "#fdb913",
+                "seafoamGreen": "#94b9b6",
+                "grey": "#59595b",
+                "gold": "#847336"
+              }
+            },
+            "left": false,
+            "right": false
+          },
           "conditions": [
             {
               "preferredColorScheme": "dark",
@@ -1064,35 +1559,118 @@
     "titleStyle": {
       "//": "UNUSED"
     },
-    "darkModeBackgroundStyle": {
+    "numbersContainerStyle": {
+      "border": {
+        "all": {
+          "width": 20,
+          "color": "gainsboro"
+        },
+        "top": false,
+        "left": false,
+        "right": false
+      }
+    },
+    "captionUserInstructionStyle": {
+      "border": {
+        "all": {
+          "width": 1,
+          "color": "#ececec"
+        },
+        "left": false,
+        "right": false,
+        "bottom": false
+      }
+    },
+    "sidebarContainerStyle": {
+      "border": {
+        "all": {
+          "width": 5,
+          "color": "lightpink",
+          "possibleColors": {
+            "red": "#db3832",
+            "blue": "#4289ab",
+            "yellow": "#fdb913",
+            "seafoamGreen": "#94b9b6",
+            "grey": "#59595b",
+            "gold": "#847336"
+          }
+        },
+        "left": false,
+        "right": false
+      },
       "conditional": [
         {
-          "backgroundColor": "#FFF",
+          "border": {
+            "all": {
+              "width": 5,
+              "color": "lightpink",
+              "possibleColors": {
+                "red": "#db3832",
+                "blue": "#4289ab",
+                "yellow": "#fdb913",
+                "seafoamGreen": "#94b9b6",
+                "grey": "#59595b",
+                "gold": "#847336"
+              }
+            },
+            "left": false,
+            "right": false
+          },
           "conditions": [
             {
-              "minSpecVersion": "1.14",
-              "preferredColorScheme": "dark"
+              "preferredColorScheme": "dark",
+              "minSpecVersion": "1.14"
             }
           ]
         }
       ]
     },
-    "sidebarNoBackgroundStyle": {
+    "buttonStyle": {
       "border": {
         "all": {
-          "width": 1,
-          "color": "#000"
-        },
-        "bottom": false,
-        "left": true,
-        "right": false,
-        "top": false
-      }
+          "width": 2,
+          "color": "lightpink",
+          "possibleColors": {
+            "red": "#db3832",
+            "blue": "#4289ab",
+            "yellow": "#fdb913",
+            "seafoamGreen": "#94b9b6",
+            "grey": "#59595b",
+            "gold": "#847336"
+          }
+        }
+      },
+      "conditional": [
+        {
+          "border": {
+            "all": {
+              "width": 2,
+              "color": "lightpink",
+              "possibleColors": {
+                "red": "#db3832",
+                "blue": "#4289ab",
+                "yellow": "#fdb913",
+                "seafoamGreen": "#94b9b6",
+                "grey": "#59595b",
+                "gold": "#847336"
+              }
+            }
+          },
+          "conditions": [
+            {
+              "preferredColorScheme": "dark",
+              "minSpecVersion": "1.14"
+            }
+          ]
+        }
+      ]
     },
-    "cornersStyle": {
-      "mask": {
-        "radius": 10,
-        "type": "corners"
+    "statStyle": {
+      "border": {
+        "all": {
+          "width": 2,
+          "color": "#000"
+        }
       }
     }
   },
@@ -1103,133 +1681,62 @@
       "textColor": "#8d8d8d",
       "tracking": 0.05
     },
-    "default-tag-black": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minSpecVersion": "1.14",
-              "preferredColorScheme": "dark"
-            }
-          ],
-          "textColor": "#000"
-        }
-      ],
-      "textColor": "#000"
-    },
-    "default-tag-blue": {
-      "textColor": "#2BADEF"
-    },
-    "default-tag-body-author": {
-      "fontName": "CaslonDoricApp-Regular",
-      "fontSize": 14
-    },
     "default-tag-caption-heading": {
-      "fontSize": 15,
-      "fontName": "LibreFranklin-Bold",
+      "fontName": "Barlow-ExtraBold",
       "textTransform": "uppercase"
-    },
-    "default-tag-caption-italic": {
-      "fontName": "CaslonDoricApp-RegularItalic"
-    },
-    "default-tag-coldopen-strapline": {
-      "fontName": "CaslonDoricApp-Medium",
-      "fontSize": 12,
-      "textAlignment": "center",
-      "tracking": 0.15
-    },
-    "default-tag-coldopensmall": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minViewportWidth": 415
-            }
-          ],
-          "fontSize": 25
-        }
-      ],
-      "fontName": "OriginalSansApp-Three",
-      "fontSize": 16,
-      "textTransform": "uppercase",
-      "tracking": 0.15
-    },
-    "default-tag-color": {
-      "textColor": "#F15A21"
     },
     "default-tag-emoji": {
       "fontName": "AppleColorEmoji"
     },
-    "default-tag-highlight": {
-      "backgroundColor": "#FEF203"
-    },
-    "default-tag-introitalic": {
-      "fontName": "CaslonDoricApp-RegularNo2Italic"
-    },
     "default-tag-lede": {
-      "fontName": "LibreFranklin-Bold",
+      "fontName": "Barlow-ExtraBold",
       "textTransform": "uppercase",
-      "tracking": 0.04,
-      "fontSize": 15
+      "tracking": 0.1
     },
-    "default-tag-lede-alt": {
-      "fontName": "CaslonDoricApp-Bold",
+    "default-tag-pipe": {
+      "fontName": "BentonSans-Book",
+      "fontSize": 32
+    },
+    "default-tag-pullquote-attribution": {
+      "fontName": "Barlow-Medium",
       "fontSize": 16,
-      "textColor": "#F15921",
-      "tracking": 0.05
+      "textTransform": "capitalize",
+      "textColor": "#000"
     },
-    "default-tag-original-bold": {
-      "fontName": "OriginalSansApp-Four"
-    },
-    "default-tag-original-bolditalic": {
-      "fontName": "OriginalSansApp-FourItalic",
-      "tracking": 0.02
-    },
-    "default-tag-original-semibold": {
-      "fontName": "OriginalSansApp-Three"
-    },
-    "default-tag-original-semibolditalic": {
-      "fontName": "OriginalSansApp-ThreeItalic"
-    },
-    "default-tag-pink": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minSpecVersion": "1.14",
-              "preferredColorScheme": "dark"
-            }
-          ],
-          "textColor": "#de9be0"
-        }
-      ],
-      "textColor": "#de9be0"
-    },
-    "default-tag-red": {
-      "textColor": "#EE3124"
-    },
-    "default-tag-semibold-italic": {
-      "fontName": "CaslonDoricApp-SemiboldItalic"
+    "default-tag-q": {
+      "fontName": "LibreFranklin-ExtraBold"
     },
     "default-tag-sidebar-lede": {
-      "fontName": "LibreFranklin-Bold"
+      "fontName": "Barlow-Black",
+      "textColor": "#000"
     },
-    "default-tag-sidebarintro-regular": {
-      "fontName": "CaslonDoricApp-Semibold"
+    "default-tag-small": {
+      "fontSize": 10
     },
-    "default-tag-white": {
+    "default-tag-subsection": {
+      "fontName": "BarlowCondensed-ExtraBold",
+      "textTransform": "uppercase",
+      "tracking": 0.16,
+      "possibleColors": {
+        "red": "#db3832",
+        "blue": "#4289ab",
+        "yellow": "#fdb913",
+        "seafoamGreen": "#94b9b6",
+        "grey": "#59595b",
+        "gold": "#847336"
+      },
+      "textColor": "lightpink",
       "conditional": [
         {
+          "textColor": "lightpink",
           "conditions": [
             {
-              "minSpecVersion": "1.14",
-              "preferredColorScheme": "dark"
+              "preferredColorScheme": "dark",
+              "minSpecVersion": "1.14"
             }
-          ],
-          "textColor": "#fff"
+          ]
         }
-      ],
-      "textColor": "#fff"
+      ]
     },
     "endMarkerTextStyle": {
       "//": "UNUSED"
@@ -1237,56 +1744,169 @@
     "subSectionTextStyle": {
       "//": "UNUSED"
     },
-    "default-tag-pullquote-attribution": {
-      "fontName": "LibreFranklin-Medium",
-      "fontSize": 13,
+    "defaut-tag-italic": {
+      "fontName": "Palatino-Italic"
+    },
+    "default-tag-caption-credit": {
+      "fontName": "BarlowSemiCondensed-Medium",
+      "fontSize": 12,
+      "tracking": 0.05,
       "textTransform": "uppercase"
     },
-    "default-tag-body-quote": {
-      "fontName": "LibreFranklin-SemiBold"
+    "default-tag-color": {
+      "possibleColors": {
+        "red": "#db3832",
+        "blue": "#4289ab",
+        "yellow": "#fdb913",
+        "seafoamGreen": "#94b9b6",
+        "grey": "#59595b",
+        "gold": "#847336"
+      },
+      "textColor": "lightpink",
+      "conditional": [
+        {
+          "textColor": "lightpink",
+          "conditions": [
+            {
+              "preferredColorScheme": "dark",
+              "minSpecVersion": "1.14"
+            }
+          ]
+        }
+      ]
+    },
+    "default-tag-author": {
+      "fontName": "Barlow-Bold",
+      "textTransform": "uppercase",
+      "fontSize": 14,
+      "textColor": "#000"
     }
   },
   "componentTextStyles": {
     "//": {
-      "//": "===================== FOOD AND WINE OVERRIDES ====================="
+      "//": "================ FORTUNE OVERRIDES ================"
     },
     "attributeTextStyle": {
-      "fontName": "BentonSans-Book",
+      "fontName": "RobotoMono-Regular",
       "fontSize": 10,
+      "textTransform": "uppercase",
       "lineHeight": 12,
-      "tracking": 0.05,
-      "textTransform": "uppercase"
+      "tracking": 0.05
     },
     "authorTextStyle": {
-      "fontName": "Acta-Book"
+      "fontName": "Barlow-Bold",
+      "textTransform": "uppercase",
+      "fontSize": 14
     },
     "bodyCenteredTextStyle": {
       "textAlignment": "center"
     },
     "bodyDropCapTextStyle": {
-      "fontName": "Acta-Book",
+      "fontName": "Palatino-Roman",
       "dropCapStyle": {
-        "fontName": "Xreles-Headline",
+        "fontName": "BarlowCondensed-Bold",
         "numberOfLines": 4,
         "numberOfRaisedLines": 0,
-        "numberOfCharacters": 1
-      }
+        "numberOfCharacters": 1,
+        "textColor": "#000",
+        "padding": 0
+      },
+      "linkStyle": {
+        "textColor": "lightpink",
+        "underline": true
+      },
+      "conditional": [
+        {
+          "dropCapStyle": {
+            "fontName": "BarlowCondensed-Bold",
+            "numberOfLines": 4,
+            "numberOfRaisedLines": 0,
+            "numberOfCharacters": 1,
+            "textColor": "#fff",
+            "padding": 0
+          },
+          "linkStyle": {
+            "textColor": "lightpink",
+            "underline": true
+          },
+          "conditions": [
+            {
+              "preferredColorScheme": "dark",
+              "minSpecVersion": "1.14"
+            }
+          ]
+        }
+      ]
     },
     "bodyTextStyle": {
-      "fontName": "Acta-Book"
+      "fontName": "Palatino-Roman",
+      "linkStyle": {
+        "textColor": "lightpink",
+        "underline": true,
+        "possibleColors": {
+          "red": "#db3832",
+          "blue": "#4289ab",
+          "yellow": "#fdb913",
+          "seafoamGreen": "#94b9b6",
+          "grey": "#59595b",
+          "gold": "#847336"
+        }
+      },
+      "conditional": [
+        {
+          "linkStyle": {
+            "textColor": "lightpink",
+            "underline": true,
+            "possibleColors": {
+              "red": "#db3832",
+              "blue": "#4289ab",
+              "yellow": "#fdb913",
+              "seafoamGreen": "#94b9b6",
+              "grey": "#59595b",
+              "gold": "#847336"
+            }
+          },
+          "conditions": [
+            {
+              "preferredColorScheme": "dark",
+              "minSpecVersion": "1.14"
+            }
+          ]
+        }
+      ]
     },
     "calloutBodyTextStyle": {
-      "fontName": "LibreFranklin-Regular",
+      "fontName": "Barlow-Regular",
       "fontSize": 16,
       "lineHeight": 20,
       "textAlignment": "center"
     },
     "calloutHeadingTextStyle": {
-      "fontName": "LibreFranklin-Bold",
-      "fontSize": 18,
-      "lineHeight": 20,
+      "fontName": "BarlowSemiCondensed-Bold",
+      "fontSize": 19,
+      "lineHeight": 21,
+      "textColor": "lightpink",
       "textAlignment": "center",
-      "textTransform": "uppercase"
+      "textTransform": "uppercase",
+      "possibleColors": {
+        "red": "#db3832",
+        "blue": "#4289ab",
+        "yellow": "#fdb913",
+        "seafoamGreen": "#94b9b6",
+        "grey": "#59595b",
+        "gold": "#847336"
+      },
+      "conditional": [
+        {
+          "textColor": "lightpink",
+          "conditions": [
+            {
+              "preferredColorScheme": "dark",
+              "minSpecVersion": "1.14"
+            }
+          ]
+        }
+      ]
     },
     "captionAdTextStyle": {
       "//": "UNUSED"
@@ -1299,52 +1919,59 @@
       "lineHeight": 16
     },
     "captionTextStyle": {
-      "fontName": "BentonSans-Regular"
+      "fontName": "Barlow-Bold",
+      "tracking": 0.02,
+      "textColor": "#59595b"
     },
-    "coldOpenStraplineTextStyle": {
-      "fontName": "CaslonDoricApp-Medium",
+    "customSectionHeadingTextStyle": {
+      "fontName": "BentonSans-Black",
+      "fontSize": 52,
+      "lineHeight": 40,
+      "textAlignment": "center",
+      "tracking": 0.04
+    },
+    "customSectionSubHeadingBeautyTextStyle": {
+      "fontName": "LibreFranklin-Bold",
       "fontSize": 13,
+      "lineHeight": 15,
       "textAlignment": "center",
-      "tracking": 0
+      "textTransform": "uppercase",
+      "tracking": 0.15
     },
-    "coldOpenTitleTextStyle": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minViewportWidth": 430
-            }
-          ],
-          "fontSize": 100,
-          "lineHeight": 26
-        }
-      ],
-      "fontName": "OriginalSansApp-Four",
-      "fontSize": 80,
-      "lineHeight": 22,
-      "textAlignment": "center",
-      "tracking": 0.1
-    },
-    "contentsTextStyle": {
-      "fontName": "AvenirNextCondensed-Bold",
-      "fontSize": 16,
-      "lineHeight": 20,
-      "textAlignment": "center"
-    },
-    "contentTextStyles": {
-      "fontName": "CaslonDoricApp-Regular",
+    "customSectionSubHeadingBodyAndMindTextStyle": {
+      "fontName": "LibreFranklin-Bold",
       "fontSize": 12,
-      "lineHeight": 20,
-      "linkStyle": {
-        "underline": {
-          "color": "#F15921"
-        }
-      },
+      "lineHeight": 14,
       "textAlignment": "center",
-      "tracking": 0.1
+      "textTransform": "uppercase",
+      "tracking": 0.15
+    },
+    "customSectionSubHeadingFoodTextStyle": {
+      "fontName": "LibreFranklin-Bold",
+      "fontSize": 13,
+      "lineHeight": 15,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.15
+    },
+    "customSectionSubHeadingLifeTextStyle": {
+      "fontName": "LibreFranklin-Bold",
+      "fontSize": 13,
+      "lineHeight": 15,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.15
+    },
+    "customSectionSubHeadingTheShareTextStyle": {
+      "fontName": "LibreFranklin-Bold",
+      "fontSize": 14,
+      "lineHeight": 16,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.15
     },
     "default": {
-      "fontName": "BentonSans-Black",
+      "fontName": "Barlow-Black",
       "textColor": "#000",
       "linkStyle": {
         "textColor": "#366a9b"
@@ -1352,12 +1979,13 @@
       "hyphenation": false
     },
     "default-author": {
-      "fontSize": 14,
-      "lineHeight": 17
+      "fontName": "Barlow-Medium",
+      "fontSize": 15,
+      "lineHeight": 19
     },
     "default-body": {
-      "fontSize": 18,
-      "lineHeight": 24,
+      "fontSize": 16,
+      "lineHeight": 20,
       "paragraphSpacingBefore": 12,
       "paragraphSpacingAfter": 12
     },
@@ -1365,35 +1993,37 @@
       "//": "UNUSED"
     },
     "default-caption": {
+      "fontName": "Avenir-Book",
       "fontSize": 14,
-      "lineHeight": 17
+      "lineHeight": 16
     },
     "default-heading": {
       "fontSize": 16,
       "lineHeight": 16
     },
     "default-heading2": {
-      "fontSize": 40,
-      "lineHeight": 42
+      "fontSize": 35,
+      "lineHeight": 40
     },
     "default-heading3": {
-      "fontSize": 20,
-      "lineHeight": 22
+      "fontSize": 24,
+      "lineHeight": 26
     },
     "default-heading4": {
-      "fontSize": 18,
-      "lineHeight": 20
+      "fontSize": 20,
+      "lineHeight": 22
     },
     "default-heading5": {
       "fontSize": 18,
       "lineHeight": 20
     },
     "default-heading6": {
-      "fontSize": 14,
-      "lineHeight": 16
+      "fontSize": 18,
+      "lineHeight": 20
     },
     "default-intro": {
-      "fontSize": 18,
+      "fontName": "Barlow-Medium",
+      "fontSize": 20,
       "lineHeight": 22
     },
     "default-photographer": {
@@ -1401,47 +2031,49 @@
     },
     "default-pullquote": {
       "fontSize": 32,
-      "lineHeight": 40,
-      "textAlignment": "center"
+      "lineHeight": 35
     },
     "default-title": {
-      "fontSize": 56,
-      "lineHeight": 58
+      "fontSize": 60,
+      "lineHeight": 56,
+      "fontName": "Barlow-ExtraBold"
     },
     "floatImageCaptionTextStyle": {
-      "fontName": "BentonSans-Regular"
+      "fontName": "Barlow-Bold",
+      "tracking": 0.02,
+      "textColor": "#59595b"
     },
     "heading2CenteredTextStyle": {
+      "textTransform": "uppercase",
       "textAlignment": "center"
     },
     "heading2TextStyle": {
-      "fontName": "Acta-Bold"
+      "textTransform": "uppercase"
     },
     "heading3CenteredTextStyle": {
       "textAlignment": "center"
     },
     "heading3TextStyle": {
-      "//": "UNUSED"
+      "fontName": "Barlow-Black",
+      "textTransform": "uppercase"
     },
     "heading4CenteredTextStyle": {
       "textAlignment": "center"
     },
     "heading4TextStyle": {
-      "fontName": "LibreFranklin-Bold",
-      "textTransform": "uppercase",
-      "tracking": 0.02,
-      "textColor": "#e71f3d"
+      "fontName": "Barlow-Bold"
     },
     "heading5CenteredTextStyle": {
       "textAlignment": "center"
     },
     "heading5TextStyle": {
-      "//": "UNUSED"
+      "fontName": "Barlow-Bold"
     },
     "heading6CenteredTextStyle": {
       "textAlignment": "center"
     },
     "heading6TextStyle": {
+      "fontName": "Barlow-Bold",
       "textTransform": "uppercase"
     },
     "ingredientsTextStyle": {
@@ -1450,125 +2082,180 @@
       "lineHeight": 19
     },
     "introTextStyle": {
-      "fontName": "Acta-Book"
+      "//": "THE BRIEF and MINI FEATURE",
+      "fontName": "Barlow-Medium",
+      "textColor": "#59595b"
     },
-    "mediaBodyTextStyle": {
-      "fontName": "CaslonDoricApp-Regular",
-      "fontSize": 17
-    },
-    "pullQuoteAttributionTextStyle": {
-      "fontName": "CaslonDoricApp-Bold",
-      "fontSize": 14,
-      "lineHeight": 16,
-      "textAlignment": "center",
+    "photoCreditTextStyle": {
+      "fontName": "BentonSans-Book",
+      "fontSize": 10,
+      "lineHeight": 12,
+      "textAlignment": "right",
+      "textTransform": "uppercase",
       "tracking": 0.05
     },
     "pullQuoteTextStyle": {
-      "fontName": "ActaDeck-Light"
+      "textColor": "lightpink",
+      "fontName": "Barlow-Black",
+      "fontSize": 32,
+      "lineHeight": 34,
+      "possibleColors": {
+        "red": "#db3832",
+        "blue": "#4289ab",
+        "yellow": "#fdb913",
+        "seafoamGreen": "#94b9b6",
+        "grey": "#59595b",
+        "gold": "#847336"
+      },
+      "conditional": [
+        {
+          "textColor": "lightpink",
+          "conditions": [
+            {
+              "preferredColorScheme": "dark",
+              "minSpecVersion": "1.14"
+            }
+          ]
+        }
+      ]
     },
-    "questionTextStyle": {
-      "fontName": "CaslonDoricApp-Bold"
-    },
-    "RRTextStyle": {
-      "fontName": "CaslonDoricApp-Regular",
-      "fontSize": 14,
-      "lineHeight": 14,
-      "tracking": 0.05
-    },
-    "sectionTextStyle": {
-      "fontName": "Xreles-Headline",
-      "tracking": 0.05,
-      "textTransform": "uppercase",
-      "fontSize": 19,
-      "lineHeight": 21
-    },
-    "sidebarAuthorCenteredTextStyle": {
-      "fontName": "CaslonDoricApp-SemiboldItalic",
-      "fontSize": 17,
-      "lineHeight": 21,
-      "textAlignment": "center",
-      "tracking": 0.04
-    },
-    "sidebarAuthorTextStyle": {
-      "fontName": "CaslonDoricApp-SemiboldItalic",
-      "fontSize": 17,
-      "lineHeight": 21,
-      "tracking": 0.04
-    },
-    "sidebarBodyCenteredTextStyle": {
-      "fontName": "CaslonDoricApp-MediumItalic",
-      "lineHeight": 22,
-      "textAlignment": "center"
-    },
-    "sidebarBodyTextStyle": {
+    "recipeBodyTextStyle": {
       "fontName": "LibreFranklin-Regular",
       "fontSize": 16,
       "lineHeight": 20
     },
-    "sidebarHeading2CenteredTextStyle": {
-      "fontName": "CaslonDoricApp-Bold",
-      "fontSize": 42,
-      "lineHeight": 44,
-      "textAlignment": "center"
+    "recipeDetailsTextStyle": {
+      "fontName": "LibreFranklin-Regular",
+      "fontSize": 15,
+      "lineHeight": 17
     },
-    "sidebarHeading2TextStyle": {
-      "fontName": "Acta-Bold"
-    },
-    "sidebarHeading3CenteredTextStyle": {
-      "fontName": "CaslonDoricApp-Semibold",
-      "fontSize": 20,
-      "lineHeight": 22,
-      "textAlignment": "center"
-    },
-    "sidebarHeading3TextStyle": {
-      "fontName": "LibreFranklin-Bold",
-      "textTransform": "uppercase",
-      "fontSize": 17,
-      "lineHeight": 19
-    },
-    "sidebarHeading4TextStyle": {
-      "fontName": "BentonSansCond-Bold",
-      "textTransform": "uppercase",
-      "tracking": 0.02,
-      "fontSize": 16,
-      "lineHeight": 18
-    },
-    "sidebarHeading5TextStyle": {
-      "fontName": "BentonSansCond-Bold",
-      "textTransform": "uppercase",
-      "tracking": 0.02,
+    "recipeNutritionInfoTextStyle": {
+      "fontName": "LibreFranklin-Regular",
       "fontSize": 14,
       "lineHeight": 16
     },
-    "sidebarIntroCenteredTextStyle": {
-      "fontName": "CaslonDoricApp-Regular",
+    "recipeSubheadTextStyle": {
+      "fontName": "LibreFranklin-Bold",
       "fontSize": 17,
-      "lineHeight": 21,
-      "textAlignment": "center",
+      "lineHeight": 19,
+      "textTransform": "uppercase",
       "tracking": 0.02
     },
-    "sidebarIntroTextStyle": {
-      "fontName": "LibreFranklin-Regular",
-      "fontSize": 16,
+    "recipeTitleTextStyle": {
+      "fontSize": 24,
+      "lineHeight": 26,
+      "textTransform": "uppercase",
+      "tracking": 0.06,
+      "underline": true
+    },
+    "sectionTextStyle": {
+      "fontName": "BarlowCondensed-Light",
+      "textTransform": "uppercase",
+      "tracking": 0.14
+    },
+    "sidebarBodyTextStyle": {
+      "fontName": "Barlow-Bold",
+      "textColor": "#000"
+    },
+    "sidebarHeading2TextStyle": {
+      "fontName": "BarlowCondensed-Medium",
+      "textTransform": "uppercase",
+      "fontSize": 38,
+      "lineHeight": 40
+    },
+    "sidebarHeading3TextStyle": {
+      "textTransform": "uppercase",
+      "fontSize": 19,
+      "lineHeight": 21,
+      "textColor": "lightpink",
+      "possibleColors": {
+        "red": "#db3832",
+        "blue": "#4289ab",
+        "yellow": "#fdb913",
+        "seafoamGreen": "#94b9b6",
+        "grey": "#59595b",
+        "gold": "#847336"
+      },
+      "conditional": [
+        {
+          "textColor": "lightpink",
+          "conditions": [
+            {
+              "preferredColorScheme": "dark",
+              "minSpecVersion": "1.14"
+            }
+          ]
+        }
+      ]
+    },
+    "sidebarHeading4TextStyle": {
+      "fontName": "Barlow-Black",
+      "textColor": "#000",
+      "fontSize": 18,
       "lineHeight": 20
     },
-    "slugTextStyle": {
-      "fontName": "CaslonDoricApp-Semibold",
-      "fontSize": 16,
-      "lineHeight": 18,
-      "textColor": "#EE3124"
+    "sidebarIntroTextStyle": {
+      "fontName": "Barlow-Bold",
+      "textColor": "lightpink",
+      "possibleColors": {
+        "red": "#db3832",
+        "blue": "#4289ab",
+        "yellow": "#fdb913",
+        "seafoamGreen": "#94b9b6",
+        "grey": "#59595b",
+        "gold": "#847336"
+      },
+      "conditional": [
+        {
+          "textColor": "lightpink",
+          "conditions": [
+            {
+              "preferredColorScheme": "dark",
+              "minSpecVersion": "1.14"
+            }
+          ]
+        }
+      ]
+    },
+    "sidebarStraplineTextStyle": {
+      "fontSize": 14,
+      "lineHeight": 16,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.08
     },
     "straplineTextStyle": {
-      "fontName": "BentonSans-Book",
+      "//": "THE BRIEF",
+      "fontName": "Barlow-Medium",
       "textTransform": "uppercase",
-      "fontSize": 13,
-      "tracking": 0.07,
-      "underline": {
-        "color": "#e71f3d"
-      }
+      "fontSize": 18,
+      "lineHeight": 22,
+      "tracking": 0.08,
+      "textColor": "#fff",
+      "backgroundColor": "lightpink",
+      "possibleColors": {
+        "red": "#db3832",
+        "blue": "#4289ab",
+        "yellow": "#fdb913",
+        "seafoamGreen": "#94b9b6",
+        "grey": "#59595b",
+        "gold": "#847336"
+      },
+      "conditional": [
+        {
+          "backgroundColor": "lightpink",
+          "conditions": [
+            {
+              "preferredColorScheme": "dark",
+              "minSpecVersion": "1.14"
+            }
+          ]
+        }
+      ]
     },
     "titleTextStyle": {
-      "fontName": "ActaDeck-Bold"
+      "fontName": "Barlow-ExtraBold",
+      "tracking": -0.02
     },
     "tocTextStyle": {
       "fontName": "AvenirNextCondensed-Medium",
@@ -1579,30 +2266,334 @@
       "textAlignment": "center",
       "textColor": "#000"
     },
-    "recipeDetailsTextStyle": {
-      "fontName": "BentonSans-Book",
+    "categoryTextStyle": {
+      "fontName": "Palatino-Bold",
       "textTransform": "uppercase",
-      "fontSize": 14,
-      "lineHeight": 16
+      "lineHeight": 25,
+      "tracking": 0.07,
+      "underline": {
+        "color": "#000"
+      }
     },
-    "recipeTitleTextStyle": {
-      "fontSize": 34,
-      "lineHeight": 36
-    },
-    "recipeBodyTextStyle": {
-      "fontName": "LibreFranklin-Regular",
-      "fontSize": 16,
+    "questionTextStyle": {
+      "fontName": "Barlow-Bold",
       "lineHeight": 20
     },
-    "recipeNutritionInfoTextStyle": {
-      "fontName": "BentonSans-Regular",
-      "fontSize": 14,
-      "lineHeight": 16
+    "sidebarHedTextStyle": {
+      "//": "THE CONVERSATION",
+      "fontName": "BarlowSemiCondensed-Medium",
+      "textTransform": "uppercase",
+      "fontSize": 38,
+      "lineHeight": 40,
+      "tracking": 0.06,
+      "textColor": "lightpink",
+      "possibleColors": {
+        "red": "#db3832",
+        "blue": "#4289ab",
+        "yellow": "#fdb913",
+        "seafoamGreen": "#94b9b6",
+        "grey": "#59595b",
+        "gold": "#847336"
+      },
+      "conditional": [
+        {
+          "textColor": "lightpink",
+          "conditions": [
+            {
+              "preferredColorScheme": "dark",
+              "minSpecVersion": "1.14"
+            }
+          ]
+        }
+      ]
     },
-    "buyingDetailsTextStyle": {
-      "fontName": "LibreFranklin-Regular",
-      "fontSize": 14,
-      "lineHeight": 16
+    "sourceTextStyle": {
+      "fontName": "RobotoMono-Regular",
+      "fontSize": 10,
+      "lineHeight": 12,
+      "tracking": 0.05,
+      "textTransform": "uppercase"
+    },
+    "titleSansTextStyle": {
+      "fontName": "Barlow-ExtraBold",
+      "tracking": -0.02
+    },
+    "titleSerifTextStyle": {
+      "fontName": "Didot-Bold",
+      "textColor": "#000000",
+      "fontSize": 60,
+      "lineHeight": 65
+    },
+    "subtitleTextStyle": {
+      "fontName": "Barlow-ExtraBold",
+      "textColor": "lightpink",
+      "fontSize": 53,
+      "lineHeight": 53,
+      "possibleColors": {
+        "red": "#db3832",
+        "blue": "#4289ab",
+        "yellow": "#fdb913",
+        "seafoamGreen": "#94b9b6",
+        "grey": "#59595b",
+        "gold": "#847336"
+      },
+      "conditional": [
+        {
+          "textColor": "lightpink",
+          "conditions": [
+            {
+              "preferredColorScheme": "dark",
+              "minSpecVersion": "1.14"
+            }
+          ]
+        }
+      ]
+    },
+    "titleFeaturedTextStyle": {
+      "fontName": "BarlowSemiCondensed-Bold",
+      "textColor": "#000000",
+      "fontSize": 60,
+      "lineHeight": 65,
+      "textTransform": "uppercase"
+    },
+    "jobTitleTextStyle": {
+      "fontName": "Didot",
+      "textTransform": "uppercase",
+      "fontSize": 20,
+      "lineHeight": 24,
+      "tracking": 0.02
+    },
+    "introTextStyle3": {
+      "//": "THE BIG IDEA",
+      "fontName": "BodoniSvtyTwoOSITCTT-Book",
+      "fontSize": 20,
+      "lineHeight": 24,
+      "tracking": 0.02
+    },
+    "captionUserInstructionTextStyle": {
+      "fontName": "BarlowSemiCondensed-LightItalic"
+    },
+    "bodyDropCapSansTextStyle": {
+      "fontName": "Palatino-Roman",
+      "dropCapStyle": {
+        "fontName": "BarlowCondensed-Bold",
+        "numberOfLines": 4,
+        "numberOfRaisedLines": 0,
+        "numberOfCharacters": 1,
+        "textColor": "#000",
+        "padding": 0
+      },
+      "linkStyle": {
+        "textColor": "lightpink",
+        "underline": true,
+        "possibleColors": {
+          "red": "#db3832",
+          "blue": "#4289ab",
+          "yellow": "#fdb913",
+          "seafoamGreen": "#94b9b6",
+          "grey": "#59595b",
+          "gold": "#847336"
+        }
+      },
+      "conditional": [
+        {
+          "dropCapStyle": {
+            "fontName": "BarlowCondensed-Bold",
+            "numberOfLines": 4,
+            "numberOfRaisedLines": 0,
+            "numberOfCharacters": 1,
+            "textColor": "#fff",
+            "padding": 0
+          },
+          "linkStyle": {
+            "textColor": "lightpink",
+            "underline": true,
+            "possibleColors": {
+              "red": "#db3832",
+              "blue": "#4289ab",
+              "yellow": "#fdb913",
+              "seafoamGreen": "#94b9b6",
+              "grey": "#59595b",
+              "gold": "#847336"
+            }
+          },
+          "conditions": [
+            {
+              "preferredColorScheme": "dark",
+              "minSpecVersion": "1.14"
+            }
+          ]
+        }
+      ]
+    },
+    "bodyDropCapSerifTextStyle": {
+      "fontName": "Palatino-Roman",
+      "dropCapStyle": {
+        "fontName": "BodoniSvtyTwoOSITCTT-Bold",
+        "numberOfLines": 4,
+        "numberOfRaisedLines": 0,
+        "numberOfCharacters": 1,
+        "textColor": "#000",
+        "padding": 0
+      },
+      "linkStyle": {
+        "textColor": "lightpink",
+        "underline": true,
+        "possibleColors": {
+          "red": "#db3832",
+          "blue": "#4289ab",
+          "yellow": "#fdb913",
+          "seafoamGreen": "#94b9b6",
+          "grey": "#59595b",
+          "gold": "#847336"
+        }
+      },
+      "conditional": [
+        {
+          "dropCapStyle": {
+            "fontName": "BodoniSvtyTwoOSITCTT-Bold",
+            "numberOfLines": 4,
+            "numberOfRaisedLines": 0,
+            "numberOfCharacters": 1,
+            "textColor": "#fff",
+            "padding": 0
+          },
+          "linkStyle": {
+            "textColor": "lightpink",
+            "underline": true,
+            "possibleColors": {
+              "red": "#db3832",
+              "blue": "#4289ab",
+              "yellow": "#fdb913",
+              "seafoamGreen": "#94b9b6",
+              "grey": "#59595b",
+              "gold": "#847336"
+            }
+          },
+          "conditions": [
+            {
+              "preferredColorScheme": "dark",
+              "minSpecVersion": "1.14"
+            }
+          ]
+        }
+      ]
+    },
+    "pullQuoteSansTextStyle": {
+      "textColor": "lightpink",
+      "fontName": "Barlow-Black",
+      "fontSize": 32,
+      "lineHeight": 34,
+      "possibleColors": {
+        "red": "#db3832",
+        "blue": "#4289ab",
+        "yellow": "#fdb913",
+        "seafoamGreen": "#94b9b6",
+        "grey": "#59595b",
+        "gold": "#847336"
+      },
+      "conditional": [
+        {
+          "textColor": "lightpink",
+          "conditions": [
+            {
+              "preferredColorScheme": "dark",
+              "minSpecVersion": "1.14"
+            }
+          ]
+        }
+      ]
+    },
+    "pullQuoteSerifTextStyle": {
+      "textColor": "lightpink",
+      "fontName": "BodoniSvtyTwoOSITCTT-Bold",
+      "fontSize": 40,
+      "lineHeight": 40,
+      "possibleColors": {
+        "red": "#db3832",
+        "blue": "#4289ab",
+        "yellow": "#fdb913",
+        "seafoamGreen": "#94b9b6",
+        "grey": "#59595b",
+        "gold": "#847336"
+      },
+      "conditional": [
+        {
+          "textColor": "lightpink",
+          "conditions": [
+            {
+              "preferredColorScheme": "dark",
+              "minSpecVersion": "1.14"
+            }
+          ]
+        }
+      ]
+    },
+    "numbersTextStyle": {
+      "fontName": "BarlowCondensed-Black",
+      "textTransform": "uppercase",
+      "fontSize": 85,
+      "lineHeight": 60,
+      "textColor": "lightpink",
+      "conditional": [
+        {
+          "textColor": "lightpink",
+          "conditions": [
+            {
+              "preferredColorScheme": "dark",
+              "minSpecVersion": "1.14"
+            }
+          ]
+        }
+      ],
+      "possibleColors": {
+        "red": "#db3832",
+        "blue": "#4289ab",
+        "yellow": "#fdb913",
+        "seafoamGreen": "#94b9b6",
+        "grey": "#59595b",
+        "gold": "#847336"
+      }
+    },
+    "numbersBodyTextStyle": {
+      "fontName": "Barlow-Bold",
+      "fontSize": 18,
+      "lineHeight": 18
+    },
+    "numbersStraplineTextStyle": {
+      "fontName": "BarlowCondensed-Bold",
+      "fontSize": 18,
+      "lineHeight": 18,
+      "textColor": "lightpink",
+      "textTransform": "uppercase",
+      "tracking": 0.01,
+      "textAlignment": "center",
+      "conditional": [
+        {
+          "textColor": "lightpink",
+          "conditions": [
+            {
+              "preferredColorScheme": "dark",
+              "minSpecVersion": "1.14"
+            }
+          ]
+        }
+      ],
+      "possibleColors": {
+        "red": "#db3832",
+        "blue": "#4289ab",
+        "yellow": "#fdb913",
+        "seafoamGreen": "#94b9b6",
+        "grey": "#59595b",
+        "gold": "#847336"
+      }
+    },
+    "sidebarStatTextStyle": {
+      "fontName": "BarlowCondensed-Black",
+      "textTransform": "uppercase",
+      "fontSize": 55,
+      "lineHeight": 60,
+      "textColor": "#db3832"
     }
   }
 }

@@ -1,0 +1,1289 @@
+{
+  "version": "1.9",
+  "identifier": "health_article_17097",
+  "title": "Learn the Science Behind Memory—and How to Keep Yours Sharp",
+  "language": "en",
+  "layout": {
+    "columns": 20,
+    "gutter": 20,
+    "margin": 40,
+    "width": 768
+  },
+  "subtitle": "Experts are still discovering exactly how our brains make, sort, and store memories. Here’s what we know so far—and a few tips to keep your mind sharp.",
+  "metadata": {
+    "authors": [
+      "By SUNNY SEA GOLD"
+    ],
+    "dateCreated": "2019-10-01T20:24:20.316Z",
+    "dateModified": "2019-10-01T18:04:58+00:00",
+    "excerpt": "THERE’S A POPULAR misconception that memory is like a file box in the brain—that we put away our recollections and then look them up when we need them. But that’s not actually how it works. Scientists suspect memories are stored in diffuse networks of neurons all over the brain; when you remember something, bits of the recollection, scattered around like puzzle pieces on the floor, are gathered up and put back together to make a complete picture.",
+    "generatorName": "ANTE Generic Template",
+    "generatorVersion": "0.0.3.210-2019-10-01 15:53",
+    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_881/storage/images/media2/images/memorymain/167585-1-eng-US/memorymain2.jpg?w=450"
+  },
+  "documentStyle": {
+    "backgroundColor": "#fff"
+  },
+  "components": [
+    {
+      "role": "heading",
+      "layout": "sectionLayout",
+      "textStyle": "sectionTextStyle",
+      "format": "html",
+      "text": "BODY + MIND <pipe>&nbsp;|&nbsp;</pipe> <subsection>THE EXPLAINER</subsection>"
+    },
+    {
+      "role": "title",
+      "layout": "titleLayout",
+      "textStyle": "titleTextStyle",
+      "format": "html",
+      "text": "THE POWER OF RECOLLECTION"
+    },
+    {
+      "role": "intro",
+      "layout": "introLayout",
+      "textStyle": "introTextStyle",
+      "format": "html",
+      "text": "Experts are still discovering exactly how our brains make, sort, and store memories. Here’s what we know so far—and a few tips to keep your mind sharp."
+    },
+    {
+      "role": "author",
+      "layout": "authorLayout",
+      "textStyle": "authorTextStyle",
+      "format": "html",
+      "text": "By Sunny Sea Gold<br>Illustrations by Asia Pietrzyk"
+    },
+    {
+      "//": "======== HERO IMAGE CONTAINER (1996.0x2788.0) =======",
+      "role": "container",
+      "layout": "heroImageLayout",
+      "components": [
+        {
+          "role": "image",
+          "layout": "fullBleedPhotoLayout",
+          "URL": "https://cdn-assets.ziniopro.com/var/site_881/storage/images/media2/images/memorymain/167585-1-eng-US/memorymain2.jpg?q=100"
+        }
+      ]
+    },
+    {
+      "//": "======== BODY CONTAINER =======",
+      "role": "container",
+      "layout": "bodyContainerLayout",
+      "components": [
+        {
+          "role": "body",
+          "layout": "bodyLayout",
+          "style": "paragraphStyle",
+          "textStyle": "bodyTextStyle",
+          "format": "html",
+          "text": "<lede>THERE’S A POPULAR</lede> misconception that memory is like a file box in the brain—that we put away our recollections and then look them up when we need them. But that’s not actually how it works. Scientists suspect memories are stored in diffuse networks of neurons all over the brain; when you remember something, bits of the recollection, scattered around like puzzle pieces on the floor, are gathered up and put back together to make a complete picture."
+        },
+        {
+          "role": "body",
+          "layout": "bodyLayout",
+          "style": "paragraphStyle",
+          "textStyle": "bodyTextStyle",
+          "format": "html",
+          "text": "“I think of a memory as a particular firing pattern of brain nerve cells in a network,” says Ronald C. Petersen, MD, PhD, director of the Mayo Clinic Alzheimer’s Disease Research Center. “If you’re trying to remember a meaningful childhood event, for example, you refire the pattern in the brain that happened when the event took place.”"
+        },
+        {
+          "role": "body",
+          "layout": "bodyLayout",
+          "style": "paragraphStyle",
+          "textStyle": "bodyTextStyle",
+          "format": "html",
+          "text": "The precise way that memories are created and then recalled, sometimes decades later, is one of the great mysteries of neuroscience. Researchers are just scratching the surface of the processes that allow us to hold on to information and experiences. What we do know, however, is that there are simple, science-backed ways to strengthen your ability to remember things (including where you left your sunglasses)."
+        },
+        {
+          "role": "heading5",
+          "layout": "heading5Layout",
+          "textStyle": "heading5TextStyle",
+          "format": "html",
+          "text": "How Memories Form"
+        },
+        {
+          "role": "body",
+          "layout": "bodyNoMarginAboveLayout",
+          "style": "paragraphStyle",
+          "textStyle": "bodyTextStyle",
+          "format": "html",
+          "text": "Remembering begins with your senses. This Thanksgiving, for instance, your brain might take note of how good the turkey smells, how nice it feels to hug your mom, and how loud your aunt is when she’s had one too many. As your brain processes that sensory input, it creates neural connections, explains Dr. Petersen—and those connections will eventually become memories."
+        },
+        {
+          "role": "body",
+          "layout": "bodyLayout",
+          "style": "paragraphStyle",
+          "textStyle": "bodyTextStyle",
+          "format": "html",
+          "text": "Your brain decides how important a memory is based on context cues, such as your level of emotion or stress at the time. The more important the recollection is, the stronger the neural connections will be, says Dr. Petersen."
+        },
+        {
+          "role": "body",
+          "layout": "bodyLayout",
+          "style": "paragraphStyle",
+          "textStyle": "bodyTextStyle",
+          "format": "html",
+          "text": "“Remembering highly emotionally charged events is an important survival tool,” he points out. “Say you’re in a certain area of the woods and all of a sudden there’s a dangerous animal chasing you—you’re going to want to remember that so you won’t go to that place again.”"
+        },
+        {
+          "role": "body",
+          "layout": "bodyLayout",
+          "style": "paragraphStyle",
+          "textStyle": "bodyTextStyle",
+          "format": "html",
+          "text": "There are several areas of the brain that are involved in encoding and later retrieving memories, but one part—the hippocampus—is thought to play a key role in “binding together the different scattered components of memory,” says psychologist Daniel Schacter, PhD, who studies the cognitive neuroscience of memory at Harvard University. “It might function as a kind of index.”"
+        },
+        {
+          "role": "body",
+          "layout": "bodyLayout",
+          "style": "paragraphStyle",
+          "textStyle": "bodyTextStyle",
+          "format": "html",
+          "text": "The hippocampus is a pair of wormlike structures nestled deep inside the midbrain. It’s believed to be especially important for processing long-term memories—like your last vacation, or what your email password is."
+        },
+        {
+          "role": "body",
+          "layout": "bodyLayout",
+          "style": "paragraphStyle",
+          "textStyle": "bodyTextStyle",
+          "format": "html",
+          "text": "Short-term memory is the other main type of memory, and it refers to things you need to keep in your consciousness for no more than a few seconds. “That’s the kind of memory you’re taxing if you’re trying to hold a phone number in your head before putting it into your phone,” explains Schacter. It’s also the memory you use to recall the specials the server has just recited, or measure out the correct dose printed on the label of a medication. Those bits of information appear to be stored in the prefrontal cortex, the structure that sits at the very front of your brain."
+        },
+        {
+          "role": "container",
+          "layout": "sidebarLayout",
+          "style": "sidebarNoBackgroundStyle",
+          "components": [
+            {
+              "//": "======== BODY CONTAINER =======",
+              "role": "container",
+              "layout": "bodyContainerLayout",
+              "components": [
+                {
+                  "role": "heading2",
+                  "layout": "sidebarHeading2Layout",
+                  "textStyle": "sidebarHeading2TextStyle",
+                  "format": "html",
+                  "text": "Where Do Memories Live?"
+                },
+                {
+                  "//": "======== SIDEBAR SINGLE BLOCK CONTAINER ========",
+                  "role": "container",
+                  "layout": "sidebarSingleBlockContainerLayout",
+                  "components": [
+                    {
+                      "//": "======== IMAGE BLOCK - 1320.0x1087.0 ========",
+                      "role": "image",
+                      "URL": "https://cdn-assets.ziniopro.com/var/site_881/storage/images/media2/images/memoryspot/167578-1-eng-US/memoryspot2.jpg?q=100"
+                    }
+                  ]
+                },
+                {
+                  "role": "heading3",
+                  "layout": "sidebarHeading3Layout",
+                  "textStyle": "sidebarHeading3TextStyle",
+                  "format": "html",
+                  "text": "1. Neocortex"
+                },
+                {
+                  "role": "body",
+                  "layout": "sidebarBodyNoMarginAboveLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "sidebarBodyTextStyle",
+                  "format": "html",
+                  "text": "General knowledge like your mother’s cold remedies and the capitals of the 50 states may be stored here."
+                },
+                {
+                  "role": "heading3",
+                  "layout": "sidebarHeading3Layout",
+                  "textStyle": "sidebarHeading3TextStyle",
+                  "format": "html",
+                  "text": "2. Prefrontal Cortex"
+                },
+                {
+                  "role": "body",
+                  "layout": "sidebarBodyNoMarginAboveLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "sidebarBodyTextStyle",
+                  "format": "html",
+                  "text": "Short-term memories (think what somebody just said to you, or the amount of cinnamon listed in a recipe) seem to exist here briefly, before they disappear."
+                },
+                {
+                  "role": "heading3",
+                  "layout": "sidebarHeading3Layout",
+                  "textStyle": "sidebarHeading3TextStyle",
+                  "format": "html",
+                  "text": "3. Amygdala"
+                },
+                {
+                  "role": "body",
+                  "layout": "sidebarBodyNoMarginAboveLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "sidebarBodyTextStyle",
+                  "format": "html",
+                  "text": "This structure attaches emotional weight to memories, which makes them harder to forget. It’s also key to creating fearful memories."
+                },
+                {
+                  "role": "heading3",
+                  "layout": "sidebarHeading3Layout",
+                  "textStyle": "sidebarHeading3TextStyle",
+                  "format": "html",
+                  "text": "4. Basal Ganglia"
+                },
+                {
+                  "role": "body",
+                  "layout": "sidebarBodyNoMarginAboveLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "sidebarBodyTextStyle",
+                  "format": "html",
+                  "text": "Your implicit (or unconscious) memories that involve a sequence of motor activities—how to do sun salutations, for example—reside here."
+                },
+                {
+                  "role": "heading3",
+                  "layout": "sidebarHeading3Layout",
+                  "textStyle": "sidebarHeading3TextStyle",
+                  "format": "html",
+                  "text": "5. Hippocampus"
+                },
+                {
+                  "role": "body",
+                  "layout": "sidebarBodyNoMarginAboveLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "sidebarBodyTextStyle",
+                  "format": "html",
+                  "text": "Experts believe this is where long-term memories of events and facts are formed."
+                },
+                {
+                  "role": "heading3",
+                  "layout": "sidebarHeading3Layout",
+                  "textStyle": "sidebarHeading3TextStyle",
+                  "format": "html",
+                  "text": "6. Cerebellum"
+                },
+                {
+                  "role": "body",
+                  "layout": "sidebarBodyNoMarginAboveLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "sidebarBodyTextStyle",
+                  "format": "html",
+                  "text": "This area plays a role in implicit memories that entail fine motor control, such as buttoning your shirt."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "role": "heading5",
+          "layout": "heading5Layout",
+          "textStyle": "heading5TextStyle",
+          "format": "html",
+          "text": "Blips and Other Issues"
+        },
+        {
+          "role": "body",
+          "layout": "bodyNoMarginAboveLayout",
+          "style": "paragraphStyle",
+          "textStyle": "bodyTextStyle",
+          "format": "html",
+          "text": "As impressive as human memory is, we’re all aware it’s not perfect. One common foible is the tip-of-the-tongue phenomenon, when you’re trying to remember a word but it hovers just beyond your reach (like the name of the actor who was in that movie about the thing…). Why this occurs is not well understood, but it’s normal to experience such a blockage (also known as lethologica) about once a week. It is more likely to happen when you’re tired or stressed, and also becomes more frequent with age."
+        },
+        {
+          "role": "body",
+          "layout": "bodyLayout",
+          "style": "paragraphStyle",
+          "textStyle": "bodyTextStyle",
+          "format": "html",
+          "text": "Speaking of age, our brains start to shrink as early as age 30, which often results in a normal (if irritating) decline in “episodic” memory—the kind that helps us keep track of daily logistics, like whether we paid last month’s electricity bill yet, or what the heck it was we walked into a room to do."
+        },
+        {
+          "role": "body",
+          "layout": "bodyLayout",
+          "style": "paragraphStyle",
+          "textStyle": "bodyTextStyle",
+          "format": "html",
+          "text": "There’s a big difference between these types of normal lapses and the memory loss and confusion caused by Alzheimer’s and other types of dementia. Normal forgetfulness is not being able to find your car keys—dementia is momentarily forgetting what they’re even for. About 5.8 million Americans have Alzheimer’s, including about 200,000 people under the age of 65. Researchers still aren’t entirely sure what causes the disease. Autopsies of people who have died from it show collections of plaques in between neurons, and tangles of errant threads of proteins within the nerve cells themselves—both of which disrupt messaging and connections."
+        },
+        {
+          "role": "pullquote",
+          "layout": "pullQuoteLayout",
+          "style": "pullQuoteStyle",
+          "textStyle": "pullQuoteTextStyle",
+          "format": "html",
+          "text": "Normal forgetfulness is not being able to find your car keys—dementia is forgetting what they’re even for."
+        },
+        {
+          "role": "body",
+          "layout": "bodyLayout",
+          "style": "paragraphStyle",
+          "textStyle": "bodyTextStyle",
+          "format": "html",
+          "text": "But studies suggest that basic healthy habits—like exercise and a nutritious diet—may help protect the long-term health of your brain and boost your memory, too. Perhaps unsurprisingly, what’s good for your body is also good for your mind."
+        },
+        {
+          "role": "container",
+          "layout": "sidebarLayout",
+          "style": "sidebarStyle",
+          "components": [
+            {
+              "//": "======== BODY CONTAINER =======",
+              "role": "container",
+              "layout": "bodyContainerLayout",
+              "components": [
+                {
+                  "role": "heading2",
+                  "layout": "sidebarHeading2Layout",
+                  "textStyle": "sidebarHeading2TextStyle",
+                  "format": "html",
+                  "text": "Stay Sharp"
+                },
+                {
+                  "role": "body",
+                  "layout": "sidebarBodyLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "sidebarBodyTextStyle",
+                  "format": "html",
+                  "text": "<b>Here are a few everyday things you can do to improve your recall—and possibly ward off dementia, too.</b>"
+                },
+                {
+                  "role": "body",
+                  "layout": "sidebarBodyLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "sidebarBodyTextStyle",
+                  "format": "html",
+                  "text": "<sidebar-lede>1. Get Plenty Of Sleep.</sidebar-lede> Researchers believe that our brains encode and consolidate memories while we snooze, keeping the ones that “mean” something and tossing those that don’t. What’s more, according to a 2018 study, a good night’s sleep is thought to clear out beta-amyloid, the protein that can clump together to form plaques in the brain."
+                },
+                {
+                  "role": "body",
+                  "layout": "sidebarBodyLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "sidebarBodyTextStyle",
+                  "format": "html",
+                  "text": "<sidebar-lede>2. Eat Brain Food.</sidebar-lede> A 2018 study published in <i>The American Journal of Medicine</i> found that people with higher-quality diets experienced less shrinkage in their hippocampus than those who ate less healthfully. Richard Carmona, MD, chief of health innovation at Canyon Ranch and author of <i>30 Days to a Better Brain</i>, recommends seeking out several foods known to be especially good for neurological function, including walnuts, whole grains, eggs, fatty fish, berries, dark chocolate, seeds, and green tea."
+                },
+                {
+                  "role": "body",
+                  "layout": "sidebarBodyLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "sidebarBodyTextStyle",
+                  "format": "html",
+                  "text": "<sidebar-lede>3. Move Your Body.</sidebar-lede> Not only does movement increase blood flow and oxygen to your gray matter but cardio and strength exercise also release neuronal growth factors that maintain and even enhance brain function, says Dr. Carmona. Keeping fit appears to lower Alzheimer’s risk, too: A 2018 study published in <i>The American Journal of Geriatric Psychiatry</i> linked greater physical activity along with a healthy diet and BMI to fewer brain plaques and protein tangles."
+                },
+                {
+                  "role": "body",
+                  "layout": "sidebarBodyLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "sidebarBodyTextStyle",
+                  "format": "html",
+                  "text": "<sidebar-lede>4. Work Your Mind.</sidebar-lede> There’s a lot to be said for simply staying curious and engaged, says Dr. Carmona. “We know if you don’t do some type of exercise, your muscles will atrophy—but what we often forget is that the brain will also atrophy as we age if we don’t exercise it.” The best way to do that is to learn new skills, like how to speak Spanish, cook a new cuisine, or dance the tango. Novelty triggers your brain to create fresh neural pathways and connections that keep it limber. You don’t even have to become an expert in these new skills, according to Dr. Carmona; it’s the challenge that matters."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "componentLayouts": {
+    "attributeLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 15
+    },
+    "authorLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10
+      }
+    },
+    "blockContainerLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "bodyContainerLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": 10
+    },
+    "bodyLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 10
+    },
+    "bodyNoMarginAboveLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10
+      }
+    },
+    "bottomPhotoDividerLayout": {
+      "//": "UNUSED"
+    },
+    "calloutBodyLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 5
+      }
+    },
+    "calloutHeadingLayout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "calloutLayout": {
+      "columnSpan": 16,
+      "columnStart": 2,
+      "margin": 20,
+      "padding": {
+        "bottom": 10,
+        "left": 20,
+        "right": 20,
+        "top": 10
+      }
+    },
+    "captionAdLayout": {
+      "//": "UNUSED"
+    },
+    "captionLayout": {
+      "margin": 8
+    },
+    "collectionLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "customHeaderLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 30
+      },
+      "padding": {
+        "bottom": 20,
+        "top": 35
+      }
+    },
+    "dividerCollectionLayout": {
+      "//": "UNUSED"
+    },
+    "dividerLayout": {
+      "//": "UNUSED"
+    },
+    "dividerStandardLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "minimumHeight": 1
+    },
+    "floatContainerLayout": {
+      "columnSpan": 4,
+      "columnStart": 1,
+      "conditional": [
+        {
+          "columnSpan": 4,
+          "columnStart": 0,
+          "conditions": [
+            {
+              "maxViewportWidth": 415
+            }
+          ]
+        }
+      ]
+    },
+    "fullBleedContainerLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "fullBleedDividerLayout": {
+      "//": "UNUSED"
+    },
+    "fullBleedLayout": {
+      "ignoreDocumentMargin": true
+    },
+    "fullBleedPhotoLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 700
+            }
+          ],
+          "ignoreDocumentMargin": false
+        }
+      ],
+      "ignoreDocumentMargin": true
+    },
+    "galleryPhotoLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "heading2Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 20
+      }
+    },
+    "heading3Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading4Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading5Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading6Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 20
+      }
+    },
+    "heroImageLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 15
+      }
+    },
+    "heroImageTallLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 15
+      }
+    },
+    "ingredientsLayout": {
+      "margin": {
+        "bottom": 5
+      }
+    },
+    "introLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 12
+      }
+    },
+    "noMarginLayout": {
+      "columnSpan": 18,
+      "columnStart": 1
+    },
+    "photoCreditLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "top": 8
+      },
+      "padding": {
+        "right": 15
+      }
+    },
+    "productImageStandardLayout": {
+      "minimumHeight": 280
+    },
+    "pullQuoteLayout": {
+      "columnSpan": 16,
+      "columnStart": 2,
+      "conditional": [
+        {
+          "columnSpan": 16,
+          "columnStart": 2,
+          "conditions": [
+            {
+              "minViewportWidth": 600
+            }
+          ],
+          "padding": {
+            "bottom": 30,
+            "left": "7cw",
+            "right": "7cw",
+            "top": 30
+          }
+        }
+      ],
+      "margin": 20,
+      "padding": {
+        "bottom": 25,
+        "left": 20,
+        "right": 20,
+        "top": 22
+      }
+    },
+    "recipeIconLayout": {
+      "horizontalContentAlignment": "center",
+      "maximumContentWidth": 30
+    },
+    "recipeKeyImageLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "horizontalContentAlignment": "left",
+      "margin": {
+        "bottom": 10,
+        "top": 5
+      },
+      "maximumContentWidth": 370,
+      "URL": "https://public-assets-dev.meredithcorp.io/a74420c0cf40518e44c2f5741bff24e2/key.png"
+    },
+    "recipeSubheadLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 4,
+        "top": 5
+      }
+    },
+    "sectionLayout": {
+      "margin": {
+        "bottom": 25,
+        "top": 5
+      }
+    },
+    "sidebarBodyLayout": {
+      "margin": 10
+    },
+    "sidebarBodyNoMarginAboveLayout": {
+      "margin": {
+        "bottom": 10
+      }
+    },
+    "sidebarDividerLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "minimumHeight": 1
+    },
+    "sidebarFloatContainerLayout": {
+      "columnSpan": 4,
+      "columnStart": 0
+    },
+    "sidebarHeading2Layout": {
+      "margin": {
+        "bottom": 10,
+        "top": 10
+      }
+    },
+    "sidebarHeading3Layout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "sidebarHeading4Layout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "sidebarIntroLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 5
+      }
+    },
+    "sidebarLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 20,
+      "padding": {
+        "bottom": 10,
+        "left": 30,
+        "right": 30,
+        "top": 10
+      }
+    },
+    "sidebarSingleBlockContainerLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "sidebarSmallMarginAboveLayout": {
+      "margin": {
+        "top": 2
+      }
+    },
+    "sidebarStraplineLayout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "singleBlockContainerLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "smallMarginAboveLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 2
+      }
+    },
+    "spacerLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "straplineLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 4
+      }
+    },
+    "titleLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 15
+      }
+    },
+    "topPhotoDividerLayout": {
+      "//": "UNUSED"
+    }
+  },
+  "componentStyles": {
+    "attributeStyle": {
+      "//": "UNUSED"
+    },
+    "authorStyle": {
+      "//": "UNUSED"
+    },
+    "bodyContainerStyle": {
+      "//": "UNUSED"
+    },
+    "calloutStyle": {
+      "backgroundColor": "#000",
+      "mask": {
+        "radius": 10,
+        "type": "corners"
+      }
+    },
+    "captionAdStyle": {
+      "//": "UNUSED"
+    },
+    "customHeaderStyle": {
+      "backgroundColor": "#FDEAEB"
+    },
+    "dividerStandardStyle": {
+      "backgroundColor": "#000"
+    },
+    "fullBleedContainerStyle": {
+      "//": "UNUSED"
+    },
+    "heading2Style": {
+      "//": "UNUSED"
+    },
+    "heading3Style": {
+      "//": "UNUSED"
+    },
+    "heading4Style": {
+      "//": "UNUSED"
+    },
+    "heading5Style": {
+      "//": "UNUSED"
+    },
+    "heading6Style": {
+      "//": "UNUSED"
+    },
+    "ingredientsStyle": {
+      "tableStyle": {
+        "cells": {
+          "conditional": [
+            {
+              "horizontalAlignment": "right",
+              "padding": {
+                "right": 5
+              },
+              "selectors": [
+                {
+                  "columnIndex": 0
+                }
+              ],
+              "width": 10
+            },
+            {
+              "horizontalAlignment": "left",
+              "padding": {
+                "left": 5
+              },
+              "selectors": [
+                {
+                  "columnIndex": 1
+                }
+              ],
+              "width": 75
+            }
+          ],
+          "textStyle": "ingredientsTextStyle",
+          "verticalAlignment": "top"
+        },
+        "columns": {
+          "conditional": [
+            {
+              "selectors": [
+                {
+                  "columnIndex": 0
+                }
+              ],
+              "width": 10
+            },
+            {
+              "selectors": [
+                {
+                  "columnIndex": 1
+                }
+              ],
+              "width": 45
+            }
+          ]
+        },
+        "rows": {
+          "height": 20
+        }
+      }
+    },
+    "introStyle": {
+      "//": "UNUSED"
+    },
+    "paragraphDropCapStyle": {
+      "//": "UNUSED"
+    },
+    "paragraphStyle": {
+      "//": "UNUSED"
+    },
+    "photoContainerStyle": {
+      "//": "UNUSED"
+    },
+    "pullQuoteStyle": {
+      "border": {
+        "all": {
+          "color": "#000",
+          "width": 1
+        },
+        "left": false,
+        "right": false
+      }
+    },
+    "sectionStyle": {
+      "//": "UNUSED"
+    },
+    "sidebarNoBackgroundStyle": {
+      "border": {
+        "all": {
+          "color": "#f8ecdc",
+          "width": 4
+        }
+      }
+    },
+    "sidebarStyle": {
+      "backgroundColor": "#f8ecdc"
+    },
+    "straplineStyle": {
+      "//": "UNUSED"
+    },
+    "titleStyle": {
+      "//": "UNUSED"
+    }
+  },
+  "textStyles": {
+    "creditTextStyle": {
+      "fontName": "BentonSans-Book",
+      "fontSize": 10,
+      "textColor": "#8d8d8d",
+      "tracking": 0.05
+    },
+    "default-tag-caption-heading": {
+      "fontName": "BentonSans-Black",
+      "fontSize": 15,
+      "textTransform": "uppercase",
+      "tracking": 0.06
+    },
+    "default-tag-emoji": {
+      "fontName": "AppleColorEmoji"
+    },
+    "default-tag-lede": {
+      "fontName": "BentonSans-Black",
+      "fontSize": 15,
+      "textTransform": "uppercase",
+      "tracking": 0.06
+    },
+    "default-tag-pipe": {
+      "fontName": "BentonSans-Book",
+      "fontSize": 32
+    },
+    "default-tag-pullquote-attribution": {
+      "fontName": "BentonSans-Book",
+      "fontSize": 14,
+      "textTransform": "uppercase"
+    },
+    "default-tag-q": {
+      "fontName": "LibreFranklin-ExtraBold"
+    },
+    "default-tag-sidebar-lede": {
+      "fontName": "LibreFranklin-ExtraBold",
+      "fontSize": 17,
+      "lineHeight": 16,
+      "textAlignment": "center"
+    },
+    "default-tag-subsection": {
+      "fontName": "LibreFranklin-Bold",
+      "fontSize": 14,
+      "tracking": 0.12
+    },
+    "endMarkerTextStyle": {
+      "//": "UNUSED"
+    },
+    "subSectionTextStyle": {
+      "//": "UNUSED"
+    }
+  },
+  "componentTextStyles": {
+    "//": {
+      "//": "================ HEALTH OVERRIDES ================"
+    },
+    "attributeTextStyle": {
+      "fontName": "BentonSans-Book",
+      "fontSize": 10,
+      "lineHeight": 12,
+      "tracking": 0.05
+    },
+    "authorTextStyle": {
+      "fontName": "BentonSans-Black",
+      "textTransform": "uppercase",
+      "tracking": 0.06
+    },
+    "bodyCenteredTextStyle": {
+      "fontName": "ChronicleTextG1-Roman",
+      "textAlignment": "center"
+    },
+    "bodyDropCapTextStyle": {
+      "fontName": "ChronicleTextG1-Roman"
+    },
+    "bodyTextStyle": {
+      "fontName": "ChronicleTextG1-Roman"
+    },
+    "calloutBodyTextStyle": {
+      "fontName": "LibreFranklin-Medium",
+      "fontSize": 16,
+      "lineHeight": 20,
+      "textAlignment": "center",
+      "textColor": "#fff"
+    },
+    "calloutHeadingTextStyle": {
+      "fontName": "LibreFranklin-Bold",
+      "fontSize": 19,
+      "lineHeight": 21,
+      "textAlignment": "center",
+      "textColor": "#fff",
+      "textTransform": "uppercase"
+    },
+    "captionAdTextStyle": {
+      "//": "UNUSED"
+    },
+    "captionCenteredTextStyle": {
+      "fontName": "BentonSans-Book",
+      "textAlignment": "center"
+    },
+    "captionEmbeddedTextStyle": {
+      "fontName": "HelveticaNeue",
+      "lineHeight": 16
+    },
+    "captionTextStyle": {
+      "fontName": "BentonSans-Book"
+    },
+    "customSectionHeadingTextStyle": {
+      "fontName": "BentonSans-Black",
+      "fontSize": 52,
+      "lineHeight": 40,
+      "textAlignment": "center",
+      "tracking": 0.04
+    },
+    "customSectionSubHeadingBeautyTextStyle": {
+      "fontName": "LibreFranklin-Bold",
+      "fontSize": 13,
+      "lineHeight": 15,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.15
+    },
+    "customSectionSubHeadingBodyAndMindTextStyle": {
+      "fontName": "LibreFranklin-Bold",
+      "fontSize": 12,
+      "lineHeight": 14,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.15
+    },
+    "customSectionSubHeadingFoodTextStyle": {
+      "fontName": "LibreFranklin-Bold",
+      "fontSize": 13,
+      "lineHeight": 15,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.15
+    },
+    "customSectionSubHeadingLifeTextStyle": {
+      "fontName": "LibreFranklin-Bold",
+      "fontSize": 13,
+      "lineHeight": 15,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.15
+    },
+    "customSectionSubHeadingTheShareTextStyle": {
+      "fontName": "LibreFranklin-Bold",
+      "fontSize": 14,
+      "lineHeight": 16,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.15
+    },
+    "default": {
+      "fontName": "BentonSans-Black",
+      "hyphenation": false,
+      "linkStyle": {
+        "underline": true
+      },
+      "textColor": "#000"
+    },
+    "default-author": {
+      "fontSize": 12,
+      "lineHeight": 14
+    },
+    "default-body": {
+      "fontSize": 18,
+      "lineHeight": 21,
+      "paragraphSpacingAfter": 12,
+      "paragraphSpacingBefore": 12
+    },
+    "default-byline": {
+      "//": "UNUSED"
+    },
+    "default-caption": {
+      "fontSize": 13,
+      "lineHeight": 15
+    },
+    "default-heading": {
+      "fontSize": 16,
+      "lineHeight": 16
+    },
+    "default-heading2": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 500
+            }
+          ],
+          "fontSize": 30,
+          "lineHeight": 32
+        }
+      ],
+      "fontSize": 40,
+      "lineHeight": 42
+    },
+    "default-heading3": {
+      "fontSize": 24,
+      "lineHeight": 26
+    },
+    "default-heading4": {
+      "fontSize": 19,
+      "lineHeight": 21
+    },
+    "default-heading5": {
+      "fontSize": 18,
+      "lineHeight": 20
+    },
+    "default-heading6": {
+      "fontSize": 16,
+      "lineHeight": 18
+    },
+    "default-intro": {
+      "fontSize": 20,
+      "lineHeight": 21
+    },
+    "default-photographer": {
+      "//": "UNUSED"
+    },
+    "default-pullquote": {
+      "fontSize": 32,
+      "lineHeight": 32,
+      "textAlignment": "center"
+    },
+    "default-title": {
+      "fontSize": 58,
+      "lineHeight": 54
+    },
+    "floatImageCaptionTextStyle": {
+      "fontName": "BentonSans-Book"
+    },
+    "heading2CenteredTextStyle": {
+      "textAlignment": "center",
+      "textTransform": "uppercase"
+    },
+    "heading2TextStyle": {
+      "textTransform": "uppercase"
+    },
+    "heading3CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading3TextStyle": {
+      "//": "UNUSED"
+    },
+    "heading4CenteredTextStyle": {
+      "textAlignment": "center",
+      "textTransform": "uppercase"
+    },
+    "heading4TextStyle": {
+      "textTransform": "uppercase"
+    },
+    "heading5CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading5TextStyle": {
+      "//": "UNUSED"
+    },
+    "heading6CenteredTextStyle": {
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.05
+    },
+    "heading6TextStyle": {
+      "textTransform": "uppercase",
+      "tracking": 0.05
+    },
+    "ingredientsTextStyle": {
+      "fontName": "LibreFranklin-SemiBold",
+      "fontSize": 15,
+      "lineHeight": 19
+    },
+    "introTextStyle": {
+      "fontName": "Acta-Medium"
+    },
+    "photoCreditTextStyle": {
+      "fontName": "BentonSans-Book",
+      "fontSize": 10,
+      "lineHeight": 12,
+      "textAlignment": "right",
+      "textTransform": "uppercase",
+      "tracking": 0.05
+    },
+    "pullQuoteTextStyle": {
+      "fontName": "Acta-ExtraBold"
+    },
+    "recipeBodyTextStyle": {
+      "fontName": "LibreFranklin-Regular",
+      "fontSize": 16,
+      "lineHeight": 20
+    },
+    "recipeDetailsTextStyle": {
+      "fontName": "LibreFranklin-Regular",
+      "fontSize": 15,
+      "lineHeight": 17
+    },
+    "recipeNutritionInfoTextStyle": {
+      "fontName": "LibreFranklin-Regular",
+      "fontSize": 14,
+      "lineHeight": 16
+    },
+    "recipeSubheadTextStyle": {
+      "fontName": "LibreFranklin-Bold",
+      "fontSize": 17,
+      "lineHeight": 19,
+      "textTransform": "uppercase",
+      "tracking": 0.02
+    },
+    "recipeTitleTextStyle": {
+      "fontSize": 24,
+      "lineHeight": 26,
+      "textTransform": "uppercase",
+      "tracking": 0.06,
+      "underline": true
+    },
+    "sectionTextStyle": {
+      "fontSize": 16,
+      "lineHeight": 18,
+      "tracking": 0.08
+    },
+    "sidebarBodyTextStyle": {
+      "fontName": "LibreFranklin-Regular",
+      "fontSize": 16,
+      "lineHeight": 20,
+      "textAlignment": "center"
+    },
+    "sidebarHeading2TextStyle": {
+      "fontName": "Acta-ExtraBold",
+      "textAlignment": "center"
+    },
+    "sidebarHeading3TextStyle": {
+      "fontName": "LibreFranklin-ExtraBold",
+      "fontSize": 17,
+      "lineHeight": 16,
+      "textAlignment": "center"
+    },
+    "sidebarHeading4TextStyle": {
+      "fontSize": 16,
+      "lineHeight": 18,
+      "textAlignment": "center"
+    },
+    "sidebarIntroTextStyle": {
+      "fontName": "LibreFranklin-SemiBold",
+      "fontSize": 16,
+      "lineHeight": 20,
+      "textAlignment": "center"
+    },
+    "sidebarStraplineTextStyle": {
+      "fontSize": 14,
+      "lineHeight": 16,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.08
+    },
+    "straplineTextStyle": {
+      "fontSize": 14,
+      "lineHeight": 16,
+      "textTransform": "uppercase",
+      "tracking": 0.08
+    },
+    "titleTextStyle": {
+      "textTransform": "uppercase"
+    }
+  }
+}

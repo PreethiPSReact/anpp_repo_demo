@@ -60,7 +60,7 @@
           "layout": "sectionLayout",
           "textStyle": "sectionTextStyle",
           "format": "html",
-          "text": "Currents <subsection>Market Report</subsection>"
+          "text": "CURRENTS | <subsection>Market report</subsection>"
         },
         {
           "//": "==== DEFAULT HEADER: TITLE ===",
@@ -90,7 +90,7 @@
           "layout": "heading2Layout",
           "textStyle": "heading2TextStyle",
           "format": "html",
-          "text": "Romantic Saint-Tropez"
+          "text": "ROMANTIC SAINT-TROPEZ"
         },
         {
           "//": "======== HERO IMAGE CONTAINER =======",
@@ -161,7 +161,7 @@
               "layout": "heading2Layout",
               "textStyle": "heading2TextStyle",
               "format": "html",
-              "text": "West Coast Surf"
+              "text": "WEST COAST SURF"
             },
             {
               "//": "======== FULL BLEED CONTAINER ========",
@@ -227,7 +227,7 @@
               "layout": "heading2Layout",
               "textStyle": "heading2TextStyle",
               "format": "html",
-              "text": "Caribbean Cool"
+              "text": "CARIBBEAN COOL"
             },
             {
               "//": "======== FULL BLEED CONTAINER ========",
@@ -293,7 +293,7 @@
               "layout": "heading2Layout",
               "textStyle": "heading2TextStyle",
               "format": "html",
-              "text": "Florida’s White Sands"
+              "text": "FLORIDA’S WHITE SANDS"
             },
             {
               "//": "======== FULL BLEED CONTAINER ========",
@@ -359,7 +359,7 @@
               "layout": "heading2Layout",
               "textStyle": "heading2TextStyle",
               "format": "html",
-              "text": "All-American Nantucket"
+              "text": "ALL-AMERICAN NANTUCKET"
             },
             {
               "//": "======== FULL BLEED CONTAINER ========",
@@ -860,7 +860,7 @@
       "border": {
         "all": {
           "width": 4,
-          "color": "#000"
+          "color": "#FF7E19"
         }
       }
     },
@@ -962,7 +962,7 @@
                   "columnIndex": 1
                 }
               ],
-              "width": 90
+              "width": 75
             }
           ],
           "textStyle": "ingredientsTextStyle",
@@ -976,7 +976,7 @@
                   "columnIndex": 0
                 }
               ],
-              "width": 5
+              "width": 10
             },
             {
               "selectors": [
@@ -1011,20 +1011,24 @@
     "sidebarNoBackgroundStyle": {
       "border": {
         "all": {
-          "color": "#000",
-          "width": 2
+          "width": 2,
+          "color": "#000"
         }
       }
     },
     "sidebarStyle": {
-      "border": {
-        "all": {
-          "width": 2,
-          "color": "#000"
-        },
-        "left": false,
-        "right": false
-      }
+      "conditional": [
+        {
+          "backgroundColor": "#828282",
+          "conditions": [
+            {
+              "preferredColorScheme": "dark",
+              "minSpecVersion": "1.14"
+            }
+          ]
+        }
+      ],
+      "backgroundColor": "#f2f2f2"
     },
     "straplineStyle": {
       "//": "UNUSED"
@@ -1035,45 +1039,19 @@
     "youSaidImageStyle": {
       "backgroundColor": "#008080",
       "mask": {
-        "radius": "60cw",
-        "type": "corners"
+        "type": "corners",
+        "radius": "60cw"
       }
-    }
-  },
-  "textStyles": {
-    "creditTextStyle": {
-      "fontName": "CaslonDoricApp-Regular",
-      "fontSize": 10,
-      "textColor": "#8d8d8d"
     },
-    "default-tag-bold": {
-      "fontName": "Gotham-Medium"
+    "calloutStyle2": {
+      "border": {
+        "all": {
+          "color": "#feaa26",
+          "width": 4
+        }
+      }
     },
-    "default-tag-caption-heading": {
-      "fontName": "CaslonDoricApp-Bold",
-      "fontSize": 15,
-      "tracking": 0.05
-    },
-    "default-tag-emoji": {
-      "fontName": "AppleColorEmoji"
-    },
-    "default-tag-lede": {
-      "fontName": "CaslonDoricApp-Bold",
-      "fontSize": 16,
-      "tracking": 0.05
-    },
-    "default-tag-pullquote-attribution": {
-      "fontName": "ChronicleDisplay-Roman",
-      "fontSize": 16,
-      "textAlignment": "center",
-      "textTransform": "uppercase",
-      "tracking": 0.05
-    },
-    "default-tag-sidebar-lede": {
-      "fontName": "CaslonDoricApp-Bold",
-      "fontSize": 16
-    },
-    "default-tag-subsection": {
+    "reviewFiveStarsStyle": {
       "conditional": [
         {
           "conditions": [
@@ -1082,14 +1060,115 @@
               "preferredColorScheme": "dark"
             }
           ],
-          "textColor": "#9A94C9"
+          "fill": {
+            "horizontalAlignment": "left",
+            "repeat": "none",
+            "type": "repeatable_image",
+            "URL": "https://public-assets.meredithcorp.io/ba3bbeb190fc45d4b5bb1d08c8fd2a5c/fiveDM.png",
+            "verticalAlignment": "top",
+            "width": 80
+          }
         }
       ],
-      "fontName": "Gotham-Medium",
-      "fontSize": 16,
-      "textColor": "#9A94C9",
+      "fill": {
+        "horizontalAlignment": "left",
+        "repeat": "none",
+        "type": "repeatable_image",
+        "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common022/86031-1-eng-GB/common022.jpg",
+        "verticalAlignment": "top",
+        "width": 80
+      }
+    },
+    "reviewFourHalfStarsStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "horizontalAlignment": "left",
+            "repeat": "none",
+            "type": "repeatable_image",
+            "URL": "https://public-assets.meredithcorp.io/8700c3d249629b59c38e0b147c58947c/fourDM.png",
+            "verticalAlignment": "top",
+            "width": 80
+          }
+        }
+      ],
+      "fill": {
+        "horizontalAlignment": "left",
+        "repeat": "none",
+        "type": "repeatable_image",
+        "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common0166/108858-1-eng-GB/common012.jpg?q=100",
+        "verticalAlignment": "top",
+        "width": 80
+      }
+    },
+    "reviewFourStarsStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "horizontalAlignment": "left",
+            "repeat": "none",
+            "type": "repeatable_image",
+            "URL": "https://public-assets.meredithcorp.io/8e401d3520fc3b0bec1ecdf6f118edf3/fourstarsDM.png",
+            "verticalAlignment": "top",
+            "width": 80
+          }
+        }
+      ],
+      "fill": {
+        "horizontalAlignment": "left",
+        "repeat": "none",
+        "type": "repeatable_image",
+        "URL": "https://public-assets.meredithcorp.io/4cadea6bc3bbdd6b0bdfab5abedfb66f/fourstars.jpg",
+        "verticalAlignment": "top",
+        "width": 80
+      }
+    }
+  },
+  "textStyles": {
+    "creditTextStyle": {
+      "fontName": "Gotham-Book",
+      "fontSize": 10,
+      "textColor": "#8d8d8d",
+      "tracking": 0.05
+    },
+    "default-tag-bold": {
+      "fontName": "GothamNarrow-Bold"
+    },
+    "default-tag-caption-heading": {
+      "fontSize": 15,
+      "fontName": "Gotham-Black"
+    },
+    "default-tag-emoji": {
+      "fontName": "AppleColorEmoji"
+    },
+    "default-tag-lede": {
+      "fontName": "GothamNarrow-Bold",
+      "tracking": 0.02
+    },
+    "default-tag-pullquote-attribution": {
+      "fontName": "GothamCondensed-Medium",
+      "fontSize": 18,
+      "textAlignment": "center",
       "textTransform": "uppercase",
-      "tracking": 0.1
+      "tracking": 0.05
+    },
+    "default-tag-sidebar-lede": {
+      "fontName": "GothamNarrow-Bold"
+    },
+    "default-tag-subsection": {
+      "fontName": "Gotham-Light"
     },
     "endMarkerTextStyle": {
       "//": "UNUSED"
@@ -1097,140 +1176,61 @@
     "subSectionTextStyle": {
       "//": "UNUSED"
     },
-    "default-tag-blue": {
-      "textColor": "#2BADEF"
+    "default-tag-m": {
+      "fontName": "Gotham-Medium"
     },
-    "default-tag-body-author": {
-      "fontSize": 14,
-      "fontName": "CaslonDoricApp-Regular"
+    "default-tag-mi": {
+      "fontName": "Gotham-MediumItalic"
     },
-    "default-tag-caption-italic": {
-      "fontName": "CaslonDoricApp-RegularItalic"
-    },
-    "default-tag-coldopen-strapline": {
-      "fontName": "CaslonDoricApp-Medium",
-      "fontSize": 12,
-      "textAlignment": "center",
-      "tracking": 0.15
-    },
-    "default-tag-coldopensmall": {
-      "fontName": "OriginalSansApp-Three",
-      "fontSize": 16,
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minViewportWidth": 415
-            }
-          ],
-          "fontSize": 25
-        }
-      ],
-      "textTransform": "uppercase",
-      "tracking": 0.15
-    },
-    "default-tag-color": {
-      "textColor": "#F15A21"
-    },
-    "default-tag-highlight": {
-      "backgroundColor": "#FEF203"
-    },
-    "default-tag-introitalic": {
-      "fontName": "CaslonDoricApp-RegularNo2Italic"
-    },
-    "default-tag-introitalic-bold": {
-      "fontName": "CaslonDoricApp-BoldItalic"
-    },
-    "default-tag-red": {
-      "textColor": "#EE3124"
-    },
-    "default-tag-lede-alt": {
-      "fontName": "CaslonDoricApp-Bold",
-      "fontSize": 16,
-      "tracking": 0.05,
-      "textColor": "#F15921"
-    },
-    "default-tag-original-bold": {
-      "fontName": "OriginalSansApp-Four"
-    },
-    "default-tag-original-bolditalic": {
-      "fontName": "OriginalSansApp-FourItalic",
-      "tracking": 0.02
-    },
-    "default-tag-original-semibold": {
-      "fontName": "OriginalSansApp-Three"
-    },
-    "default-tag-original-semibolditalic": {
-      "fontName": "OriginalSansApp-ThreeItalic"
-    },
-    "default-tag-semibold-italic": {
-      "fontName": "CaslonDoricApp-SemiboldItalic"
-    },
-    "default-tag-sidebarintro-regular": {
-      "fontName": "CaslonDoricApp-Semibold"
+    "default-tag-caption-i": {
+      "fontName": "Gotham-Book"
     }
   },
   "componentTextStyles": {
     "//": {
-      "//": "===================== ENTERTAINMENT WEEKLY OVERRIDES ====================="
+      "//": "================ ALL RECIPES OVERRIDES ================"
     },
     "attributeTextStyle": {
-      "fontName": "CaslonDoricApp-Regular",
+      "fontName": "GothamNarrow-Book",
       "fontSize": 10,
       "textTransform": "uppercase",
-      "lineHeight": 12
+      "lineHeight": 12,
+      "tracking": 0.05
     },
     "authorTextStyle": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minSpecVersion": "1.14",
-              "preferredColorScheme": "dark"
-            }
-          ],
-          "linkStyle": {
-            "underline": {
-              "color": "#eee"
-            }
-          }
-        }
-      ],
-      "fontName": "CaslonDoricApp-SemiboldItalic",
-      "linkStyle": {
-        "underline": {
-          "color": "#999"
-        }
-      },
-      "tracking": 0.05
+      "fontName": "Gotham-Light",
+      "tracking": 0.1
     },
     "bodyCenteredTextStyle": {
       "textAlignment": "center"
     },
     "bodyDropCapTextStyle": {
-      "fontName": "FreightTextProBook-Regular",
+      "tracking": 0.02,
       "dropCapStyle": {
-        "fontName": "CaslonDoricApp-Bold",
-        "numberOfLines": 3,
+        "fontName": "GothamNarrow-ThinItalic",
+        "numberOfLines": 4,
         "numberOfRaisedLines": 0,
         "numberOfCharacters": 1
       }
     },
     "bodyTextStyle": {
-      "fontName": "FreightTextProBook-Regular"
+      "tracking": 0.02
     },
     "calloutBodyTextStyle": {
-      "fontName": "CaslonDoricApp-Regular",
-      "fontSize": 16,
-      "lineHeight": 20,
-      "textAlignment": "center"
+      "fontSize": 15,
+      "lineHeight": 19,
+      "textAlignment": "center",
+      "linkStyle": {
+        "fontName": "GothamNarrow-Bold",
+        "textColor": "#000",
+        "underline": true
+      }
     },
     "calloutHeadingTextStyle": {
-      "fontName": "CaslonDoricApp-Bold",
-      "fontSize": 24,
-      "lineHeight": 26,
-      "textAlignment": "center",
-      "textColor": "#F15A21"
+      "fontName": "Harrietv2Display-Bold",
+      "fontSize": 28,
+      "lineHeight": 30,
+      "textAlignment": "center"
     },
     "captionAdTextStyle": {
       "//": "UNUSED"
@@ -1243,26 +1243,39 @@
       "lineHeight": 16
     },
     "captionTextStyle": {
-      "fontName": "CaslonDoricApp-Regular",
-      "tracking": 0.05
+      "fontName": "Gotham-BookItalic",
+      "tracking": 0.02,
+      "linkStyle": {
+        "fontName": "GothamNarrow-Bold",
+        "textColor": "#000",
+        "underline": true
+      }
     },
     "default": {
-      "fontName": "CaslonDoricApp-Bold",
+      "fontName": "GothamNarrow-Book",
       "textColor": "#000",
       "linkStyle": {
+        "fontName": "GothamNarrow-Bold",
+        "textColor": "#000",
         "underline": true
       },
       "hyphenation": false
     },
     "default-author": {
+      "fontName": "Avenir-Book",
       "fontSize": 14,
       "lineHeight": 16
     },
     "default-body": {
-      "fontSize": 18,
-      "lineHeight": 24,
+      "fontSize": 16,
+      "lineHeight": 20,
       "paragraphSpacingBefore": 12,
-      "paragraphSpacingAfter": 12
+      "paragraphSpacingAfter": 12,
+      "linkStyle": {
+        "fontName": "GothamNarrow-Bold",
+        "textColor": "#000",
+        "underline": true
+      }
     },
     "default-byline": {
       "//": "UNUSED"
@@ -1277,109 +1290,133 @@
       "lineHeight": 16
     },
     "default-heading2": {
-      "fontSize": 35,
-      "lineHeight": 37
+      "fontSize": 40,
+      "lineHeight": 42
     },
     "default-heading3": {
-      "fontSize": 21,
-      "lineHeight": 23
+      "fontSize": 32,
+      "lineHeight": 34
     },
     "default-heading4": {
-      "fontSize": 18,
-      "lineHeight": 24
+      "fontSize": 28,
+      "lineHeight": 30,
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 500
+            }
+          ],
+          "fontSize": 24,
+          "lineHeight": 26
+        }
+      ]
     },
     "default-heading5": {
       "fontSize": 17,
       "lineHeight": 19
     },
     "default-heading6": {
-      "fontSize": 16,
-      "lineHeight": 18
+      "fontSize": 18,
+      "lineHeight": 20
     },
     "default-intro": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minViewportWidth": 430
-            }
-          ],
-          "fontSize": 18,
-          "lineHeight": 24
-        }
-      ],
-      "fontSize": 16,
-      "lineHeight": 22
+      "fontName": "Avenir-Book",
+      "fontSize": 20,
+      "lineHeight": 24
     },
     "default-photographer": {
       "//": "UNUSED"
     },
     "default-pullquote": {
-      "fontSize": 39,
-      "lineHeight": 39
+      "fontSize": 44,
+      "lineHeight": 44,
+      "textAlignment": "center"
     },
     "default-title": {
-      "fontSize": 45,
-      "lineHeight": 47
+      "fontSize": 60,
+      "lineHeight": 59
     },
     "floatImageCaptionTextStyle": {
-      "fontName": "CaslonDoricApp-Regular",
-      "tracking": 0.05
+      "fontName": "Gotham-BookItalic",
+      "tracking": 0.02
     },
     "heading2CenteredTextStyle": {
       "textAlignment": "center"
     },
     "heading2TextStyle": {
-      "fontName": "CaslonDoricApp-Bold"
+      "fontName": "GothamXNarrow-Ultra",
+      "tracking": 0.11,
+      "textTransform": "uppercase"
     },
     "heading3CenteredTextStyle": {
       "textAlignment": "center"
     },
     "heading3TextStyle": {
-      "fontName": "CaslonDoricApp-Bold",
-      "textTransform": "uppercase"
+      "fontName": "Gotham-Black"
     },
     "heading4CenteredTextStyle": {
       "textAlignment": "center"
     },
     "heading4TextStyle": {
-      "fontName": "CaslonDoricApp-Bold"
+      "fontName": "GothamXNarrow-Ultra",
+      "tracking": 0.12,
+      "textTransform": "uppercase"
     },
     "heading5CenteredTextStyle": {
+      "fontName": "Gotham-Bold",
+      "tracking": 0.02,
+      "textTransform": "uppercase",
       "textAlignment": "center"
     },
     "heading5TextStyle": {
-      "fontName": "CaslonDoricApp-Bold"
+      "fontName": "Gotham-Bold",
+      "tracking": 0.02,
+      "textTransform": "uppercase"
     },
     "heading6CenteredTextStyle": {
-      "fontName": "CaslonDoricApp-Bold",
       "textAlignment": "center"
     },
     "heading6TextStyle": {
-      "fontName": "CaslonDoricApp-Bold",
-      "textTransform": "uppercase"
+      "fontName": "GothamXNarrow-Black",
+      "tracking": 0.04
     },
     "ingredientsTextStyle": {
-      "fontName": "CaslonDoricApp-MediumItalic"
+      "fontName": "GothamNarrow-Book",
+      "lineHeight": 24
     },
     "introTextStyle": {
-      "fontName": "CaslonDoricApp-RegularNo2",
-      "tracking": 0.05
+      "fontName": "Gotham-Book",
+      "tracking": 0.03
     },
     "pullQuoteTextStyle": {
-      "fontName": "CaslonDoricApp-Light",
-      "textAlignment": "center",
-      "tracking": 0.05,
-      "fontSize": 39,
-      "lineHeight": 45
+      "fontName": "GothamCondensed-LightItalic",
+      "textAlignment": "center"
     },
     "recipeDetailsTextStyle": {
       "fontName": "GothamNarrow-Book",
       "fontSize": 14,
-      "lineHeight": 16
+      "lineHeight": 16,
+      "linkStyle": {
+        "fontName": "GothamNarrow-Bold",
+        "textColor": "#000",
+        "underline": true
+      }
     },
     "reviewsTextStyle": {
-      "fontName": "GothamNarrow-Black"
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "textColor": "#fff"
+        }
+      ],
+      "fontName": "GothamNarrow-Black",
+      "textColor": "#000"
     },
     "savedTextStyle": {
       "fontName": "GothamNarrow-Book",
@@ -1388,45 +1425,41 @@
       "textTransform": "uppercase"
     },
     "sectionTextStyle": {
-      "fontName": "CaslonDoricApp-Medium",
+      "fontName": "Gotham-Ultra",
       "fontSize": 14,
-      "tracking": 0.03
+      "tracking": 0.1
     },
     "sidebarBodyTextStyle": {
-      "fontName": "CaslonDoricApp-Medium",
-      "lineHeight": 22
+      "fontName": "GothamNarrow-Book"
     },
     "sidebarHeading2TextStyle": {
-      "fontName": "CaslonDoricApp-Bold",
-      "fontSize": 42,
-      "lineHeight": 44
+      "fontName": "Harrietv2Display-Bold",
+      "tracking": 0.02
     },
     "sidebarHeading3TextStyle": {
-      "fontName": "CaslonDoricApp-Semibold",
-      "fontSize": 20,
-      "lineHeight": 22,
+      "fontName": "GothamXNarrow-Bold",
+      "tracking": 0.09,
+      "fontSize": 28,
+      "lineHeight": 30,
       "textTransform": "uppercase"
     },
     "sidebarHeading4TextStyle": {
-      "fontName": "CaslonDoricApp-Semibold",
-      "fontSize": 18,
-      "lineHeight": 20
+      "fontName": "GothamXNarrow-Bold",
+      "tracking": 0.02,
+      "fontSize": 24,
+      "lineHeight": 26
     },
     "sidebarIntroTextStyle": {
-      "fontName": "CaslonDoricApp-Regular",
-      "fontSize": 17,
-      "lineHeight": 21,
-      "tracking": 0.02
+      "fontName": "GothamNarrow-Medium"
     },
     "straplineTextStyle": {
-      "fontName": "OriginalSansApp-Three",
-      "fontSize": 16,
-      "lineHeight": 18,
-      "tracking": 0.05
+      "fontName": "Gotham-Ultra",
+      "tracking": 0.15
     },
     "titleTextStyle": {
-      "fontName": "OriginalSansApp-Four",
-      "tracking": 0.05
+      "fontName": "GothamCondensed-Black",
+      "tracking": 0.03,
+      "textTransform": "uppercase"
     },
     "tocTextStyle": {
       "fontName": "AvenirNextCondensed-Medium",
@@ -1437,117 +1470,11 @@
       "textAlignment": "center",
       "textColor": "#000"
     },
-    "coldOpenStraplineTextStyle": {
-      "fontName": "CaslonDoricApp-Medium",
-      "fontSize": 13,
-      "textAlignment": "center",
-      "tracking": 0
-    },
-    "coldOpenTitleTextStyle": {
-      "fontName": "OriginalSansApp-Four",
-      "fontSize": 80,
-      "lineHeight": 22,
-      "textAlignment": "center",
-      "tracking": 0.1,
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minViewportWidth": 430
-            }
-          ],
-          "fontSize": 100,
-          "lineHeight": 26
-        }
-      ]
-    },
-    "contentTextStyles": {
-      "fontName": "CaslonDoricApp-Regular",
-      "fontSize": 12,
-      "lineHeight": 20,
-      "tracking": 0.1,
-      "textAlignment": "center",
-      "linkStyle": {
-        "underline": {
-          "color": "#F15921"
-        }
-      }
-    },
-    "contentsTextStyle": {
-      "fontName": "AvenirNextCondensed-Bold",
-      "textAlignment": "center",
-      "fontSize": 16,
-      "lineHeight": 20
-    },
-    "slugTextStyle": {
-      "fontName": "CaslonDoricApp-Semibold",
-      "fontSize": 16,
-      "lineHeight": 18,
-      "textColor": "#EE3124"
-    },
-    "mediaBodyTextStyle": {
-      "fontName": "CaslonDoricApp-Regular",
-      "fontSize": 17
-    },
-    "pullQuoteAttributionTextStyle": {
-      "fontName": "CaslonDoricApp-Bold",
-      "fontSize": 14,
-      "lineHeight": 16,
-      "textTransform": "capitalize",
-      "textAlignment": "center",
-      "tracking": 0.05
-    },
-    "questionTextStyle": {
-      "fontName": "CaslonDoricApp-Bold"
-    },
-    "RRTextStyle": {
-      "fontName": "CaslonDoricApp-Regular",
-      "tracking": 0.05,
-      "fontSize": 14,
-      "lineHeight": 14
-    },
-    "sidebarIntroCenteredTextStyle": {
-      "fontName": "CaslonDoricApp-Regular",
-      "fontSize": 17,
-      "lineHeight": 21,
-      "textAlignment": "center",
-      "tracking": 0.02
-    },
-    "sidebarAuthorCenteredTextStyle": {
-      "fontName": "CaslonDoricApp-SemiboldItalic",
-      "fontSize": 17,
-      "lineHeight": 21,
-      "textAlignment": "center",
-      "tracking": 0.04
-    },
-    "sidebarAuthorTextStyle": {
-      "fontName": "CaslonDoricApp-SemiboldItalic",
-      "fontSize": 17,
-      "lineHeight": 21,
-      "tracking": 0.04
-    },
-    "sidebarBodyCenteredTextStyle": {
-      "fontName": "CaslonDoricApp-MediumItalic",
-      "lineHeight": 22,
+    "youSaidQuoteTextStyle": {
+      "fontName": "GothamCondensed-LightItalic",
+      "fontSize": 22,
+      "lineHeight": 24,
       "textAlignment": "center"
-    },
-    "sidebarHeading2CenteredTextStyle": {
-      "fontName": "CaslonDoricApp-Bold",
-      "fontSize": 42,
-      "lineHeight": 44,
-      "textAlignment": "center"
-    },
-    "sidebarHeading3CenteredTextStyle": {
-      "fontName": "CaslonDoricApp-Semibold",
-      "fontSize": 20,
-      "lineHeight": 22,
-      "textAlignment": "center"
-    },
-    "sidebarHeading5TextStyle": {
-      "fontName": "CaslonDoricApp-Semibold",
-      "fontSize": 18,
-      "lineHeight": 18,
-      "tracking": 0.05
     }
   }
 }

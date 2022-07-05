@@ -1,0 +1,1479 @@
+{
+  "version": "1.9",
+  "identifier": "alr_article_899-131-20-1",
+  "title": "TASTE IT, DON’T WASTE IT",
+  "language": "en",
+  "layout": {
+    "columns": 20,
+    "gutter": 20,
+    "margin": 40,
+    "width": 1024
+  },
+  "subtitle": "<p><b><custom name=\"underline\">You almost always end up with leftover ingredients (think: parsley, tomato paste, buttermilk) when cooking. These savvy ideas for using it all up will save you money and reduce food waste.</custom></b></p>",
+  "metadata": {
+    "authors": [
+      "Karla Walsh"
+    ],
+    "dateCreated": "2022-06-21T16:53:50.401Z",
+    "dateModified": "2022-06-21T14:52:46+00:00",
+    "excerpt": "— Upgrade your eggs. Stir a handful of chopped parsley into the egg mixture for any omelet, scramble, frittata, or quiche.",
+    "generatorName": "ANTE Generic Template",
+    "generatorVersion": "0.0.4.33-2022-06-09 18:32",
+    "issue": {
+      "identifier": "June 16, 2022",
+      "tocByline": "By Karla Walsh"
+    },
+    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p020-alt102382-flat-leaf-parsley/199233-1-eng-GB/p020-alt102382-flat-leaf-parsley.jpg?q=100"
+  },
+  "missingData": [
+    {
+      "possibleAuthors": [
+        "— Boost mashed spuds. Trade buttermilk for whole milk in your classic mashed potatoes recipe for creamy results.",
+        "— Brighten up hummus. Add ½ cup parsley leaves before processing hummus for green goddess dressing vibes.",
+        "— Build a brine. Quick-pickle the carrots to add a tangy element to cheese boards, hummus platters, and dip buffets.",
+        "— Extend its life. Fill a Mason jar with an inch or two of water, then trim the stems and store the parsley like a bouquet of flowers. Put a plastic bag loosely over the leafy ends and change the water each time you notice it browning. It should stay fresh for about 2 weeks.",
+        "— Extend its life. If you plan to bake or cook with buttermilk, you can freeze it for up to 3 months. Or start with powdered buttermilk, which can be used for 6 to 12 months after opening.",
+        "— Extend its life. Many brands like Cento, Amore, and Tuscanini now sell tomato paste in toothpaste-like tubes. While canned paste lasts only up to a week, that tube of tomato paste stored in your fridge will be good for up to 8 weeks after opening.",
+        "— Extend their life. Store extra baby carrots in a lid-topped container filled with enough water to cover the carrots; they should last around 3 weeks.",
+        "— Get saucy. Add a spoonful or two to store-bought marinara or meat sauce to pump up the flavor.",
+        "— Go against the grain. In a food processor, pulse baby carrots until they reach a rice-like consistency, then fold into regular rice, grain bowls, or even mac and cheese.",
+        "— Infuse your stews. Boost the umami in any tomato-based or beef-centric stews, soups, or chilies by incorporating a scoop of tomato paste.",
+        "— Make mini vegan dogs. The internet sensation of carrot hot dogs can go mini, too. Try the soy- and ginger-scented marinade at allrecipes.com/carrotdogs, then cook them on a grill pan until tender on the inside and golden on the outside.",
+        "— Perk up pesto. Swap parsley for basil for a twist on herb pesto. Toss with pasta, spoon over grilled meat or fish, or use as a dipping sauce for bread.",
+        "— Shake up a dressing. Shake together ⅓ cup olive oil, 2 Tbsp. vinegar, and 1 Tbsp. tomato paste with some salt, garlic, and herbs for a super vinaigrette.",
+        "— Slip it in a smoothie. Replace half the milk called for in your favorite smoothie recipe with buttermilk for a lovely tanginess.",
+        "— Upgrade a boxed brownie mix. Substitute an equal amount of buttermilk for the water called for in the instructions for richer, just-like-homemade flavor.",
+        "— Upgrade your eggs. Stir a handful of chopped parsley into the egg mixture for any omelet, scramble, frittata, or quiche."
+      ]
+    }
+  ],
+  "documentStyle": {
+    "backgroundColor": "#eee"
+  },
+  "components": [
+    {
+      "role": "container",
+      "layout": {
+        "conditional": [
+          {
+            "conditions": [
+              {
+                "platform": "ios"
+              }
+            ],
+            "ignoreViewportPadding": true
+          },
+          {
+            "conditions": [
+              {
+                "maxViewportWidth": 1366,
+                "minViewportWidth": 1112
+              }
+            ],
+            "ignoreDocumentMargin": "none",
+            "ignoreViewportPadding": "none"
+          }
+        ],
+        "ignoreDocumentMargin": true
+      },
+      "style": {
+        "backgroundColor": "#fff"
+      },
+      "components": [
+        {
+          "//": "==== DEFAULT HEADER: SECTION ===",
+          "role": "heading",
+          "layout": "sectionLayout",
+          "textStyle": "sectionTextStyle",
+          "format": "html",
+          "text": "5-INGREDIENT RECIPES"
+        },
+        {
+          "role": "container",
+          "layout": "dividerLayout",
+          "style": "dividerSectionHeadStyle"
+        },
+        {
+          "//": "==== DEFAULT HEADER: TITLE ===",
+          "role": "title",
+          "layout": "titleLayout",
+          "textStyle": "titleTextStyle",
+          "format": "html",
+          "text": "Taste It, Don’t Waste It"
+        },
+        {
+          "//": "==== DEFAULT HEADER: INTRO ===",
+          "role": "intro",
+          "layout": "introLayout",
+          "textStyle": "introTextStyle",
+          "format": "html",
+          "text": "You almost always end up with leftover ingredients (think: parsley, tomato paste, buttermilk) when cooking. These savvy ideas for using it all up will save you money and reduce food waste."
+        },
+        {
+          "role": "author",
+          "layout": "authorLayout",
+          "textStyle": "authorTextStyle",
+          "format": "html",
+          "text": "By Karla Walsh"
+        },
+        {
+          "//": "======== HERO IMAGE CONTAINER =======",
+          "role": "container",
+          "layout": "heroImageLayout",
+          "components": [
+            {
+              "//": "======== HERO IMAGE - H1362.0/W1366.0 * 100 = 99.7071742 ========",
+              "role": "photo",
+              "layout": "fullBleedPhotoLayout",
+              "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p020-alt102382-flat-leaf-parsley/199233-1-eng-GB/p020-alt102382-flat-leaf-parsley.jpg?q=100"
+            }
+          ]
+        },
+        {
+          "//": "======== BODY CONTAINER =======",
+          "role": "container",
+          "layout": "bodyContainerLayout",
+          "components": [
+            {
+              "role": "heading2",
+              "layout": "heading2Layout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Flat-Leaf Parsley",
+              "style": "heading2Style"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>—</lede>&nbsp;<bold>Upgrade your eggs.</bold> Stir a handful of chopped parsley into the egg mixture for any omelet, scramble, frittata, or quiche."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>—</lede>&nbsp;<bold>Perk up pesto.</bold> Swap parsley for basil for a twist on herb pesto. Toss with pasta, spoon over grilled meat or fish, or use as a dipping sauce for bread."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>—</lede>&nbsp;<bold>Brighten up hummus.</bold> Add ½ cup parsley leaves before processing hummus for green goddess dressing vibes."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>—</lede>&nbsp;<bold>Extend its life.</bold> Fill a Mason jar with an inch or two of water, then trim the stems and store the parsley like a bouquet of flowers. Put a plastic bag loosely over the leafy ends and change the water each time you notice it browning. It should stay fresh for about 2 weeks."
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1327.0/W1366.0 * 100 = 97.1449488 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p021-alt102382-buttermilk-mngo-smoothie/199226-1-eng-GB/p021-alt102382-buttermilk-mngo-smoothie.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "heading2Layout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Buttermilk",
+              "style": "heading2Style"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>—</lede>&nbsp;<bold>Slip it in a smoothie.</bold> Replace half the milk called for in your favorite smoothie recipe with buttermilk for a lovely tanginess."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>—</lede>&nbsp;<bold>Upgrade a boxed brownie mix.</bold> Substitute an equal amount of buttermilk for the water called for in the instructions for richer, just-like-homemade flavor."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>—</lede>&nbsp;<bold>Boost mashed spuds.</bold> Trade buttermilk for whole milk in your classic mashed potatoes recipe for creamy results."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>—</lede>&nbsp;<bold>Extend its life.</bold>&nbsp;If you plan to bake or cook with buttermilk, you can freeze it for up to 3 months. Or start with powdered buttermilk, which can be used for 6 to 12 months after opening."
+            },
+            {
+              "role": "heading2",
+              "layout": "heading2Layout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Bagged Mini Carrots",
+              "style": "heading2Style"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>—</lede>&nbsp;<bold>Build a brine.</bold> Quick-pickle the carrots to add a tangy element to cheese boards, hummus platters, and dip buffets."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>—</lede>&nbsp;<bold>Make mini vegan dogs.</bold> The internet sensation of carrot hot dogs can go mini, too. Try the soy- and ginger-scented marinade at <i><a href=\"http://allrecipes.com/carrotdogs\">allrecipes.com/carrotdogs</a></i>, then cook them on a grill pan until tender on the inside and golden on the outside."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>—</lede>&nbsp;<bold>Go against the grain.</bold> In a food processor, pulse baby carrots until they reach a rice-like consistency, then fold into regular rice, grain bowls, or even mac and cheese."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>—</lede>&nbsp;<bold>Extend their life.</bold> Store extra baby carrots in a lid-topped container filled with enough water to cover the carrots; they should last around 3 weeks."
+            },
+            {
+              "role": "heading2",
+              "layout": "heading2Layout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Canned Tomato&nbsp;Paste",
+              "style": "heading2Style"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>—</lede>&nbsp;<bold>Get saucy.</bold> Add a spoonful or two to store-bought marinara or meat sauce to pump up the flavor."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>—</lede>&nbsp;<bold>Shake up a dressing.</bold> Shake together ⅓ cup olive oil, 2 Tbsp. vinegar, and 1 Tbsp. tomato paste with some salt, garlic, and herbs for a super vinaigrette."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>—</lede>&nbsp;<bold>Infuse your stews.</bold> Boost the umami in any tomato-based or beef-centric stews, soups, or chilies by incorporating a scoop of tomato paste."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>—</lede>&nbsp;<bold>Extend its life.</bold> Many brands like Cento, Amore, and Tuscanini now sell tomato paste in toothpaste-like tubes. While canned paste lasts only up to a week, that tube of tomato paste stored in your fridge will be good for up to 8 weeks after opening."
+            },
+            {
+              "role": "container",
+              "layout": "sidebarLayout",
+              "style": "sidebarStyle",
+              "components": [
+                {
+                  "//": "======== BODY CONTAINER =======",
+                  "role": "container",
+                  "layout": "bodyContainerLayout",
+                  "style": "bodyContainerStyle",
+                  "components": [
+                    {
+                      "role": "heading2",
+                      "layout": "sidebarHeading2Layout",
+                      "style": "heading2Style",
+                      "textStyle": "sidebarHeading2TextStyle",
+                      "format": "html",
+                      "text": "Food Waste-Fighting Tips"
+                    },
+                    {
+                      "role": "heading3",
+                      "layout": "sidebarHeading3Layout",
+                      "style": "heading3Style",
+                      "textStyle": "sidebarHeading3TextStyle",
+                      "format": "html",
+                      "text": "Think Root to Stem"
+                    },
+                    {
+                      "role": "body",
+                      "layout": "sidebarBodyLayout",
+                      "style": "paragraphStyle",
+                      "textStyle": "sidebarBodyTextStyle",
+                      "format": "html",
+                      "text": "Vegetable peels and trimmings can star in stocks, while leafy green tops are terrific in pestos and salads."
+                    },
+                    {
+                      "role": "heading3",
+                      "layout": "sidebarHeading3Layout",
+                      "style": "heading3Style",
+                      "textStyle": "sidebarHeading3TextStyle",
+                      "format": "html",
+                      "text": "Plan It"
+                    },
+                    {
+                      "role": "body",
+                      "layout": "sidebarBodyLayout",
+                      "style": "paragraphStyle",
+                      "textStyle": "sidebarBodyTextStyle",
+                      "format": "html",
+                      "text": "When picking meals for the week, notice which recipes call for only part of a product—say, two large carrots from a bunch. Select another recipe for the day before or after that can use that same ingredient."
+                    },
+                    {
+                      "role": "heading3",
+                      "layout": "sidebarHeading3Layout",
+                      "style": "heading3Style",
+                      "textStyle": "sidebarHeading3TextStyle",
+                      "format": "html",
+                      "text": "Freeze!"
+                    },
+                    {
+                      "role": "body",
+                      "layout": "sidebarBodyLayout",
+                      "style": "paragraphStyle",
+                      "textStyle": "sidebarBodyTextStyle",
+                      "format": "html",
+                      "text": "Extend the life of hard cheeses (like Parmesan), extra bread, or overripe bananas by popping them in the freezer. A Parmesan rind amplifies the umami in soups and sauces; thawed and toasted bread works great for sandwiches, croutons, or stuffing; and frozen bananas are the secret ingredient in the creamiest homemade smoothies."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "role": "container",
+          "layout": "bodyContainerLayout",
+          "conditional": [
+            {
+              "conditions": [
+                {
+                  "viewLocation": "article"
+                }
+              ],
+              "hidden": false
+            }
+          ],
+          "hidden": true,
+          "components": [
+            {
+              "role": "container",
+              "layout": "dividerLayout",
+              "style": "dividerSectionHeadStyle"
+            },
+            {
+              "//": "=== VISIT TOC LINK, ONLY VISIBLE IF USER IS IN ARTICLE VIEW ===",
+              "role": "body",
+              "layout": "bodyLayout",
+              "textStyle": "tocTextStyle",
+              "format": "html",
+              "text": "<a href='https://apple.news/AeWTaQfGQEeyRKiYivkxSbA'>Tap here</a> to see more from this issue of <i>Allrecipes</i>"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "componentLayouts": {
+    "attributeLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 15
+    },
+    "authorLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 5
+      }
+    },
+    "blockContainerLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "bodyContainerLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": 10
+    },
+    "bodyLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 2
+      }
+    },
+    "bottomPhotoDividerLayout": {
+      "//": "UNUSED"
+    },
+    "calloutBodyLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 5
+      }
+    },
+    "calloutHeadingLayout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "calloutLayout": {
+      "columnSpan": 16,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "padding": {
+        "bottom": 10,
+        "left": 20,
+        "right": 20,
+        "top": 10
+      }
+    },
+    "captionAdLayout": {
+      "//": "UNUSED"
+    },
+    "captionLayout": {
+      "margin": 8
+    },
+    "collectionLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "darkModePaddingLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "padding": 10
+        }
+      ]
+    },
+    "dividerCollectionLayout": {
+      "//": "UNUSED"
+    },
+    "dividerLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 20,
+        "top": 10
+      }
+    },
+    "dividerStandardLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "minimumHeight": 1
+    },
+    "dividerTocLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 15,
+        "top": 20
+      },
+      "minimumHeight": 10
+    },
+    "floatContainerLayout": {
+      "columnSpan": 4,
+      "columnStart": 1,
+      "conditional": [
+        {
+          "columnSpan": 4,
+          "columnStart": 0,
+          "conditions": [
+            {
+              "maxViewportWidth": 415
+            }
+          ]
+        }
+      ]
+    },
+    "fullBleedContainerLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "fullBleedDividerLayout": {
+      "//": "UNUSED"
+    },
+    "fullBleedLayout": {
+      "ignoreDocumentMargin": true
+    },
+    "fullBleedPhotoLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 700
+            }
+          ],
+          "ignoreDocumentMargin": false
+        }
+      ],
+      "ignoreDocumentMargin": true
+    },
+    "galleryPhotoLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "heading2Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading3Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading4Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading5Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading6Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heroImageLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 15
+      }
+    },
+    "heroImageTallLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 15
+      }
+    },
+    "ingredientsLayout": {
+      "margin": 10
+    },
+    "introLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10
+      }
+    },
+    "noMarginLayout": {
+      "columnSpan": 18,
+      "columnStart": 1
+    },
+    "productImageStandardLayout": {
+      "minimumHeight": 280
+    },
+    "pullQuoteLayout": {
+      "columnSpan": 16,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 25,
+        "top": 15
+      }
+    },
+    "reviewLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "padding": {
+        "left": 85,
+        "top": 2
+      }
+    },
+    "sectionLayout": {
+      "margin": {
+        "top": 5
+      }
+    },
+    "sidebarBodyLayout": {
+      "margin": {
+        "bottom": 10
+      }
+    },
+    "sidebarDividerLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "minimumHeight": 1
+    },
+    "sidebarFloatContainerLayout": {
+      "columnSpan": 4,
+      "columnStart": 0
+    },
+    "sidebarHeading2Layout": {
+      "margin": {
+        "top": 20
+      }
+    },
+    "sidebarHeading3Layout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "sidebarHeading4Layout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "sidebarIntroLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 5
+      }
+    },
+    "sidebarLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 20,
+      "padding": {
+        "bottom": 10,
+        "left": 20,
+        "right": 20
+      }
+    },
+    "sidebarSingleBlockContainerLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "sidebarSmallMarginAboveLayout": {
+      "margin": {
+        "top": 2
+      }
+    },
+    "singleBlockContainerLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "smallMarginAboveLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 2
+      }
+    },
+    "smallSpacerLayout": {
+      "maximumWidth": 5,
+      "minimumWidth": 5
+    },
+    "spacerLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "starsImageLayout": {
+      "margin": {
+        "top": 2
+      },
+      "maximumWidth": 100
+    },
+    "straplineLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "titleLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 5
+      }
+    },
+    "topPhotoDividerLayout": {
+      "//": "UNUSED"
+    },
+    "youSaidContainerLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 500
+            }
+          ],
+          "padding": {
+            "left": "20cw",
+            "right": "20cw"
+          }
+        }
+      ],
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "youSaidImageLayout": {
+      "horizontalContentAlignment": "center",
+      "margin": {
+        "bottom": 10
+      },
+      "maximumContentWidth": 110
+    }
+  },
+  "componentStyles": {
+    "attributeStyle": {
+      "//": "UNUSED"
+    },
+    "authorStyle": {
+      "//": "UNUSED"
+    },
+    "bodyContainerStyle": {
+      "//": "UNUSED"
+    },
+    "calloutStyle": {
+      "border": {
+        "all": {
+          "color": "#8d8d8d",
+          "width": 2
+        }
+      }
+    },
+    "calloutStyle2": {
+      "border": {
+        "all": {
+          "color": "#feaa26",
+          "width": 4
+        }
+      }
+    },
+    "captionAdStyle": {
+      "//": "UNUSED"
+    },
+    "darkModeBackgroundStyle": {
+      "conditional": [
+        {
+          "backgroundColor": "#FFF",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "dividerSectionHeadStyle": {
+      "border": {
+        "all": {
+          "color": "#ececec",
+          "width": 1
+        },
+        "bottom": true,
+        "left": false,
+        "right": false,
+        "top": true
+      },
+      "conditional": [
+        {
+          "border": {
+            "all": {
+              "color": "#666666",
+              "width": 1
+            },
+            "bottom": true,
+            "left": false,
+            "right": false,
+            "top": true
+          },
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "dividerStandardStyle": {
+      "backgroundColor": "#000"
+    },
+    "dividerTocStyle": {
+      "//": "UNUSED"
+    },
+    "fullBleedContainerStyle": {
+      "//": "UNUSED"
+    },
+    "heading2Style": {
+      "//": "UNUSED"
+    },
+    "heading3Style": {
+      "//": "UNUSED"
+    },
+    "heading4Style": {
+      "//": "UNUSED"
+    },
+    "heading5Style": {
+      "//": "UNUSED"
+    },
+    "heading6Style": {
+      "//": "UNUSED"
+    },
+    "ingredientsStyle": {
+      "tableStyle": {
+        "cells": {
+          "conditional": [
+            {
+              "horizontalAlignment": "right",
+              "padding": {
+                "right": 5
+              },
+              "selectors": [
+                {
+                  "columnIndex": 0
+                }
+              ],
+              "width": 10
+            },
+            {
+              "horizontalAlignment": "left",
+              "padding": {
+                "left": 5
+              },
+              "selectors": [
+                {
+                  "columnIndex": 1
+                }
+              ],
+              "width": 75
+            }
+          ],
+          "textStyle": "ingredientsTextStyle",
+          "verticalAlignment": "top"
+        },
+        "columns": {
+          "conditional": [
+            {
+              "selectors": [
+                {
+                  "columnIndex": 0
+                }
+              ],
+              "width": 10
+            },
+            {
+              "selectors": [
+                {
+                  "columnIndex": 1
+                }
+              ],
+              "width": 45
+            }
+          ]
+        }
+      }
+    },
+    "introStyle": {
+      "//": "UNUSED"
+    },
+    "paragraphDropCapStyle": {
+      "//": "UNUSED"
+    },
+    "paragraphStyle": {
+      "//": "UNUSED"
+    },
+    "photoContainerStyle": {
+      "//": "UNUSED"
+    },
+    "pullQuoteStyle": {
+      "//": "UNUSED"
+    },
+    "reviewFiveStarsStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "horizontalAlignment": "left",
+            "repeat": "none",
+            "type": "repeatable_image",
+            "URL": "https://public-assets.meredithcorp.io/ba3bbeb190fc45d4b5bb1d08c8fd2a5c/fiveDM.png",
+            "verticalAlignment": "top",
+            "width": 80
+          }
+        }
+      ],
+      "fill": {
+        "horizontalAlignment": "left",
+        "repeat": "none",
+        "type": "repeatable_image",
+        "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common022/86031-1-eng-GB/common022.jpg",
+        "verticalAlignment": "top",
+        "width": 80
+      }
+    },
+    "reviewFourHalfStarsStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "horizontalAlignment": "left",
+            "repeat": "none",
+            "type": "repeatable_image",
+            "URL": "https://public-assets.meredithcorp.io/8700c3d249629b59c38e0b147c58947c/fourDM.png",
+            "verticalAlignment": "top",
+            "width": 80
+          }
+        }
+      ],
+      "fill": {
+        "horizontalAlignment": "left",
+        "repeat": "none",
+        "type": "repeatable_image",
+        "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common0166/108858-1-eng-GB/common012.jpg?q=100",
+        "verticalAlignment": "top",
+        "width": 80
+      }
+    },
+    "reviewFourStarsStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "horizontalAlignment": "left",
+            "repeat": "none",
+            "type": "repeatable_image",
+            "URL": "https://public-assets.meredithcorp.io/8e401d3520fc3b0bec1ecdf6f118edf3/fourstarsDM.png",
+            "verticalAlignment": "top",
+            "width": 80
+          }
+        }
+      ],
+      "fill": {
+        "horizontalAlignment": "left",
+        "repeat": "none",
+        "type": "repeatable_image",
+        "URL": "https://public-assets.meredithcorp.io/4cadea6bc3bbdd6b0bdfab5abedfb66f/fourstars.jpg",
+        "verticalAlignment": "top",
+        "width": 80
+      }
+    },
+    "sectionStyle": {
+      "//": "UNUSED"
+    },
+    "sidebarNoBackgroundStyle": {
+      "border": {
+        "all": {
+          "color": "#f2f2f2",
+          "width": 2
+        }
+      }
+    },
+    "sidebarStyle": {
+      "backgroundColor": "#f2f2f2",
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "backgroundColor": "#f2f2f2"
+        }
+      ]
+    },
+    "straplineStyle": {
+      "//": "UNUSED"
+    },
+    "titleStyle": {
+      "//": "UNUSED"
+    },
+    "youSaidImageStyle": {
+      "backgroundColor": "#008080",
+      "mask": {
+        "radius": "60cw",
+        "type": "corners"
+      }
+    },
+    "captionStyle": {
+      "border": {
+        "all": {
+          "color": "#8d8d8d",
+          "width": 2
+        },
+        "bottom": false,
+        "left": true,
+        "right": false,
+        "top": false
+      }
+    }
+  },
+  "textStyles": {
+    "creditTextStyle": {
+      "fontName": "AvenirNext-Medium",
+      "fontSize": 10,
+      "textColor": "#8d8d8d",
+      "textTransform": "uppercase",
+      "tracking": 0.1
+    },
+    "default-tag-bold": {
+      "fontName": "GothamNarrow-Bold"
+    },
+    "default-tag-caption-heading": {
+      "fontName": "AvenirNext-Bold",
+      "fontSize": 14,
+      "textTransform": "uppercase",
+      "tracking": 0.05
+    },
+    "default-tag-caption-i": {
+      "fontName": "Gotham-Book"
+    },
+    "default-tag-emoji": {
+      "fontName": "AppleColorEmoji"
+    },
+    "default-tag-lede": {
+      "fontName": "AvenirNext-Bold"
+    },
+    "default-tag-m": {
+      "fontName": "Gotham-Medium"
+    },
+    "default-tag-mi": {
+      "fontName": "Gotham-MediumItalic"
+    },
+    "default-tag-pullquote-attribution": {
+      "fontName": "Georgia-Bold",
+      "fontSize": 15,
+      "textTransform": "uppercase",
+      "tracking": 0.15
+    },
+    "default-tag-sidebar-lede": {
+      "fontName": "AvenirNext-Bold",
+      "fontSize": 16,
+      "textTransform": "uppercase",
+      "tracking": 0.05
+    },
+    "default-tag-subsection": {
+      "fontName": "Gotham-Light"
+    },
+    "endMarkerTextStyle": {
+      "//": "UNUSED"
+    },
+    "subSectionTextStyle": {
+      "//": "UNUSED"
+    },
+    "default-tag-sub-section": {
+      "fontName": "AvenirNext-Medium"
+    }
+  },
+  "componentTextStyles": {
+    "//": {
+      "//": "===================== LIFE OVERRIDES ====================="
+    },
+    "attributeTextStyle": {
+      "fontName": "AvenirNext-Medium",
+      "fontSize": 10,
+      "lineHeight": 14,
+      "textColor": "#8d8d8d",
+      "textTransform": "uppercase",
+      "tracking": 0.1
+    },
+    "authorTextStyle": {
+      "fontName": "Georgia-Bold",
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.05
+    },
+    "bodyCenteredTextStyle": {
+      "fontName": "Georgia",
+      "textAlignment": "center"
+    },
+    "bodyDropCapTextStyle": {
+      "dropCapStyle": {
+        "fontName": "AvenirNext-Medium",
+        "numberOfCharacters": 1,
+        "numberOfLines": 4,
+        "numberOfRaisedLines": 0
+      },
+      "fontName": "Georgia"
+    },
+    "bodyTextStyle": {
+      "fontName": "Georgia"
+    },
+    "calloutBodyTextStyle": {
+      "fontName": "Georgia-Italic",
+      "fontSize": 22,
+      "lineHeight": 28,
+      "textAlignment": "center"
+    },
+    "calloutHeadingTextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "fontSize": 24,
+      "lineHeight": 28,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": -0.05
+    },
+    "captionAdTextStyle": {
+      "//": "UNUSED"
+    },
+    "captionCenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "captionEmbeddedTextStyle": {
+      "fontName": "HelveticaNeue-Bold",
+      "lineHeight": 16
+    },
+    "captionTextStyle": {
+      "fontName": "AvenirNext-Medium",
+      "textAlignment": "left"
+    },
+    "default": {
+      "fontName": "AvenirNext-Medium",
+      "hyphenation": false,
+      "linkStyle": {
+        "underline": true
+      },
+      "textColor": "#000"
+    },
+    "default-author": {
+      "fontSize": 15,
+      "lineHeight": 19
+    },
+    "default-body": {
+      "fontSize": 20,
+      "lineHeight": 26,
+      "paragraphSpacingAfter": 12,
+      "paragraphSpacingBefore": 12
+    },
+    "default-byline": {
+      "//": "UNUSED"
+    },
+    "default-caption": {
+      "fontName": "AvenirNext-Medium",
+      "fontSize": 15,
+      "lineHeight": 22
+    },
+    "default-heading": {
+      "fontSize": 16,
+      "lineHeight": 16
+    },
+    "default-heading2": {
+      "fontSize": 45,
+      "lineHeight": 50
+    },
+    "default-heading3": {
+      "fontSize": 24,
+      "lineHeight": 28
+    },
+    "default-heading4": {
+      "fontSize": 24,
+      "lineHeight": 28
+    },
+    "default-heading5": {
+      "fontSize": 22,
+      "lineHeight": 24
+    },
+    "default-heading6": {
+      "fontSize": 18,
+      "lineHeight": 20
+    },
+    "default-intro": {
+      "fontName": "Avenir-Book",
+      "fontSize": 18,
+      "lineHeight": 20
+    },
+    "default-photographer": {
+      "//": "UNUSED"
+    },
+    "default-pullquote": {
+      "fontSize": 30,
+      "lineHeight": 30
+    },
+    "default-title": {
+      "fontSize": 60,
+      "lineHeight": 66
+    },
+    "floatImageCaptionTextStyle": {
+      "fontName": "AvenirNext-Medium",
+      "textAlignment": "left"
+    },
+    "heading2CenteredTextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "textAlignment": "center"
+    },
+    "heading2TextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "tracking": -0.02
+    },
+    "heading3CenteredTextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": -0.05
+    },
+    "heading3TextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "textTransform": "uppercase",
+      "tracking": -0.05
+    },
+    "heading4CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading4TextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "tracking": -0.01
+    },
+    "heading5CenteredTextStyle": {
+      "fontName": "Gotham-Bold",
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.02
+    },
+    "heading5TextStyle": {
+      "fontName": "Georgia-BoldItalic"
+    },
+    "heading6CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading6TextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "tracking": 0.05
+    },
+    "ingredientsTextStyle": {
+      "fontName": "GothamNarrow-Book",
+      "lineHeight": 24
+    },
+    "introTextStyle": {
+      "fontName": "Georgia-Italic",
+      "textAlignment": "center"
+    },
+    "pullQuoteTextStyle": {
+      "fontName": "Georgia",
+      "textAlignment": "center"
+    },
+    "recipeDetailsTextStyle": {
+      "fontName": "GothamNarrow-Book",
+      "fontSize": 14,
+      "lineHeight": 16,
+      "linkStyle": {
+        "fontName": "GothamNarrow-Bold",
+        "textColor": "#000",
+        "underline": true
+      }
+    },
+    "reviewsTextStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "textColor": "#fff"
+        }
+      ],
+      "fontName": "GothamNarrow-Black",
+      "textColor": "#000"
+    },
+    "savedTextStyle": {
+      "fontName": "GothamNarrow-Book",
+      "fontSize": 16,
+      "lineHeight": 18,
+      "textTransform": "uppercase"
+    },
+    "sectionTextStyle": {
+      "fontName": "AvenirNext-Regular",
+      "fontSize": 14,
+      "lineHeight": 16,
+      "textTransform": "uppercase",
+      "tracking": 0.05
+    },
+    "sidebarBodyTextStyle": {
+      "fontName": "AvenirNext-Medium",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "tracking": 0.02
+    },
+    "sidebarHeading2TextStyle": {
+      "fontName": "Georgia-Bold",
+      "fontSize": 45,
+      "lineHeight": 50
+    },
+    "sidebarHeading3TextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "fontSize": 24,
+      "lineHeight": 28,
+      "textTransform": "uppercase",
+      "tracking": -0.05
+    },
+    "sidebarHeading4TextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "fontSize": 24,
+      "lineHeight": 28,
+      "tracking": -0.01
+    },
+    "sidebarIntroTextStyle": {
+      "fontName": "Georgia-Italic",
+      "fontSize": 20,
+      "lineHeight": 26
+    },
+    "straplineTextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.15
+    },
+    "titleTextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "textAlignment": "center"
+    },
+    "tocTextStyle": {
+      "fontName": "AvenirNextCondensed-Medium",
+      "fontSize": 16,
+      "linkStyle": {
+        "underline": true
+      },
+      "textAlignment": "center",
+      "textColor": "#000"
+    },
+    "youSaidQuoteTextStyle": {
+      "fontName": "GothamCondensed-LightItalic",
+      "fontSize": 22,
+      "lineHeight": 24,
+      "textAlignment": "center"
+    },
+    "listTextStyle": {
+      "fontSize": 17,
+      "lineHeight": 21
+    },
+    "sidebarBodyCenteredTextStyle": {
+      "fontName": "AvenirNext-Medium",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "textAlignment": "center",
+      "tracking": 0.02
+    },
+    "sidebarHeading2CenteredTextStyle": {
+      "fontName": "Georgia-Bold",
+      "fontSize": 45,
+      "lineHeight": 50,
+      "textAlignment": "center"
+    },
+    "sidebarHeading3CenteredTextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "fontSize": 24,
+      "lineHeight": 28,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": -0.05
+    },
+    "sidebarHeadingCentered4TextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "fontSize": 24,
+      "lineHeight": 28,
+      "textAlignment": "center"
+    },
+    "subsectionIntroTextStyle": {
+      "fontName": "Georgia-Italic",
+      "fontSize": 20,
+      "lineHeight": 26,
+      "textAlignment": "left"
+    }
+  }
+}

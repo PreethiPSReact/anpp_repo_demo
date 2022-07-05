@@ -1,26 +1,42 @@
 {
   "version": "1.9",
-  "identifier": "coastalliving_article_889-125-12-1",
-  "title": "Sitting Pretty",
+  "identifier": "alr_article_899-131-3-1",
+  "title": "FROM THE EDITORS",
   "language": "en",
   "layout": {
-    "columns": 23,
+    "columns": 20,
     "gutter": 20,
-    "margin": 62,
+    "margin": 40,
     "width": 1024
   },
-  "subtitle": "No matter where you choose to lounge this summer, here are five combos for matching your beach chair and your bathing suit",
   "metadata": {
-    "authors": [
-      "By Jessica Thuston"
-    ],
-    "dateCreated": "2022-05-20T16:37:03.449Z",
-    "dateModified": "2022-05-18T20:18:03+00:00",
-    "excerpt": "■",
+    "dateCreated": "2022-06-21T16:53:49.673Z",
+    "dateModified": "2022-06-21T14:32:47+00:00",
+    "excerpt": "The dinnertime struggle is real.",
     "generatorName": "ANTE Generic Template",
-    "generatorVersion": "0.0.4.32-2022-04-15 19:20",
-    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/bpc-g-lau-s_126/129638-1-eng-GB/bpc-g-lau-s_1262.png?q=100"
+    "generatorVersion": "0.0.4.33-2022-06-09 18:32",
+    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/mid_7008224_053/197165-1-eng-GB/mid_7008224_0532.jpg?q=100"
   },
+  "missingData": [
+    {
+      "possibleAuthors": [
+        "— All-purpose flour",
+        "— Apple cider vinegar",
+        "— Black pepper",
+        "— Crushed red pepper",
+        "— Dijon mustard",
+        "— Ketchup",
+        "— Less-sodium soy sauce",
+        "— Low-sodium chicken broth",
+        "— Mayonnaise",
+        "— Nonstick cooking spray",
+        "— Olive oil",
+        "— Salt",
+        "— Vegetable oil",
+        "— White and brown sugar"
+      ]
+    }
+  ],
   "documentStyle": {
     "backgroundColor": "#eee"
   },
@@ -60,7 +76,12 @@
           "layout": "sectionLayout",
           "textStyle": "sectionTextStyle",
           "format": "html",
-          "text": "CURRENTS | <subsection>Market report</subsection>"
+          "text": "5INGREDIENT RECIPES"
+        },
+        {
+          "role": "container",
+          "layout": "dividerLayout",
+          "style": "dividerSectionHeadStyle"
         },
         {
           "//": "==== DEFAULT HEADER: TITLE ===",
@@ -68,54 +89,32 @@
           "layout": "titleLayout",
           "textStyle": "titleTextStyle",
           "format": "html",
-          "text": "Sitting Pretty"
+          "text": "<i>From the</i> Editors"
         },
         {
-          "//": "==== DEFAULT HEADER: INTRO ===",
-          "role": "intro",
-          "layout": "introLayout",
-          "textStyle": "introTextStyle",
-          "format": "html",
-          "text": "No matter where you choose to lounge this summer, here are five combos for matching your beach chair and your bathing suit"
-        },
-        {
-          "role": "author",
-          "layout": "authorLayout",
-          "textStyle": "authorTextStyle",
-          "format": "html",
-          "text": "By Jessica Thuston"
-        },
-        {
-          "role": "heading2",
-          "layout": "heading2Layout",
-          "textStyle": "heading2TextStyle",
-          "format": "html",
-          "text": "ROMANTIC SAINT-TROPEZ"
-        },
-        {
-          "//": "======== HERO IMAGE CONTAINER =======",
           "role": "container",
-          "layout": "singleBlockContainerLayout",
+          "layout": "fullBleedContainerLayout",
+          "animation": {
+            "initialAlpha": 0.05,
+            "type": "fade_in",
+            "userControllable": true
+          },
           "components": [
             {
-              "//": "======== HERO IMAGE - H1435.0/W1367.0 * 100 = 104.9743965 ========",
-              "role": "image",
-              "layout": {
-                "maximumContentWidth": "70cw"
-              },
-              "caption": {
-                "format": "html",
-                "text": "<bold>Romantic Saint-Tropez</bold><br><bold>CHAIR Business &amp; Pleasure The Sling Chair</bold> in Lauren’s Navy Stripe, $249.",
-                "textStyle": "captionEmbeddedTextStyle"
-              },
-              "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/bpc-g-lau-s_126/129638-1-eng-GB/bpc-g-lau-s_1262.png?q=100"
-            },
-            {
-              "role": "caption",
-              "layout": "captionLayout",
-              "textStyle": "captionTextStyle",
-              "format": "html",
-              "text": "<caption-heading>Chair</caption-heading><br><bold>Business &amp; Pleasure The Sling Chair</bold> in Lauren’s Navy Stripe, $249 <a href=\"http://businessandpleasureco.com\">businessandpleasureco.com</a>"
+              "role": "mosaic",
+              "layout": "fullBleedPhotoLayout",
+              "items": [
+                {
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/mid_7008248_029/197158-1-eng-GB/mid_7008248_0292.jpg?q=100"
+                },
+                {
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/mid_7008217_001/197151-1-eng-GB/mid_7008217_0012.jpg?q=100"
+                },
+                {
+                  "//": "======== HERO IMAGE - H1004.0/W1367.0 * 100 = 73.4455011 ========",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/mid_7008224_053/197165-1-eng-GB/mid_7008224_0532.jpg?q=100"
+                }
+              ]
             }
           ]
         },
@@ -125,303 +124,133 @@
           "layout": "bodyContainerLayout",
           "components": [
             {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "singleBlockContainerLayout",
-              "components": [
-                {
-                  "//": "======== IMAGE BLEED - H1722.0/W1367.0 * 100 = 125.9692758 ========",
-                  "role": "image",
-                  "layout": {
-                    "maximumContentWidth": "70cw"
-                  },
-                  "caption": {
-                    "format": "html",
-                    "text": "<bold>SUIT Vineyard Vines Anegada Floral Ruffle Bikini Top,</bold><br>$78, and <bold>High-Waisted Bikini Bottom,</bold> $75.",
-                    "textStyle": "captionEmbeddedTextStyle"
-                  },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/oceanreefbo_121/129645-1-eng-GB/oceanreefbo_1212.png?q=100"
-                },
-                {
-                  "role": "caption",
-                  "layout": "captionLayout",
-                  "textStyle": "captionTextStyle",
-                  "format": "html",
-                  "text": "<caption-heading>Suit</caption-heading><br><bold>Vineyard Vines Anegada Floral Ruffle Bikini Top,</bold> $78, and <bold>High-Waisted Bikini Bottom,</bold> $75 <a href=\"http://tnuck.com\">tnuck.com</a>"
-                }
-              ]
-            },
-            {
-              "role": "container",
-              "layout": "dividerStandardLayout",
-              "style": "dividerStandardStyle"
-            },
-            {
-              "role": "heading2",
-              "layout": "heading2Layout",
-              "textStyle": "heading2TextStyle",
+              "role": "heading6",
+              "layout": "heading6Layout",
+              "textStyle": "heading6TextStyle",
               "format": "html",
-              "text": "WEST COAST SURF"
+              "text": "The dinnertime struggle is real."
             },
             {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "singleBlockContainerLayout",
-              "components": [
-                {
-                  "//": "======== IMAGE BLEED - H1398.0/W1367.0 * 100 = 102.2677396 ========",
-                  "role": "image",
-                  "layout": {
-                    "maximumContentWidth": "70cw"
-                  },
-                  "caption": {
-                    "format": "html",
-                    "text": "<bold>West Coast Surf</bold><br><bold>CHAIR PARKIT Voyager Chair</bold> in Slate, $225.",
-                    "textStyle": "captionEmbeddedTextStyle"
-                  },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/parkit-003__128/129631-1-eng-GB/parkit-003__1282.png?q=100"
-                },
-                {
-                  "role": "caption",
-                  "layout": "captionLayout",
-                  "textStyle": "captionTextStyle",
-                  "format": "html",
-                  "text": "<caption-heading>Chair</caption-heading><br><bold>PARKIT Voyager Chair</bold> in Slate, $225 <a href=\"http://parkitmovement.com\">parkitmovement.com</a>"
-                }
-              ]
-            },
-            {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "singleBlockContainerLayout",
-              "components": [
-                {
-                  "//": "======== IMAGE BLEED - H2005.0/W1367.0 * 100 = 146.6715435 ========",
-                  "role": "image",
-                  "layout": {
-                    "maximumContentWidth": "60cw"
-                  },
-                  "caption": {
-                    "format": "html",
-                    "text": "<bold>SUIT Trina Turk Breeze Paddle Suit,</bold><br>$172.",
-                    "textStyle": "captionEmbeddedTextStyle"
-                  },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/trinaturk_b_131/129624-1-eng-GB/trinaturk_b_1312.png?q=100"
-                },
-                {
-                  "role": "caption",
-                  "layout": "captionLayout",
-                  "textStyle": "captionTextStyle",
-                  "format": "html",
-                  "text": "<caption-heading>Suit</caption-heading><br><bold>Trina Turk Breeze Paddle Suit,</bold> $172 <a href=\"http://trinaturk.com\">trinaturk.com</a>"
-                }
-              ]
-            },
-            {
-              "role": "container",
-              "layout": "dividerStandardLayout",
-              "style": "dividerStandardStyle"
-            },
-            {
-              "role": "heading2",
-              "layout": "heading2Layout",
-              "textStyle": "heading2TextStyle",
+              "role": "body",
+              "layout": "bodyNoMarginAboveLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "CARIBBEAN COOL"
+              "text": "But not to worry—we have you covered! In this special edition of <i>Allrecipes</i> magazine, learn secrets from fellow home cooks and our test kitchen experts to minimize the time spent in the kitchen, all while maximizing flavors and ease. Each recipe calls for just 5 ingredients—plus a few on-hand staples (above)—so you can cook up dinners your family will love on even your busiest days."
             },
             {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "singleBlockContainerLayout",
-              "components": [
-                {
-                  "//": "======== IMAGE BLEED - H1397.0/W1367.0 * 100 = 102.1945867 ========",
-                  "role": "image",
-                  "layout": {
-                    "maximumContentWidth": "70cw"
-                  },
-                  "caption": {
-                    "format": "html",
-                    "text": "<bold>Caribbean Cool</bold><br><bold>CHAIR Serena &amp; Lily Palisades Outdoor Chair</bold> in Driftwood, $498.",
-                    "textStyle": "captionEmbeddedTextStyle"
-                  },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/serenalilyp_129/129617-1-eng-GB/serenalilyp_1292.png?q=100"
-                },
-                {
-                  "role": "caption",
-                  "layout": "captionLayout",
-                  "textStyle": "captionTextStyle",
-                  "format": "html",
-                  "text": "<caption-heading>Chair</caption-heading><br><bold>Serena &amp; Lily Palisades Outdoor Chair</bold> in Driftwood, $498 <a href=\"http://serenaandlily.com\">serenaandlily.com</a>"
-                }
-              ]
-            },
-            {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "singleBlockContainerLayout",
-              "components": [
-                {
-                  "//": "======== IMAGE BLEED - H2310.0/W1367.0 * 100 = 168.9831748 ========",
-                  "role": "image",
-                  "layout": {
-                    "maximumContentWidth": "50cw"
-                  },
-                  "caption": {
-                    "format": "html",
-                    "text": "<bold>SUIT Summersalt The Ruffle Backflip Suit</bold><br>In Hibiscus &amp; Tangerine, $95.",
-                    "textStyle": "captionEmbeddedTextStyle"
-                  },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/theruffleba_130/129610-1-eng-GB/theruffleba_1302.png?q=100"
-                },
-                {
-                  "role": "caption",
-                  "layout": "captionLayout",
-                  "textStyle": "captionTextStyle",
-                  "format": "html",
-                  "text": "<caption-heading>Suit</caption-heading><br><bold>Summersalt The Ruffle Backflip Suit </bold>in Hibiscus &amp; Tangerine, $95 <a href=\"http://summersalt.com\">summersalt.com</a>"
-                }
-              ]
-            },
-            {
-              "role": "container",
-              "layout": "dividerStandardLayout",
-              "style": "dividerStandardStyle"
-            },
-            {
-              "role": "heading2",
-              "layout": "heading2Layout",
-              "textStyle": "heading2TextStyle",
+              "role": "heading6",
+              "layout": "heading6Layout1",
+              "textStyle": "heading6TextStyle",
               "format": "html",
-              "text": "FLORIDA’S WHITE SANDS"
+              "text": "Here are a few of the amazing five-and-done recipes you’ll find inside:"
             },
             {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "singleBlockContainerLayout",
-              "components": [
-                {
-                  "//": "======== IMAGE BLEED - H1635.0/W1367.0 * 100 = 119.6049744 ========",
-                  "role": "image",
-                  "layout": {
-                    "maximumContentWidth": "70cw"
-                  },
-                  "caption": {
-                    "format": "html",
-                    "text": "<bold>Florida’s White Sands</bold><br><bold>CHAIR L.L.Bean Backpack Beach Chair</bold> in Ocean Blue, $89.",
-                    "textStyle": "captionEmbeddedTextStyle"
-                  },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/aa225429_pr_125/129603-1-eng-GB/aa225429_pr_1252.png?q=100"
-                },
-                {
-                  "role": "caption",
-                  "layout": "captionLayout",
-                  "textStyle": "captionTextStyle",
-                  "format": "html",
-                  "text": "<caption-heading>Chair</caption-heading><br><bold>L.L.Bean Backpack Beach Chair</bold> in Ocean Blue, $89 <a href=\"http://llbean.com\">llbean.com</a>"
-                }
-              ]
-            },
-            {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "singleBlockContainerLayout",
-              "components": [
-                {
-                  "//": "======== IMAGE BLEED - H2158.0/W1367.0 * 100 = 157.8639356 ========",
-                  "role": "image",
-                  "layout": {
-                    "maximumContentWidth": "60cw"
-                  },
-                  "caption": {
-                    "format": "html",
-                    "text": "<bold>SUIT Southern Tide Tie One Shoulder One Piece Swimsuit</bold><br>In Ocean Channel, $105.",
-                    "textStyle": "captionEmbeddedTextStyle"
-                  },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/8934_ocean__124/129596-1-eng-GB/8934_ocean__1242.png?q=100"
-                },
-                {
-                  "role": "caption",
-                  "layout": "captionLayout",
-                  "textStyle": "captionTextStyle",
-                  "format": "html",
-                  "text": "<caption-heading>Suit</caption-heading><br><bold>Southern Tide Tie One Shoulder One Piece Swimsuit</bold> in Ocean Channel, $105 <a href=\"http://southerntide.com\">southerntide.com</a>"
-                }
-              ]
-            },
-            {
-              "role": "container",
-              "layout": "dividerStandardLayout",
-              "style": "dividerStandardStyle"
-            },
-            {
-              "role": "heading2",
-              "layout": "heading2Layout",
-              "textStyle": "heading2TextStyle",
+              "role": "body",
+              "layout": "bodyNoMarginAboveLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "ALL-AMERICAN NANTUCKET"
+              "text": "<a href=\"https://apple.news/Aijh934gwS9GBEdg-Nh6hVg\">JACOB’S EASY GRILLED SALMON</a>"
             },
             {
-              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<a href=\"https://apple.news/AQQ00SmikQGuIOBRHzL3HTQ\">RADISH TOP SOUP</a>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<a href=\"https://apple.news/AkQj008gkSjKxDjAPSKzcUw\">SLOW COOKER BUFFALO CHICKEN LETTUCE WRAPS</a>"
+            },
+            {
+              "role": "heading4",
+              "layout": "heading4Layout",
+              "textStyle": "heading4TextStyle",
+              "format": "html",
+              "text": "Happy Cooking!"
+            },
+            {
+              "role": "caption",
+              "layout": "captionLayout2",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<nm>THE EDITORS</nm>"
+            },
+            {
               "role": "container",
-              "layout": "singleBlockContainerLayout",
+              "layout": "sidebarLayout",
+              "style": "sidebarNoBackgroundStyle",
               "components": [
                 {
-                  "//": "======== IMAGE BLEED - H1832.0/W1367.0 * 100 = 134.0160936 ========",
-                  "role": "image",
-                  "layout": {
-                    "maximumContentWidth": "70cw"
-                  },
-                  "caption": {
-                    "format": "html",
-                    "text": "<bold>All-American Nantucket</bold><br><bold>CHAIR LowTides Dune High Beach Chair</bold> in Laura Ashley Sweet Alyssum, $169.",
-                    "textStyle": "captionEmbeddedTextStyle"
-                  },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/dune-laura__127/129582-1-eng-GB/dune-laura__1272.png?q=100"
-                },
-                {
-                  "role": "caption",
-                  "layout": "captionLayout",
-                  "textStyle": "captionTextStyle",
-                  "format": "html",
-                  "text": "<caption-heading>Chair</caption-heading><br><bold>LowTides Dune High Beach Chair</bold> in Laura Ashley Sweet Alyssum, $169 <a href=\"http://lowtidesop.com\">lowtidesop.com</a>"
+                  "//": "======== BODY CONTAINER =======",
+                  "role": "container",
+                  "layout": "bodyContainerLayout",
+                  "style": "bodyContainerStyle",
+                  "components": [
+                    {
+                      "role": "heading3",
+                      "layout": "sidebarHeading3Layout",
+                      "style": "heading3Style",
+                      "textStyle": "sidebarHeading3TextStyle",
+                      "format": "html",
+                      "text": "Stock up That Pantry!"
+                    },
+                    {
+                      "role": "body",
+                      "layout": "sidebarIntroLayout",
+                      "style": "paragraphStyle",
+                      "textStyle": "sidebarIntroTextStyle",
+                      "format": "html",
+                      "text": "Keep these staples on hand in your cupboard and each recipe in this magazine will be a mere 5 ingredients away."
+                    },
+                    {
+                      "role": "body",
+                      "layout": "sidebarBodyLayout",
+                      "style": "paragraphStyle",
+                      "textStyle": "sidebarBodyTextStyle",
+                      "format": "html",
+                      "text": "— All-purpose flour<br>— Apple cider vinegar<br>— Black pepper<br>— Crushed red pepper<br>— Dijon mustard<br>— Ketchup<br>— Low-sodium chicken broth<br>— Less-sodium soy sauce<br>— Mayonnaise<br>— Nonstick cooking spray<br>— Olive oil<br>— Salt<br>— Vegetable oil<br>— White and brown sugar"
+                    }
+                  ]
                 }
               ]
             },
             {
-              "//": "======== FULL BLEED CONTAINER ========",
+              "//": "====== CALLOUT ======",
               "role": "container",
-              "layout": "singleBlockContainerLayout",
+              "layout": "calloutLayout",
+              "style": "calloutStyle",
               "components": [
                 {
-                  "//": "======== IMAGE BLEED - H1505.0/W1366.0 * 100 = 110.1756955 ========",
-                  "role": "image",
-                  "layout": {
-                    "maximumContentWidth": "70cw"
-                  },
-                  "caption": {
-                    "format": "html",
-                    "text": "<bold>SUIT Marysia East River Top,</bold><br> $151, and <bold>Broadway Bottom,</bold> $148; <br><span data-anf-textstyle=\"creditTextStyle\">PRODUCTS COURTESY MANUFACTURERS</span>",
-                    "textStyle": "captionEmbeddedTextStyle"
-                  },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/p012-bzo102397-red-swim-suit/131358-1-eng-GB/p012-bzo102397-red-swim-suit.png?q=100"
+                  "role": "heading",
+                  "layout": "calloutHeadingLayout",
+                  "textStyle": "calloutHeadingTextStyle",
+                  "format": "html",
+                  "text": "Finish With Fresh!"
                 },
                 {
-                  "role": "caption",
-                  "layout": "captionLayout",
-                  "textStyle": "captionTextStyle",
+                  "role": "body",
+                  "layout": "calloutBodyLayout",
+                  "textStyle": "calloutBodyTextStyle",
                   "format": "html",
-                  "text": "<caption-heading>Suit</caption-heading><br><bold>Marysia East River Top,</bold> $151, and <bold>Broadway Bottom,</bold> $148 <a href=\"http://marysia.com\">marysia.com</a>"
+                  "text": "Fresh herbs, citrus, mixed greens, and other fresh ingredients go a long way to enhance the flavor and eye appeal of simple dishes. We recommend keeping some of these fresh finishes at the ready in your fridge to complete quick meals. Use the photos in this magazine as inspiration."
                 }
               ]
             },
             {
               "role": "body",
-              "layout": "attributeLayout",
-              "style": "attributeStyle",
-              "textStyle": "attributeTextStyle",
+              "layout": "bodyBigMarginAboveLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "PRODUCTS COURTESY MANUFACTURERS"
+              "text": "FOLLOW US ON SOCIAL! <a href='https://www.instagram.com/allrecipes'>@allrecipes</a> <a href=\"https://www.instagram.com/allrecipes\">Instagram</a><a href=\"https://www.facebook.com/allrecipes\">Facebook</a><a href=\"https://www.twitter.com/allrecipes\">Twitter<i></a><a href=\"https://www.pinterest.com/allrecipes\">Pinterest<i></a> <a href=\"https://www.youtube.com/allrecipes\">YouTube<i></a> <br>LETTERS AND COMMENTS: <a href=\"mailto:feedback@armagazine.com\">feedback@armagazine.com</a><br>SUBSCRIPTION HELP: <a href=\"http://allrecipes.com/magaccount\">allrecipes.com/magaccount</a> or email us at <a href=\"mailto:alrcustserv@cdsfulfillment.com\">alrcustserv@cdsfulfillment.com</a> or call <a href=\"tel:800-837-9017\">800-837-9017</a>"
             }
           ]
         },
@@ -451,7 +280,7 @@
               "layout": "bodyLayout",
               "textStyle": "tocTextStyle",
               "format": "html",
-              "text": "<a href='https://apple.news/Atu42odFLEeyNtj96zSKRvQ'>Tap here</a> to see more from this issue of <i>Coastal Living</i>"
+              "text": "<a href='https://apple.news/AeWTaQfGQEeyRKiYivkxSbA'>Tap here</a> to see more from this issue of <i>Allrecipes</i>"
             }
           ]
         }
@@ -460,24 +289,32 @@
   ],
   "componentLayouts": {
     "attributeLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": 15
     },
     "authorLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
         "bottom": 5
       }
     },
     "blockContainerLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "ignoreDocumentMargin": true,
       "margin": {
         "bottom": 10,
         "top": 20
+      }
+    },
+    "bodyBigMarginAboveLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 12
       }
     },
     "bodyContainerLayout": {
@@ -485,19 +322,11 @@
       "margin": 10
     },
     "bodyLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
         "bottom": 10,
         "top": 2
-      }
-    },
-    "bodySmallMarginAboveLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
-      "margin": {
-        "bottom": 10,
-        "top": 10
       }
     },
     "bottomPhotoDividerLayout": {
@@ -534,6 +363,14 @@
     "captionLayout": {
       "margin": 8
     },
+    "captionLayout2": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 8,
+        "top": 2
+      }
+    },
     "collectionLayout": {
       "columnSpan": 18,
       "columnStart": 1,
@@ -559,14 +396,15 @@
       "//": "UNUSED"
     },
     "dividerLayout": {
+      "ignoreDocumentMargin": true,
       "margin": {
         "bottom": 20,
         "top": 10
       }
     },
     "dividerStandardLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
         "bottom": 10,
         "top": 20
@@ -574,8 +412,8 @@
       "minimumHeight": 1
     },
     "dividerTocLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
         "bottom": 15,
         "top": 20
@@ -631,37 +469,45 @@
       }
     },
     "heading2Layout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
         "top": 10
       }
     },
     "heading3Layout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
         "top": 10
       }
     },
     "heading4Layout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
         "top": 10
       }
     },
     "heading5Layout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
         "top": 10
       }
     },
     "heading6Layout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
+        "top": 10
+      }
+    },
+    "heading6Layout1": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
         "top": 10
       }
     },
@@ -673,8 +519,8 @@
       }
     },
     "heroImageTallLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
         "bottom": 10,
         "top": 15
@@ -683,45 +529,38 @@
     "ingredientsLayout": {
       "margin": 10
     },
-    "ingredientsNoMarginAboveLayout": {
-      "margin": {
-        "bottom": 10,
-        "top": 0
-      }
-    },
     "introLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
         "bottom": 10
       }
     },
     "noMarginLayout": {
-      "columnSpan": 19,
-      "columnStart": 2
+      "columnSpan": 18,
+      "columnStart": 1
     },
     "productImageStandardLayout": {
       "minimumHeight": 280
     },
-    "pullQuoteBodyLayout": {
-      "columnSpan": 19,
+    "pullQuoteLayout": {
+      "columnSpan": 16,
       "columnStart": 2,
       "margin": {
-        "bottom": 0,
-        "top": 5
+        "bottom": 25,
+        "top": 15
       }
     },
-    "pullQuoteLayout": {
-      "columnSpan": 20,
-      "columnStart": 0,
-      "margin": {
-        "bottom": 15,
-        "top": 15
+    "reviewLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "padding": {
+        "left": 85,
+        "top": 2
       }
     },
     "sectionLayout": {
       "margin": {
-        "bottom": "20",
         "top": 5
       }
     },
@@ -763,8 +602,8 @@
       }
     },
     "sidebarLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": 20,
       "padding": {
         "bottom": 10,
@@ -784,16 +623,16 @@
       }
     },
     "singleBlockContainerLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
         "bottom": 10,
         "top": 20
       }
     },
     "smallMarginAboveLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
         "top": 2
       }
@@ -803,8 +642,8 @@
       "minimumWidth": 5
     },
     "spacerLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
         "bottom": 10,
         "top": 20
@@ -817,15 +656,15 @@
       "maximumWidth": 100
     },
     "straplineLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
         "top": 10
       }
     },
     "titleLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
         "top": 5
       }
@@ -834,6 +673,19 @@
       "//": "UNUSED"
     },
     "youSaidContainerLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 500
+            }
+          ],
+          "padding": {
+            "left": "20cw",
+            "right": "20cw"
+          }
+        }
+      ],
       "margin": {
         "bottom": 10,
         "top": 20
@@ -843,7 +695,8 @@
       "horizontalContentAlignment": "center",
       "margin": {
         "bottom": 10
-      }
+      },
+      "maximumContentWidth": 110
     }
   },
   "componentStyles": {
@@ -859,8 +712,16 @@
     "calloutStyle": {
       "border": {
         "all": {
-          "width": 4,
-          "color": "#FF7E19"
+          "color": "#000",
+          "width": 3
+        }
+      }
+    },
+    "calloutStyle2": {
+      "border": {
+        "all": {
+          "color": "#feaa26",
+          "width": 4
         }
       }
     },
@@ -913,7 +774,28 @@
       ]
     },
     "dividerStandardStyle": {
-      "backgroundColor": "#000"
+      "fill": {
+        "fillMode": "fit",
+        "type": "image",
+        "horizontalAlignment": "left",
+        "URL": "https://public-assets-dev.meredithcorp.io/c9ac08dffda87c9b20c0ffa6dc6a8cb5/slash.PNG"
+      },
+      "conditional": [
+        {
+          "fill": {
+            "fillMode": "fit",
+            "type": "image",
+            "horizontalAlignment": "left",
+            "URL": "https://public-assets.meredithcorp.io/2c69e97bf1ef728ebd2a0eac481691a8/slash-white.png"
+          },
+          "conditions": [
+            {
+              "preferredColorScheme": "dark",
+              "minSpecVersion": "1.14"
+            }
+          ]
+        }
+      ]
     },
     "dividerTocStyle": {
       "//": "UNUSED"
@@ -1005,52 +887,6 @@
     "pullQuoteStyle": {
       "//": "UNUSED"
     },
-    "sectionStyle": {
-      "//": "UNUSED"
-    },
-    "sidebarNoBackgroundStyle": {
-      "border": {
-        "all": {
-          "width": 2,
-          "color": "#000"
-        }
-      }
-    },
-    "sidebarStyle": {
-      "conditional": [
-        {
-          "backgroundColor": "#828282",
-          "conditions": [
-            {
-              "preferredColorScheme": "dark",
-              "minSpecVersion": "1.14"
-            }
-          ]
-        }
-      ],
-      "backgroundColor": "#f2f2f2"
-    },
-    "straplineStyle": {
-      "//": "UNUSED"
-    },
-    "titleStyle": {
-      "//": "UNUSED"
-    },
-    "youSaidImageStyle": {
-      "backgroundColor": "#008080",
-      "mask": {
-        "type": "corners",
-        "radius": "60cw"
-      }
-    },
-    "calloutStyle2": {
-      "border": {
-        "all": {
-          "color": "#feaa26",
-          "width": 4
-        }
-      }
-    },
     "reviewFiveStarsStyle": {
       "conditional": [
         {
@@ -1134,6 +970,116 @@
         "verticalAlignment": "top",
         "width": 80
       }
+    },
+    "sectionStyle": {
+      "//": "UNUSED"
+    },
+    "sidebarNoBackgroundStyle": {
+      "border": {
+        "all": {
+          "color": "#000",
+          "width": 2
+        }
+      }
+    },
+    "sidebarStyle": {
+      "backgroundColor": "#f3f3f3",
+      "conditional": [
+        {
+          "backgroundColor": "#f3f3f3",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "straplineStyle": {
+      "//": "UNUSED"
+    },
+    "titleStyle": {
+      "//": "UNUSED"
+    },
+    "youSaidImageStyle": {
+      "backgroundColor": "#008080",
+      "mask": {
+        "radius": "60cw",
+        "type": "corners"
+      }
+    },
+    "dividerNewStyle": {
+      "fill": {
+        "fillMode": "fit",
+        "type": "image",
+        "horizontalAlignment": "left",
+        "URL": "https://public-assets-dev.meredithcorp.io/c9ac08dffda87c9b20c0ffa6dc6a8cb5/slash.PNG"
+      },
+      "conditional": [
+        {
+          "fill": {
+            "fillMode": "fit",
+            "type": "image",
+            "horizontalAlignment": "left",
+            "URL": "https://public-assets.meredithcorp.io/2c69e97bf1ef728ebd2a0eac481691a8/slash-white.png"
+          },
+          "conditions": [
+            {
+              "preferredColorScheme": "dark",
+              "minSpecVersion": "1.14"
+            }
+          ]
+        }
+      ]
+    },
+    "dividerStandardStyle2": {
+      "fill": {
+        "fillMode": "fit",
+        "type": "image",
+        "horizontalAlignment": "center",
+        "URL": "https://public-assets-dev.meredithcorp.io/c9ac08dffda87c9b20c0ffa6dc6a8cb5/slash.PNG"
+      },
+      "conditional": [
+        {
+          "fill": {
+            "fillMode": "fit",
+            "type": "image",
+            "horizontalAlignment": "center",
+            "URL": "https://public-assets.meredithcorp.io/2c69e97bf1ef728ebd2a0eac481691a8/slash-white.png"
+          },
+          "conditions": [
+            {
+              "preferredColorScheme": "dark",
+              "minSpecVersion": "1.14"
+            }
+          ]
+        }
+      ]
+    },
+    "logoStyle": {
+      "fill": {
+        "fillMode": "fit",
+        "type": "image",
+        "horizontalAlignment": "center",
+        "URL": "https://public-assets.meredithcorp.io/38f1c3a6bbd26fd0497651e248a4bcfe/logo.jpg"
+      },
+      "conditional": [
+        {
+          "fill": {
+            "fillMode": "fit",
+            "type": "image",
+            "horizontalAlignment": "center",
+            "URL": "https://public-assets.meredithcorp.io/17dc434c6a54105cf7e243c6833d700f/T&L_logo_DM.jpg"
+          },
+          "conditions": [
+            {
+              "preferredColorScheme": "dark",
+              "minSpecVersion": "1.14"
+            }
+          ]
+        }
+      ]
     }
   },
   "textStyles": {
@@ -1147,25 +1093,37 @@
       "fontName": "GothamNarrow-Bold"
     },
     "default-tag-caption-heading": {
-      "fontSize": 15,
-      "fontName": "Gotham-Black"
+      "fontName": "GrifoS-Bold",
+      "textTransform": "uppercase"
+    },
+    "default-tag-caption-i": {
+      "fontName": "Gotham-Book"
     },
     "default-tag-emoji": {
       "fontName": "AppleColorEmoji"
     },
     "default-tag-lede": {
-      "fontName": "GothamNarrow-Bold",
-      "tracking": 0.02
+      "fontName": "SharpGroteskBook18",
+      "fontSize": 16,
+      "tracking": 0.1,
+      "textTransform": "uppercase"
+    },
+    "default-tag-m": {
+      "fontName": "Gotham-Medium"
+    },
+    "default-tag-mi": {
+      "fontName": "Gotham-MediumItalic"
+    },
+    "default-tag-nm": {
+      "fontName": "GothamNarrow-Medium",
+      "fontSize": 17,
+      "lineHeight": 21
     },
     "default-tag-pullquote-attribution": {
-      "fontName": "GothamCondensed-Medium",
-      "fontSize": 18,
-      "textAlignment": "center",
-      "textTransform": "uppercase",
-      "tracking": 0.05
+      "fontSize": 15
     },
     "default-tag-sidebar-lede": {
-      "fontName": "GothamNarrow-Bold"
+      "fontName": "SharpGroteskSmBold23"
     },
     "default-tag-subsection": {
       "fontName": "Gotham-Light"
@@ -1176,14 +1134,30 @@
     "subSectionTextStyle": {
       "//": "UNUSED"
     },
-    "default-tag-m": {
-      "fontName": "Gotham-Medium"
+    "default-tag-b-25": {
+      "fontName": "SharpGroteskBold25"
     },
-    "default-tag-mi": {
-      "fontName": "Gotham-MediumItalic"
+    "default-tag-b-23": {
+      "fontName": "SharpGroteskSmBold23"
     },
-    "default-tag-caption-i": {
-      "fontName": "Gotham-Book"
+    "default-tag-mi-20": {
+      "fontName": "SharpGroteskMediumItalic20"
+    },
+    "default-tag-caption-regular": {
+      "fontName": "GrifoS-Medium"
+    },
+    "default-tag-uc": {
+      "textTransform": "uppercase"
+    },
+    "default-tag-intro-name": {
+      "fontName": "GrifoS-Bold"
+    },
+    "default-tag-body-bold": {
+      "fontName": "SharpGroteskSmBold23",
+      "fontSize": 16
+    },
+    "default-tag-sidebar-italic": {
+      "fontName": "SharpGroteskMediumItalic20"
     }
   },
   "componentTextStyles": {
@@ -1191,99 +1165,89 @@
       "//": "================ ALL RECIPES OVERRIDES ================"
     },
     "attributeTextStyle": {
-      "fontName": "GothamNarrow-Book",
+      "fontName": "Flama-Light",
       "fontSize": 10,
-      "textTransform": "uppercase",
       "lineHeight": 12,
-      "tracking": 0.05
+      "tracking": 0.05,
+      "textTransform": "uppercase"
     },
     "authorTextStyle": {
-      "fontName": "Gotham-Light",
-      "tracking": 0.1
+      "fontName": "GrifoS-Bold"
     },
     "bodyCenteredTextStyle": {
+      "fontName": "GrifoS-Regular",
       "textAlignment": "center"
     },
     "bodyDropCapTextStyle": {
-      "tracking": 0.02,
       "dropCapStyle": {
-        "fontName": "GothamNarrow-ThinItalic",
-        "numberOfLines": 4,
-        "numberOfRaisedLines": 0,
-        "numberOfCharacters": 1
-      }
+        "fontName": "Loggia-Regular",
+        "numberOfCharacters": 1,
+        "numberOfLines": 4
+      },
+      "fontName": "GrifoS-Regular"
     },
     "bodyTextStyle": {
-      "tracking": 0.02
+      "fontName": "GrifoS-Regular"
     },
     "calloutBodyTextStyle": {
-      "fontSize": 15,
-      "lineHeight": 19,
-      "textAlignment": "center",
-      "linkStyle": {
-        "fontName": "GothamNarrow-Bold",
-        "textColor": "#000",
-        "underline": true
-      }
+      "fontSize": 16,
+      "lineHeight": 20,
+      "textAlignment": "center"
     },
     "calloutHeadingTextStyle": {
-      "fontName": "Harrietv2Display-Bold",
-      "fontSize": 28,
-      "lineHeight": 30,
-      "textAlignment": "center"
+      "fontName": "SharpGroteskSmBold23",
+      "fontSize": 19,
+      "lineHeight": 21,
+      "textAlignment": "center",
+      "textTransform": "uppercase"
     },
     "captionAdTextStyle": {
       "//": "UNUSED"
     },
     "captionCenteredTextStyle": {
-      "textAlignment": "center"
+      "linkStyle": {
+        "fontName": "GrifoS-Medium",
+        "textColor": "#366a9b"
+      },
+      "textAlignment": "center",
+      "fontName": "GrifoS-MediumItalic"
     },
     "captionEmbeddedTextStyle": {
       "fontName": "HelveticaNeue",
       "lineHeight": 16
     },
     "captionTextStyle": {
-      "fontName": "Gotham-BookItalic",
-      "tracking": 0.02,
       "linkStyle": {
-        "fontName": "GothamNarrow-Bold",
-        "textColor": "#000",
-        "underline": true
-      }
+        "fontName": "GrifoS-Medium",
+        "textColor": "#366a9b"
+      },
+      "fontName": "GrifoS-MediumItalic"
     },
     "default": {
-      "fontName": "GothamNarrow-Book",
-      "textColor": "#000",
+      "fontName": "GrifoS-Regular",
+      "hyphenation": false,
       "linkStyle": {
-        "fontName": "GothamNarrow-Bold",
-        "textColor": "#000",
-        "underline": true
+        "textColor": "#366a9b"
       },
-      "hyphenation": false
+      "textColor": "#221E1F"
     },
     "default-author": {
-      "fontName": "Avenir-Book",
-      "fontSize": 14,
-      "lineHeight": 16
+      "fontSize": 24,
+      "lineHeight": 26,
+      "tracking": -0.01
     },
     "default-body": {
-      "fontSize": 16,
-      "lineHeight": 20,
-      "paragraphSpacingBefore": 12,
+      "fontSize": 18,
+      "lineHeight": 22,
       "paragraphSpacingAfter": 12,
-      "linkStyle": {
-        "fontName": "GothamNarrow-Bold",
-        "textColor": "#000",
-        "underline": true
-      }
+      "paragraphSpacingBefore": 12
     },
     "default-byline": {
       "//": "UNUSED"
     },
     "default-caption": {
-      "fontName": "Avenir-Book",
       "fontSize": 14,
-      "lineHeight": 16
+      "lineHeight": 17
     },
     "default-heading": {
       "fontSize": 16,
@@ -1298,8 +1262,6 @@
       "lineHeight": 34
     },
     "default-heading4": {
-      "fontSize": 28,
-      "lineHeight": 30,
       "conditional": [
         {
           "conditions": [
@@ -1310,7 +1272,9 @@
           "fontSize": 24,
           "lineHeight": 26
         }
-      ]
+      ],
+      "fontSize": 28,
+      "lineHeight": 30
     },
     "default-heading5": {
       "fontSize": 17,
@@ -1321,9 +1285,9 @@
       "lineHeight": 20
     },
     "default-intro": {
-      "fontName": "Avenir-Book",
-      "fontSize": 20,
-      "lineHeight": 24
+      "fontSize": 24,
+      "lineHeight": 26,
+      "tracking": -0.01
     },
     "default-photographer": {
       "//": "UNUSED"
@@ -1338,60 +1302,126 @@
       "lineHeight": 59
     },
     "floatImageCaptionTextStyle": {
-      "fontName": "Gotham-BookItalic",
-      "tracking": 0.02
+      "fontName": "GrifoS-Italic"
     },
     "heading2CenteredTextStyle": {
-      "textAlignment": "center"
+      "fontName": "SharpGroteskSmBold23",
+      "textAlignment": "center",
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 500
+            }
+          ],
+          "fontSize": 30,
+          "lineHeight": 32
+        }
+      ],
+      "fontSize": 38,
+      "lineHeight": 40
     },
     "heading2TextStyle": {
-      "fontName": "GothamXNarrow-Ultra",
-      "tracking": 0.11,
-      "textTransform": "uppercase"
+      "fontName": "SharpGroteskSmBold23",
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 500
+            }
+          ],
+          "fontSize": 30,
+          "lineHeight": 32
+        }
+      ],
+      "fontSize": 38,
+      "lineHeight": 40
     },
     "heading3CenteredTextStyle": {
-      "textAlignment": "center"
+      "fontName": "SharpGroteskMedium20",
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 500
+            }
+          ],
+          "fontSize": 26,
+          "lineHeight": 28
+        }
+      ],
+      "fontSize": 32,
+      "lineHeight": 34
     },
     "heading3TextStyle": {
-      "fontName": "Gotham-Black"
+      "fontName": "SharpGroteskMedium20",
+      "textTransform": "uppercase",
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 500
+            }
+          ],
+          "fontSize": 26,
+          "lineHeight": 28
+        }
+      ],
+      "fontSize": 32,
+      "lineHeight": 34
     },
     "heading4CenteredTextStyle": {
-      "textAlignment": "center"
+      "fontName": "SharpGroteskSmBold23",
+      "fontSize": 21,
+      "textAlignment": "center",
+      "lineHeight": 23
     },
     "heading4TextStyle": {
-      "fontName": "GothamXNarrow-Ultra",
-      "tracking": 0.12,
-      "textTransform": "uppercase"
+      "fontName": "SharpGroteskSmBold23",
+      "fontSize": 21,
+      "lineHeight": 23
     },
     "heading5CenteredTextStyle": {
-      "fontName": "Gotham-Bold",
-      "tracking": 0.02,
+      "fontName": "SharpGroteskMedium20",
+      "fontSize": 18,
       "textTransform": "uppercase",
-      "textAlignment": "center"
+      "textAlignment": "center",
+      "lineHeight": 20
     },
     "heading5TextStyle": {
-      "fontName": "Gotham-Bold",
-      "tracking": 0.02,
-      "textTransform": "uppercase"
+      "fontName": "SharpGroteskMedium20",
+      "fontSize": 18,
+      "textTransform": "uppercase",
+      "lineHeight": 20
     },
     "heading6CenteredTextStyle": {
-      "textAlignment": "center"
+      "fontName": "SharpGroteskSmBold23",
+      "fontSize": 16,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "lineHeight": 20
     },
     "heading6TextStyle": {
-      "fontName": "GothamXNarrow-Black",
-      "tracking": 0.04
+      "fontName": "SharpGroteskSmBold23",
+      "fontSize": 16,
+      "textTransform": "uppercase",
+      "lineHeight": 20
     },
     "ingredientsTextStyle": {
       "fontName": "GothamNarrow-Book",
       "lineHeight": 24
     },
     "introTextStyle": {
-      "fontName": "Gotham-Book",
-      "tracking": 0.03
+      "fontName": "GrifoS-Regular"
     },
     "pullQuoteTextStyle": {
-      "fontName": "GothamCondensed-LightItalic",
-      "textAlignment": "center"
+      "fontName": "SharpGroteskMedium20",
+      "fontSize": 26,
+      "textTransform": "uppercase",
+      "textAlignment": "center",
+      "lineHeight": 30
     },
     "recipeDetailsTextStyle": {
       "fontName": "GothamNarrow-Book",
@@ -1425,46 +1455,55 @@
       "textTransform": "uppercase"
     },
     "sectionTextStyle": {
-      "fontName": "Gotham-Ultra",
-      "fontSize": 14,
-      "tracking": 0.1
+      "fontName": "Loggia-SemiBold",
+      "fontSize": 20,
+      "lineHeight": 24,
+      "textTransform": "uppercase",
+      "tracking": 0.2
     },
     "sidebarBodyTextStyle": {
-      "fontName": "GothamNarrow-Book"
+      "fontName": "SharpGroteskBook18",
+      "fontSize": 15,
+      "lineHeight": 20
     },
     "sidebarHeading2TextStyle": {
-      "fontName": "Harrietv2Display-Bold",
-      "tracking": 0.02
+      "fontName": "SharpGroteskMedium20",
+      "fontSize": 40,
+      "lineHeight": 47,
+      "textTransform": "uppercase",
+      "tracking": 0.03
     },
     "sidebarHeading3TextStyle": {
-      "fontName": "GothamXNarrow-Bold",
-      "tracking": 0.09,
-      "fontSize": 28,
-      "lineHeight": 30,
-      "textTransform": "uppercase"
+      "fontName": "SharpGroteskSmBold23",
+      "fontSize": 18,
+      "lineHeight": 20,
+      "textTransform": "uppercase",
+      "tracking": 0.01
     },
     "sidebarHeading4TextStyle": {
-      "fontName": "GothamXNarrow-Bold",
-      "tracking": 0.02,
-      "fontSize": 24,
-      "lineHeight": 26
+      "fontName": "SharpGroteskMedium20",
+      "fontSize": 16,
+      "lineHeight": 18,
+      "underline": true
     },
     "sidebarIntroTextStyle": {
       "fontName": "GothamNarrow-Medium"
     },
     "straplineTextStyle": {
-      "fontName": "Gotham-Ultra",
-      "tracking": 0.15
+      "fontName": "SharpGroteskBook18",
+      "tracking": 0.1,
+      "fontSize": 15,
+      "lineHeight": 15,
+      "textTransform": "uppercase"
     },
     "titleTextStyle": {
-      "fontName": "GothamCondensed-Black",
-      "tracking": 0.03,
-      "textTransform": "uppercase"
+      "//": "UNUSED"
     },
     "tocTextStyle": {
       "fontName": "AvenirNextCondensed-Medium",
       "fontSize": 16,
       "linkStyle": {
+        "fontName": "AvenirNextCondensed-Medium",
         "underline": true
       },
       "textAlignment": "center",
@@ -1475,6 +1514,111 @@
       "fontSize": 22,
       "lineHeight": 24,
       "textAlignment": "center"
+    },
+    "authorCenteredTextStyle": {
+      "fontName": "GrifoS-Bold",
+      "textAlignment": "center"
+    },
+    "articleNameTextStyle": {
+      "fontName": "GrifoS-Regular",
+      "fontSize": 55,
+      "lineHeight": 57,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "underline": true
+    },
+    "articleSubsectionTextStyle": {
+      "fontName": "SharpGroteskSmBold23",
+      "fontSize": 38,
+      "lineHeight": 40,
+      "textAlignment": "center",
+      "textTransform": "uppercase"
+    },
+    "straplineCenteredTextStyle": {
+      "fontName": "SharpGroteskBook18",
+      "fontSize": 15,
+      "lineHeight": 15,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.1
+    },
+    "introCenteredTextStyle": {
+      "fontName": "GrifoS-Regular",
+      "textAlignment": "center"
+    },
+    "titleDiscoveriesTextStyle": {
+      "fontName": "GrifoS-Light",
+      "fontSize": 68,
+      "lineHeight": 68
+    },
+    "titleExperiencesTextStyle": {
+      "fontName": "SharpGroteskMedium20",
+      "fontSize": 55,
+      "lineHeight": 55
+    },
+    "titleEditorsLetterTextStyle": {
+      "fontName": "Mr.BanksStencil-Bold",
+      "fontSize": 44,
+      "lineHeight": 50,
+      "textAlignment": "center"
+    },
+    "titleIntelligentTravelerTextStyle": {
+      "fontName": "Mr.BanksStencil-Bold",
+      "fontSize": 55,
+      "lineHeight": 55
+    },
+    "sidebarBodyCenteredTextStyle": {
+      "fontName": "SharpGroteskBook18",
+      "fontSize": 15,
+      "textAlignment": "center",
+      "lineHeight": 20
+    },
+    "sidebarByTheNumbersTextStyle": {
+      "fontName": "Mr.BanksStencil-Bold",
+      "fontSize": 60,
+      "lineHeight": 65,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.03
+    },
+    "sidebarAuthorTextStyle": {
+      "fontName": "SharpGroteskMedium20",
+      "fontSize": 16,
+      "lineHeight": 24,
+      "textAlignment": "left",
+      "textTransform": "uppercase",
+      "tracking": 0.1
+    },
+    "sidebarHeading2CenteredTextStyle": {
+      "fontName": "SharpGroteskMedium20",
+      "fontSize": 40,
+      "lineHeight": 47,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.03
+    },
+    "sidebarHeading2TextStyleQuoteTitle": {
+      "fontName": "SharpGroteskSmBold23",
+      "fontSize": 25,
+      "lineHeight": 27,
+      "textTransform": "uppercase",
+      "tracking": 0.03,
+      "textAlignment": "center"
+    },
+    "sidebarHeading3TextStyleQuoteLabel": {
+      "fontName": "SharpGroteskSmBold23",
+      "fontSize": 18,
+      "lineHeight": 20,
+      "textAlignment": "center",
+      "tracking": 0.01
+    },
+    "locationSubHeaderTextStyle": {
+      "fontName": "AvenirNextCondensed-UltraLight",
+      "fontSize": 40,
+      "lineHeight": 42,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "textColor": "#111"
     }
   }
 }

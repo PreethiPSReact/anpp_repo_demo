@@ -1,0 +1,1200 @@
+{
+  "version": "1.9",
+  "identifier": "life_article_5390-173-6-1",
+  "title": "Candle in the Wind",
+  "language": "en",
+  "layout": {
+    "columns": 20,
+    "gutter": 20,
+    "margin": 40,
+    "width": 1024
+  },
+  "metadata": {
+    "dateCreated": "2022-06-23T18:54:25.841Z",
+    "dateModified": "2022-06-07T15:28:31+00:00",
+    "generatorName": "ANTE Generic Template",
+    "generatorVersion": "0.0.4.33-2022-06-09 18:32",
+    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/1931girlpor_018/128428-1-eng-US/1931girlpor_0182.jpg?q=100"
+  },
+  "documentStyle": {
+    "backgroundColor": "#eee"
+  },
+  "components": [
+    {
+      "role": "container",
+      "layout": {
+        "conditional": [
+          {
+            "conditions": [
+              {
+                "platform": "ios"
+              }
+            ],
+            "ignoreViewportPadding": true
+          },
+          {
+            "conditions": [
+              {
+                "maxViewportWidth": 1366,
+                "minViewportWidth": 1112
+              }
+            ],
+            "ignoreDocumentMargin": "none",
+            "ignoreViewportPadding": "none"
+          }
+        ],
+        "ignoreDocumentMargin": true
+      },
+      "style": {
+        "backgroundColor": "#fff"
+      },
+      "components": [
+        {
+          "//": "==== DEFAULT HEADER: SECTION ===",
+          "role": "heading",
+          "layout": "sectionLayout",
+          "textStyle": "sectionTextStyle",
+          "format": "html",
+          "text": "<b>MARILYN</b> 60 years later"
+        },
+        {
+          "role": "container",
+          "layout": "dividerLayout",
+          "style": "dividerSectionHeadStyle"
+        },
+        {
+          "//": "==== DEFAULT HEADER: TITLE ===",
+          "role": "title",
+          "layout": "titleLayout",
+          "textStyle": "titleTextStyle",
+          "format": "html",
+          "text": "Candle <i>in the</i> Wind"
+        },
+        {
+          "//": "======== HERO IMAGE CONTAINER =======",
+          "role": "container",
+          "layout": "heroImageLayout",
+          "components": [
+            {
+              "//": "======== HERO IMAGE - H3255.0/W2392.0 * 100 = 136.0785953 ========",
+              "role": "photo",
+              "layout": "fullBleedPhotoLayout",
+              "caption": {
+                "format": "html",
+                "text": "Born Norma Jeane Mortensen and baptized Norma Jeane Baker, the future film star is already lovely as a five-year-old girl in 1931.",
+                "textStyle": "captionEmbeddedTextStyle"
+              },
+              "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/1931girlpor_018/128428-1-eng-US/1931girlpor_0182.jpg?q=100"
+            },
+            {
+              "role": "caption",
+              "layout": "captionLayout",
+              "style": "captionStyle",
+              "textStyle": "captionTextStyle",
+              "format": "html",
+              "text": "Born Norma Jeane Mortensen and baptized Norma Jeane Baker, the future film star is already lovely as a five-year-old girl in 1931."
+            }
+          ]
+        },
+        {
+          "//": "======== BODY CONTAINER =======",
+          "role": "container",
+          "layout": "bodyContainerLayout",
+          "components": [
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1747.0/W2572.0 * 100 = 67.9237947 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "caption": {
+                    "format": "html",
+                    "text": "Norma Jeane plays on a California beach with her mother, Gladys, circa 1929. By this time the toddler is already living with a foster family and seeing Gladys only on occasion.",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/1929beachwm_019/128421-1-eng-US/1929beachwm_0192.jpg?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "style": "captionStyle",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "Norma Jeane plays on a California beach with her mother, Gladys, circa 1929. By this time the toddler is already living with a foster family and seeing Gladys only on occasion."
+                }
+              ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1788.0/W2634.0 * 100 = 67.881549 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "caption": {
+                    "format": "html",
+                    "text": "Circa 1938, Norma Jeane is about to enter her teens. The woman just behind her is Ana Lower, a family friend who helped raise her and was, Marilyn Monroe would later say, the first maternal figure to show her real love.",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/1938teenand_020/128414-1-eng-US/1938teenand_0202.jpg?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "style": "captionStyle",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "Circa 1938, Norma Jeane is about to enter her teens. The woman just behind her is Ana Lower, a family friend who helped raise her and was, Marilyn Monroe would later say, the first maternal figure to show her real love."
+                }
+              ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1821.0/W2682.0 * 100 = 67.8970917 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "caption": {
+                    "format": "html",
+                    "text": "Monroe (seen with Robert Karnes and Colleen Townsend) is now a blonde in her movie debut, the 1948 comedy<i> Scudda Hoo! Scudda Hay! </i>She has a bit part—she plays a girl leaving church—and this canoe scene was cut from the film.",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/1948scuddah_021/128407-1-eng-US/1948scuddah_0212.jpg?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "style": "captionStyle",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "Monroe (seen with Robert Karnes and Colleen Townsend) is now a blonde in her movie debut, the 1948 comedy<i> Scudda Hoo! Scudda Hay! </i>She has a bit part—she plays a girl leaving church—and this canoe scene was cut from the film."
+                }
+              ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1649.0/W2428.0 * 100 = 67.9159802 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "caption": {
+                    "format": "html",
+                    "text": "In 1952, Monroe was one of six up-and-coming actors to be awarded a “Henrietta” trophy at a foreign press association dinner at the Del Mar Club in Santa Monica. The other winners included Leslie Caron, Tony Curtis and Mitzi Gaynor.",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/19521566593_022/128400-1-eng-US/19521566593_0222.jpg?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "style": "captionStyle",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "In 1952, Monroe was one of six up-and-coming actors to be awarded a “Henrietta” trophy at a foreign press association dinner at the Del Mar Club in Santa Monica. The other winners included Leslie Caron, Tony Curtis and Mitzi Gaynor."
+                }
+              ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1649.0/W2428.0 * 100 = 67.9159802 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "caption": {
+                    "format": "html",
+                    "text": "In 1953, the actress poses on the patio of her Hollywood home for the camera of famed LIFE photographer Alfred Eisenstaedt.",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/marilynelsi_023/128393-1-eng-US/marilynelsi_0232.jpg?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "style": "captionStyle",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "In 1953, the actress poses on the patio of her Hollywood home for the camera of famed LIFE photographer Alfred Eisenstaedt."
+                }
+              ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1388.0/W2044.0 * 100 = 67.9060665 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "caption": {
+                    "format": "html",
+                    "text": "Playwright Arthur Miller embraces Monroe, his new wife, in the summer of 1956.",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/1956withmil_024/128386-1-eng-US/1956withmil_0242.jpg?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "style": "captionStyle",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "Playwright Arthur Miller embraces Monroe, his new wife, in the summer of 1956."
+                }
+              ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1821.0/W2682.0 * 100 = 67.8970917 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "caption": {
+                    "format": "html",
+                    "text": "Monroe relaxes on the Nevada set of<i> The Misfits </i>in 1960. She costarred in the drama with Clark Gable. It was the last completed film for both of them.",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/sweep_misfi_025/128379-1-eng-US/sweep_misfi_0252.jpg?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "style": "captionStyle",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "Monroe relaxes on the Nevada set of<i> The Misfits </i>in 1960. She costarred in the drama with Clark Gable. It was the last completed film for both of them."
+                }
+              ]
+            },
+            {
+              "role": "body",
+              "layout": "attributeLayout",
+              "style": "attributeStyle",
+              "textStyle": "attributeTextStyle",
+              "format": "html",
+              "text": "HULTON/GETTY; SILVER SCREEN COLLECTION/HULTON/GETTY(2); SNAP/SHUTTERSTOCK; LOOMIS DEAN/THE LIFE PICTURE COLLECTION/SHUTTERSTOCK; ALFRED EISENSTAEDT/THE LIFE PICTURE COLLECTION/SHUTTERSTOCK; KEN HEYMAN; EVE ARNOLD/MAGNUM"
+            }
+          ]
+        },
+        {
+          "role": "container",
+          "layout": "bodyContainerLayout",
+          "conditional": [
+            {
+              "conditions": [
+                {
+                  "viewLocation": "article"
+                }
+              ],
+              "hidden": false
+            }
+          ],
+          "hidden": true,
+          "components": [
+            {
+              "role": "container",
+              "layout": "dividerLayout",
+              "style": "dividerSectionHeadStyle"
+            },
+            {
+              "//": "=== VISIT TOC LINK, ONLY VISIBLE IF USER IS IN ARTICLE VIEW ===",
+              "role": "body",
+              "layout": "bodyLayout",
+              "textStyle": "tocTextStyle",
+              "format": "html",
+              "text": "<a href='https://apple.news/AlyMoIfMREey7Rrp00ZE8qw'>Tap here</a> to see more from this issue of <i>LIFE</i>"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "componentLayouts": {
+    "attributeLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 15
+    },
+    "authorLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 5
+      }
+    },
+    "blockContainerLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "bodyContainerLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": 10
+    },
+    "bodyLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 10
+    },
+    "bodyNoMarginAboveLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10
+      }
+    },
+    "bottomPhotoDividerLayout": {
+      "//": "UNUSED"
+    },
+    "calloutBodyLayout": {
+      "margin": {
+        "bottom": 12,
+        "top": 12
+      }
+    },
+    "calloutHeadingLayout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "calloutLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "padding": {
+        "bottom": 10,
+        "left": 20,
+        "right": 20,
+        "top": 10
+      }
+    },
+    "captionAdLayout": {
+      "//": "UNUSED"
+    },
+    "captionLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 8,
+      "padding": {
+        "left": 15,
+        "right": 15
+      }
+    },
+    "chefImageLayout": {
+      "maximumWidth": 140,
+      "padding": {
+        "right": 15
+      }
+    },
+    "collectionLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "customAuthorLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10
+      }
+    },
+    "customHeaderTitleLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 12,
+      "padding": {
+        "left": "3cw",
+        "right": "3cw"
+      }
+    },
+    "darkModePaddingLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "padding": 10
+        }
+      ]
+    },
+    "dividerCollectionLayout": {
+      "//": "UNUSED"
+    },
+    "dividerLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 15,
+        "top": 10
+      }
+    },
+    "dividerStandardLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "minimumHeight": 1
+    },
+    "dividerTocLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 15,
+        "top": 20
+      },
+      "minimumHeight": 10
+    },
+    "floatContainerLayout": {
+      "columnSpan": 4,
+      "columnStart": 1,
+      "conditional": [
+        {
+          "columnSpan": 4,
+          "columnStart": 0,
+          "conditions": [
+            {
+              "maxViewportWidth": 415
+            }
+          ]
+        }
+      ]
+    },
+    "fullBleedContainerLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "fullBleedDividerLayout": {
+      "//": "UNUSED"
+    },
+    "fullBleedLayout": {
+      "ignoreDocumentMargin": true
+    },
+    "fullBleedPhotoLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 700
+            }
+          ],
+          "ignoreDocumentMargin": false
+        }
+      ],
+      "ignoreDocumentMargin": true
+    },
+    "galleryPhotoLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "heading2Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 20
+      }
+    },
+    "heading3Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading4Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading5Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading6Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 20
+      }
+    },
+    "headingNoMarginAboveLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 0
+      }
+    },
+    "heroImageLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 15
+      }
+    },
+    "heroImageTallLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 15
+      }
+    },
+    "ingredientsLayout": {
+      "margin": 8
+    },
+    "introLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10
+      }
+    },
+    "listLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 10,
+      "padding": {
+        "left": 10
+      }
+    },
+    "noMarginLayout": {
+      "margin": 0
+    },
+    "productImageStandardLayout": {
+      "minimumHeight": 280
+    },
+    "pullQuoteLayout": {
+      "columnSpan": 16,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 20,
+        "top": 20
+      }
+    },
+    "sectionLayout": {
+      "margin": {
+        "top": 5
+      }
+    },
+    "sidebarBodyLayout": {
+      "margin": {
+        "bottom": 12,
+        "top": 12
+      }
+    },
+    "sidebarDividerLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "minimumHeight": 1
+    },
+    "sidebarFloatContainerLayout": {
+      "columnSpan": 4,
+      "columnStart": 0
+    },
+    "sidebarHeading2Layout": {
+      "margin": {
+        "top": 20
+      }
+    },
+    "sidebarHeading3Layout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "sidebarHeading4Layout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "sidebarIntroLayout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "sidebarLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 20,
+      "padding": {
+        "bottom": 10,
+        "left": 25,
+        "right": 25
+      }
+    },
+    "sidebarSingleBlockContainerLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "sidebarSmallMarginAboveLayout": {
+      "margin": {
+        "top": 2
+      }
+    },
+    "signatureLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "conditional": [
+        {
+          "columnSpan": 20,
+          "columnStart": 0,
+          "conditions": [
+            {
+              "maxViewportWidth": 415
+            }
+          ]
+        }
+      ],
+      "horizontalContentAlignment": "left",
+      "margin": 10,
+      "maximumContentWidth": 100
+    },
+    "singleBlockContainerLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "smallMarginAboveLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 2
+      }
+    },
+    "spacerLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "straplineLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 1
+      }
+    },
+    "titleLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 2
+      }
+    },
+    "topPhotoDividerLayout": {
+      "//": "UNUSED"
+    }
+  },
+  "componentStyles": {
+    "attributeStyle": {
+      "//": "UNUSED"
+    },
+    "authorStyle": {
+      "//": "UNUSED"
+    },
+    "bodyContainerStyle": {
+      "//": "UNUSED"
+    },
+    "calloutStyle": {
+      "border": {
+        "all": {
+          "color": "#8d8d8d",
+          "width": 2
+        }
+      }
+    },
+    "captionAdStyle": {
+      "//": "UNUSED"
+    },
+    "captionStyle": {
+      "border": {
+        "all": {
+          "color": "#8d8d8d",
+          "width": 2
+        },
+        "bottom": false,
+        "left": true,
+        "right": false,
+        "top": false
+      }
+    },
+    "darkModeBackgroundStyle": {
+      "conditional": [
+        {
+          "backgroundColor": "#FFF",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "dividerSectionHeadStyle": {
+      "border": {
+        "all": {
+          "color": "#ececec",
+          "width": 1
+        },
+        "bottom": true,
+        "left": false,
+        "right": false,
+        "top": true
+      },
+      "conditional": [
+        {
+          "border": {
+            "all": {
+              "color": "#666666",
+              "width": 1
+            },
+            "bottom": true,
+            "left": false,
+            "right": false,
+            "top": true
+          },
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "dividerStandardStyle": {
+      "backgroundColor": "#000"
+    },
+    "dividerTocStyle": {
+      "//": "UNUSED"
+    },
+    "fullBleedContainerStyle": {
+      "//": "UNUSED"
+    },
+    "heading2Style": {
+      "//": "UNUSED"
+    },
+    "heading3Style": {
+      "//": "UNUSED"
+    },
+    "heading4Style": {
+      "//": "UNUSED"
+    },
+    "heading5Style": {
+      "//": "UNUSED"
+    },
+    "heading6Style": {
+      "//": "UNUSED"
+    },
+    "introStyle": {
+      "//": "UNUSED"
+    },
+    "paragraphDropCapStyle": {
+      "//": "UNUSED"
+    },
+    "paragraphStyle": {
+      "//": "UNUSED"
+    },
+    "photoContainerStyle": {
+      "//": "UNUSED"
+    },
+    "pullQuoteStyle": {
+      "//": "UNUSED"
+    },
+    "sectionStyle": {
+      "//": "UNUSED"
+    },
+    "sidebarNoBackgroundStyle": {
+      "border": {
+        "all": {
+          "color": "#f2f2f2",
+          "width": 2
+        }
+      }
+    },
+    "sidebarStyle": {
+      "backgroundColor": "#f2f2f2",
+      "conditional": [
+        {
+          "backgroundColor": "#f2f2f2",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "straplineStyle": {
+      "//": "UNUSED"
+    },
+    "titleStyle": {
+      "//": "UNUSED"
+    }
+  },
+  "textStyles": {
+    "creditTextStyle": {
+      "fontName": "AvenirNext-Medium",
+      "fontSize": 10,
+      "textColor": "#8d8d8d",
+      "textTransform": "uppercase",
+      "tracking": 0.1
+    },
+    "default-tag-caption-heading": {
+      "fontName": "AvenirNext-Bold",
+      "fontSize": 14,
+      "textTransform": "uppercase",
+      "tracking": 0.05
+    },
+    "default-tag-emoji": {
+      "fontName": "AppleColorEmoji"
+    },
+    "default-tag-lede": {
+      "fontName": "AvenirNext-Bold"
+    },
+    "default-tag-pullquote-attribution": {
+      "fontName": "Georgia-Bold",
+      "fontSize": 15,
+      "textTransform": "uppercase",
+      "tracking": 0.15
+    },
+    "default-tag-sidebar-lede": {
+      "fontName": "AvenirNext-Bold",
+      "fontSize": 16,
+      "textTransform": "uppercase",
+      "tracking": 0.05
+    },
+    "default-tag-sub-section": {
+      "fontName": "AvenirNext-Medium"
+    },
+    "endMarkerTextStyle": {
+      "//": "UNUSED"
+    },
+    "subSectionTextStyle": {
+      "//": "UNUSED"
+    }
+  },
+  "componentTextStyles": {
+    "//": {
+      "//": "===================== LIFE OVERRIDES ====================="
+    },
+    "attributeTextStyle": {
+      "fontName": "AvenirNext-Medium",
+      "fontSize": 10,
+      "lineHeight": 14,
+      "textColor": "#8d8d8d",
+      "textTransform": "uppercase",
+      "tracking": 0.1
+    },
+    "authorTextStyle": {
+      "fontName": "Georgia-Bold",
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.05
+    },
+    "bodyCenteredTextStyle": {
+      "fontName": "Georgia",
+      "textAlignment": "center"
+    },
+    "bodyDropCapTextStyle": {
+      "dropCapStyle": {
+        "fontName": "AvenirNext-Medium",
+        "numberOfCharacters": 1,
+        "numberOfLines": 4,
+        "numberOfRaisedLines": 0
+      },
+      "fontName": "Georgia"
+    },
+    "bodyTextStyle": {
+      "fontName": "Georgia"
+    },
+    "calloutBodyTextStyle": {
+      "fontName": "Georgia-Italic",
+      "fontSize": 22,
+      "lineHeight": 28,
+      "textAlignment": "center"
+    },
+    "calloutHeadingTextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "fontSize": 24,
+      "lineHeight": 28,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": -0.05
+    },
+    "captionAdTextStyle": {
+      "//": "UNUSED"
+    },
+    "captionCenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "captionEmbeddedTextStyle": {
+      "fontName": "HelveticaNeue-Bold",
+      "lineHeight": 16
+    },
+    "captionTextStyle": {
+      "fontName": "AvenirNext-Medium",
+      "textAlignment": "left"
+    },
+    "default": {
+      "fontName": "AvenirNext-Medium",
+      "hyphenation": false,
+      "linkStyle": {
+        "underline": true
+      },
+      "textColor": "#000"
+    },
+    "default-author": {
+      "fontSize": 15,
+      "lineHeight": 19
+    },
+    "default-body": {
+      "fontSize": 20,
+      "lineHeight": 26,
+      "paragraphSpacingAfter": 12,
+      "paragraphSpacingBefore": 12
+    },
+    "default-byline": {
+      "//": "UNUSED"
+    },
+    "default-caption": {
+      "fontName": "AvenirNext-Medium",
+      "fontSize": 15,
+      "lineHeight": 22
+    },
+    "default-heading": {
+      "fontSize": 16,
+      "lineHeight": 16
+    },
+    "default-heading2": {
+      "fontSize": 45,
+      "lineHeight": 50
+    },
+    "default-heading3": {
+      "fontSize": 24,
+      "lineHeight": 28
+    },
+    "default-heading4": {
+      "fontSize": 24,
+      "lineHeight": 28
+    },
+    "default-heading5": {
+      "fontSize": 22,
+      "lineHeight": 24
+    },
+    "default-heading6": {
+      "fontSize": 18,
+      "lineHeight": 20
+    },
+    "default-intro": {
+      "fontName": "Avenir-Book",
+      "fontSize": 18,
+      "lineHeight": 20
+    },
+    "default-photographer": {
+      "//": "UNUSED"
+    },
+    "default-pullquote": {
+      "fontSize": 30,
+      "lineHeight": 30
+    },
+    "default-title": {
+      "fontSize": 60,
+      "lineHeight": 66
+    },
+    "floatImageCaptionTextStyle": {
+      "fontName": "AvenirNext-Medium",
+      "textAlignment": "left"
+    },
+    "heading2CenteredTextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "textAlignment": "center"
+    },
+    "heading2TextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "tracking": -0.02
+    },
+    "heading3CenteredTextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": -0.05
+    },
+    "heading3TextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "textTransform": "uppercase",
+      "tracking": -0.05
+    },
+    "heading4CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading4TextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "tracking": -0.01
+    },
+    "heading5CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading5TextStyle": {
+      "fontName": "Georgia-BoldItalic"
+    },
+    "heading6CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading6TextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "tracking": 0.05
+    },
+    "introTextStyle": {
+      "fontName": "Georgia-Italic",
+      "textAlignment": "center"
+    },
+    "listTextStyle": {
+      "fontSize": 17,
+      "lineHeight": 21
+    },
+    "pullQuoteTextStyle": {
+      "fontName": "Georgia",
+      "textAlignment": "center"
+    },
+    "sectionTextStyle": {
+      "fontName": "AvenirNext-Regular",
+      "fontSize": 14,
+      "lineHeight": 16,
+      "textTransform": "uppercase",
+      "tracking": 0.05
+    },
+    "sidebarBodyCenteredTextStyle": {
+      "fontName": "AvenirNext-Medium",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "textAlignment": "center",
+      "tracking": 0.02
+    },
+    "sidebarBodyTextStyle": {
+      "fontName": "AvenirNext-Medium",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "tracking": 0.02
+    },
+    "sidebarHeading2CenteredTextStyle": {
+      "fontName": "Georgia-Bold",
+      "fontSize": 45,
+      "lineHeight": 50,
+      "textAlignment": "center"
+    },
+    "sidebarHeading2TextStyle": {
+      "fontName": "Georgia-Bold",
+      "fontSize": 45,
+      "lineHeight": 50
+    },
+    "sidebarHeading3CenteredTextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "fontSize": 24,
+      "lineHeight": 28,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": -0.05
+    },
+    "sidebarHeading3TextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "fontSize": 24,
+      "lineHeight": 28,
+      "textTransform": "uppercase",
+      "tracking": -0.05
+    },
+    "sidebarHeading4TextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "fontSize": 24,
+      "lineHeight": 28,
+      "tracking": -0.01
+    },
+    "sidebarHeadingCentered4TextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "fontSize": 24,
+      "lineHeight": 28,
+      "textAlignment": "center"
+    },
+    "sidebarIntroTextStyle": {
+      "fontName": "Georgia-Italic",
+      "fontSize": 20,
+      "lineHeight": 26
+    },
+    "straplineTextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.15
+    },
+    "subsectionIntroTextStyle": {
+      "fontName": "Georgia-Italic",
+      "fontSize": 20,
+      "lineHeight": 26,
+      "textAlignment": "left"
+    },
+    "titleTextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "textAlignment": "center"
+    },
+    "tocTextStyle": {
+      "fontName": "AvenirNextCondensed-Medium",
+      "fontSize": 16,
+      "linkStyle": {
+        "underline": true
+      },
+      "textAlignment": "center",
+      "textColor": "#000"
+    }
+  }
+}

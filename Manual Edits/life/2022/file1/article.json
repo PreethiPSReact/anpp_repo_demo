@@ -1,0 +1,2583 @@
+{
+  "version": "1.9",
+  "identifier": "alr_article_899-131-42-1",
+  "title": "PLANT IT",
+  "language": "en",
+  "layout": {
+    "columns": 20,
+    "gutter": 20,
+    "margin": 40,
+    "width": 1024
+  },
+  "subtitle": "<p><b><custom name=\"underline\">If you want to lean more into vegetarian eating, these simple veggie-based scrambles, pasta dishes, and a gooey grilled cheese are tasty ways to do it.</custom></b></p>",
+  "metadata": {
+    "dateCreated": "2022-06-21T16:54:23.325Z",
+    "dateModified": "2022-06-21T15:44:49+00:00",
+    "excerpt": "HANDS-ON 15 MIN",
+    "generatorName": "All-Recipes -- Recipe",
+    "generatorVersion": "0.0.4.33-2022-06-09 18:32",
+    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p042-043-alt102382-pesto-polenta-lasagna/199415-1-eng-GB/p042-043-alt102382-pesto-polenta-lasagna.jpg?q=100"
+  },
+  "missingData": [
+    {
+      "//": "======== SINGLE BLOCK CONTAINER ========",
+      "role": "container",
+      "layout": "singleBlockContainerLayout",
+      "components": [
+        {
+          "//": "======== IMAGE BLOCK - H120.0/W647.0 * 100 = 18.5471406 ========",
+          "role": "photo",
+          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0043-0129/198159-1-eng-GB/f0043-012.jpg?q=100"
+        }
+      ]
+    },
+    {
+      "role": "body",
+      "layout": "bodyLayout",
+      "style": "paragraphStyle",
+      "textStyle": "bodyTextStyle",
+      "format": "html",
+      "text": "304 REVIEWS"
+    },
+    {
+      "//": "======== SINGLE BLOCK CONTAINER ========",
+      "role": "container",
+      "layout": "singleBlockContainerLayout",
+      "components": [
+        {
+          "//": "======== IMAGE BLOCK - H120.0/W647.0 * 100 = 18.5471406 ========",
+          "role": "photo",
+          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0044-0136/198138-1-eng-GB/f0044-012.jpg?q=100"
+        }
+      ]
+    },
+    {
+      "role": "body",
+      "layout": "bodyLayout",
+      "style": "paragraphStyle",
+      "textStyle": "bodyTextStyle",
+      "format": "html",
+      "text": "6 REVIEWS"
+    },
+    {
+      "//": "======== SINGLE BLOCK CONTAINER ========",
+      "role": "container",
+      "layout": "singleBlockContainerLayout",
+      "components": [
+        {
+          "//": "======== IMAGE BLOCK - H120.0/W647.0 * 100 = 18.5471406 ========",
+          "role": "photo",
+          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0045-0142/198117-1-eng-GB/f0045-012.jpg?q=100"
+        }
+      ]
+    },
+    {
+      "role": "body",
+      "layout": "bodyLayout",
+      "style": "paragraphStyle",
+      "textStyle": "bodyTextStyle",
+      "format": "html",
+      "text": "18 REVIEWS"
+    },
+    {
+      "//": "======== SINGLE BLOCK CONTAINER ========",
+      "role": "container",
+      "layout": "singleBlockContainerLayout",
+      "components": [
+        {
+          "//": "======== IMAGE BLOCK - H120.0/W647.0 * 100 = 18.5471406 ========",
+          "role": "photo",
+          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0046-0141/198089-1-eng-GB/f0046-012.jpg?q=100"
+        }
+      ]
+    },
+    {
+      "role": "body",
+      "layout": "bodyLayout",
+      "style": "paragraphStyle",
+      "textStyle": "bodyTextStyle",
+      "format": "html",
+      "text": "14 REVIEWS"
+    },
+    {
+      "//": "======== SINGLE BLOCK CONTAINER ========",
+      "role": "container",
+      "layout": "singleBlockContainerLayout",
+      "components": [
+        {
+          "//": "======== IMAGE BLOCK - H120.0/W647.0 * 100 = 18.5471406 ========",
+          "role": "photo",
+          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0047-0130/198068-1-eng-GB/f0047-012.jpg?q=100"
+        }
+      ]
+    },
+    {
+      "role": "body",
+      "layout": "bodyLayout",
+      "style": "paragraphStyle",
+      "textStyle": "bodyTextStyle",
+      "format": "html",
+      "text": "268 REVIEWS"
+    },
+    {
+      "//": "======== SINGLE BLOCK CONTAINER ========",
+      "role": "container",
+      "layout": "singleBlockContainerLayout",
+      "components": [
+        {
+          "//": "======== IMAGE BLOCK - H120.0/W647.0 * 100 = 18.5471406 ========",
+          "role": "photo",
+          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0048-0139/198040-1-eng-GB/f0048-012.jpg?q=100"
+        }
+      ]
+    },
+    {
+      "role": "body",
+      "layout": "bodyLayout",
+      "style": "paragraphStyle",
+      "textStyle": "bodyTextStyle",
+      "format": "html",
+      "text": "358 REVIEWS"
+    },
+    {
+      "//": "======== SINGLE BLOCK CONTAINER ========",
+      "role": "container",
+      "layout": "singleBlockContainerLayout",
+      "components": [
+        {
+          "//": "======== IMAGE BLOCK - H120.0/W647.0 * 100 = 18.5471406 ========",
+          "role": "photo",
+          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0049-0135/198019-1-eng-GB/f0049-012.jpg?q=100"
+        }
+      ]
+    },
+    {
+      "role": "body",
+      "layout": "bodyLayout",
+      "style": "paragraphStyle",
+      "textStyle": "bodyTextStyle",
+      "format": "html",
+      "text": "4 REVIEWS"
+    }
+  ],
+  "documentStyle": {
+    "backgroundColor": "#eee"
+  },
+  "components": [
+    {
+      "role": "container",
+      "layout": {
+        "conditional": [
+          {
+            "conditions": [
+              {
+                "platform": "ios"
+              }
+            ],
+            "ignoreViewportPadding": true
+          },
+          {
+            "conditions": [
+              {
+                "maxViewportWidth": 1366,
+                "minViewportWidth": 1112
+              }
+            ],
+            "ignoreDocumentMargin": "none",
+            "ignoreViewportPadding": "none"
+          }
+        ],
+        "ignoreDocumentMargin": true
+      },
+      "style": {
+        "backgroundColor": "#fff"
+      },
+      "components": [
+        {
+          "//": "==== DEFAULT HEADER: SECTION ===",
+          "role": "heading",
+          "layout": "sectionLayout",
+          "textStyle": "sectionTextStyle",
+          "format": "html",
+          "text": "5-INGREDIENT RECIPES"
+        },
+        {
+          "role": "container",
+          "layout": "dividerLayout",
+          "style": "dividerSectionHeadStyle"
+        },
+        {
+          "//": "==== DEFAULT HEADER: TITLE ===",
+          "role": "title",
+          "layout": "titleLayout",
+          "textStyle": "titleTextStyle",
+          "format": "html",
+          "text": "Plant It"
+        },
+        {
+          "//": "==== DEFAULT HEADER: INTRO ===",
+          "role": "intro",
+          "layout": "introLayout",
+          "textStyle": "introTextStyle",
+          "format": "html",
+          "text": "If you want to lean more into vegetarian eating, these simple veggie-based scrambles, pasta dishes, and a gooey grilled cheese are tasty ways to do it."
+        },
+        {
+          "//": "======== HERO IMAGE CONTAINER =======",
+          "role": "container",
+          "layout": "heroImageLayout",
+          "components": [
+            {
+              "//": "======== HERO IMAGE - H1385.0/W1366.0 * 100 = 101.3909224 ========",
+              "role": "photo",
+              "layout": "fullBleedPhotoLayout",
+              "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p042-043-alt102382-pesto-polenta-lasagna/199415-1-eng-GB/p042-043-alt102382-pesto-polenta-lasagna.jpg?q=100"
+            }
+          ]
+        },
+        {
+          "//": "======== BEGIN RECIPES BODY CONTAINER =======",
+          "role": "container",
+          "layout": "bodyContainerLayout",
+          "style": "bodyContainerStyle",
+          "components": [
+            {
+              "role": "heading2",
+              "layout": "bodyLayout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Pesto-Polenta Lasagna"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "recipeDetailsTextStyle",
+              "format": "html",
+              "text": "<lede>HANDS-ON</lede> 15 MIN <lede>TOTAL</lede> 1 HR, 40 MIN <lede>SERVES</lede> 4 <br><lede>SUBMITTED BY</lede> FIFFEN"
+            },
+            {
+              "//": "====== REVIEWS ======",
+              "role": "container",
+              "layout": "bodyLayout",
+              "contentDisplay": {
+                "type": "horizontal_stack"
+              },
+              "components": [
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": true
+                    }
+                  ],
+                  "hidden": false,
+                  "URL": "https://public-assets.meredithcorp.io/4cadea6bc3bbdd6b0bdfab5abedfb66f/fourstars.jpg"
+                },
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": false
+                    }
+                  ],
+                  "hidden": true,
+                  "URL": "https://public-assets.meredithcorp.io/8e401d3520fc3b0bec1ecdf6f118edf3/fourstarsDM.png"
+                },
+                {
+                  "role": "container",
+                  "layout": "smallSpacerLayout"
+                },
+                {
+                  "role": "body",
+                  "layout": {
+                    "padding": {
+                      "top": 0
+                    }
+                  },
+                  "textStyle": "reviewsTextStyle",
+                  "format": "html",
+                  "text": "304 REVIEWS"
+                }
+              ]
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td>2</td><td>(16-oz.) refrigerated pkg. polenta, cut into ¼-inch slices</td></tr><tr><td>1</td><td>(24-oz.) jar marinara sauce (2⅔ cups)</td></tr><tr><td>1</td><td>(6.3-oz.) jar pesto (about ¾ cup)</td></tr><tr><td>1</td><td>cup shredded mozzarella cheese (4 oz.)</td></tr><tr><td>¼</td><td>cup toasted pine nuts</td></tr></table>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>1.</lede> Preheat broiler. Line 2 baking sheets with foil and coat with cooking spray."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>2.</lede> Arrange polenta slices in a single layer on prepared baking sheets, then spray with cooking spray. Broil, 1 sheet at a time, 4 to 5 inches from heat, until lightly browned, about 4 minutes per side."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>3.</lede> Preheat oven to 375°F. Grease a 5x9-inch loaf pan or dish and line with a single layer of polenta slices. Spread on ⅔ cup marinara and 3 Tbsp. pesto. Repeat layers 3 times, ending with pesto."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>4.</lede> Bake until heated through, about 45 minutes. Top with mozzarella and pine nuts; bake until cheese melts, about 5 minutes more. (Lasagna can be assembled and chilled, covered, several hours before baking. Let stand at room temperature 30 minutes before baking.)"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede><i><a href=\"http://armagazine.com/pesto-polenta-lasagna\">armagazine.com/pesto-polenta-lasagna</a></i></lede>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b><i>VEGETARIAN</i></b> | <b><i>GLUTEN-FREE</i></b>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "attributeTextStyle",
+              "format": "html",
+              "text": "PER 2¼<small>x</small>5-INCH SERVING: 542 CAL; 27G FAT (5G SAT); 15G PRO; 60G CARB (7G FIBER, 13G SUGARS); 1,727MG SODIUM"
+            },
+            {
+              "//": "======= YOU SAID CONTAINER ======",
+              "role": "container",
+              "layout": "youSaidContainerLayout",
+              "components": [
+                {
+                  "role": "container",
+                  "layout": {
+                    "margin": {
+                      "bottom": 10
+                    }
+                  },
+                  "contentDisplay": {
+                    "alignment": "center",
+                    "distribution": "narrow",
+                    "maximumWidth": 80,
+                    "type": "collection"
+                  },
+                  "components": [
+                    {
+                      "role": "image",
+                      "style": {
+                        "backgroundColor": "#008080",
+                        "mask": {
+                          "radius": 80,
+                          "type": "corners"
+                        }
+                      },
+                      "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/103051831/198166-1-eng-GB/1030518312.jpg?q=100"
+                    }
+                  ]
+                },
+                {
+                  "role": "pullquote",
+                  "textStyle": "youSaidQuoteTextStyle",
+                  "format": "html",
+                  "text": "“This gets five stars for such a creative use of polenta—and for tasting great. Instead of pine nuts, I used some chopped walnuts.”<br><pullquote-attribution>– KIMMY SUE RUBY LOU</pullquote-attribution>"
+                }
+              ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1175.0/W1366.0 * 100 = 86.0175695 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p044-alt102382-cheesy-spinach-ramen-frittata/199419-1-eng-GB/p044-alt102382-cheesy-spinach-ramen-frittata.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "bodyLayout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Cheesy Spinach Ramen Frittata"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "recipeDetailsTextStyle",
+              "format": "html",
+              "text": "<lede>HANDS-ON</lede> 20 MIN <lede>TOTAL</lede> 55 MIN <lede>SERVES</lede> 4 <br><lede>SUBMITTED BY</lede> KEMPSTR"
+            },
+            {
+              "//": "====== REVIEWS ======",
+              "role": "container",
+              "layout": "bodyLayout",
+              "contentDisplay": {
+                "type": "horizontal_stack"
+              },
+              "components": [
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": true
+                    }
+                  ],
+                  "hidden": false,
+                  "URL": "https://public-assets.meredithcorp.io/4cadea6bc3bbdd6b0bdfab5abedfb66f/fourstars.jpg"
+                },
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": false
+                    }
+                  ],
+                  "hidden": true,
+                  "URL": "https://public-assets.meredithcorp.io/8e401d3520fc3b0bec1ecdf6f118edf3/fourstarsDM.png"
+                },
+                {
+                  "role": "container",
+                  "layout": "smallSpacerLayout"
+                },
+                {
+                  "role": "body",
+                  "layout": {
+                    "padding": {
+                      "top": 0
+                    }
+                  },
+                  "textStyle": "reviewsTextStyle",
+                  "format": "html",
+                  "text": "6 REVIEWS"
+                }
+              ]
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<i>Double up on the cheesy flavor by topping the frittata with shredded Parmesan.</i>"
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td>2</td><td>Tbsp. olive oil</td></tr><tr><td>1⅔</td><td>cups chopped green onion</td></tr><tr><td>2</td><td>(5-oz.) pkg. fresh baby spinach</td></tr><tr><td>3</td><td>Tbsp. water</td></tr><tr><td>2</td><td>(3-oz.) pkg. ramen noodle soup (flavor packet discarded)</td></tr><tr><td>7</td><td>large eggs</td></tr><tr><td>¾</td><td>cup garlic and herbs spreadable cheese (such as Alouette; about 5 oz.)</td></tr><tr><td>¼</td><td>tsp. salt</td></tr></table>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>1.</lede> Preheat oven to 375°F."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>2.</lede> Heat oil in a 10-inch ovenproof skillet (with lid) over medium heat. Cook green onion, stirring occasionally, until softened, about 2 minutes. Add 1 pkg. spinach and 2 Tbsp. water; cook, covered, until wilted, about 1 minute. Stir spinach with tongs, then add remaining pkg. spinach and remaining 1 Tbsp. water. Cook, covered, stirring once or twice, until tender, about 2 minutes. Remove from heat."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>3.</lede> Meanwhile, bring a saucepan of salted water to a boil. Break each ramen noodle block into 4 pieces; cook, stirring occasionally, until just tender, about 3 minutes. Drain and rinse under cold water. Toss noodles with spinach mixture in skillet and spread mixture over bottom of pan."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>4.</lede> Blend eggs, spreadable cheese, and salt in a blender until smooth. Pour egg mixture evenly over spinach mixture. Stir gently with a fork to allow egg mixture to flow underneath."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>5.</lede> Transfer skillet to oven. Bake until puffed slightly and a toothpick inserted in center comes out clean, about 35 minutes. Cut into 8 wedges."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede><i><a href=\"http://armagazine.com/cheesy-spinach-ramen-frittata\">armagazine.com/cheesy-spinach-ramen-frittata</a></i></lede>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b><i>HIDDEN GEM</i></b> | <b><i>VEGETARIAN</i></b>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "attributeTextStyle",
+              "format": "html",
+              "text": "PER SERVING (2 SLICES): 544 CAL; 36G FAT (15G SAT); 21G PRO; 35G CARB (3G FIBER, 2G SUGARS); 711MG SODIUM"
+            },
+            {
+              "//": "======= YOU SAID CONTAINER ======",
+              "role": "container",
+              "layout": "youSaidContainerLayout",
+              "components": [
+                {
+                  "role": "pullquote",
+                  "textStyle": "youSaidQuoteTextStyle",
+                  "format": "html",
+                  "text": "“We ate ours with salsa and loved it. Next time, I am going to add more of the cheese spread and maybe a little cheddar.”<br><pullquote-attribution>– PAULA</pullquote-attribution>"
+                }
+              ]
+            },
+            {
+              "//": "====== CALLOUT ======",
+              "role": "container",
+              "layout": "calloutLayout",
+              "style": "calloutStyle",
+              "components": [
+                {
+                  "role": "heading",
+                  "layout": "calloutHeadingLayout",
+                  "textStyle": "calloutHeadingTextStyle",
+                  "format": "html",
+                  "text": "For Less Mess"
+                },
+                {
+                  "role": "body",
+                  "layout": "calloutBodyLayout",
+                  "textStyle": "calloutBodyTextStyle",
+                  "format": "html",
+                  "text": "Break up dried noodles inside the package or over a bowl."
+                }
+              ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1658.0/W1366.0 * 100 = 121.3762811 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p045-alt102382-easy-gorgonzola-tofu-scramble/199450-1-eng-GB/p045-alt102382-easy-gorgonzola-tofu-scramble.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "bodyLayout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Easy Gorgonzola Tofu Scramble"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "recipeDetailsTextStyle",
+              "format": "html",
+              "text": "<lede>HANDS-ON</lede> 20 MIN <lede>TOTAL</lede> 20 MIN <lede>SERVES</lede> 2 <br><lede>SUBMITTED BY</lede> SC_COOK25"
+            },
+            {
+              "//": "====== REVIEWS ======",
+              "role": "container",
+              "layout": "bodyLayout",
+              "contentDisplay": {
+                "type": "horizontal_stack"
+              },
+              "components": [
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": true
+                    }
+                  ],
+                  "hidden": false,
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common022/86031-1-eng-GB/common022.jpg"
+                },
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": false
+                    }
+                  ],
+                  "hidden": true,
+                  "URL": "https://public-assets.meredithcorp.io/ba3bbeb190fc45d4b5bb1d08c8fd2a5c/fiveDM.png"
+                },
+                {
+                  "role": "container",
+                  "layout": "smallSpacerLayout"
+                },
+                {
+                  "role": "body",
+                  "layout": {
+                    "padding": {
+                      "top": 1
+                    }
+                  },
+                  "textStyle": "reviewsTextStyle",
+                  "format": "html",
+                  "text": "18 REVIEWS"
+                }
+              ]
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td>2</td><td>Tbsp. olive oil</td></tr><tr><td>½</td><td>(12- to 14-oz.) pkg. extra-firm tofu, drained and cut into ½-inch cubes</td></tr><tr><td>⅓</td><td>cup finely chopped red onion</td></tr><tr><td>¾</td><td>cup sliced fresh white button mushrooms</td></tr><tr><td>1½</td><td>cups packed fresh spinach</td></tr><tr><td>¼</td><td>cup crumbled Gorgonzola cheese (2 oz.)</td></tr></table>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "Heat oil in a large skillet over medium heat. Cook tofu and onion, stirring occasionally, until onion is tender and tofu starts to brown, about 6 minutes. Add mushrooms; cook until tofu is browned and mushrooms are tender, 3 to 5 minutes more. Add spinach and cheese; cook, stirring, until spinach wilts and cheese melts, 30 to 60 seconds."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede><i><a href=\"http://armagazine.com/easy-gorgonzola-tofu-scramble\">armagazine.com/easy-gorgonzola-tofu-scramble</a></i></lede>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b><i>HEALTHY</i></b> | <b><i>QUICK</i></b> | <b><i>GLUTEN-FREE</i></b>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "attributeTextStyle",
+              "format": "html",
+              "text": "PER 1-CUP SERVING: 288 CAL; 23G FAT (6G SAT); 15G PRO; 8G CARB (4G FIBER, 2G SUGARS); 296MG SODIUM"
+            },
+            {
+              "//": "======= YOU SAID CONTAINER ======",
+              "role": "container",
+              "layout": "youSaidContainerLayout",
+              "components": [
+                {
+                  "role": "pullquote",
+                  "textStyle": "youSaidQuoteTextStyle",
+                  "format": "html",
+                  "text": "“Really simple, really good. I didn’t have Gorgonzola, so we added some crumbled blue cheese to it at the end.”<br><pullquote-attribution>– ECOASTGIRL</pullquote-attribution>"
+                }
+              ]
+            },
+            {
+              "//": "====== CALLOUT ======",
+              "role": "container",
+              "layout": "calloutLayout",
+              "style": "calloutStyle",
+              "components": [
+                {
+                  "role": "heading",
+                  "layout": "calloutHeadingLayout",
+                  "textStyle": "calloutHeadingTextStyle",
+                  "format": "html",
+                  "text": "Make It Vegan"
+                },
+                {
+                  "role": "body",
+                  "layout": "calloutBodyLayout",
+                  "textStyle": "calloutBodyTextStyle",
+                  "format": "html",
+                  "text": "Skip the Gorgonzola and stir in a few tablespoons of vegan Parmesan-style cheese alternative."
+                }
+              ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1630.0/W1366.0 * 100 = 119.3265007 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p046-alt102382-balsamic-ravioli/199436-1-eng-GB/p046-alt102382-balsamic-ravioli.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "bodyLayout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Balsamic Ravioli"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "recipeDetailsTextStyle",
+              "format": "html",
+              "text": "<lede>HANDS-ON</lede> 25 MIN <lede>TOTAL</lede> 25 MIN <lede>SERVES</lede> 4 <br><lede>SUBMITTED BY</lede> VIJMS2"
+            },
+            {
+              "//": "====== REVIEWS ======",
+              "role": "container",
+              "layout": "bodyLayout",
+              "contentDisplay": {
+                "type": "horizontal_stack"
+              },
+              "components": [
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": true
+                    }
+                  ],
+                  "hidden": false,
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common022/86031-1-eng-GB/common022.jpg"
+                },
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": false
+                    }
+                  ],
+                  "hidden": true,
+                  "URL": "https://public-assets.meredithcorp.io/ba3bbeb190fc45d4b5bb1d08c8fd2a5c/fiveDM.png"
+                },
+                {
+                  "role": "container",
+                  "layout": "smallSpacerLayout"
+                },
+                {
+                  "role": "body",
+                  "layout": {
+                    "padding": {
+                      "top": 1
+                    }
+                  },
+                  "textStyle": "reviewsTextStyle",
+                  "format": "html",
+                  "text": "14 REVIEWS"
+                }
+              ]
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<i>Add extra color to this ravioli by sprinkling on some chopped fresh parsley with the walnuts and Parmesan.</i>"
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td>1</td><td>(22-oz.) pkg. frozen cheese-filled ravioli</td></tr><tr><td>½</td><td>cup walnut pieces</td></tr><tr><td>¼</td><td>cup butter</td></tr><tr><td>¼</td><td>cup balsamic glaze</td></tr><tr><td>¼</td><td>cup grated Parmesan cheese (2 oz.)</td></tr></table>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>1.</lede> Cook ravioli according to package directions. Drain, then arrange in a single layer on a foil-lined baking sheet."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>2.</lede> Meanwhile, heat a large skillet over medium heat. Add walnuts; cook, stirring, until browned and fragrant, about 5 minutes. Transfer to a cutting board. Chop when cooled."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>3.</lede> Add 2 Tbsp. butter to skillet; cook over medium heat until slightly browned, 1 to 2 minutes. Add half the ravioli to skillet in a single layer; cook until browned, about 2 minutes per side. Transfer to a plate; repeat with remaining butter and ravioli. Drizzle with balsamic glaze, then sprinkle with toasted walnuts and Parmesan."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede><i><a href=\"http://armagazine.com/balsamic-ravioli\">armagazine.com/balsamic-ravioli</a></i></lede>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b><i>HIDDEN GEM</i></b> | <b><i>QUICK</i></b> | <b><i>VEGETARIAN</i></b>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "attributeTextStyle",
+              "format": "html",
+              "text": "PER 1¼-CUP SERVING: 535 CAL; 26G FAT (11G SAT); 16G PRO; 61G CARB (3G FIBER, 8G SUGARS); 572MG SODIUM"
+            },
+            {
+              "//": "======= YOU SAID CONTAINER ======",
+              "role": "container",
+              "layout": "youSaidContainerLayout",
+              "components": [
+                {
+                  "role": "pullquote",
+                  "textStyle": "youSaidQuoteTextStyle",
+                  "format": "html",
+                  "text": "“I used both cheese and sausage ravioli and added pecans sautéed in butter. Delicious!”<br><pullquote-attribution>– PAULA</pullquote-attribution>"
+                },
+                {
+                  "role": "container",
+                  "layout": {
+                    "margin": {
+                      "bottom": 10,
+                      "top": 26
+                    }
+                  },
+                  "contentDisplay": {
+                    "alignment": "center",
+                    "distribution": "narrow",
+                    "maximumWidth": 80,
+                    "type": "collection"
+                  },
+                  "components": [
+                    {
+                      "role": "image",
+                      "style": {
+                        "backgroundColor": "#008080",
+                        "mask": {
+                          "radius": 80,
+                          "type": "corners"
+                        }
+                      },
+                      "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/lutzflcat4/198096-1-eng-GB/lutzflcat2.jpg?q=100"
+                    }
+                  ]
+                },
+                {
+                  "role": "pullquote",
+                  "textStyle": "youSaidQuoteTextStyle",
+                  "format": "html",
+                  "text": "“I would add more butter and balsamic. I used cheese ravioli, which is mild-flavored, so you really do need more to coat every piece of ravioli.”<br><pullquote-attribution>– LUTZFLCAT</pullquote-attribution>"
+                }
+              ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1286.0/W1366.0 * 100 = 94.1434846 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p047-alt102382-tomato-garlic-pasta/199429-1-eng-GB/p047-alt102382-tomato-garlic-pasta.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "bodyLayout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Tomato and Garlic Pasta"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "recipeDetailsTextStyle",
+              "format": "html",
+              "text": "<lede>HANDS-ON</lede> 10 MIN <lede>TOTAL</lede> 15 MIN <lede>SERVES</lede> 4 <br><lede>SUBMITTED BY</lede> ALMA-LOU"
+            },
+            {
+              "//": "====== REVIEWS ======",
+              "role": "container",
+              "layout": "bodyLayout",
+              "contentDisplay": {
+                "type": "horizontal_stack"
+              },
+              "components": [
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": true
+                    }
+                  ],
+                  "hidden": false,
+                  "URL": "https://public-assets.meredithcorp.io/4cadea6bc3bbdd6b0bdfab5abedfb66f/fourstars.jpg"
+                },
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": false
+                    }
+                  ],
+                  "hidden": true,
+                  "URL": "https://public-assets.meredithcorp.io/8e401d3520fc3b0bec1ecdf6f118edf3/fourstarsDM.png"
+                },
+                {
+                  "role": "container",
+                  "layout": "smallSpacerLayout"
+                },
+                {
+                  "role": "body",
+                  "layout": {
+                    "padding": {
+                      "top": 0
+                    }
+                  },
+                  "textStyle": "reviewsTextStyle",
+                  "format": "html",
+                  "text": "268 REVIEWS"
+                }
+              ]
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<i>Top each serving with shredded pecorino or Parmesan cheese. Give it a spicy kick with crushed red pepper or cracked black pepper.</i>"
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td>8</td><td>oz. angel hair pasta</td></tr><tr><td>4</td><td>Tbsp. olive oil</td></tr><tr><td>4</td><td>cloves garlic, crushed</td></tr><tr><td>1</td><td>Tbsp. tomato paste</td></tr><tr><td>2</td><td>(14.5-oz.) cans diced tomatoes, undrained</td></tr><tr><td>2</td><td>tsp. sugar (optional)</td></tr><tr><td>½</td><td>tsp. salt</td></tr><tr><td>¼</td><td>tsp. black pepper</td></tr><tr><td>¼</td><td>cup fresh chopped basil, plus whole leaves for garnish</td></tr></table>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>1.</lede> Cook pasta in a pot according to package directions until al dente. Drain."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>2.</lede> Meanwhile, heat 2 Tbsp. oil in a large skillet over medium-high heat. Add garlic; cook until softened and fragrant but not brown, about 30 seconds. Stir in tomato paste, diced tomatoes, sugar (if using), salt, and pepper. Reduce heat to medium; cook, stirring, about 2 minutes. Stir in chopped basil."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>3.</lede> Return pasta to pot and toss with remaining 2 Tbsp. oil; add to skillet with sauce. Cook, stirring, about 1 minute. Top with whole basil leaves."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede><i><a href=\"http://armagazine.com/tomato-garlic-pasta\">armagazine.com/tomato-garlic-pasta</a></i></lede>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b><i>QUICK</i></b> | <b><i>VEGETARIAN</i></b>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "attributeTextStyle",
+              "format": "html",
+              "text": "PER 1½-CUP SERVING: 410 CAL; 16G FAT (3G SAT); 11G PRO; 57G CARB (6G FIBER, 8G SUGARS); 944MG SODIUM"
+            },
+            {
+              "//": "======= YOU SAID CONTAINER ======",
+              "role": "container",
+              "layout": "youSaidContainerLayout",
+              "components": [
+                {
+                  "role": "pullquote",
+                  "textStyle": "youSaidQuoteTextStyle",
+                  "format": "html",
+                  "text": "“I added mushrooms and onions. And mmm mmm mmm!”<br><pullquote-attribution>– MELIFLOR</pullquote-attribution>"
+                }
+              ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H3254.0/W2220.0 * 100 = 146.5765766 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/pestogrille_068/198054-1-eng-GB/pestogrille_0682.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "bodyLayout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Pesto Grilled Cheese Sandwich"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "recipeDetailsTextStyle",
+              "format": "html",
+              "text": "<lede>HANDS-ON</lede> 15 MIN <lede>TOTAL</lede> 15 MIN <lede>MAKES</lede> 1 SANDWICH<br><lede>SUBMITTED BY</lede> RASSA2"
+            },
+            {
+              "//": "====== REVIEWS ======",
+              "role": "container",
+              "layout": "bodyLayout",
+              "contentDisplay": {
+                "type": "horizontal_stack"
+              },
+              "components": [
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": true
+                    }
+                  ],
+                  "hidden": false,
+                  "URL": "https://public-assets.meredithcorp.io/4cadea6bc3bbdd6b0bdfab5abedfb66f/fourstars.jpg"
+                },
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": false
+                    }
+                  ],
+                  "hidden": true,
+                  "URL": "https://public-assets.meredithcorp.io/8e401d3520fc3b0bec1ecdf6f118edf3/fourstarsDM.png"
+                },
+                {
+                  "role": "container",
+                  "layout": "smallSpacerLayout"
+                },
+                {
+                  "role": "body",
+                  "layout": {
+                    "padding": {
+                      "top": 0
+                    }
+                  },
+                  "textStyle": "reviewsTextStyle",
+                  "format": "html",
+                  "text": "358 REVIEWS"
+                }
+              ]
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td>1</td><td>Tbsp. butter, softened</td></tr><tr><td>2</td><td>slices bread</td></tr><tr><td>1</td><td>Tbsp. basil pesto</td></tr><tr><td>2</td><td>slices provolone and/or American cheese</td></tr><tr><td>2</td><td>slices tomato</td></tr></table>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>1.</lede> Heat a skillet over medium heat. Spread butter on 1 side of both bread slices."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>2.</lede> Spread 1½ tsp. pesto on unbuttered side of 1 slice; transfer, buttered side down, to skillet. Top with 1 cheese slice, tomato, and remaining cheese."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>3.</lede> Spread remaining 1½ tsp. pesto on unbuttered side of second bread slice; transfer, pesto side down, to sandwich in skillet. Cook until golden, 3 to 4 minutes per side. (Reduce heat if needed to prevent overbrowning)."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede><i><a href=\"http://armagazine.com/pesto-grilled-cheese-sandwich\">armagazine.com/pesto-grilled-cheese-sandwich</a></i></lede>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b><i>QUICK</i></b> | <b><i>VEGETARIAN</i></b>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "attributeTextStyle",
+              "format": "html",
+              "text": "PER 1-SANDWICH SERVING: 503 CAL; 37G FAT (20G SAT); 20G PRO; 24G CARB (2G FIBER, 2G SUGARS); 1,108MG SODIUM"
+            },
+            {
+              "//": "======= YOU SAID CONTAINER ======",
+              "role": "container",
+              "layout": "youSaidContainerLayout",
+              "components": [
+                {
+                  "role": "container",
+                  "layout": {
+                    "margin": {
+                      "bottom": 10
+                    }
+                  },
+                  "contentDisplay": {
+                    "alignment": "center",
+                    "distribution": "narrow",
+                    "maximumWidth": 80,
+                    "type": "collection"
+                  },
+                  "components": [
+                    {
+                      "role": "image",
+                      "style": {
+                        "backgroundColor": "#008080",
+                        "mask": {
+                          "radius": 80,
+                          "type": "corners"
+                        }
+                      },
+                      "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/jules_high2/198047-1-eng-GB/jules_high2.png?q=100"
+                    }
+                  ]
+                },
+                {
+                  "role": "pullquote",
+                  "textStyle": "youSaidQuoteTextStyle",
+                  "format": "html",
+                  "text": "“I just got done eating this, and YUM. I did everything as is, except I added two extra slices of cheese.”<br><pullquote-attribution>– JULES</pullquote-attribution>"
+                }
+              ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1553.0/W1366.0 * 100 = 113.6896047 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p049-alt102382-easy-vegan-pasta-kale-chickpeas/199443-1-eng-GB/p049-alt102382-easy-vegan-pasta-kale-chickpeas.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "bodyLayout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Easy Vegan Pasta With Kale and Chickpeas"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "recipeDetailsTextStyle",
+              "format": "html",
+              "text": "<lede>HANDS-ON</lede> 10 MIN <lede>TOTAL</lede> 25 MIN <lede>SERVES</lede> 4 <br><lede>SUBMITTED BY</lede> RITA"
+            },
+            {
+              "//": "====== REVIEWS ======",
+              "role": "container",
+              "layout": "bodyLayout",
+              "contentDisplay": {
+                "type": "horizontal_stack"
+              },
+              "components": [
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": true
+                    }
+                  ],
+                  "hidden": false,
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common022/86031-1-eng-GB/common022.jpg"
+                },
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": false
+                    }
+                  ],
+                  "hidden": true,
+                  "URL": "https://public-assets.meredithcorp.io/ba3bbeb190fc45d4b5bb1d08c8fd2a5c/fiveDM.png"
+                },
+                {
+                  "role": "container",
+                  "layout": "smallSpacerLayout"
+                },
+                {
+                  "role": "body",
+                  "layout": {
+                    "padding": {
+                      "top": 1
+                    }
+                  },
+                  "textStyle": "reviewsTextStyle",
+                  "format": "html",
+                  "text": "4 REVIEWS"
+                }
+              ]
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td>1</td><td>(16-oz.) pkg. spaghetti</td></tr><tr><td>¼</td><td>cup olive oil</td></tr><tr><td>5</td><td>cloves garlic, minced</td></tr><tr><td>1</td><td>(12-oz.) bunch kale, stemmed and chopped (8 cups)</td></tr><tr><td>2</td><td>Tbsp. nutritional yeast (see <a href='#n'>tip</a>, below)</td></tr><tr><td>1</td><td>(15-oz.) can chickpeas, rinsed and drained</td></tr><tr><td></td><td>Salt and crushed red pepper, to taste</td></tr></table>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>1.</lede> Cook spaghetti according to package directions. Drain, reserving 1<lede>½</lede> cups pasta cooking water."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>2.</lede> Meanwhile, heat oil in a large skillet over medium heat. Add garlic; cook until fragrant, about 1 minute. Add kale; cook, stirring constantly, until tender, 3 to 5 minutes."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>3.</lede> Add spaghetti and yeast; toss to combine. Add enough of the reserved pasta water to create a thick sauce. Stir well. Add chickpeas and heat through, about 2 minutes. Season to taste with salt and crushed red pepper."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede><i><a href=\"http://armagazine.com/vegan-pasta-with-kale-and-chickpeas\">armagazine.com/vegan-pasta-with-kale-and-chickpeas</a></i></lede>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b><i>HIDDEN GEM</i></b> | <b><i>QUICK</i></b> | <b><i>VEGAN</i></b>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "attributeTextStyle",
+              "format": "html",
+              "text": "PER 2-CUP SERVING: 679 CAL; 19G FAT (3G SAT); 24G PRO; 106G CARB (13G FIBER, 7G SUGARS); 312MG SODIUM"
+            },
+            {
+              "//": "====== CALLOUT ======",
+              "role": "container",
+              "layout": "calloutLayout",
+              "style": "calloutStyle",
+              "identifier": "n",
+              "components": [
+                {
+                  "role": "heading",
+                  "layout": "calloutHeadingLayout",
+                  "textStyle": "calloutHeadingTextStyle",
+                  "format": "html",
+                  "text": "What Exactly Is Nutritional Yeast?"
+                },
+                {
+                  "role": "body",
+                  "layout": "calloutBodyLayout",
+                  "textStyle": "calloutBodyTextStyle",
+                  "format": "html",
+                  "text": "This inactivated yeast, sold as flakes or powder, has a nutty, cheese-like flavor. Sprinkle it on garlic toast, popcorn, and pasta as a stand-in for Parmesan. Look for it in the health food section of larger supermarkets or at natural food stores. It’s often near the specialty flours or protein powders."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "role": "container",
+          "layout": "bodyContainerLayout",
+          "conditional": [
+            {
+              "conditions": [
+                {
+                  "viewLocation": "article"
+                }
+              ],
+              "hidden": false
+            }
+          ],
+          "hidden": true,
+          "components": [
+            {
+              "role": "container",
+              "layout": "dividerLayout",
+              "style": "dividerSectionHeadStyle"
+            },
+            {
+              "//": "=== VISIT TOC LINK, ONLY VISIBLE IF USER IS IN ARTICLE VIEW ===",
+              "role": "body",
+              "layout": "bodyLayout",
+              "textStyle": "tocTextStyle",
+              "format": "html",
+              "text": "<a href='https://apple.news/AeWTaQfGQEeyRKiYivkxSbA'>Tap here</a> to see more from this issue of <i>Allrecipes</i>"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "componentLayouts": {
+    "attributeLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 15
+    },
+    "authorLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 5
+      }
+    },
+    "blockContainerLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "bodyContainerLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": 10
+    },
+    "bodyLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 2
+      }
+    },
+    "bottomPhotoDividerLayout": {
+      "//": "UNUSED"
+    },
+    "calloutBodyLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 5
+      }
+    },
+    "calloutHeadingLayout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "calloutLayout": {
+      "columnSpan": 16,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "padding": {
+        "bottom": 10,
+        "left": 20,
+        "right": 20,
+        "top": 10
+      }
+    },
+    "captionAdLayout": {
+      "//": "UNUSED"
+    },
+    "captionLayout": {
+      "margin": 8
+    },
+    "darkModePaddingLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "padding": 10
+        }
+      ]
+    },
+    "dividerCollectionLayout": {
+      "//": "UNUSED"
+    },
+    "dividerLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 20,
+        "top": 10
+      }
+    },
+    "dividerStandardLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "minimumHeight": 1
+    },
+    "dividerTocLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 15,
+        "top": 20
+      },
+      "minimumHeight": 10
+    },
+    "floatContainerLayout": {
+      "columnSpan": 4,
+      "columnStart": 1,
+      "conditional": [
+        {
+          "columnSpan": 4,
+          "columnStart": 0,
+          "conditions": [
+            {
+              "maxViewportWidth": 415
+            }
+          ]
+        }
+      ]
+    },
+    "fullBleedContainerLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "fullBleedDividerLayout": {
+      "//": "UNUSED"
+    },
+    "fullBleedLayout": {
+      "ignoreDocumentMargin": true
+    },
+    "fullBleedPhotoLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 700
+            }
+          ],
+          "ignoreDocumentMargin": false
+        }
+      ],
+      "ignoreDocumentMargin": true
+    },
+    "galleryPhotoLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "heading2Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading3Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading4Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading5Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading6Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heroImageLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 0,
+        "top": 15
+      }
+    },
+    "heroImageTallLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 15
+      }
+    },
+    "ingredientsLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 10
+      }
+    },
+    "introLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10
+      }
+    },
+    "noMarginLayout": {
+      "columnSpan": 18,
+      "columnStart": 1
+    },
+    "pullQuoteLayout": {
+      "columnSpan": 16,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 25,
+        "top": 15
+      }
+    },
+    "reviewLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "padding": {
+        "left": 85,
+        "top": 2
+      }
+    },
+    "sectionLayout": {
+      "margin": {
+        "top": 5
+      }
+    },
+    "sidebarBodyLayout": {
+      "margin": {
+        "bottom": 10
+      }
+    },
+    "sidebarDividerLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "minimumHeight": 1
+    },
+    "sidebarFloatContainerLayout": {
+      "columnSpan": 4,
+      "columnStart": 0
+    },
+    "sidebarHeading2Layout": {
+      "margin": {
+        "top": 20
+      }
+    },
+    "sidebarHeading3Layout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "sidebarHeading4Layout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "sidebarIntroLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 5
+      }
+    },
+    "sidebarLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 20,
+      "padding": {
+        "bottom": 10,
+        "left": 20,
+        "right": 20
+      }
+    },
+    "sidebarSingleBlockContainerLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "sidebarSmallMarginAboveLayout": {
+      "margin": {
+        "top": 2
+      }
+    },
+    "singleBlockContainerLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "smallMarginAboveLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 2
+      }
+    },
+    "smallSpacerLayout": {
+      "maximumWidth": 5,
+      "minimumWidth": 5
+    },
+    "spacerLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "starsImageLayout": {
+      "margin": {
+        "top": 2
+      },
+      "maximumWidth": 100
+    },
+    "straplineLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "titleLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 3
+      }
+    },
+    "topPhotoDividerLayout": {
+      "//": "UNUSED"
+    },
+    "youSaidContainerLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 500
+            }
+          ],
+          "padding": {
+            "left": "20cw",
+            "right": "20cw"
+          }
+        }
+      ],
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "youSaidImageLayout": {
+      "horizontalContentAlignment": "center",
+      "margin": {
+        "bottom": 10
+      },
+      "maximumContentWidth": 110
+    }
+  },
+  "componentStyles": {
+    "attributeStyle": {
+      "//": "UNUSED"
+    },
+    "authorStyle": {
+      "//": "UNUSED"
+    },
+    "bodyContainerStyle": {
+      "//": "UNUSED"
+    },
+    "calloutStyle": {
+      "border": {
+        "all": {
+          "color": "#8d8d8d",
+          "width": 2
+        }
+      }
+    },
+    "calloutStyle2": {
+      "border": {
+        "all": {
+          "color": "#feaa26",
+          "width": 4
+        }
+      }
+    },
+    "captionAdStyle": {
+      "//": "UNUSED"
+    },
+    "darkModeBackgroundStyle": {
+      "conditional": [
+        {
+          "backgroundColor": "#FFF",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "dividerSectionHeadStyle": {
+      "border": {
+        "all": {
+          "color": "#ececec",
+          "width": 1
+        },
+        "bottom": true,
+        "left": false,
+        "right": false,
+        "top": true
+      },
+      "conditional": [
+        {
+          "border": {
+            "all": {
+              "color": "#666666",
+              "width": 1
+            },
+            "bottom": true,
+            "left": false,
+            "right": false,
+            "top": true
+          },
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "dividerStandardStyle": {
+      "backgroundColor": "#000"
+    },
+    "dividerTocStyle": {
+      "//": "UNUSED"
+    },
+    "fullBleedContainerStyle": {
+      "//": "UNUSED"
+    },
+    "heading2Style": {
+      "//": "UNUSED"
+    },
+    "heading3Style": {
+      "//": "UNUSED"
+    },
+    "heading4Style": {
+      "//": "UNUSED"
+    },
+    "heading5Style": {
+      "//": "UNUSED"
+    },
+    "heading6Style": {
+      "//": "UNUSED"
+    },
+    "ingredientsStyle": {
+      "tableStyle": {
+        "cells": {
+          "conditional": [
+            {
+              "horizontalAlignment": "right",
+              "padding": {
+                "right": 5
+              },
+              "selectors": [
+                {
+                  "columnIndex": 0
+                }
+              ],
+              "width": 10
+            },
+            {
+              "horizontalAlignment": "left",
+              "padding": {
+                "left": 5
+              },
+              "selectors": [
+                {
+                  "columnIndex": 1
+                }
+              ],
+              "width": 75
+            }
+          ],
+          "textStyle": "ingredientsTextStyle",
+          "verticalAlignment": "top"
+        },
+        "columns": {
+          "conditional": [
+            {
+              "selectors": [
+                {
+                  "columnIndex": 0
+                }
+              ],
+              "width": 10
+            },
+            {
+              "selectors": [
+                {
+                  "columnIndex": 1
+                }
+              ],
+              "width": 45
+            }
+          ]
+        }
+      }
+    },
+    "introStyle": {
+      "//": "UNUSED"
+    },
+    "paragraphDropCapStyle": {
+      "//": "UNUSED"
+    },
+    "paragraphStyle": {
+      "//": "UNUSED"
+    },
+    "photoContainerStyle": {
+      "//": "UNUSED"
+    },
+    "pullQuoteStyle": {
+      "//": "UNUSED"
+    },
+    "reviewFiveStarsStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "horizontalAlignment": "left",
+            "repeat": "none",
+            "type": "repeatable_image",
+            "URL": "https://public-assets.meredithcorp.io/ba3bbeb190fc45d4b5bb1d08c8fd2a5c/fiveDM.png",
+            "verticalAlignment": "top",
+            "width": 80
+          }
+        }
+      ],
+      "fill": {
+        "horizontalAlignment": "left",
+        "repeat": "none",
+        "type": "repeatable_image",
+        "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common022/86031-1-eng-GB/common022.jpg",
+        "verticalAlignment": "top",
+        "width": 80
+      }
+    },
+    "reviewFourHalfStarsStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "horizontalAlignment": "left",
+            "repeat": "none",
+            "type": "repeatable_image",
+            "URL": "https://public-assets.meredithcorp.io/8700c3d249629b59c38e0b147c58947c/fourDM.png",
+            "verticalAlignment": "top",
+            "width": 80
+          }
+        }
+      ],
+      "fill": {
+        "horizontalAlignment": "left",
+        "repeat": "none",
+        "type": "repeatable_image",
+        "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common0166/108858-1-eng-GB/common012.jpg?q=100",
+        "verticalAlignment": "top",
+        "width": 80
+      }
+    },
+    "reviewFourStarsStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "horizontalAlignment": "left",
+            "repeat": "none",
+            "type": "repeatable_image",
+            "URL": "https://public-assets.meredithcorp.io/8e401d3520fc3b0bec1ecdf6f118edf3/fourstarsDM.png",
+            "verticalAlignment": "top",
+            "width": 80
+          }
+        }
+      ],
+      "fill": {
+        "horizontalAlignment": "left",
+        "repeat": "none",
+        "type": "repeatable_image",
+        "URL": "https://public-assets.meredithcorp.io/4cadea6bc3bbdd6b0bdfab5abedfb66f/fourstars.jpg",
+        "verticalAlignment": "top",
+        "width": 80
+      }
+    },
+    "sectionStyle": {
+      "//": "UNUSED"
+    },
+    "sidebarNoBackgroundStyle": {
+      "border": {
+        "all": {
+          "color": "#f2f2f2",
+          "width": 2
+        }
+      }
+    },
+    "sidebarStyle": {
+      "backgroundColor": "#f2f2f2",
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "backgroundColor": "#f2f2f2"
+        }
+      ]
+    },
+    "straplineStyle": {
+      "//": "UNUSED"
+    },
+    "titleStyle": {
+      "//": "UNUSED"
+    },
+    "youSaidImageStyle": {
+      "backgroundColor": "#008080",
+      "mask": {
+        "radius": "60cw",
+        "type": "corners"
+      }
+    },
+    "captionStyle": {
+      "border": {
+        "all": {
+          "color": "#8d8d8d",
+          "width": 2
+        },
+        "bottom": false,
+        "left": true,
+        "right": false,
+        "top": false
+      }
+    }
+  },
+  "textStyles": {
+    "creditTextStyle": {
+      "fontName": "AvenirNext-Medium",
+      "fontSize": 10,
+      "textColor": "#8d8d8d",
+      "textTransform": "uppercase",
+      "tracking": 0.1
+    },
+    "default-tag-bold": {
+      "fontName": "GothamNarrow-Bold"
+    },
+    "default-tag-caption-heading": {
+      "fontName": "AvenirNext-Bold",
+      "fontSize": 14,
+      "textTransform": "uppercase",
+      "tracking": 0.05
+    },
+    "default-tag-caption-i": {
+      "fontName": "Gotham-Book"
+    },
+    "default-tag-emoji": {
+      "fontName": "AppleColorEmoji"
+    },
+    "default-tag-lede": {
+      "fontName": "AvenirNext-Bold"
+    },
+    "default-tag-m": {
+      "fontName": "Gotham-Medium"
+    },
+    "default-tag-mb": {
+      "fontName": "GothamNarrow-Book"
+    },
+    "default-tag-mi": {
+      "fontName": "Gotham-MediumItalic"
+    },
+    "default-tag-pullquote-attribution": {
+      "fontName": "Georgia-Bold",
+      "fontSize": 15,
+      "textTransform": "uppercase",
+      "tracking": 0.15
+    },
+    "default-tag-sidebar-lede": {
+      "fontName": "AvenirNext-Bold",
+      "fontSize": 16,
+      "textTransform": "uppercase",
+      "tracking": 0.05
+    },
+    "default-tag-small": {
+      "fontName": "GothamNarrow-Book",
+      "fontSize": 7,
+      "lineHeight": 9,
+      "textTransform": "uppercase",
+      "tracking": 0.05
+    },
+    "default-tag-subsection": {
+      "fontName": "Gotham-Light"
+    },
+    "endMarkerTextStyle": {
+      "//": "UNUSED"
+    },
+    "subSectionTextStyle": {
+      "//": "UNUSED"
+    },
+    "default-tag-sub-section": {
+      "fontName": "AvenirNext-Medium"
+    }
+  },
+  "componentTextStyles": {
+    "//": {
+      "//": "===================== LIFE OVERRIDES ====================="
+    },
+    "attributeTextStyle": {
+      "fontName": "AvenirNext-Medium",
+      "fontSize": 10,
+      "lineHeight": 14,
+      "textColor": "#8d8d8d",
+      "textTransform": "uppercase",
+      "tracking": 0.1
+    },
+    "authorTextStyle": {
+      "fontName": "Georgia-Bold",
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.05
+    },
+    "bodyCenteredTextStyle": {
+      "fontName": "Georgia",
+      "textAlignment": "center"
+    },
+    "bodyDropCapTextStyle": {
+      "dropCapStyle": {
+        "fontName": "AvenirNext-Medium",
+        "numberOfCharacters": 1,
+        "numberOfLines": 4,
+        "numberOfRaisedLines": 0
+      },
+      "fontName": "Georgia"
+    },
+    "bodyTextStyle": {
+      "fontName": "Georgia"
+    },
+    "calloutBodyTextStyle": {
+      "fontName": "Georgia-Italic",
+      "fontSize": 22,
+      "lineHeight": 28,
+      "textAlignment": "center"
+    },
+    "calloutHeadingTextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "fontSize": 24,
+      "lineHeight": 28,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": -0.05
+    },
+    "captionAdTextStyle": {
+      "//": "UNUSED"
+    },
+    "captionCenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "captionEmbeddedTextStyle": {
+      "fontName": "HelveticaNeue-Bold",
+      "lineHeight": 16
+    },
+    "captionTextStyle": {
+      "fontName": "AvenirNext-Medium",
+      "textAlignment": "left"
+    },
+    "default": {
+      "fontName": "AvenirNext-Medium",
+      "hyphenation": false,
+      "linkStyle": {
+        "underline": true
+      },
+      "textColor": "#000"
+    },
+    "default-author": {
+      "fontSize": 15,
+      "lineHeight": 19
+    },
+    "default-body": {
+      "fontSize": 20,
+      "lineHeight": 26,
+      "paragraphSpacingAfter": 12,
+      "paragraphSpacingBefore": 12
+    },
+    "default-byline": {
+      "//": "UNUSED"
+    },
+    "default-caption": {
+      "fontName": "AvenirNext-Medium",
+      "fontSize": 15,
+      "lineHeight": 22
+    },
+    "default-heading": {
+      "fontSize": 16,
+      "lineHeight": 16
+    },
+    "default-heading2": {
+      "fontSize": 45,
+      "lineHeight": 50
+    },
+    "default-heading3": {
+      "fontSize": 24,
+      "lineHeight": 28
+    },
+    "default-heading4": {
+      "fontSize": 24,
+      "lineHeight": 28
+    },
+    "default-heading5": {
+      "fontSize": 22,
+      "lineHeight": 24
+    },
+    "default-heading6": {
+      "fontSize": 18,
+      "lineHeight": 20
+    },
+    "default-intro": {
+      "fontName": "Avenir-Book",
+      "fontSize": 18,
+      "lineHeight": 20
+    },
+    "default-photographer": {
+      "//": "UNUSED"
+    },
+    "default-pullquote": {
+      "fontSize": 30,
+      "lineHeight": 30
+    },
+    "default-title": {
+      "fontSize": 60,
+      "lineHeight": 66
+    },
+    "floatImageCaptionTextStyle": {
+      "fontName": "AvenirNext-Medium",
+      "textAlignment": "left"
+    },
+    "heading2CenteredTextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "textAlignment": "center"
+    },
+    "heading2TextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "tracking": -0.02
+    },
+    "heading3CenteredTextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": -0.05
+    },
+    "heading3TextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "textTransform": "uppercase",
+      "tracking": -0.05
+    },
+    "heading4CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading4TextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "tracking": -0.01
+    },
+    "heading5CenteredTextStyle": {
+      "fontName": "Gotham-Bold",
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.02
+    },
+    "heading5TextStyle": {
+      "fontName": "Georgia-BoldItalic"
+    },
+    "heading6CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading6TextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "tracking": 0.05
+    },
+    "ingredientsTextStyle": {
+      "fontName": "GothamNarrow-Book",
+      "lineHeight": 24
+    },
+    "introTextStyle": {
+      "fontName": "Georgia-Italic",
+      "textAlignment": "center"
+    },
+    "pullQuoteTextStyle": {
+      "fontName": "Georgia",
+      "textAlignment": "center"
+    },
+    "recipeDetailsTextStyle": {
+      "fontName": "GothamNarrow-Book",
+      "fontSize": 14,
+      "lineHeight": 16,
+      "linkStyle": {
+        "fontName": "GothamNarrow-Bold",
+        "textColor": "#000",
+        "underline": true
+      }
+    },
+    "reviewsTextStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "textColor": "#fff"
+        }
+      ],
+      "fontName": "GothamNarrow-Black",
+      "textColor": "#000"
+    },
+    "savedTextStyle": {
+      "fontName": "GothamNarrow-Book",
+      "fontSize": 16,
+      "lineHeight": 18,
+      "textTransform": "uppercase"
+    },
+    "sectionTextStyle": {
+      "fontName": "AvenirNext-Regular",
+      "fontSize": 14,
+      "lineHeight": 16,
+      "textTransform": "uppercase",
+      "tracking": 0.05
+    },
+    "sidebarBodyTextStyle": {
+      "fontName": "AvenirNext-Medium",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "tracking": 0.02
+    },
+    "sidebarHeading2TextStyle": {
+      "fontName": "Georgia-Bold",
+      "fontSize": 45,
+      "lineHeight": 50
+    },
+    "sidebarHeading3TextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "fontSize": 24,
+      "lineHeight": 28,
+      "textTransform": "uppercase",
+      "tracking": -0.05
+    },
+    "sidebarHeading4TextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "fontSize": 24,
+      "lineHeight": 28,
+      "tracking": -0.01
+    },
+    "sidebarIntroTextStyle": {
+      "fontName": "Georgia-Italic",
+      "fontSize": 20,
+      "lineHeight": 26
+    },
+    "straplineTextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.15
+    },
+    "titleTextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "textAlignment": "center"
+    },
+    "tocTextStyle": {
+      "fontName": "AvenirNextCondensed-Medium",
+      "fontSize": 16,
+      "linkStyle": {
+        "underline": true
+      },
+      "textAlignment": "center",
+      "textColor": "#000"
+    },
+    "youSaidQuoteTextStyle": {
+      "fontName": "GothamCondensed-LightItalic",
+      "fontSize": 22,
+      "lineHeight": 24,
+      "textAlignment": "center"
+    },
+    "listTextStyle": {
+      "fontSize": 17,
+      "lineHeight": 21
+    },
+    "sidebarBodyCenteredTextStyle": {
+      "fontName": "AvenirNext-Medium",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "textAlignment": "center",
+      "tracking": 0.02
+    },
+    "sidebarHeading2CenteredTextStyle": {
+      "fontName": "Georgia-Bold",
+      "fontSize": 45,
+      "lineHeight": 50,
+      "textAlignment": "center"
+    },
+    "sidebarHeading3CenteredTextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "fontSize": 24,
+      "lineHeight": 28,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": -0.05
+    },
+    "sidebarHeadingCentered4TextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "fontSize": 24,
+      "lineHeight": 28,
+      "textAlignment": "center"
+    },
+    "subsectionIntroTextStyle": {
+      "fontName": "Georgia-Italic",
+      "fontSize": 20,
+      "lineHeight": 26,
+      "textAlignment": "left"
+    }
+  }
+}

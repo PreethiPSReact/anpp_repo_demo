@@ -1,172 +1,26 @@
 {
   "version": "1.9",
-  "identifier": "alr_article_899-131-12-1",
-  "title": "FROM THE GROUND UP",
+  "identifier": "coastalliving_article_889-125-24-1",
+  "title": "Rustic Idyll",
   "language": "en",
   "layout": {
-    "columns": 20,
+    "columns": 23,
     "gutter": 20,
-    "margin": 40,
+    "margin": 62,
     "width": 1024
   },
-  "subtitle": "<p><b><custom name=\"underline\">These recipes begin with a ground meat&mdash;beef, chicken, turkey, or pork&mdash;and then build into easy, speedy burgers, lasagna cupcakes, meatloaf, and more.</custom></b></p>",
+  "subtitle": "The remote beauty of Maine’s Mount Desert Island has lured artists and aristocrats for more than a century. Now, with a new wave of exciting hotels, shops, and restaurants cropping up, it’s high time we joined them",
   "metadata": {
-    "dateCreated": "2022-06-21T16:54:01.449Z",
-    "dateModified": "2022-06-21T15:09:12+00:00",
-    "excerpt": "HANDS-ON 20 MIN",
-    "generatorName": "All-Recipes -- Recipe",
-    "generatorVersion": "0.0.4.33-2022-06-09 18:32",
-    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p012-013-alt102382-mushroom-beef-burgers/199191-1-eng-GB/p012-013-alt102382-mushroom-beef-burgers.jpg?q=100"
+    "authors": [
+      "By Tracey Minkin"
+    ],
+    "dateCreated": "2022-05-20T16:37:24.027Z",
+    "dateModified": "2022-05-19T14:11:01+00:00",
+    "excerpt": "I’ve learned this word today, and it’s a revelation. Like discovering the code to a cipher, finding the right key for an old lock, or murmuring one of those Harry Potter spells that makes everything click magically into place, I feel like I understand the world surrounding me a bit better on this sunny, early summer day in Maine.",
+    "generatorName": "ANTE Generic Template",
+    "generatorVersion": "0.0.4.32-2022-04-15 19:20",
+    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/p024-bzo102397-bass-harbor-head/131428-1-eng-GB/p024-bzo102397-bass-harbor-head.jpg?q=100"
   },
-  "missingData": [
-    {
-      "//": "======== SINGLE BLOCK CONTAINER ========",
-      "role": "container",
-      "layout": "singleBlockContainerLayout",
-      "components": [
-        {
-          "//": "======== IMAGE BLOCK - H74.0/W421.0 * 100 = 17.5771971 ========",
-          "role": "photo",
-          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0013-0125/197521-1-eng-GB/f0013-012.jpg?q=100"
-        }
-      ]
-    },
-    {
-      "role": "body",
-      "layout": "bodyLayout",
-      "style": "paragraphStyle",
-      "textStyle": "bodyTextStyle",
-      "format": "html",
-      "text": "7 REVIEWS"
-    },
-    {
-      "//": "======== SINGLE BLOCK CONTAINER ========",
-      "role": "container",
-      "layout": "singleBlockContainerLayout",
-      "components": [
-        {
-          "//": "======== IMAGE BLOCK - H38.0/W211.0 * 100 = 18.0094787 ========",
-          "role": "photo",
-          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0014-0129/197493-1-eng-GB/f0014-012.jpg?q=100"
-        }
-      ]
-    },
-    {
-      "role": "body",
-      "layout": "bodyLayout",
-      "style": "paragraphStyle",
-      "textStyle": "bodyTextStyle",
-      "format": "html",
-      "text": "115 REVIEWS"
-    },
-    {
-      "//": "======== SINGLE BLOCK CONTAINER ========",
-      "role": "container",
-      "layout": "singleBlockContainerLayout",
-      "components": [
-        {
-          "//": "======== IMAGE BLOCK - H476.0/W394.0 * 100 = 120.8121827 ========",
-          "role": "photo",
-          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p014-alt102382-alr-badge/199177-1-eng-GB/p014-alt102382-alr-badge.png?q=100"
-        }
-      ]
-    },
-    {
-      "role": "heading3",
-      "layout": "heading3Layout",
-      "textStyle": "heading3TextStyle",
-      "format": "html",
-      "text": "<b>ALEXA-ENABLED!</b>"
-    },
-    {
-      "//": "======== SINGLE BLOCK CONTAINER ========",
-      "role": "container",
-      "layout": "singleBlockContainerLayout",
-      "components": [
-        {
-          "//": "======== IMAGE BLOCK - H74.0/W420.0 * 100 = 17.6190476 ========",
-          "role": "photo",
-          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0016-0139/197458-1-eng-GB/f0016-012.jpg?q=100"
-        }
-      ]
-    },
-    {
-      "role": "body",
-      "layout": "bodyLayout",
-      "style": "paragraphStyle",
-      "textStyle": "bodyTextStyle",
-      "format": "html",
-      "text": "72 REVIEWS"
-    },
-    {
-      "//": "======== SINGLE BLOCK CONTAINER ========",
-      "role": "container",
-      "layout": "singleBlockContainerLayout",
-      "components": [
-        {
-          "//": "======== IMAGE BLOCK - H74.0/W420.0 * 100 = 17.6190476 ========",
-          "role": "photo",
-          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0017-0129/197437-1-eng-GB/f0017-012.jpg?q=100"
-        }
-      ]
-    },
-    {
-      "role": "body",
-      "layout": "bodyLayout",
-      "style": "paragraphStyle",
-      "textStyle": "bodyTextStyle",
-      "format": "html",
-      "text": "184 REVIEWS"
-    },
-    {
-      "//": "======== SINGLE BLOCK CONTAINER ========",
-      "role": "container",
-      "layout": "singleBlockContainerLayout",
-      "components": [
-        {
-          "//": "======== IMAGE BLOCK - H74.0/W421.0 * 100 = 17.5771971 ========",
-          "role": "photo",
-          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0018-0145/197423-1-eng-GB/f0018-012.jpg?q=100"
-        }
-      ]
-    },
-    {
-      "role": "body",
-      "layout": "bodyLayout",
-      "style": "paragraphStyle",
-      "textStyle": "bodyTextStyle",
-      "format": "html",
-      "text": "51 REVIEWS"
-    },
-    {
-      "//": "======== SINGLE BLOCK CONTAINER ========",
-      "role": "container",
-      "layout": "singleBlockContainerLayout",
-      "components": [
-        {
-          "//": "======== IMAGE BLOCK - H74.0/W421.0 * 100 = 17.5771971 ========",
-          "role": "photo",
-          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0019-0123/197409-1-eng-GB/f0019-012.jpg?q=100"
-        }
-      ]
-    },
-    {
-      "role": "body",
-      "layout": "bodyLayout",
-      "style": "paragraphStyle",
-      "textStyle": "bodyTextStyle",
-      "format": "html",
-      "text": "518 REVIEWS"
-    },
-    {
-      "role": "body",
-      "layout": "bodyLayout",
-      "style": "paragraphStyle",
-      "textStyle": "bodyTextStyle",
-      "format": "html",
-      "text": "<b>PICK YOUR SALSA</b>&nbsp;With so many different salsa options on store shelves, you can give this meatloaf a different flavor each time you make it. Try chipotle salsa for a deep, smoky flavor. Go green by using salsa verde. Or add a fruity salsa, such as pineapple or peach salsa, for a sweet-savory twist.<span class=\"end-marker\"> ■</span>"
-    }
-  ],
   "documentStyle": {
     "backgroundColor": "#eee"
   },
@@ -206,12 +60,7 @@
           "layout": "sectionLayout",
           "textStyle": "sectionTextStyle",
           "format": "html",
-          "text": "5-INGREDIENT RECIPES"
-        },
-        {
-          "role": "container",
-          "layout": "dividerLayout",
-          "style": "dividerSectionHeadStyle"
+          "text": "Travel"
         },
         {
           "//": "==== DEFAULT HEADER: TITLE ===",
@@ -219,7 +68,7 @@
           "layout": "titleLayout",
           "textStyle": "titleTextStyle",
           "format": "html",
-          "text": "From the Ground Up"
+          "text": "Rustic Idyll"
         },
         {
           "//": "==== DEFAULT HEADER: INTRO ===",
@@ -227,7 +76,14 @@
           "layout": "introLayout",
           "textStyle": "introTextStyle",
           "format": "html",
-          "text": "These recipes begin with a ground meat&mdash;beef, chicken, turkey, or pork&mdash;and then build into easy, speedy burgers, lasagna cupcakes, meatloaf, and more."
+          "text": "The remote beauty of Maine’s Mount Desert Island has lured artists and aristocrats for more than a century. Now, with a new wave of exciting hotels, shops, and restaurants cropping up, it’s high time we joined them"
+        },
+        {
+          "role": "author",
+          "layout": "authorLayout",
+          "textStyle": "authorTextStyle",
+          "format": "html",
+          "text": "By Tracey Minkin<br>Photographs by Julien Capmeil"
         },
         {
           "//": "======== HERO IMAGE CONTAINER =======",
@@ -235,465 +91,139 @@
           "layout": "heroImageLayout",
           "components": [
             {
-              "//": "======== HERO IMAGE - H1035.0/W1366.0 * 100 = 75.7686676 ========",
+              "//": "======== HERO IMAGE - H1381.0/W1024.0 * 100 = 134.8632813 ========",
               "role": "photo",
               "layout": "fullBleedPhotoLayout",
-              "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p012-013-alt102382-mushroom-beef-burgers/199191-1-eng-GB/p012-013-alt102382-mushroom-beef-burgers.jpg?q=100"
+              "caption": {
+                "format": "html",
+                "text": "Bass Harbor Head Light Station",
+                "textStyle": "captionEmbeddedTextStyle"
+              },
+              "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/p024-bzo102397-bass-harbor-head/131428-1-eng-GB/p024-bzo102397-bass-harbor-head.jpg?q=99"
+            },
+            {
+              "role": "caption",
+              "layout": "captionLayout",
+              "textStyle": "captionTextStyle",
+              "format": "html",
+              "text": "Bass Harbor Head Light Station"
             }
           ]
         },
         {
-          "//": "======== BEGIN RECIPES BODY CONTAINER =======",
+          "//": "======== BODY CONTAINER =======",
           "role": "container",
           "layout": "bodyContainerLayout",
-          "style": "bodyContainerStyle",
           "components": [
             {
-              "role": "heading2",
-              "layout": "heading3Layout",
-              "textStyle": "recipeTitleTextStyle",
-              "format": "html",
-              "text": "Mushroom Beef Burgers"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "recipeDetailsTextStyle",
-              "format": "html",
-              "text": "<lede>HANDS-ON</lede> 20 MIN <lede>TOTAL</lede> 20 MIN <lede>SERVES</lede> 8 <br><lede>SUBMITTED BY</lede> JUANITA S"
-            },
-            {
-              "//": "====== REVIEWS ======",
               "role": "container",
-              "layout": "bodyLayout",
-              "contentDisplay": {
-                "type": "horizontal_stack"
+              "layout": "blockContainerLayout",
+              "animation": {
+                "initialAlpha": 0.05,
+                "type": "fade_in",
+                "userControllable": true
               },
               "components": [
                 {
-                  "role": "image",
-                  "layout": "starsImageLayout",
-                  "conditional": [
+                  "role": "mosaic",
+                  "items": [
                     {
-                      "conditions": [
-                        {
-                          "minSpecVersion": "1.14",
-                          "preferredColorScheme": "dark"
-                        }
-                      ],
-                      "hidden": true
-                    }
-                  ],
-                  "hidden": false,
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common022/86031-1-eng-GB/common022.jpg"
-                },
-                {
-                  "role": "image",
-                  "layout": "starsImageLayout",
-                  "conditional": [
-                    {
-                      "conditions": [
-                        {
-                          "minSpecVersion": "1.14",
-                          "preferredColorScheme": "dark"
-                        }
-                      ],
-                      "hidden": false
-                    }
-                  ],
-                  "hidden": true,
-                  "URL": "https://public-assets.meredithcorp.io/ba3bbeb190fc45d4b5bb1d08c8fd2a5c/fiveDM.png"
-                },
-                {
-                  "role": "container",
-                  "layout": "smallSpacerLayout"
-                },
-                {
-                  "role": "body",
-                  "layout": {
-                    "padding": {
-                      "top": 0
-                    }
-                  },
-                  "textStyle": "reviewsTextStyle",
-                  "format": "html",
-                  "text": "7 REVIEWS"
-                }
-              ]
-            },
-            {
-              "role": "body",
-              "layout": "bodyNoMarginAboveLayout",
-              "style": "paragraphStyle",
-              "textStyle": "recipeBodyTextStyle",
-              "format": "html",
-              "text": "<i>Serve these burgers on buns with your favorite toppings. We love the classics—lettuce, tomato, onion, mustard, and pickles.</i>"
-            },
-            {
-              "role": "htmltable",
-              "layout": "ingredientsLayout",
-              "style": "ingredientsStyle",
-              "html": "<table><tr><td>3</td><td>cups finely chopped mushrooms (8 oz.)</td></tr><tr><td>1</td><td>cup finely chopped onion</td></tr><tr><td>3</td><td>cloves garlic, minced</td></tr><tr><td>1</td><td>tsp. Italian seasoning</td></tr><tr><td>1</td><td>tsp. salt</td></tr><tr><td>½</td><td>tsp. black pepper</td></tr><tr><td>2</td><td>lb. 85%-lean ground beef</td></tr></table>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>1.</b> Stir together mushrooms, onion, garlic, Italian seasoning, salt, and pepper in a large bowl. With moistened hands, add beef and gently mix just until evenly combined. Shape into eight ½-inch-thick patties."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>2.</b> Preheat an outdoor grill to medium heat (325°F to 375°F). Lightly oil grate. Grill patties, covered, 5 to 7 minutes per side, or until an instant-read thermometer inserted into centers registers 160°F."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede><a href=\"https://www.allrecipes.com/recipe/258947/mushroom-beef-burgers/\">armagazine.com/mushroom-beef-burgers</a></i></lede>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b><i>HIDDEN GEM</i></b> | <b><i>QUICK</i></b>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "attributeTextStyle",
-              "format": "html",
-              "text": "PER BURGER (WITH BUN, WITHOUT TOPPINGS): 402 CAL; 22G FAT (9G SAT); 26G PRO; 25G CARB (2G FIBER, 5G SUGARS); 576MG SODIUM"
-            },
-            {
-              "//": "======= YOU SAID CONTAINER ======",
-              "role": "container",
-              "layout": "youSaidContainerLayout",
-              "components": [
-                {
-                  "role": "pullquote",
-                  "textStyle": "youSaidQuoteTextStyle",
-                  "format": "html",
-                  "text": "“This recipe makes burgers that are juicy and very tasty. I cooked them in an air fryer, and they were perfect.”<br><pullquote-attribution>– CASSIEGAYLE46</pullquote-attribution>"
-                }
-              ]
-            },
-            {
-              "//": "====== CALLOUT ======",
-              "role": "container",
-              "layout": "calloutLayout",
-              "style": "calloutStyle",
-              "components": [
-                {
-                  "role": "heading",
-                  "layout": "calloutHeadingLayout",
-                  "textStyle": "calloutHeadingTextStyle",
-                  "format": "html",
-                  "text": "Juicy Secret"
-                },
-                {
-                  "role": "body",
-                  "layout": "calloutBodyLayout",
-                  "textStyle": "calloutBodyTextStyle",
-                  "format": "html",
-                  "text": "Adding chopped mushrooms to the beef boosts flavor, sneaks in a veggie, and keeps these burgers big and juicy."
-                }
-              ]
-            },
-            {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "fullBleedContainerLayout",
-              "components": [
-                {
-                  "//": "======== IMAGE BLEED - H1516.0/W1366.0 * 100 = 110.9809663 ========",
-                  "role": "photo",
-                  "layout": "fullBleedPhotoLayout",
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p014-alt102382-lasagna-cups/199184-1-eng-GB/p014-alt102382-lasagna-cups.jpg?q=100"
-                }
-              ]
-            },
-            {
-              "role": "heading2",
-              "layout": "heading3Layout",
-              "textStyle": "recipeTitleTextStyle",
-              "format": "html",
-              "text": "Lasagna Cupcakes"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "recipeDetailsTextStyle",
-              "format": "html",
-              "text": "<lede>HANDS-ON</lede> 15 MIN <lede>TOTAL</lede> 40 MIN <lede>SERVES</lede> 6 <br><lede>SUBMITTED BY</lede> KIMBERLEY PIPER"
-            },
-            {
-              "//": "====== REVIEWS ======",
-              "role": "container",
-              "layout": "bodyLayout",
-              "contentDisplay": {
-                "type": "horizontal_stack"
-              },
-              "components": [
-                {
-                  "role": "image",
-                  "layout": "starsImageLayout",
-                  "conditional": [
-                    {
-                      "conditions": [
-                        {
-                          "minSpecVersion": "1.14",
-                          "preferredColorScheme": "dark"
-                        }
-                      ],
-                      "hidden": true
-                    }
-                  ],
-                  "hidden": false,
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common0166/108858-1-eng-GB/common012.jpg?q=100"
-                },
-                {
-                  "role": "image",
-                  "layout": "starsImageLayout",
-                  "conditional": [
-                    {
-                      "conditions": [
-                        {
-                          "minSpecVersion": "1.14",
-                          "preferredColorScheme": "dark"
-                        }
-                      ],
-                      "hidden": false
-                    }
-                  ],
-                  "hidden": true,
-                  "URL": "https://public-assets.meredithcorp.io/8700c3d249629b59c38e0b147c58947c/fourDM.png"
-                },
-                {
-                  "role": "container",
-                  "layout": "smallSpacerLayout"
-                },
-                {
-                  "role": "body",
-                  "layout": {
-                    "padding": {
-                      "top": 0
-                    }
-                  },
-                  "textStyle": "reviewsTextStyle",
-                  "format": "html",
-                  "text": "115 REVIEWS"
-                }
-              ]
-            },
-            {
-              "role": "body",
-              "layout": "bodyNoMarginAboveLayout",
-              "style": "paragraphStyle",
-              "textStyle": "recipeBodyTextStyle",
-              "format": "html",
-              "text": "<i>Give these “cupcakes” a pop of extra flavor with chopped fresh basil and crushed red pepper.</i>"
-            },
-            {
-              "role": "htmltable",
-              "layout": "ingredientsLayout",
-              "style": "ingredientsStyle",
-              "html": "<table><tr><td>24</td><td>wonton wrappers</td></tr><tr><td>6</td><td>oz. ground beef</td></tr><tr><td>¼</td><td>tsp. salt</td></tr><tr><td>¼</td><td>tsp. black pepper</td></tr><tr><td>1¼</td><td>cups grated Parmesan cheese (5 oz.)</td></tr><tr><td>1½</td><td>cups shredded mozzarella cheese (6 oz.)</td></tr><tr><td>1</td><td>cup pasta sauce</td></tr></table>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>1.</b> Preheat oven to 375°F. Coat twelve 3½-inch muffin cups with cooking spray, then press 1 wonton wrapper into each."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>2.</b> Cook beef in a large skillet over medium-high heat, stirring to break up lumps, until browned, 5 to 7 minutes. Sprinkle with salt and black pepper; drain grease."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>3.</b> Stir together ¾ cup each Parmesan and mozzarella in a bowl. Spoon half the cheese mixture into muffin cups; top with half the beef and half the pasta sauce. Top muffin cups with remaining wonton wrappers, cheese mixture, beef, and sauce. Sprinkle with remaining Parmesan and mozzarella."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>4.</b> Bake until edges are browned, 18 to 20 minutes. Let cool in pan 5 minutes, then run a knife around edges to loosen and remove cupcakes."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede><a href=\"https://www.allrecipes.com/recipe/241564/lasagna-cupcakes/\">armagazine.com/lasagna-cupcakes</a></lede>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "attributeTextStyle",
-              "format": "html",
-              "text": "PER SERVING (2 CUPCAKES): 355 CAL; 16G FAT (8G SAT); 24G PRO; 26G CARB (1G FIBER, 3G SUGARS); 990MG SODIUM"
-            },
-            {
-              "//": "======= YOU SAID CONTAINER ======",
-              "role": "container",
-              "layout": "youSaidContainerLayout",
-              "components": [
-                {
-                  "role": "container",
-                  "layout": {
-                    "margin": {
-                      "bottom": 10
-                    }
-                  },
-                  "contentDisplay": {
-                    "alignment": "center",
-                    "distribution": "narrow",
-                    "maximumWidth": 80,
-                    "type": "collection"
-                  },
-                  "components": [
-                    {
-                      "role": "image",
-                      "style": {
-                        "backgroundColor": "#008080",
-                        "mask": {
-                          "radius": 80,
-                          "type": "corners"
-                        }
+                      "caption": {
+                        "format": "html",
+                        "text": "Batson River Fish Camp",
+                        "textStyle": "captionEmbeddedTextStyle"
                       },
-                      "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/carolportno_032/197500-1-eng-GB/carolportno_0322.jpg?q=100"
+                      "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/mdi_claremo_068/130059-1-eng-GB/mdi_claremo_0682.jpg?q=100"
+                    },
+                    {
+                      "caption": {
+                        "format": "html",
+                        "text": "Iconic treat in Northeast Harbor",
+                        "textStyle": "captionEmbeddedTextStyle"
+                      },
+                      "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/mdi_northea_069/130038-1-eng-GB/mdi_northea_0692.jpg?q=100"
+                    },
+                    {
+                      "caption": {
+                        "format": "html",
+                        "text": "The Claremont Hotel",
+                        "textStyle": "captionEmbeddedTextStyle"
+                      },
+                      "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/p025-bzo102397-claremont-hotel/131435-1-eng-GB/p025-bzo102397-claremont-hotel.jpg?q=100"
+                    },
+                    {
+                      "caption": {
+                        "format": "html",
+                        "text": "Little Fern at The Claremont",
+                        "textStyle": "captionEmbeddedTextStyle"
+                      },
+                      "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/p025-bzo102397-little-fern/131414-1-eng-GB/p025-bzo102397-little-fern.jpg?q=100"
+                    },
+                    {
+                      "caption": {
+                        "format": "html",
+                        "text": "The Claremont Hotel",
+                        "textStyle": "captionEmbeddedTextStyle"
+                      },
+                      "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/mdi_claremo_070/130017-1-eng-GB/mdi_claremo_0702.jpg?q=100"
+                    },
+                    {
+                      "caption": {
+                        "format": "html",
+                        "text": "The Claremont owner Tim Harrington",
+                        "textStyle": "captionEmbeddedTextStyle"
+                      },
+                      "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/mdi_claremo_094/130010-1-eng-GB/mdi_claremo_0942.jpg?q=100"
+                    },
+                    {
+                      "caption": {
+                        "format": "html",
+                        "text": "IslandBound Treats",
+                        "textStyle": "captionEmbeddedTextStyle"
+                      },
+                      "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/mdi_islandb_072/130045-1-eng-GB/mdi_islandb_0722.jpg?q=100"
+                    },
+                    {
+                      "caption": {
+                        "format": "html",
+                        "text": "Bass Harbor",
+                        "textStyle": "captionEmbeddedTextStyle"
+                      },
+                      "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/p025-bzo102397-bass-harbor/131421-1-eng-GB/p025-bzo102397-bass-harbor.jpg?q=100"
+                    },
+                    {
+                      "caption": {
+                        "format": "html",
+                        "text": "Sabina A. Wood Art &amp; Antiques",
+                        "textStyle": "captionEmbeddedTextStyle"
+                      },
+                      "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/mdi_sabrina_095/130003-1-eng-GB/mdi_sabrina_0952.jpg?q=100"
                     }
                   ]
                 },
                 {
-                  "role": "pullquote",
-                  "textStyle": "youSaidQuoteTextStyle",
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
                   "format": "html",
-                  "text": "“I made these vegetarian by using spinach, zucchini, yellow squash, and onions. They tasted even better two days later.”<br><pullquote-attribution>– CAROL PORTNOY CENNAMO</pullquote-attribution>"
-                }
-              ]
-            },
-            {
-              "//": "======= YOU SAID CONTAINER ======",
-              "role": "container",
-              "layout": "youSaidContainerLayout",
-              "components": [
-                {
-                  "//": "======= YOU SAID HEADING ======",
-                  "role": "heading5",
-                  "layout": "heading5Layout",
-                  "style": "heading5Style",
-                  "textStyle": "heading5CenteredTextStyle",
-                  "format": "html",
-                  "text": "Alexa-enabled!"
-                },
-                {
-                  "role": "image",
-                  "layout": {
-                    "//": "IPAD CONDITION STYLING",
-                    "conditional": [
-                      {
-                        "//": "PHONE CONDITION STYLING",
-                        "conditions": [
-                          {
-                            "maxViewportWidth": 415
-                          }
-                        ],
-                        "maximumContentWidth": "20cw",
-                        "minimumWidth": "20cw"
-                      }
-                    ],
-                    "maximumContentWidth": "10cw",
-                    "minimumWidth": "10cw"
-                  },
-                  "URL": "https://public-assets.meredithcorp.io/52a9945feae3786d54921b3bcdb7b230/ALR0920-p51-badge.png"
-                },
-                {
-                  "role": "pullquote",
-                  "layout": "bodySmallMarginAboveLayout",
-                  "textStyle": "youSaidQuoteTextStyle",
-                  "format": "html",
-                  "text": "“Just say, “Alexa, ask Allrecipes for Lasagna Cupcakes.” She’ll guide you through the recipe step-by-step—all hands-free!”"
-                }
-              ]
-            },
-            {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "fullBleedContainerLayout",
-              "components": [
-                {
-                  "//": "======== IMAGE BLEED - H1585.0/W1366.0 * 100 = 116.0322108 ========",
-                  "role": "photo",
-                  "layout": "fullBleedPhotoLayout",
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p015-alt102382-fire-roasted-corn-beef-skillet-pie/199198-1-eng-GB/p015-alt102382-fire-roasted-corn-beef-skillet-pie.jpg?q=100"
+                  "text": "<caption-heading>Clockwise from top left:</caption-heading><br>Batson River Fish Camp; Iconic treat in Northeast Harbor; The Claremont Hotel; The Claremont owner Tim Harrington; Sabina A. Wood Art &amp; Antiques; Bass Harbor; IslandBound Treats; Little Fern at The Claremont; The Claremont Hotel"
                 }
               ]
             },
             {
               "role": "heading2",
-              "layout": "heading3Layout",
-              "textStyle": "recipeTitleTextStyle",
+              "layout": "heading2Layout",
+              "textStyle": "heading2TextStyle",
               "format": "html",
-              "text": "Fire-Roasted Corn and Beef Skillet Pie"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "recipeDetailsTextStyle",
-              "format": "html",
-              "text": "<lede>HANDS-ON</lede> 15 MIN <lede>TOTAL</lede> 45 MIN <lede>SERVES</lede> 6 <br><lede>SUBMITTED BY</lede> EATANDRUN"
-            },
-            {
-              "//": "***** NEW RECIPE LINK *****",
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "recipeDetailsTextStyle",
-              "format": "html",
-              "text": "<a href=\"https://www.allrecipes.com/recipe/8388138/fire-roasted-corn-and-beef-skillet-pie/\">NEW RECIPE GO ONLINE TO RATE &amp; REVIEW</a>"
+              "text": "Rusticators."
             },
             {
               "role": "body",
               "layout": "bodyNoMarginAboveLayout",
               "style": "paragraphStyle",
-              "textStyle": "recipeBodyTextStyle",
+              "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<i>Have some pizza seasoning in your spice cabinet? Sprinkle it over the breadsticks before baking.</i>"
-            },
-            {
-              "role": "htmltable",
-              "layout": "ingredientsLayout",
-              "style": "ingredientsStyle",
-              "html": "<table><tr><td>1</td><td>lb. ground beef</td></tr><tr><td>2</td><td>cups frozen fire-roasted corn</td></tr><tr><td>24</td><td>oz. jar red pasta sauce</td></tr><tr><td>¾</td><td>cup shredded pepper Jack cheese</td></tr><tr><td>1</td><td>(11-oz.) pkg. refrigerated breadsticks</td></tr></table>"
+              "text": "I’ve learned this word today, and it’s a revelation. Like discovering the code to a cipher, finding the right key for an old lock, or murmuring one of those Harry Potter spells that makes everything click magically into place, I feel like I understand the world surrounding me a bit better on this sunny, early summer day in Maine."
             },
             {
               "role": "body",
@@ -701,51 +231,30 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>1.</b> Preheat oven to 400°F. Cook ground beef, stirring and breaking up lumps, in a large cast-iron skillet until browned, about 10 minutes. Stir in corn and pasta sauce. Bring to a boil, then stir in cheese. Unroll breadsticks and loosely weave on top of filling."
+              "text": "The world is that of Mount Desert Island, the famed Down East destination that’s home to one of America’s most beloved national parks and its gateway town of Bar Harbor, as well as a history of immense wealth tucked among its wilds. I’ve come to MDI, as folks shorthand it, to explore an exciting burst of historic revitalization, two high-style campgrounds fit for a Rockefeller, and a new generation of designers, chefs, and curators keeping company with the old guard. For several days I have been trying to tease apart the founding principles of the good life, MDI-style. What DNA informs escapism here in the upper-right corner of America?"
             },
             {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>2.</b> Bake until golden brown and bubbly, 20 to 25 minutes. Let stand 10 minutes."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede><a href=\"https://www.allrecipes.com/recipe/8388138/fire-roasted-corn-and-beef-skillet-pie/\">armagazine.com/fire-roasted-corn-and-beef-skillet-pie</a></lede>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "attributeTextStyle",
-              "format": "html",
-              "text": "PER SERVING: 435 CAL; 18G FAT (7G SAT); 24G PRO; 43G CARB (4G FIBER, 11G SUGARS); 1,015MG SODIUM"
-            },
-            {
-              "//": "====== CALLOUT ======",
+              "//": "======== FULL BLEED CONTAINER ========",
               "role": "container",
-              "layout": "calloutLayout",
-              "style": "calloutStyle",
+              "layout": "fullBleedContainerLayout",
               "components": [
                 {
-                  "role": "heading",
-                  "layout": "calloutHeadingLayout",
-                  "textStyle": "calloutHeadingTextStyle",
-                  "format": "html",
-                  "text": "Get More Recipes"
+                  "//": "======== IMAGE BLEED - H1691.0/W1367.0 * 100 = 123.7015362 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "caption": {
+                    "format": "html",
+                    "text": "Poolside cabanas at The Claremont Hotel",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/mdi_claremo_075/129996-1-eng-GB/mdi_claremo_0752.jpg?q=100"
                 },
                 {
-                  "role": "body",
-                  "layout": "calloutBodyLayout",
-                  "textStyle": "calloutBodyTextStyle",
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
                   "format": "html",
-                  "text": "Tap <a href=\"http://tqr.bz/iTT\">here</a> to see 19 fast, family-friendly ground beef dinners. No app download needed!"
+                  "text": "Poolside cabanas at The Claremont Hotel"
                 }
               ]
             },
@@ -755,100 +264,32 @@
               "layout": "fullBleedContainerLayout",
               "components": [
                 {
-                  "//": "======== IMAGE BLEED - H1890.0/W1366.0 * 100 = 138.3601757 ========",
+                  "//": "======== IMAGE BLEED - H799.0/W1024.0 * 100 = 78.0273438 ========",
                   "role": "photo",
                   "layout": "fullBleedPhotoLayout",
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p016-alt102382-spicy-lamb-patties/199212-1-eng-GB/p016-alt102382-spicy-lamb-patties.jpg?q=100"
-                }
-              ]
-            },
-            {
-              "role": "heading2",
-              "layout": "heading3Layout",
-              "textStyle": "recipeTitleTextStyle",
-              "format": "html",
-              "text": "Spicy Lamb Patties"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "recipeDetailsTextStyle",
-              "format": "html",
-              "text": "<lede>HANDS-ON</lede> 25 MIN <lede>TOTAL</lede> 25 MIN <lede>SERVES</lede> 4 <br><lede>SUBMITTED BY</lede> CHEYENNIGANS"
-            },
-            {
-              "//": "====== REVIEWS ======",
-              "role": "container",
-              "layout": "bodyLayout",
-              "contentDisplay": {
-                "type": "horizontal_stack"
-              },
-              "components": [
-                {
-                  "role": "image",
-                  "layout": "starsImageLayout",
-                  "conditional": [
-                    {
-                      "conditions": [
-                        {
-                          "minSpecVersion": "1.14",
-                          "preferredColorScheme": "dark"
-                        }
-                      ],
-                      "hidden": true
-                    }
-                  ],
-                  "hidden": false,
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common0166/108858-1-eng-GB/common012.jpg?q=100"
-                },
-                {
-                  "role": "image",
-                  "layout": "starsImageLayout",
-                  "conditional": [
-                    {
-                      "conditions": [
-                        {
-                          "minSpecVersion": "1.14",
-                          "preferredColorScheme": "dark"
-                        }
-                      ],
-                      "hidden": false
-                    }
-                  ],
-                  "hidden": true,
-                  "URL": "https://public-assets.meredithcorp.io/8700c3d249629b59c38e0b147c58947c/fourDM.png"
-                },
-                {
-                  "role": "container",
-                  "layout": "smallSpacerLayout"
-                },
-                {
-                  "role": "body",
-                  "layout": {
-                    "padding": {
-                      "top": 0
-                    }
+                  "caption": {
+                    "format": "html",
+                    "text": "The pier at The Claremont",
+                    "textStyle": "captionEmbeddedTextStyle"
                   },
-                  "textStyle": "reviewsTextStyle",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/p031-bzo102397-claremont-pier/131463-1-eng-GB/p031-bzo102397-claremont-pier.jpg?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
                   "format": "html",
-                  "text": "72 REVIEWS"
+                  "text": "The pier at The Claremont"
                 }
               ]
             },
             {
               "role": "body",
-              "layout": "bodyNoMarginAboveLayout",
+              "layout": "bodyLayout",
               "style": "paragraphStyle",
-              "textStyle": "recipeBodyTextStyle",
+              "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<i>Try tucking these spiced patties into pitas along with fresh toppings, such as cucumber, baby spinach, tomato, and/or yogurt.</i>"
-            },
-            {
-              "role": "htmltable",
-              "layout": "ingredientsLayout",
-              "style": "ingredientsStyle",
-              "html": "<table><tr><td>1</td><td>lb. ground lamb</td></tr><tr><td>⅓</td><td>cup minced green onion</td></tr><tr><td>4</td><td>cloves garlic, minced</td></tr><tr><td>1</td><td>Tbsp. curry powder</td></tr><tr><td>1</td><td>tsp. cumin</td></tr><tr><td>¼</td><td>tsp. crushed red pepper</td></tr><tr><td>½</td><td>tsp. salt</td></tr><tr><td>½</td><td>tsp. black pepper</td></tr></table>"
+              "text": "I swirl the heavy cubes icing my gin and examine the vista from the graceful veranda of The Claremont Hotel, where I’ve settled into a wicker chair painted a fresh, deep green (and settled in for several plush nights in its newly renovated digs). Below me, a wide lawn sweeps around a rectangle of swimming pool in a grand unfurl to the cobalt blue of fjord-like Somes Sound. At water’s edge, a colony of sailboats, Hinckley motor yachts, and The Claremont’s <i>The Lady Claire</i> tour boat bob near a narrow pier and lobster buoy–festooned boathouse-turned-bar. I hear the clack of a croquet mallet striking a ball, and then a holler of exultation at the shot. Beyond the water rises a painterly backdrop of ridgelines capped at the horizon by the sloping granite mountaintops of Acadia National Park. From the refined to the wild, I think, and back again."
             },
             {
               "role": "body",
@@ -856,58 +297,136 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>1.</b> Preheat an outdoor or stovetop grill to high (450°F to 650°F). Lightly oil grate."
+              "text": "No wonder they called them rusticators."
             },
             {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>2.</b> Stir all ingredients into a bowl. Form mixture into 4 patties (3¼ inches wide and ¾ inch thick)."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>3.</b> Grill patties to preferred degree of doneness, about 5 minutes per side for medium."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede><a href=\"https://www.allrecipes.com/recipe/84364/spicy-lamb-patties/\">armagazine.com/spicy-lamb-patties</a></lede>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b><i>QUICK</i></b>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "attributeTextStyle",
-              "format": "html",
-              "text": "PER PATTY: 287 CAL; 22G FAT (9G SAT); 20G PRO; 3G CARB (1G FIBER, 0G SUGARS); 362MG SODIUM"
-            },
-            {
-              "//": "======= YOU SAID CONTAINER ======",
+              "//": "======== FULL BLEED CONTAINER ========",
               "role": "container",
-              "layout": "youSaidContainerLayout",
+              "layout": "fullBleedContainerLayout",
               "components": [
                 {
-                  "role": "pullquote",
-                  "textStyle": "youSaidQuoteTextStyle",
+                  "//": "======== IMAGE BLEED - H1381.0/W1024.0 * 100 = 134.8632813 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "caption": {
+                    "format": "html",
+                    "text": "Mount Desert Island’s world of boats",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/p027-bzo102397-mount-desert-island/131449-1-eng-GB/p027-bzo102397-mount-desert-island.jpg?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
                   "format": "html",
-                  "text": "“Remember to check the heat level of the curry powder. There is mild, medium, and hot. If you’re new to curry, start with mild.”<br><pullquote-attribution>– LAURAELLEN225</pullquote-attribution>"
+                  "text": "Mount Desert Island’s world of boats"
+                }
+              ]
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>RUSTICATORS DIDN’T DISCOVER THIS ISLAND,</lede> bristled with conifers and backboned with broad swaths of granite, dangling from the coastline into the cold, clear Atlantic like a fat lobster claw. It was long home to the Passamaquoddy and Penobscot tribes, later colonized by the French and then the English, made American by the Revolution, and then quietly inhabited for a century by farmers and fishermen, lumbermen and shipbuilders. But when Hudson River School artists Thomas Cole and Frederic Church made their ways to the distant, wild idyll in the 1850s and returned with canvases of Mount Desert’s sweeps of stone, its romantic coves and wild seas, their exhibitions in Boston, Philadelphia, and New York created a sensation."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "Victorians rushed aboard steamers and rail cars to discover Mount Desert for themselves but found the quiet spot not yet ready for prime time, tourism-wise. A smattering of small hotels barely covered the influx, so most vacationers took rooms with local farmers and fisher-men. And here’s the thing: Those adventuresome early tourists loved that rusticated life. They returned the next summer, and the summer after that, building friendships with their local hosts and seeding a culture of leisurely roughing it. They were termed rusticators—they clambered and picnicked on the rocky bluffs, fished and swam, climbed mountains, and enjoyed a simple, fresh existence that was a balm for their lives back home in the crowded, industrializing cities to the south."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "But there were only so many huts and cottages to go around—by 1880, 30 hotels had popped up in the area. (The Claremont opened in 1884.) What artists and adventurers discover is generally gobbled up by the wealthy. And thus, the next wave to break upon Mount Desert Island was the newly minted American aristocracy of the late 19th century: scions like Frederick and George Vanderbilt, industrialists like Joseph Pulitzer and William Proctor, socialites like author Mary Cadwalader Jones and mining heiress Evalyn Walsh McLean. There were Rockefellers, Morgans, DuPonts, Bouviers, and Astors. Like their ilk who similarly decamped to Newport, Rhode Island, these Gilded Age glitterati built massive mansions along Frenchman Bay near the village of Bar Harbor as their summer “cottages.” Amid the splendor, textile heir and preservationist George Dorr began a strident campaign to purchase and preserve much of the eastern side’s landscape, ultimately leading to the creation of the national park in 1919 that would get its final name, Acadia, in 1929. And a sylvan Acadia it all was—an idealized playground of open lands, carriage roads, and even an official Millionaire Row in Bar Harbor. And then, in 1947, it all burned down."
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H799.0/W1024.0 * 100 = 78.0273438 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "caption": {
+                    "format": "html",
+                    "text": "Acadia National Park",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/p028-029-bzo102397-acadia-national-park/131456-1-eng-GB/p028-029-bzo102397-acadia-national-park.jpg?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "Acadia National Park"
+                }
+              ]
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>IT’S HARD TO BELIEVE THAT A MONTHLONG</lede> wildfire would terrorize this water-surrounded place, but that’s what happened. After a dry summer, a cranberry bog fire was reported smoldering underground on October 17, and that’s where it stayed for three days. But strong winds arrived on the 21st, whipping the flames into a conflagration that engulfed the eastern half of the island within days. While miraculously sparing Bar Harbor’s densely packed town center, flames consumed nearly all of Millionaire’s Row and swept through Acadia National Park, forming a fire ball over the sea before ultimately being declared fully extinguished on November 14. Most of the millionaires, by then beleaguered by the creation of the income tax several decades prior and the lingering vestiges of the Great Depression, never rebuilt and never returned. Nature, on the other hand, did—replacing spruce and fir with sun-loving birch and aspen. The result is today’s Mount Desert Island. On the western claw untouched by the fire, I find this grand historic hotel, quiet working towns like Southwest Harbor, lobster shacks, preserved coastlines, and bucolic small communities and fishing harbors. On the eastern claw, there’s the regrown flora and famed granites of Acadia National Park; there’s Bar Harbor, which brims with day-trippers and parkgoers all season long; and two enclaves with rich—and richer still—summer folks maintaining the pleasures of upscale rustication."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "It all becomes clear, as so many things do, from the water. “You see Northeast Harbor, there?” Jad Dow asks, as he maneuvers the cruiser <i>Liberty</i> along the eastern half of the island’s ocean-facing shoreline. “That’s where the millionaires live.” From the water, Northeast Harbor shows off like the gorgeous New England coastal enclave it is: glimmers of a village and marina, gracious shingle-style homes, lawns, and banks of rhododendron and hydrangea. “You see Seal Harbor, there?” Dow says. I peer farther east. It’s green upon green, the occasional thrust of houses that are large, but as quiet as grandeur can manage—like a stage whisper. “That,” he says, “is where the billionaires live.”"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "He should know. Dow works at Hinckley Yachts, Southwest Harbor’s redoubtable boatyard founded in 1928 by Henry R. Hinckley to service local lobster boats and the yachts of summer folk. Hinckley built his first boat in 1933, a “fisherman” with a sweeping bow and innate grace that still informs the company’s famed line of cruising and sailing craft. A locus of maritime design and local employment, and a keyhole through which islanders peer into the lives of their richest neighbors, the company is a Maine—and MDI—institution. Dow’s day job is overseeing local Hinckleys, so he’s up close and personal with the million- and billionaires, from Rockefellers to Martha Stewart to <i>Law &amp; Order</i> impresario Dick Wolf. An affably communicative captain, Dow shares that Wolf keeps three boats here—<i>Illegal, Primetime II,</i> and <i>Miss Demeanor.</i> “He’s a great guy,” he adds. “Everyone up here tends to be.”"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "Home to Hinckley and The Claremont, Southwest Harbor turns out to be a tidy marvel of a town, gently updating while still maintaining its sense of a place where working folks live, shop, and gather. You can feel the breeze of change on Main Street, where new shops like Bramble &amp; Stone lean knowingly into Maine icons like lobsters and pine trees for sweaters, hats, and other takeaways that are a million style miles from the old-school souvenir shops in Bar Harbor. Nearby, chef/owners Dave Allen and Zach Firestein at Hearth &amp; Harbor have performed their upgrade along culinary lines, putting wood-fired pizzas and local seafood at the center of their full-wall chalkboard menu. A few blocks away, Mary Musson’s whole family is hard at work in IslandBound Treats’ tiny-house bakeshop—rolling dough, filling, baking, and selling pies to a steady stream of folks pulling up in cars and sauntering by on the sidewalk. “We have to take one with us!” a patron gushes, rushing to get her hands on one of Musson’s last Triple Berry Pies of the day with, of course, Maine blueberries. Her husband waits for her with the motor running. She lingers, looking up and down Main Street. “We’re on our way home now,” she adds, wistfully."
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H2217.0/W1367.0 * 100 = 162.1799561 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "caption": {
+                    "format": "html",
+                    "text": "Harry’s Bar at The Claremont Hotel",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/mdi_claremo_080/129961-1-eng-GB/mdi_claremo_0802.jpg?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "Harry’s Bar at The Claremont Hotel"
                 }
               ]
             },
@@ -917,164 +436,22 @@
               "layout": "fullBleedContainerLayout",
               "components": [
                 {
-                  "//": "======== IMAGE BLEED - H2107.0/W1366.0 * 100 = 154.2459736 ========",
+                  "//": "======== IMAGE BLEED - H1678.0/W1244.0 * 100 = 134.8874598 ========",
                   "role": "photo",
                   "layout": "fullBleedPhotoLayout",
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p017-alt102382-sausage-egg-muffins/199205-1-eng-GB/p017-alt102382-sausage-egg-muffins.jpg?q=100"
-                }
-              ]
-            },
-            {
-              "role": "heading2",
-              "layout": "heading3Layout",
-              "textStyle": "recipeTitleTextStyle",
-              "format": "html",
-              "text": "Sausage-Egg Muffins"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "recipeDetailsTextStyle",
-              "format": "html",
-              "text": "<lede>HANDS-ON</lede> 20 MIN <lede>TOTAL</lede> 40 MIN <lede>MAKES</lede> 12<br><lede>SUBMITTED BY</lede> SMILEYBLAKE"
-            },
-            {
-              "//": "====== REVIEWS ======",
-              "role": "container",
-              "layout": "bodyLayout",
-              "contentDisplay": {
-                "type": "horizontal_stack"
-              },
-              "components": [
-                {
-                  "role": "image",
-                  "layout": "starsImageLayout",
-                  "conditional": [
-                    {
-                      "conditions": [
-                        {
-                          "minSpecVersion": "1.14",
-                          "preferredColorScheme": "dark"
-                        }
-                      ],
-                      "hidden": true
-                    }
-                  ],
-                  "hidden": false,
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common0166/108858-1-eng-GB/common012.jpg?q=100"
-                },
-                {
-                  "role": "image",
-                  "layout": "starsImageLayout",
-                  "conditional": [
-                    {
-                      "conditions": [
-                        {
-                          "minSpecVersion": "1.14",
-                          "preferredColorScheme": "dark"
-                        }
-                      ],
-                      "hidden": false
-                    }
-                  ],
-                  "hidden": true,
-                  "URL": "https://public-assets.meredithcorp.io/8700c3d249629b59c38e0b147c58947c/fourDM.png"
-                },
-                {
-                  "role": "container",
-                  "layout": "smallSpacerLayout"
-                },
-                {
-                  "role": "body",
-                  "layout": {
-                    "padding": {
-                      "top": 0
-                    }
+                  "caption": {
+                    "format": "html",
+                    "text": "Daily catch at Thurston’s Lobster Pound",
+                    "textStyle": "captionEmbeddedTextStyle"
                   },
-                  "textStyle": "reviewsTextStyle",
-                  "format": "html",
-                  "text": "184 REVIEWS"
-                }
-              ]
-            },
-            {
-              "role": "body",
-              "layout": "bodyNoMarginAboveLayout",
-              "style": "paragraphStyle",
-              "textStyle": "recipeBodyTextStyle",
-              "format": "html",
-              "text": "<i>Round out your meal by serving these muffins with salsa and/or fresh fruit.</i>"
-            },
-            {
-              "role": "htmltable",
-              "layout": "ingredientsLayout",
-              "style": "ingredientsStyle",
-              "html": "<table><tr><td>½</td><td>lb. ground pork sausage</td></tr><tr><td>12</td><td>eggs, beaten</td></tr><tr><td>½</td><td>(4-oz.) can chopped green chile peppers, drained</td></tr><tr><td>¾</td><td>cup chopped onion</td></tr><tr><td>1</td><td>tsp. garlic powder</td></tr><tr><td>¼</td><td>tsp. salt</td></tr><tr><td>⅛</td><td>tsp. black pepper</td></tr></table>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>1.</b> Preheat oven to 350°F. Lightly grease 12 muffin cups."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>2.</b> Add sausage to a large, deep skillet over medium-high heat; cook, breaking up lumps with a wooden spoon, until evenly browned, about 5 minutes. Drain grease and transfer sausage to a large bowl. Stir in eggs, chiles, onion, garlic powder, salt, and black pepper until well combined. Spoon ¼ cup sausage mixture into each prepared muffin cup."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>3.</b> Bake until egg has set and a toothpick inserted into centers comes out clean, 15 to 20 minutes."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede><a href=\"https://www.allrecipes.com/recipe/21602/sausage-egg-muffins/\">armagazine.com/sausage-egg-muffins</a></lede>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "attributeTextStyle",
-              "format": "html",
-              "text": "PER MUFFIN: 132 CAL; 9G FAT (3G SAT); 9G PRO; 2G CARB (0G FIBER, 1G SUGARS); 278MG SODIUM"
-            },
-            {
-              "//": "======= YOU SAID CONTAINER ======",
-              "role": "container",
-              "layout": "youSaidContainerLayout",
-              "components": [
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/p028-bzo102397-lobster-fisherman/131442-1-eng-GB/p028-bzo102397-lobster-fisherman.jpg?q=100"
+                },
                 {
-                  "role": "pullquote",
-                  "textStyle": "youSaidQuoteTextStyle",
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
                   "format": "html",
-                  "text": "“I added about 2 Tbsp. salsa and a splash of hot sauce instead of the chile peppers. These would probably be even better with some cheese sprinkled on top.”<br><pullquote-attribution>– BEANIE76</pullquote-attribution>"
-                }
-              ]
-            },
-            {
-              "//": "======= YOU SAID CONTAINER ======",
-              "role": "container",
-              "layout": "youSaidContainerLayout",
-              "components": [
-                {
-                  "role": "pullquote",
-                  "textStyle": "youSaidQuoteTextStyle",
-                  "format": "html",
-                  "text": "“So much fun! I made these in a mini muffin pan so they were easier to eat and made for a fast breakfast on the run.”<br><pullquote-attribution>– LAURA</pullquote-attribution>"
+                  "text": "Daily catch at Thurston’s Lobster Pound"
                 }
               ]
             },
@@ -1084,174 +461,32 @@
               "layout": "fullBleedContainerLayout",
               "components": [
                 {
-                  "//": "======== IMAGE BLEED - H1334.0/W1366.0 * 100 = 97.6573939 ========",
+                  "//": "======== IMAGE BLEED - H1678.0/W1244.0 * 100 = 134.8874598 ========",
                   "role": "photo",
                   "layout": "fullBleedPhotoLayout",
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p018-alt102382-ms-buffalo-chicken-meatballs/199240-1-eng-GB/p018-alt102382-ms-buffalo-chicken-meatballs.jpg?q=100"
-                }
-              ]
-            },
-            {
-              "role": "heading2",
-              "layout": "heading3Layout",
-              "textStyle": "recipeTitleTextStyle",
-              "format": "html",
-              "text": "M’s Buffalo Chicken Meatballs"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "recipeDetailsTextStyle",
-              "format": "html",
-              "text": "<lede>HANDS-ON</lede> 25 MIN <lede>TOTAL</lede> 45 MIN <lede>SERVES</lede> 10 <br><lede>SUBMITTED BY</lede> MMARONIC"
-            },
-            {
-              "//": "====== REVIEWS ======",
-              "role": "container",
-              "layout": "bodyLayout",
-              "contentDisplay": {
-                "type": "horizontal_stack"
-              },
-              "components": [
-                {
-                  "role": "image",
-                  "layout": "starsImageLayout",
-                  "conditional": [
-                    {
-                      "conditions": [
-                        {
-                          "minSpecVersion": "1.14",
-                          "preferredColorScheme": "dark"
-                        }
-                      ],
-                      "hidden": true
-                    }
-                  ],
-                  "hidden": false,
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common0166/108858-1-eng-GB/common012.jpg?q=100"
-                },
-                {
-                  "role": "image",
-                  "layout": "starsImageLayout",
-                  "conditional": [
-                    {
-                      "conditions": [
-                        {
-                          "minSpecVersion": "1.14",
-                          "preferredColorScheme": "dark"
-                        }
-                      ],
-                      "hidden": false
-                    }
-                  ],
-                  "hidden": true,
-                  "URL": "https://public-assets.meredithcorp.io/8700c3d249629b59c38e0b147c58947c/fourDM.png"
-                },
-                {
-                  "role": "container",
-                  "layout": "smallSpacerLayout"
-                },
-                {
-                  "role": "body",
-                  "layout": {
-                    "padding": {
-                      "top": 0
-                    }
+                  "caption": {
+                    "format": "html",
+                    "text": "Slack Tide Shop",
+                    "textStyle": "captionEmbeddedTextStyle"
                   },
-                  "textStyle": "reviewsTextStyle",
-                  "format": "html",
-                  "text": "51 REVIEWS"
-                }
-              ]
-            },
-            {
-              "role": "body",
-              "layout": "bodyNoMarginAboveLayout",
-              "style": "paragraphStyle",
-              "textStyle": "recipeBodyTextStyle",
-              "format": "html",
-              "text": "<i>For a fresh finish, top these meatballs with chopped parsley or celery leaves.</i>"
-            },
-            {
-              "role": "htmltable",
-              "layout": "ingredientsLayout",
-              "style": "ingredientsStyle",
-              "html": "<table><tr><td>6</td><td>Tbsp. hot pepper sauce (such as Frank’s RedHot), plus more for serving</td></tr><tr><td>¼</td><td>cup butter</td></tr><tr><td>1</td><td>lb. ground chicken</td></tr><tr><td>¾</td><td>cup dried bread crumbs</td></tr><tr><td>1</td><td>egg, lightly beaten</td></tr></table>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>1.</b> Preheat oven to 450°F. Grease a large rimmed baking sheet."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>2.</b> Heat hot sauce and butter in a saucepan over low heat, whisking until butter is melted. Let cool to room temperature."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>3.</b> Stir together hot sauce mixture, chicken, bread crumbs, and egg in a bowl until well combined. Shape into 1-inch balls; arrange on prepared sheet."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>4.</b> Bake about 15 minutes, or until an instant-read thermometer inserted into centers registers 165°F. Let cool on sheet 5 minutes. Transfer to a platter. Drizzle with additional hot sauce."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede><a href=\"https://www.allrecipes.com/recipe/238020/buffalo-meatballs/\">armagazine.com/ms-buffalo-chicken-meatballs</a></lede>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "attributeTextStyle",
-              "format": "html",
-              "text": "PER SERVING (4 MEATBALLS): 145 CAL; 9G FAT (4G SAT); 10G PRO; 6G CARB (0G FIBER, 1G SUGARS); 475MG SODIUM"
-            },
-            {
-              "//": "======= YOU SAID CONTAINER ======",
-              "role": "container",
-              "layout": "youSaidContainerLayout",
-              "components": [
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/p028-bzo102397-slack-tide-shop/131470-1-eng-GB/p028-bzo102397-slack-tide-shop.jpg?q=100"
+                },
                 {
-                  "role": "pullquote",
-                  "textStyle": "youSaidQuoteTextStyle",
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
                   "format": "html",
-                  "text": "“These were a great way to scratch the itch for chicken wings without having all the fat and calories. I used ground turkey breast and panko bread crumbs.”<br><pullquote-attribution>– KOOLKITTY</pullquote-attribution>"
+                  "text": "Slack Tide Shop"
                 }
               ]
             },
             {
-              "//": "======= YOU SAID CONTAINER ======",
-              "role": "container",
-              "layout": "youSaidContainerLayout",
-              "components": [
-                {
-                  "role": "pullquote",
-                  "textStyle": "youSaidQuoteTextStyle",
-                  "format": "html",
-                  "text": "“I tucked a little cheddar inside each meatball. And I added melted butter and hot sauce at the end instead of plain hot sauce. Huge hit!”<br><pullquote-attribution>– SCARVIN</pullquote-attribution>"
-                }
-              ]
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>IT’S EASY TO APPRECIATE THE ARDOR OF THE</lede> departing visitor who wrings every bit of taste, of divine rustication, from this island. I feel this way after a few days and therefore vow to hit at least one lobster shack a day. And while there is nothing in the other 49 states that touches the experience of fresh-caught Maine lobster served up at a shack or pound anywhere on the coast, there’s an exciting new generation taking hold of the time-honored industry up here. Down Route 102 from Southwest Harbor lies the ideal example: Thurston’s Lobster Pound in tiny Bernard, where I’m standing in line awaiting the noon opening so I can snag a seat overlooking Thurston’s docks, lobster pots stacked high, and the quiet marine hum of boats heading in and out of this protected little harbor. Christina Lapointe has not only helped keep the restaurant—in her family for five generations since great-grandfather Fred Thurston started the business in 1946—vibrantly humming, but also opened a new boutique, Slack Tide Shop, in a shingled house at the turn in the road to Thurston’s. Like Bramble &amp; Stone in Southwest Harbor, the curation here nods to tradition while updating the hunt-and-gather ethos with darling lobster-bedecked children’s wear, locally crafted soaps, and artisan sea salts. The pleasures in Bernard, now, are doubled thanks to Lapointe—from a bright-orange-red quarter-pound lobster on Thurston’s sunny dock to a spell of peak souvenir shopping. It’s the perfect MDI afternoon."
             },
             {
               "//": "======== FULL BLEED CONTAINER ========",
@@ -1259,173 +494,332 @@
               "layout": "fullBleedContainerLayout",
               "components": [
                 {
-                  "//": "======== IMAGE BLEED - H2010.0/W1366.0 * 100 = 147.1449488 ========",
+                  "//": "======== IMAGE BLEED - H2301.0/W1367.0 * 100 = 168.3247988 ========",
                   "role": "photo",
                   "layout": "fullBleedPhotoLayout",
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p019-alt102382-healthy-turkey-loaf/199219-1-eng-GB/p019-alt102382-healthy-turkey-loaf.jpg?q=100"
+                  "caption": {
+                    "format": "html",
+                    "text": "Good Design Here owner Diana Brochendorff",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/mdi_gooddes_081/129954-1-eng-GB/mdi_gooddes_0812.jpg?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "Good Design Here owner Diana Brochendorff"
                 }
               ]
-            },
-            {
-              "role": "heading2",
-              "layout": "heading3Layout",
-              "textStyle": "recipeTitleTextStyle",
-              "format": "html",
-              "text": "Healthy Turkey Loaf"
             },
             {
               "role": "body",
               "layout": "bodyLayout",
               "style": "paragraphStyle",
-              "textStyle": "recipeDetailsTextStyle",
+              "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>HANDS-ON</lede> 15 MIN <lede>TOTAL</lede> 40 MIN <lede>SERVES</lede> 6 <br><lede>SUBMITTED BY</lede> SUSAN E. MURPHY"
+              "text": "So is a slow stroll amid the even tinier downtown of Northeast Harbor. Here is where savvy rusticators source antiques and vintage finds, respectively, at Sabina A. Wood Art &amp; Antiques and Diana Brochendorff’s Good Design Here. At the former, the famed namesake dealer is busy readying to take off for a show in Philadelphia but waves me enthusiastically into the shop where English and American pieces comingle and speak to the deep decorative history of the island and the timeless taste of its summerfolk. Down the block, Brochendorff minds her shop from a vintage midcentury sofa. Perched amid her 20th-century curation of furniture, decorative pieces, and artwork, she chats with browsers and seems a bit of work of art herself."
             },
             {
-              "//": "====== REVIEWS ======",
-              "role": "container",
+              "role": "body",
               "layout": "bodyLayout",
-              "contentDisplay": {
-                "type": "horizontal_stack"
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "In Seal Harbor, interior designer Laura Keeler Pierce represents the fresh new face of design on the island. The owner of Boston-based Keeler &amp; Company, Pierce began work in 2020 on the massive renovation of The Claremont under hotelier Tim Harrington’s new ownership; she spied an additional opportunity in some bricks and mortar on the other side of the sound. Now, on her town’s Main Street, Pierce’s Rusticator shop offers take-home expressions of the maximalist design magic she’s conjured at The Claremont. From upholstered pieces to linens, lamps, tableware, and, perhaps especially, backgammon boards, browsing Rusticator is like dropping into an idealized Down East summer vacation."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "Everywhere, it seems, there are women of taste on this island. Perhaps it’s the legacy of those rusticating women and their Gilded Age followers—I think of the famed landscape designer Beatrix Farrand, who conjured the carriage roads and exquisite gardens for Abby Aldrich and John D. Rockefeller’s estate in Seal Harbor. The roads are now enfolded into Acadia National Park, while the Abby Aldrich Rockefeller Garden is a preserved treasure that marries English garden design with Chinese, Japanese, and Korean influences and is considered one of the finest gardens in America. From refined to wild, and back again."
+            },
+            {
+              "role": "container",
+              "layout": "blockContainerLayout",
+              "animation": {
+                "initialAlpha": 0.05,
+                "type": "fade_in",
+                "userControllable": true
               },
               "components": [
                 {
-                  "role": "image",
-                  "layout": "starsImageLayout",
-                  "conditional": [
+                  "role": "mosaic",
+                  "items": [
                     {
-                      "conditions": [
-                        {
-                          "minSpecVersion": "1.14",
-                          "preferredColorScheme": "dark"
-                        }
-                      ],
-                      "hidden": true
-                    }
-                  ],
-                  "hidden": false,
-                  "URL": "https://public-assets.meredithcorp.io/4cadea6bc3bbdd6b0bdfab5abedfb66f/fourstars.jpg"
-                },
-                {
-                  "role": "image",
-                  "layout": "starsImageLayout",
-                  "conditional": [
+                      "caption": {
+                        "format": "html",
+                        "text": "Bramble &amp; Stone",
+                        "textStyle": "captionEmbeddedTextStyle"
+                      },
+                      "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/mdi_bramble_082/129947-1-eng-GB/mdi_bramble_0822.jpg?q=100"
+                    },
                     {
-                      "conditions": [
-                        {
-                          "minSpecVersion": "1.14",
-                          "preferredColorScheme": "dark"
-                        }
-                      ],
-                      "hidden": false
+                      "caption": {
+                        "format": "html",
+                        "text": "Laura Keeler Pierce and her husband, Vassar, at Rusticator",
+                        "textStyle": "captionEmbeddedTextStyle"
+                      },
+                      "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/mdi_rustica_083/129926-1-eng-GB/mdi_rustica_0832.jpg?q=100"
+                    },
+                    {
+                      "caption": {
+                        "format": "html",
+                        "text": "Hearth &amp; Harbor",
+                        "textStyle": "captionEmbeddedTextStyle"
+                      },
+                      "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/mdi_hearthh_084/129905-1-eng-GB/mdi_hearthh_0842.jpg?q=100"
+                    },
+                    {
+                      "caption": {
+                        "format": "html",
+                        "text": "Abby Aldrich Rockefeller Garden",
+                        "textStyle": "captionEmbeddedTextStyle"
+                      },
+                      "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/mdi_rockerf_085/129940-1-eng-GB/mdi_rockerf_0852.jpg?q=100"
+                    },
+                    {
+                      "caption": {
+                        "format": "html",
+                        "text": "Under Canvas Acadia",
+                        "textStyle": "captionEmbeddedTextStyle"
+                      },
+                      "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/mdi_underca_086/129919-1-eng-GB/mdi_underca_0862.jpg?q=100"
+                    },
+                    {
+                      "caption": {
+                        "format": "html",
+                        "text": "Hiking help at Acadia National Park",
+                        "textStyle": "captionEmbeddedTextStyle"
+                      },
+                      "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/mdi_eagle_l_087/129898-1-eng-GB/mdi_eagle_l_0872.jpg?q=100"
+                    },
+                    {
+                      "caption": {
+                        "format": "html",
+                        "text": "The Lodge bar at Terramor Outdoor Resort",
+                        "textStyle": "captionEmbeddedTextStyle"
+                      },
+                      "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/mdi_terramo_088/129933-1-eng-GB/mdi_terramo_0882.jpg?q=100"
+                    },
+                    {
+                      "caption": {
+                        "format": "html",
+                        "text": "Linens at Rusticator",
+                        "textStyle": "captionEmbeddedTextStyle"
+                      },
+                      "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/mdi_rustica_089/129912-1-eng-GB/mdi_rustica_0892.jpg?q=100"
+                    },
+                    {
+                      "caption": {
+                        "format": "html",
+                        "text": "Sweet fare at every turn",
+                        "textStyle": "captionEmbeddedTextStyle"
+                      },
+                      "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/mdi_mountde_090/129891-1-eng-GB/mdi_mountde_0902.jpg?q=100"
                     }
-                  ],
-                  "hidden": true,
-                  "URL": "https://public-assets.meredithcorp.io/8e401d3520fc3b0bec1ecdf6f118edf3/fourstarsDM.png"
+                  ]
                 },
                 {
-                  "role": "container",
-                  "layout": "smallSpacerLayout"
-                },
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Clockwise from top left:</caption-heading><br>Bramble &amp; Stone; Laura Keeler Pierce and her husband, Vassar, at Rusticator; Hearth &amp; Harbor; Hiking help at Acadia National Park; Sweet fare at every turn; Linens at Rusticator; The Lodge bar at Terramor Outdoor Resort; Abby Aldrich Rockefeller Garden; Under Canvas Acadia"
+                }
+              ]
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>IN FITTING TRIBUTE TO RUSTICATION, I SPEND</lede> my final days camping in MDI style, meaning my tents are commodious safari-style havens of luxury, my bed is off the ground and clad in fine sheets, my shower is inside my tent and warm, and not far away stands a fellow under another spectacular tent, ready to pour me a glass of excellent wine, offer me freshly grilled scallops over pasta, and tuck some marshmallows and chocolate into my hand for after-dinner s’mores around the fire with my fellow “campers.”"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "This is outdoor adventure now that Under Canvas arrived in town in 2021, nestling a new colony of its luxurious camping tents—some with transparent roof panels to watch the stars, others with nearby tepees for kids to bed down in imaginative delight—at the head of Union River Bay with a Thomas Cole-worthy view over to Acadia. Off the grid intentionally with a collection of battery-charged lanterns to read and shower by, and the rustling quiet of its waterside meadow, it’s spellbinding to be so luxuriously rustic."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "I keep “camping” on MDI: In Bar Harbor outside of town, Terramor Outdoor Resort has newly revitalized a former KOA campground into a luxuriously nostalgic retreat among the fir trees. Here, European tents spread their wings over fully outfitted suites with heavy Pendleton blankets and modern whispers like electric tea kettles, plugs to charge phones, and Wi-Fi."
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
                 {
-                  "role": "body",
-                  "layout": {
-                    "padding": {
-                      "top": 0
-                    }
+                  "//": "======== IMAGE BLEED - H1381.0/W1105.0 * 100 = 124.9773756 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "caption": {
+                    "format": "html",
+                    "text": "Jordan Pond",
+                    "textStyle": "captionEmbeddedTextStyle"
                   },
-                  "textStyle": "reviewsTextStyle",
-                  "format": "html",
-                  "text": "518 REVIEWS"
-                }
-              ]
-            },
-            {
-              "role": "htmltable",
-              "layout": "ingredientsLayout",
-              "style": "ingredientsStyle",
-              "html": "<table><tr><td>1</td><td>lb. ground turkey <i>[Use 93% lean ground turkey, not ground turkey breast, which dries out quickly.]</i></td></tr><tr><td>1</td><td>egg</td></tr><tr><td>½</td><td>cup salsa, plus more for serving</td></tr><tr><td>½</td><td>cup chopped red and/or yellow bell pepper</td></tr><tr><td>½</td><td>cup dried bread crumbs</td></tr><tr><td>¼</td><td>cup chopped onion (optional)</td></tr><tr><td>1</td><td>tsp. black or lemon pepper</td></tr><tr><td>½</td><td>tsp. salt</td></tr></table>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>1.</b> Preheat oven to 350°F."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>2.</b> Combine all ingredients in a large bowl with your hands until well blended. Press mixture into a lightly greased 4x8-inch loaf pan."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>3.</b> Bake about 25 minutes, or until an instant-read thermometer inserted into center registers 165°F. Serve with additional salsa."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede><a href=\"https://www.allrecipes.com/recipe/25418/healthy-turkey-loaf/\">armagazine.com/healthy-turkey-loaf</a></lede>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b><i>HIDDEN GEM</i></b> | <b><i>QUICK</i></b> | <b><i>GLUTEN-FREE</i></b>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "attributeTextStyle",
-              "format": "html",
-              "text": "PER 4.8-OZ. SERVING: 203 CAL; 9G FAT (2G SAT); 19G PRO; 10G CARB (1G FIBER, 1G SUGARS); 481MG SODIUM"
-            },
-            {
-              "//": "======= YOU SAID CONTAINER ======",
-              "role": "container",
-              "layout": "youSaidContainerLayout",
-              "components": [
-                {
-                  "role": "pullquote",
-                  "textStyle": "youSaidQuoteTextStyle",
-                  "format": "html",
-                  "text": "“I tried this with some light barbecue sauce poured on the top, and wow—that was good!”<br><pullquote-attribution>– CINDY LINEBERRY</pullquote-attribution>"
-                }
-              ]
-            },
-            {
-              "//": "====== CALLOUT ======",
-              "role": "container",
-              "layout": "calloutLayout",
-              "style": "calloutStyle",
-              "components": [
-                {
-                  "role": "heading",
-                  "layout": "calloutHeadingLayout",
-                  "textStyle": "calloutHeadingTextStyle",
-                  "format": "html",
-                  "text": "Pick Your Salsa"
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/p032-bzo102397-jordan-pond/131477-1-eng-GB/p032-bzo102397-jordan-pond.jpg?q=100"
                 },
                 {
-                  "role": "body",
-                  "layout": "calloutBodyLayout",
-                  "textStyle": "calloutBodyTextStyle",
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
                   "format": "html",
-                  "text": "With so many different salsa options on store shelves, you can give this meatloaf a different flavor each time you make it. Try chipotle salsa for a deep, smoky flavor. Go green by using salsa verde. Or add a fruity salsa, such as pineapple or peach salsa, for a sweet-savory twist."
+                  "text": "Jordan Pond"
+                }
+              ]
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "But MDI has worked its rustic magic, and the Internet seems like the least worthy companion when Acadia National Park lies so close at hand. I spend my final days poking dreamily around. I slip down to Little Hunters Beach, a tight cove of small, rounded stones that jostle and sing as waves push in and out from shore. I follow narrow Ship Harbor Trail into dense stands of spruce, giving way to gentle tongues of granite along the water. Here, like their Victorian forebears, families picnic and gaze out to sea. I trace the curves of Jordan Pond, watching a merganser glide across its glasslike surface. I even ponder joining the park’s pre-dawn hike to the top of Cadillac Mountain—its highest point—to watch the sun rise, as famously offered, before anyone else on the continental United States. But I’ve grown lazy with this very good life amid boats, verandas, luxury camps, charming shops, and daily feasts of lobster. “I’ll come back,” I say to a young couple, sharing the campfire with me under the inky black sky, who plan to rise at 4 a.m. to make the expedition. And perhaps that promise to return to the wild, the delicious, the revived world of Mount Desert Island is what makes me feel like I’m turning rusticator. I’ll be back next summer."
+            },
+            {
+              "role": "pullquote",
+              "layout": "pullQuoteLayout",
+              "style": "pullQuoteStyle",
+              "textStyle": "pullQuoteTextStyle",
+              "format": "html",
+              "text": "‘I’VE GROWN LAZY WITH THIS VERY GOOD LIFE AMID BOATS, VERANDAS, LUXURY CAMPS, CHARMING SHOPS, AND DAILY FEASTS OF LOBSTER’"
+            },
+            {
+              "//": "======== SIDEBAR =======",
+              "role": "container",
+              "layout": "sidebarLayout",
+              "style": "sidebarNoBackgroundStyle",
+              "components": [
+                {
+                  "//": "======== SIDEBAR BODY CONTAINER =======",
+                  "role": "container",
+                  "layout": "bodyContainerLayout",
+                  "components": [
+                    {
+                      "//": "======== SIDEBAR SINGLE BLOCK CONTAINER ========",
+                      "role": "container",
+                      "layout": "sidebarSingleBlockContainerLayout",
+                      "components": [
+                        {
+                          "//": "======== IMAGE BLOCK - H1674.0/W1367.0 * 100 = 122.4579371 ========",
+                          "role": "image",
+                          "caption": {
+                            "format": "html",
+                            "text": "Terramor Outdoor Resort",
+                            "textStyle": "captionEmbeddedTextStyle"
+                          },
+                          "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/mdi_terramo_093/129870-1-eng-GB/mdi_terramo_0932.jpg?q=100"
+                        },
+                        {
+                          "role": "caption",
+                          "layout": "captionLayout",
+                          "textStyle": "captionTextStyle",
+                          "format": "html",
+                          "text": "Terramor Outdoor Resort"
+                        }
+                      ]
+                    },
+                    {
+                      "role": "heading2",
+                      "layout": "sidebarHeading2Layout",
+                      "textStyle": "sidebarHeading2TextStyle",
+                      "format": "html",
+                      "text": "Rustication Nation"
+                    },
+                    {
+                      "role": "heading3",
+                      "layout": "sidebarHeading3Layout",
+                      "textStyle": "sidebarHeading3TextStyle",
+                      "format": "html",
+                      "text": "Get Here",
+                      "style": "heading3Style"
+                    },
+                    {
+                      "role": "body",
+                      "layout": "sidebarBodyNoMarginAboveLayout",
+                      "style": "paragraphStyle",
+                      "textStyle": "sidebarBodyTextStyle",
+                      "format": "html",
+                      "text": "<bold>Hancock County-Bar Harbor Airport</bold> is the closest airport to Mount Desert Island. <bold>Portland International Jetport</bold> is about a three-hour drive."
+                    },
+                    {
+                      "role": "heading3",
+                      "layout": "sidebarHeading3Layout",
+                      "textStyle": "sidebarHeading3TextStyle",
+                      "format": "html",
+                      "text": "Stay Here",
+                      "style": "heading3Style"
+                    },
+                    {
+                      "role": "body",
+                      "layout": "sidebarBodyNoMarginAboveLayout",
+                      "style": "paragraphStyle",
+                      "textStyle": "sidebarBodyTextStyle",
+                      "format": "html",
+                      "text": "For pure rusticator style, there’s no finer place than <bold>The Claremont Hotel,</bold> spectacularly redone, in Southwest Harbor. Choose from vibrant guest rooms in the main building, cottages, and summer homes on the stunning waterfront property overlooking Somes Sound and Cadillac Mountain. New in 2022: a houseboat, which offers the ultimate floating overnight. Rates start at $310; <a href=\"http://theclaremont.com\">theclaremont.com</a>. In Bar Harbor, The Claremont owner Tim Harrington will open the delightful <bold>Salt Cottages</bold> in July—a reimagined vintage motor lodge and cottage resort on Hulls Cove. Rates start at $325; <a href=\"http://saltcottagesbarharbor.com\">saltcottagesbarharbor.com</a>. For off-the-grid luxuries on the water, <bold>Under Canvas Acadia</bold> is a dreamy enclave of canvas safari-style tents with private baths, a restaurant and bar, and communal campfires. Rates for deluxe tents start at $459; <a href=\"http://undercanvas.com\">undercanvas.com</a>. Near Acadia National Park, <bold>Terramor Outdoor Resort</bold> is an upscale redo of a classic KOA campground with commodious new tents and a bright, buzzy Lodge for food, drink, and borrowing telescopes for stargazing. Rates for two-person tents start at $329; <a href=\"http://terramoroutdoorresort.com\">terramoroutdoorresort.com</a>."
+                    },
+                    {
+                      "role": "heading3",
+                      "layout": "sidebarHeading3Layout",
+                      "textStyle": "sidebarHeading3TextStyle",
+                      "format": "html",
+                      "text": "Eat Here",
+                      "style": "heading3Style"
+                    },
+                    {
+                      "role": "body",
+                      "layout": "sidebarBodyNoMarginAboveLayout",
+                      "style": "paragraphStyle",
+                      "textStyle": "sidebarBodyTextStyle",
+                      "format": "html",
+                      "text": "For lobster, hit the venerable <bold>Thurston’s Lobster Pound</bold> in Bernard, <bold>Perry’s Lobster Shack</bold> in Surry, and <bold>The Nor’easter Pound &amp; Market</bold> in Northeast Harbor. At The Claremont, catch a waterside drink at <bold>Batson River Fish Camp,</bold> a superb cocktail at <bold>Harry’s Bar,</bold> and farm-and-sea-fresh meals at <bold>Little Fern.</bold> In Southwest Harbor, head to <bold>Hearth &amp; Harbor</bold> for seafood-topped wood-fired pizzas; pick up fresh-baked dessert pies at <bold>IslandBound Treats.</bold>"
+                    },
+                    {
+                      "role": "heading3",
+                      "layout": "sidebarHeading3Layout",
+                      "textStyle": "sidebarHeading3TextStyle",
+                      "format": "html",
+                      "text": "Shop Here",
+                      "style": "heading3Style"
+                    },
+                    {
+                      "role": "body",
+                      "layout": "sidebarBodyNoMarginAboveLayout",
+                      "style": "paragraphStyle",
+                      "textStyle": "sidebarBodyTextStyle",
+                      "format": "html",
+                      "text": "For iconic take-homes with style, go to <bold>Bramble &amp; Stone</bold> in Southwest Harbor and <bold>Slack Tide Shop</bold> near Thurston’s in Bernard. Browse and buy exquisite pieces at <bold>Sabina A. Wood Art &amp; Antiques</bold> and revel in vintage high design and art at <bold>Good Design Here,</bold> both in Northeast Harbor. Scoop up bright, irresistible decorative pieces, linens, and more at <bold>Rusticator</bold> in Seal Harbor."
+                    },
+                    {
+                      "role": "heading3",
+                      "layout": "sidebarHeading3Layout",
+                      "textStyle": "sidebarHeading3TextStyle",
+                      "format": "html",
+                      "text": "Rusticate Here",
+                      "style": "heading3Style"
+                    },
+                    {
+                      "role": "body",
+                      "layout": "sidebarBodyNoMarginAboveLayout",
+                      "style": "paragraphStyle",
+                      "textStyle": "sidebarBodyTextStyle",
+                      "format": "html",
+                      "text": "Explore <bold>Acadia National Park’s</bold> 47,000 breathtaking acres and the botanical splendor of the <bold>Abby Aldrich Rockefeller Garden</bold> in Seal Harbor."
+                    }
+                  ]
                 }
               ]
             }
@@ -1457,7 +851,7 @@
               "layout": "bodyLayout",
               "textStyle": "tocTextStyle",
               "format": "html",
-              "text": "<a href='https://apple.news/AeWTaQfGQEeyRKiYivkxSbA'>Tap here</a> to see more from this issue of <i>Allrecipes</i>"
+              "text": "<a href='https://apple.news/Atu42odFLEeyNtj96zSKRvQ'>Tap here</a> to see more from this issue of <i>Coastal Living</i>"
             }
           ]
         }
@@ -1466,20 +860,20 @@
   ],
   "componentLayouts": {
     "attributeLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": 15
     },
     "authorLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
         "bottom": 5
       }
     },
     "blockContainerLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "ignoreDocumentMargin": true,
       "margin": {
         "bottom": 10,
@@ -1491,16 +885,16 @@
       "margin": 10
     },
     "bodyLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
         "bottom": 10,
         "top": 2
       }
     },
     "bodySmallMarginAboveLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
         "bottom": 10,
         "top": 10
@@ -1538,7 +932,17 @@
       "//": "UNUSED"
     },
     "captionLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": 8
+    },
+    "collectionLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
     },
     "darkModePaddingLayout": {
       "conditional": [
@@ -1557,15 +961,14 @@
       "//": "UNUSED"
     },
     "dividerLayout": {
-      "ignoreDocumentMargin": true,
       "margin": {
         "bottom": 20,
         "top": 10
       }
     },
     "dividerStandardLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
         "bottom": 10,
         "top": 20
@@ -1573,8 +976,8 @@
       "minimumHeight": 1
     },
     "dividerTocLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
         "bottom": 15,
         "top": 20
@@ -1630,36 +1033,36 @@
       }
     },
     "heading2Layout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
         "top": 10
       }
     },
     "heading3Layout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
         "top": 10
       }
     },
     "heading4Layout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
         "top": 10
       }
     },
     "heading5Layout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
         "top": 10
       }
     },
     "heading6Layout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
         "top": 10
       }
@@ -1672,48 +1075,55 @@
       }
     },
     "heroImageTallLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
         "bottom": 10,
         "top": 15
       }
     },
     "ingredientsLayout": {
+      "margin": 10
+    },
+    "ingredientsNoMarginAboveLayout": {
       "margin": {
         "bottom": 10,
-        "top": 10
+        "top": 0
       }
     },
     "introLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
         "bottom": 10
       }
     },
     "noMarginLayout": {
-      "columnSpan": 18,
-      "columnStart": 1
+      "columnSpan": 19,
+      "columnStart": 2
     },
-    "pullQuoteLayout": {
-      "columnSpan": 16,
+    "productImageStandardLayout": {
+      "minimumHeight": 280
+    },
+    "pullQuoteBodyLayout": {
+      "columnSpan": 19,
       "columnStart": 2,
       "margin": {
-        "bottom": 25,
-        "top": 15
+        "bottom": 0,
+        "top": 5
       }
     },
-    "reviewLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
-      "padding": {
-        "left": 85,
-        "top": 2
+    "pullQuoteLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 15,
+        "top": 15
       }
     },
     "sectionLayout": {
       "margin": {
+        "bottom": "20",
         "top": 5
       }
     },
@@ -1755,8 +1165,8 @@
       }
     },
     "sidebarLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": 20,
       "padding": {
         "bottom": 10,
@@ -1776,16 +1186,16 @@
       }
     },
     "singleBlockContainerLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
         "bottom": 10,
         "top": 20
       }
     },
     "smallMarginAboveLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
         "top": 2
       }
@@ -1795,8 +1205,8 @@
       "minimumWidth": 5
     },
     "spacerLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
         "bottom": 10,
         "top": 20
@@ -1809,15 +1219,15 @@
       "maximumWidth": 100
     },
     "straplineLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
         "top": 10
       }
     },
     "titleLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
         "top": 5
       }
@@ -1826,19 +1236,6 @@
       "//": "UNUSED"
     },
     "youSaidContainerLayout": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minViewportWidth": 500
-            }
-          ],
-          "padding": {
-            "left": "20cw",
-            "right": "20cw"
-          }
-        }
-      ],
       "margin": {
         "bottom": 10,
         "top": 20
@@ -1848,8 +1245,7 @@
       "horizontalContentAlignment": "center",
       "margin": {
         "bottom": 10
-      },
-      "maximumContentWidth": 110
+      }
     }
   },
   "componentStyles": {
@@ -1865,34 +1261,8 @@
     "calloutStyle": {
       "border": {
         "all": {
-          "width": 1,
-          "color": "#000"
-        }
-      },
-      "backgroundColor": "#fff",
-      "conditional": [
-        {
-          "border": {
-            "all": {
-              "color": "red",
-              "width": 1
-            }
-          },
-          "backgroundColor": "#000",
-          "conditions": [
-            {
-              "preferredColorScheme": "dark",
-              "minSpecVersion": "1.14"
-            }
-          ]
-        }
-      ]
-    },
-    "calloutStyle2": {
-      "border": {
-        "all": {
-          "color": "#feaa26",
-          "width": 4
+          "color": "#000",
+          "width": 3
         }
       }
     },
@@ -1945,7 +1315,28 @@
       ]
     },
     "dividerStandardStyle": {
-      "backgroundColor": "#000"
+      "fill": {
+        "fillMode": "fit",
+        "type": "image",
+        "horizontalAlignment": "left",
+        "URL": "https://public-assets-dev.meredithcorp.io/c9ac08dffda87c9b20c0ffa6dc6a8cb5/slash.PNG"
+      },
+      "conditional": [
+        {
+          "fill": {
+            "fillMode": "fit",
+            "type": "image",
+            "horizontalAlignment": "left",
+            "URL": "https://public-assets.meredithcorp.io/2c69e97bf1ef728ebd2a0eac481691a8/slash-white.png"
+          },
+          "conditions": [
+            {
+              "preferredColorScheme": "dark",
+              "minSpecVersion": "1.14"
+            }
+          ]
+        }
+      ]
     },
     "dividerTocStyle": {
       "//": "UNUSED"
@@ -1971,7 +1362,6 @@
     "ingredientsStyle": {
       "tableStyle": {
         "cells": {
-          "height": 22,
           "conditional": [
             {
               "horizontalAlignment": "right",
@@ -2036,100 +1426,7 @@
       "//": "UNUSED"
     },
     "pullQuoteStyle": {
-      "border": {
-        "all": {
-          "width": 1,
-          "color": "#111"
-        },
-        "bottom": true,
-        "left": false,
-        "right": false,
-        "top": true
-      }
-    },
-    "reviewFiveStarsStyle": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minSpecVersion": "1.14",
-              "preferredColorScheme": "dark"
-            }
-          ],
-          "fill": {
-            "horizontalAlignment": "left",
-            "repeat": "none",
-            "type": "repeatable_image",
-            "URL": "https://public-assets.meredithcorp.io/ba3bbeb190fc45d4b5bb1d08c8fd2a5c/fiveDM.png",
-            "verticalAlignment": "top",
-            "width": 80
-          }
-        }
-      ],
-      "fill": {
-        "horizontalAlignment": "left",
-        "repeat": "none",
-        "type": "repeatable_image",
-        "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common022/86031-1-eng-GB/common022.jpg",
-        "verticalAlignment": "top",
-        "width": 80
-      }
-    },
-    "reviewFourHalfStarsStyle": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minSpecVersion": "1.14",
-              "preferredColorScheme": "dark"
-            }
-          ],
-          "fill": {
-            "horizontalAlignment": "left",
-            "repeat": "none",
-            "type": "repeatable_image",
-            "URL": "https://public-assets.meredithcorp.io/8700c3d249629b59c38e0b147c58947c/fourDM.png",
-            "verticalAlignment": "top",
-            "width": 80
-          }
-        }
-      ],
-      "fill": {
-        "horizontalAlignment": "left",
-        "repeat": "none",
-        "type": "repeatable_image",
-        "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common0166/108858-1-eng-GB/common012.jpg?q=100",
-        "verticalAlignment": "top",
-        "width": 80
-      }
-    },
-    "reviewFourStarsStyle": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minSpecVersion": "1.14",
-              "preferredColorScheme": "dark"
-            }
-          ],
-          "fill": {
-            "horizontalAlignment": "left",
-            "repeat": "none",
-            "type": "repeatable_image",
-            "URL": "https://public-assets.meredithcorp.io/8e401d3520fc3b0bec1ecdf6f118edf3/fourstarsDM.png",
-            "verticalAlignment": "top",
-            "width": 80
-          }
-        }
-      ],
-      "fill": {
-        "horizontalAlignment": "left",
-        "repeat": "none",
-        "type": "repeatable_image",
-        "URL": "https://public-assets.meredithcorp.io/4cadea6bc3bbdd6b0bdfab5abedfb66f/fourstars.jpg",
-        "verticalAlignment": "top",
-        "width": 80
-      }
+      "//": "UNUSED"
     },
     "sectionStyle": {
       "//": "UNUSED"
@@ -2137,24 +1434,20 @@
     "sidebarNoBackgroundStyle": {
       "border": {
         "all": {
-          "width": 1,
-          "color": "#000"
-        },
-        "bottom": false,
-        "left": true,
-        "right": false,
-        "top": false
+          "color": "#000",
+          "width": 2
+        }
       }
     },
     "sidebarStyle": {
-      "backgroundColor": "#f2f2f2",
+      "backgroundColor": "#f3f3f3",
       "conditional": [
         {
-          "backgroundColor": "#8a8a8a",
+          "backgroundColor": "#f3f3f3",
           "conditions": [
             {
-              "preferredColorScheme": "dark",
-              "minSpecVersion": "1.14"
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
             }
           ]
         }
@@ -2173,26 +1466,91 @@
         "type": "corners"
       }
     },
-    "cornersStyle": {
-      "mask": {
-        "radius": 10,
-        "type": "corners"
-      }
+    "dividerNewStyle": {
+      "fill": {
+        "fillMode": "fit",
+        "type": "image",
+        "horizontalAlignment": "left",
+        "URL": "https://public-assets-dev.meredithcorp.io/c9ac08dffda87c9b20c0ffa6dc6a8cb5/slash.PNG"
+      },
+      "conditional": [
+        {
+          "fill": {
+            "fillMode": "fit",
+            "type": "image",
+            "horizontalAlignment": "left",
+            "URL": "https://public-assets.meredithcorp.io/2c69e97bf1ef728ebd2a0eac481691a8/slash-white.png"
+          },
+          "conditions": [
+            {
+              "preferredColorScheme": "dark",
+              "minSpecVersion": "1.14"
+            }
+          ]
+        }
+      ]
+    },
+    "dividerStandardStyle2": {
+      "fill": {
+        "fillMode": "fit",
+        "type": "image",
+        "horizontalAlignment": "center",
+        "URL": "https://public-assets-dev.meredithcorp.io/c9ac08dffda87c9b20c0ffa6dc6a8cb5/slash.PNG"
+      },
+      "conditional": [
+        {
+          "fill": {
+            "fillMode": "fit",
+            "type": "image",
+            "horizontalAlignment": "center",
+            "URL": "https://public-assets.meredithcorp.io/2c69e97bf1ef728ebd2a0eac481691a8/slash-white.png"
+          },
+          "conditions": [
+            {
+              "preferredColorScheme": "dark",
+              "minSpecVersion": "1.14"
+            }
+          ]
+        }
+      ]
+    },
+    "logoStyle": {
+      "fill": {
+        "fillMode": "fit",
+        "type": "image",
+        "horizontalAlignment": "center",
+        "URL": "https://public-assets.meredithcorp.io/38f1c3a6bbd26fd0497651e248a4bcfe/logo.jpg"
+      },
+      "conditional": [
+        {
+          "fill": {
+            "fillMode": "fit",
+            "type": "image",
+            "horizontalAlignment": "center",
+            "URL": "https://public-assets.meredithcorp.io/17dc434c6a54105cf7e243c6833d700f/T&L_logo_DM.jpg"
+          },
+          "conditions": [
+            {
+              "preferredColorScheme": "dark",
+              "minSpecVersion": "1.14"
+            }
+          ]
+        }
+      ]
     }
   },
   "textStyles": {
     "creditTextStyle": {
-      "fontName": "BentonSans-Book",
+      "fontName": "Gotham-Book",
       "fontSize": 10,
       "textColor": "#8d8d8d",
       "tracking": 0.05
     },
     "default-tag-bold": {
-      "fontName": "GothamNarrow-Bold"
+      "fontName": "Gotham-Bold"
     },
     "default-tag-caption-heading": {
-      "fontSize": 15,
-      "fontName": "LibreFranklin-Bold",
+      "fontName": "GrifoS-Bold",
       "textTransform": "uppercase"
     },
     "default-tag-caption-i": {
@@ -2202,27 +1560,34 @@
       "fontName": "AppleColorEmoji"
     },
     "default-tag-lede": {
-      "fontName": "LibreFranklin-Bold",
-      "textTransform": "uppercase",
-      "tracking": 0.04,
-      "fontSize": 15
-    },
-    "default-tag-m": {
-      "fontName": "Gotham-Medium"
-    },
-    "default-tag-mi": {
-      "fontName": "Gotham-MediumItalic"
-    },
-    "default-tag-pullquote-attribution": {
-      "fontName": "LibreFranklin-Medium",
-      "fontSize": 13,
+      "fontName": "SharpGroteskBook18",
+      "fontSize": 16,
+      "tracking": 0.1,
       "textTransform": "uppercase"
     },
+    "default-tag-pullquote-attribution": {
+      "fontSize": 15
+    },
     "default-tag-sidebar-lede": {
-      "fontName": "LibreFranklin-Bold"
+      "fontName": "SharpGroteskSmBold23"
     },
     "default-tag-subsection": {
-      "fontName": "Gotham-Light"
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "textColor": "#009A5A"
+        }
+      ],
+      "fontName": "Gotham-Medium",
+      "fontSize": 16,
+      "textColor": "#009A5A",
+      "textTransform": "uppercase",
+      "tracking": 0.1
     },
     "endMarkerTextStyle": {
       "//": "UNUSED"
@@ -2230,49 +1595,70 @@
     "subSectionTextStyle": {
       "//": "UNUSED"
     },
-    "default-tag-body-quote": {
-      "fontName": "LibreFranklin-SemiBold"
+    "default-tag-b-25": {
+      "fontName": "SharpGroteskBold25"
+    },
+    "default-tag-b-23": {
+      "fontName": "SharpGroteskSmBold23"
+    },
+    "default-tag-mi-20": {
+      "fontName": "SharpGroteskMediumItalic20"
+    },
+    "default-tag-caption-regular": {
+      "fontName": "GrifoS-Medium"
+    },
+    "default-tag-uc": {
+      "textTransform": "uppercase"
+    },
+    "default-tag-intro-name": {
+      "fontName": "GrifoS-Bold"
+    },
+    "default-tag-body-bold": {
+      "fontName": "SharpGroteskSmBold23",
+      "fontSize": 16
+    },
+    "default-tag-sidebar-italic": {
+      "fontName": "SharpGroteskMediumItalic20"
     }
   },
   "componentTextStyles": {
     "//": {
-      "//": "===================== FOOD AND WINE OVERRIDES ====================="
+      "//": "================ ALL RECIPES OVERRIDES ================"
     },
     "attributeTextStyle": {
-      "fontName": "BentonSans-Book",
+      "fontName": "Flama-Light",
       "fontSize": 10,
       "lineHeight": 12,
       "tracking": 0.05,
       "textTransform": "uppercase"
     },
     "authorTextStyle": {
-      "fontName": "Acta-Book"
+      "fontName": "GrifoS-Bold"
     },
     "bodyCenteredTextStyle": {
+      "fontName": "GrifoS-Regular",
       "textAlignment": "center"
     },
     "bodyDropCapTextStyle": {
-      "fontName": "Acta-Book",
       "dropCapStyle": {
-        "fontName": "Xreles-Headline",
-        "numberOfLines": 4,
-        "numberOfRaisedLines": 0,
-        "numberOfCharacters": 1
-      }
+        "fontName": "Loggia-Regular",
+        "numberOfCharacters": 1,
+        "numberOfLines": 4
+      },
+      "fontName": "GrifoS-Regular"
     },
     "bodyTextStyle": {
-      "fontName": "Acta-Book"
+      "fontName": "GrifoS-Regular"
     },
     "calloutBodyTextStyle": {
-      "fontName": "LibreFranklin-Regular",
       "fontSize": 16,
       "lineHeight": 20,
       "textAlignment": "center"
     },
     "calloutHeadingTextStyle": {
-      "fontName": "LibreFranklin-Bold",
-      "fontSize": 18,
-      "lineHeight": 20,
+      "fontName": "SharpGroteskSmBold23",
+      "fontSize": 19,
+      "lineHeight": 21,
       "textAlignment": "center",
       "textTransform": "uppercase"
     },
@@ -2280,32 +1666,42 @@
       "//": "UNUSED"
     },
     "captionCenteredTextStyle": {
-      "textAlignment": "center"
+      "linkStyle": {
+        "fontName": "GrifoS-Medium",
+        "textColor": "#366a9b"
+      },
+      "textAlignment": "center",
+      "fontName": "GrifoS-MediumItalic"
     },
     "captionEmbeddedTextStyle": {
       "fontName": "HelveticaNeue",
       "lineHeight": 16
     },
     "captionTextStyle": {
-      "fontName": "BentonSans-Regular"
+      "linkStyle": {
+        "fontName": "GrifoS-Medium",
+        "textColor": "#366a9b"
+      },
+      "fontName": "GrifoS-MediumItalic"
     },
     "default": {
-      "fontName": "BentonSans-Black",
-      "textColor": "#000",
+      "fontName": "GrifoS-Regular",
+      "hyphenation": false,
       "linkStyle": {
         "textColor": "#366a9b"
       },
-      "hyphenation": false
+      "textColor": "#221E1F"
     },
     "default-author": {
-      "fontSize": 14,
-      "lineHeight": 17
+      "fontSize": 24,
+      "lineHeight": 26,
+      "tracking": -0.01
     },
     "default-body": {
       "fontSize": 18,
-      "lineHeight": 24,
-      "paragraphSpacingBefore": 12,
-      "paragraphSpacingAfter": 12
+      "lineHeight": 22,
+      "paragraphSpacingAfter": 12,
+      "paragraphSpacingBefore": 12
     },
     "default-byline": {
       "//": "UNUSED"
@@ -2319,111 +1715,182 @@
       "lineHeight": 16
     },
     "default-heading2": {
-      "fontSize": 40,
-      "lineHeight": 42
+      "fontSize": 42,
+      "lineHeight": 44
     },
     "default-heading3": {
-      "fontSize": 20,
-      "lineHeight": 22
+      "fontSize": 32,
+      "lineHeight": 34
     },
     "default-heading4": {
-      "fontSize": 18,
-      "lineHeight": 20
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 500
+            }
+          ],
+          "fontSize": 24,
+          "lineHeight": 26
+        }
+      ],
+      "fontSize": 26,
+      "lineHeight": 28
     },
     "default-heading5": {
-      "fontSize": 18,
-      "lineHeight": 20
+      "fontSize": 19,
+      "lineHeight": 21
     },
     "default-heading6": {
-      "fontSize": 14,
-      "lineHeight": 16
+      "fontSize": 17,
+      "lineHeight": 19
     },
     "default-intro": {
-      "fontSize": 18,
-      "lineHeight": 22
+      "fontSize": 24,
+      "lineHeight": 26,
+      "tracking": -0.01
     },
     "default-photographer": {
       "//": "UNUSED"
     },
     "default-pullquote": {
-      "fontSize": 32,
-      "lineHeight": 40,
+      "fontSize": 44,
+      "lineHeight": 44,
       "textAlignment": "center"
     },
     "default-title": {
-      "fontSize": 56,
-      "lineHeight": 58
+      "fontSize": 66,
+      "lineHeight": 59
     },
     "floatImageCaptionTextStyle": {
-      "fontName": "BentonSans-Regular"
+      "fontName": "GrifoS-Italic"
     },
     "heading2CenteredTextStyle": {
-      "textAlignment": "center"
-    },
-    "heading2TextStyle": {
-      "fontName": "Acta-Bold"
-    },
-    "heading3CenteredTextStyle": {
-      "textAlignment": "center"
-    },
-    "heading3TextStyle": {
-      "//": "UNUSED"
-    },
-    "heading4CenteredTextStyle": {
-      "textAlignment": "center"
-    },
-    "heading4TextStyle": {
-      "fontName": "LibreFranklin-Bold",
-      "textTransform": "uppercase",
-      "tracking": 0.02,
-      "textColor": "#e71f3d"
-    },
-    "heading5CenteredTextStyle": {
-      "fontName": "Gotham-Bold",
+      "fontName": "SharpGroteskSmBold23",
       "textAlignment": "center",
-      "textTransform": "uppercase",
-      "tracking": 0.02
-    },
-    "heading5TextStyle": {
-      "//": "UNUSED"
-    },
-    "heading6CenteredTextStyle": {
-      "textAlignment": "center"
-    },
-    "heading6TextStyle": {
-      "textTransform": "uppercase"
-    },
-    "ingredientsTextStyle": {
-      "fontName": "LibreFranklin-SemiBold",
-      "fontSize": 15,
-      "lineHeight": 19
-    },
-    "introTextStyle": {
-      "fontName": "Acta-Book"
-    },
-    "pullQuoteTextStyle": {
-      "fontName": "ActaDeck-Light"
-    },
-    "recipeDetailsTextStyle": {
-      "fontName": "BentonSans-Book",
-      "textTransform": "uppercase",
-      "fontSize": 14,
-      "lineHeight": 16
-    },
-    "reviewsTextStyle": {
       "conditional": [
         {
           "conditions": [
             {
-              "minSpecVersion": "1.14",
-              "preferredColorScheme": "dark"
+              "minViewportWidth": 500
             }
           ],
-          "textColor": "#fff"
+          "fontSize": 30,
+          "lineHeight": 32
         }
       ],
-      "fontName": "GothamNarrow-Black",
-      "textColor": "#000"
+      "fontSize": 38,
+      "lineHeight": 40
+    },
+    "heading2TextStyle": {
+      "fontName": "SharpGroteskSmBold23",
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 500
+            }
+          ],
+          "fontSize": 30,
+          "lineHeight": 32
+        }
+      ],
+      "fontSize": 38,
+      "lineHeight": 40
+    },
+    "heading3CenteredTextStyle": {
+      "fontName": "SharpGroteskMedium20",
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 500
+            }
+          ],
+          "fontSize": 26,
+          "lineHeight": 28
+        }
+      ],
+      "fontSize": 32,
+      "lineHeight": 34
+    },
+    "heading3TextStyle": {
+      "fontName": "SharpGroteskMedium20",
+      "textTransform": "uppercase",
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 500
+            }
+          ],
+          "fontSize": 26,
+          "lineHeight": 28
+        }
+      ],
+      "fontSize": 32,
+      "lineHeight": 34
+    },
+    "heading4CenteredTextStyle": {
+      "fontName": "SharpGroteskSmBold23",
+      "fontSize": 21,
+      "textAlignment": "center",
+      "lineHeight": 23
+    },
+    "heading4TextStyle": {
+      "fontName": "SharpGroteskSmBold23",
+      "fontSize": 21,
+      "lineHeight": 23
+    },
+    "heading5CenteredTextStyle": {
+      "fontName": "SharpGroteskMedium20",
+      "fontSize": 18,
+      "textTransform": "uppercase",
+      "textAlignment": "center",
+      "lineHeight": 20
+    },
+    "heading5TextStyle": {
+      "fontName": "SharpGroteskMedium20",
+      "fontSize": 18,
+      "textTransform": "uppercase",
+      "lineHeight": 20
+    },
+    "heading6CenteredTextStyle": {
+      "fontName": "SharpGroteskSmBold23",
+      "fontSize": 16,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "lineHeight": 20
+    },
+    "heading6TextStyle": {
+      "fontName": "SharpGroteskSmBold23",
+      "fontSize": 16,
+      "textTransform": "uppercase",
+      "lineHeight": 20
+    },
+    "ingredientsTextStyle": {
+      "fontName": "GothamNarrow-Book",
+      "lineHeight": 24
+    },
+    "introTextStyle": {
+      "fontName": "GrifoS-Regular"
+    },
+    "pullQuoteTextStyle": {
+      "fontName": "SharpGroteskMedium20",
+      "fontSize": 26,
+      "textTransform": "uppercase",
+      "textAlignment": "center",
+      "lineHeight": 30
+    },
+    "recipeDetailsTextStyle": {
+      "fontName": "GothamNarrow-Book",
+      "fontSize": 14,
+      "lineHeight": 16
+    },
+    "reviewsTextStyle": {
+      "fontName": "GothamNarrow-Black"
     },
     "savedTextStyle": {
       "fontName": "GothamNarrow-Book",
@@ -2432,90 +1899,164 @@
       "textTransform": "uppercase"
     },
     "sectionTextStyle": {
-      "fontName": "Xreles-Headline",
-      "tracking": 0.05,
+      "fontName": "Loggia-SemiBold",
+      "fontSize": 20,
+      "lineHeight": 24,
       "textTransform": "uppercase",
-      "fontSize": 19,
-      "lineHeight": 21
+      "tracking": 0.2
     },
     "sidebarBodyTextStyle": {
-      "fontName": "LibreFranklin-Regular",
-      "fontSize": 16,
+      "fontName": "SharpGroteskBook18",
+      "fontSize": 15,
       "lineHeight": 20
     },
     "sidebarHeading2TextStyle": {
-      "fontName": "Acta-Bold"
+      "fontName": "SharpGroteskMedium20",
+      "fontSize": 40,
+      "lineHeight": 47,
+      "textTransform": "uppercase",
+      "tracking": 0.03
     },
     "sidebarHeading3TextStyle": {
-      "fontName": "LibreFranklin-Bold",
+      "fontName": "SharpGroteskSmBold23",
+      "fontSize": 18,
+      "lineHeight": 20,
       "textTransform": "uppercase",
-      "fontSize": 17,
-      "lineHeight": 19
+      "tracking": 0.01
     },
     "sidebarHeading4TextStyle": {
-      "fontName": "BentonSansCond-Bold",
-      "textTransform": "uppercase",
-      "tracking": 0.02,
+      "fontName": "SharpGroteskMedium20",
       "fontSize": 16,
-      "lineHeight": 18
+      "lineHeight": 18,
+      "underline": true
     },
     "sidebarIntroTextStyle": {
-      "fontName": "LibreFranklin-Regular",
-      "fontSize": 16,
-      "lineHeight": 20
+      "fontName": "Gotham-Medium"
     },
     "straplineTextStyle": {
-      "fontName": "BentonSans-Book",
-      "textTransform": "uppercase",
-      "fontSize": 13,
-      "tracking": 0.07,
-      "underline": {
-        "color": "#e71f3d"
-      }
+      "fontName": "SharpGroteskBook18",
+      "tracking": 0.1,
+      "fontSize": 15,
+      "lineHeight": 15,
+      "textTransform": "uppercase"
     },
     "titleTextStyle": {
-      "fontName": "ActaDeck-Bold"
+      "//": "UNUSED"
     },
     "tocTextStyle": {
       "fontName": "AvenirNextCondensed-Medium",
       "fontSize": 16,
       "linkStyle": {
+        "fontName": "AvenirNextCondensed-Medium",
         "underline": true
       },
       "textAlignment": "center",
       "textColor": "#000"
     },
-    "youSaidQuoteTextStyle": {
-      "fontName": "GothamCondensed-LightItalic",
-      "fontSize": 22,
-      "lineHeight": 24,
+    "authorCenteredTextStyle": {
+      "fontName": "GrifoS-Bold",
       "textAlignment": "center"
     },
-    "sidebarHeading5TextStyle": {
-      "fontName": "BentonSansCond-Bold",
+    "articleNameTextStyle": {
+      "fontName": "GrifoS-Regular",
+      "fontSize": 55,
+      "lineHeight": 57,
+      "textAlignment": "center",
       "textTransform": "uppercase",
-      "tracking": 0.02,
-      "fontSize": 14,
-      "lineHeight": 16
+      "underline": true
     },
-    "recipeTitleTextStyle": {
-      "fontSize": 34,
-      "lineHeight": 36
+    "articleSubsectionTextStyle": {
+      "fontName": "SharpGroteskSmBold23",
+      "fontSize": 38,
+      "lineHeight": 40,
+      "textAlignment": "center",
+      "textTransform": "uppercase"
     },
-    "recipeBodyTextStyle": {
-      "fontName": "LibreFranklin-Regular",
-      "fontSize": 16,
+    "straplineCenteredTextStyle": {
+      "fontName": "SharpGroteskBook18",
+      "fontSize": 15,
+      "lineHeight": 15,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.1
+    },
+    "introCenteredTextStyle": {
+      "fontName": "GrifoS-Regular",
+      "textAlignment": "center"
+    },
+    "titleDiscoveriesTextStyle": {
+      "fontName": "GrifoS-Light",
+      "fontSize": 68,
+      "lineHeight": 68
+    },
+    "titleExperiencesTextStyle": {
+      "fontName": "SharpGroteskMedium20",
+      "fontSize": 55,
+      "lineHeight": 55
+    },
+    "titleEditorsLetterTextStyle": {
+      "fontName": "Mr.BanksStencil-Bold",
+      "fontSize": 44,
+      "lineHeight": 50,
+      "textAlignment": "center"
+    },
+    "titleIntelligentTravelerTextStyle": {
+      "fontName": "Mr.BanksStencil-Bold",
+      "fontSize": 55,
+      "lineHeight": 55
+    },
+    "sidebarBodyCenteredTextStyle": {
+      "fontName": "SharpGroteskBook18",
+      "fontSize": 15,
+      "textAlignment": "center",
       "lineHeight": 20
     },
-    "recipeNutritionInfoTextStyle": {
-      "fontName": "BentonSans-Regular",
-      "fontSize": 14,
-      "lineHeight": 16
+    "sidebarByTheNumbersTextStyle": {
+      "fontName": "Mr.BanksStencil-Bold",
+      "fontSize": 60,
+      "lineHeight": 65,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.03
     },
-    "buyingDetailsTextStyle": {
-      "fontName": "LibreFranklin-Regular",
-      "fontSize": 14,
-      "lineHeight": 16
+    "sidebarAuthorTextStyle": {
+      "fontName": "SharpGroteskMedium20",
+      "fontSize": 16,
+      "lineHeight": 24,
+      "textAlignment": "left",
+      "textTransform": "uppercase",
+      "tracking": 0.1
+    },
+    "sidebarHeading2CenteredTextStyle": {
+      "fontName": "SharpGroteskMedium20",
+      "fontSize": 40,
+      "lineHeight": 47,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.03
+    },
+    "sidebarHeading2TextStyleQuoteTitle": {
+      "fontName": "SharpGroteskSmBold23",
+      "fontSize": 25,
+      "lineHeight": 27,
+      "textTransform": "uppercase",
+      "tracking": 0.03,
+      "textAlignment": "center"
+    },
+    "sidebarHeading3TextStyleQuoteLabel": {
+      "fontName": "SharpGroteskSmBold23",
+      "fontSize": 18,
+      "lineHeight": 20,
+      "textAlignment": "center",
+      "tracking": 0.01
+    },
+    "locationSubHeaderTextStyle": {
+      "fontName": "AvenirNextCondensed-UltraLight",
+      "fontSize": 40,
+      "lineHeight": 42,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "textColor": "#111"
     }
   }
 }

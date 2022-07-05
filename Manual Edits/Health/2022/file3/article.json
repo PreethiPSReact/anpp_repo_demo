@@ -1,0 +1,2006 @@
+{
+  "version": "1.9",
+  "identifier": "health_article_881-191-19-1",
+  "title": "THE GREEN BEAUTY DIARIES",
+  "language": "en",
+  "layout": {
+    "columns": 20,
+    "gutter": 20,
+    "margin": 40,
+    "width": 768
+  },
+  "subtitle": "We talked to four planet-conscious pros about the eco-friendly changes they’ve made to their existing routines, and how you can do the same.",
+  "metadata": {
+    "authors": [
+      "By Anneke Knot"
+    ],
+    "dateCreated": "2022-02-24T19:04:43.901Z",
+    "dateModified": "2022-02-24T15:18:28+00:00",
+    "excerpt": "@angelamubias, @carylin",
+    "generatorName": "ANTE Generic Template",
+    "generatorVersion": "0.0.4.30-2022-01-31 17:58",
+    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_881/storage/images/media2/images/commonheir__003/247549-1-eng-US/commonheir__0032.jpg?q=100"
+  },
+  "missingData": [
+    {
+      "role": "body",
+      "layout": "bodyLayout",
+      "style": "paragraphStyle",
+      "textStyle": "bodyTextStyle",
+      "format": "html",
+      "text": "<b>CL:</b> It ties back to transparency. Claims that lack specificity can be a red flag. “Recyclable” and “compostable,” for example: Can the products be composted at home, or only in special facilities? If they’re using paper instead of plastic (as we do), is the paper sourced responsibly, from managed forests? With brands, it’s about intentional progress, not perfection, but it is important to be up-front with consumers about it."
+    },
+    {
+      "role": "body",
+      "layout": "bodyLayout",
+      "style": "paragraphStyle",
+      "textStyle": "bodyTextStyle",
+      "format": "html",
+      "text": "<b>AU:</b> To weed out imposters, look for certifications and seals, and a high level of transparency on their websites or social media platforms. I use these questions as my litmus test: Are these only buzzwords, or has this been part of the brand ethos since inception? Do these claims seem too good to be true?"
+    }
+  ],
+  "documentStyle": {
+    "backgroundColor": "#fff"
+  },
+  "components": [
+    {
+      "//": "====== CUSTOM HEADER - BEAUTY ======",
+      "role": "header",
+      "layout": "customHeaderLayout",
+      "style": "customHeaderStyle",
+      "components": [
+        {
+          "role": "title",
+          "textStyle": "customSectionHeadingTextStyle",
+          "format": "html",
+          "text": "BEAUTY"
+        },
+        {
+          "role": "body",
+          "textStyle": "customSectionSubHeadingBeautyTextStyle",
+          "format": "html",
+          "text": "SKIN CARE | MAKEUP | INNOVATIONS"
+        }
+      ]
+    },
+    {
+      "role": "title",
+      "layout": "titleLayout",
+      "textStyle": "titleTextStyle",
+      "format": "html",
+      "text": "THE GREEN BEAUTY DIARIES"
+    },
+    {
+      "role": "intro",
+      "layout": "introLayout",
+      "textStyle": "introTextStyle",
+      "format": "html",
+      "text": "We talked to four planet-conscious pros about the eco-friendly changes they’ve made to their existing routines, and how you can do the same."
+    },
+    {
+      "role": "author",
+      "layout": "authorLayout",
+      "textStyle": "authorTextStyle",
+      "format": "html",
+      "text": "By Anneke Knot"
+    },
+    {
+      "//": "======== HERO IMAGE CONTAINER =======",
+      "role": "container",
+      "layout": "heroImageLayout",
+      "components": [
+        {
+          "//": "======== HERO IMAGE - H2408.0/W1622.0 * 100 = 148.458693 ========",
+          "role": "photo",
+          "layout": "fullBleedPhotoLayout",
+          "caption": {
+            "format": "html",
+            "text": "Common Heir cofounders Angela Ubias (left) and Cary Lin",
+            "textStyle": "captionEmbeddedTextStyle"
+          },
+          "URL": "https://cdn-assets.ziniopro.com/var/site_881/storage/images/media2/images/commonheir__003/247549-1-eng-US/commonheir__0032.jpg?q=100"
+        },
+        {
+          "role": "caption",
+          "layout": "captionLayout",
+          "textStyle": "captionTextStyle",
+          "format": "html",
+          "text": "Common Heir cofounders Angela Ubias (left) and Cary Lin"
+        }
+      ]
+    },
+    {
+      "//": "======== BODY CONTAINER =======",
+      "role": "container",
+      "layout": "bodyContainerLayout",
+      "components": [
+        {
+          "role": "heading2",
+          "layout": "heading2Layout",
+          "textStyle": "heading2TextStyle",
+          "format": "html",
+          "text": "Common Heir Cofounders Angela Ubias &amp; Cary Lin"
+        },
+        {
+          "role": "body",
+          "layout": "bodyNoMarginAboveLayout",
+          "style": "paragraphStyle",
+          "textStyle": "bodyTextStyle",
+          "format": "html",
+          "text": "<b><a href='https://www.instagram.com/angelamubias'>@angelamubias</a>, <a href='https://www.instagram.com/carylin'>@carylin</a></b>"
+        },
+        {
+          "role": "intro",
+          "layout": "introLayout",
+          "style": "introStyle",
+          "textStyle": "introTextStyle",
+          "text": "After years earning their stripes in the beauty biz, these industry vets were frustrated with the so-called sustainable options out there, so they decided to make their own."
+        },
+        {
+          "role": "body",
+          "layout": "bodyLayout",
+          "style": "paragraphStyle",
+          "textStyle": "bodyTextStyle",
+          "format": "html",
+          "text": "<q>Q: What should you look for in a brand claiming to have environmentally friendly practices?</q><br><lede>CL:</lede> It ties back to transparency. Claims that lack specificity can be a red flag. “Recyclable” and “compostable,” for example: Can the products be composted at home, or only in special facilities? If they’re using paper instead of plastic (as we do), is the paper sourced responsibly, from managed forests? With brands, it’s about intentional progress, not perfection, but it is important to be up-front with consumers about it."
+        },
+        {
+          "role": "body",
+          "layout": "bodyLayout",
+          "style": "paragraphStyle",
+          "textStyle": "bodyTextStyle",
+          "format": "html",
+          "text": "<q>Q: Greenwashing—marketing spin that overemphasizes a company’s sustainability efforts—is more common than ever. Do you have any tips on how to spot it?</q><br><lede>AU:</lede> To weed out imposters, look for certifications and seals, and a high level of transparency on their websites or social media platforms. I use these questions as my litmus test: Are these only buzzwords, or has this been part of the brand ethos since inception? Do these claims seem too good to be true?"
+        },
+        {
+          "role": "container",
+          "layout": "blockContainerLayout",
+          "animation": {
+            "initialAlpha": 0.05,
+            "type": "fade_in",
+            "userControllable": true
+          },
+          "components": [
+            {
+              "role": "mosaic",
+              "items": [
+                {
+                  "caption": {
+                    "format": "html",
+                    "text": "Angela Ubias",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_881/storage/images/media2/images/angela0021/247542-1-eng-US/angela00212.jpg?q=100"
+                },
+                {
+                  "caption": {
+                    "format": "html",
+                    "text": "Cary Lin",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_881/storage/images/media2/images/carylin1/247514-1-eng-US/carylin12.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "caption",
+              "layout": "captionLayout",
+              "textStyle": "captionTextStyle",
+              "format": "html",
+              "text": "From left: Angela Ubias; Cary Lin"
+            }
+          ]
+        },
+        {
+          "role": "heading3",
+          "layout": "heading3Layout",
+          "textStyle": "heading3TextStyle",
+          "format": "html",
+          "text": "Their Green Routines:"
+        },
+        {
+          "role": "heading4",
+          "layout": "heading4Layout",
+          "textStyle": "heading4TextStyle",
+          "format": "html",
+          "text": "Makeup"
+        },
+        {
+          "//": "======== FULL BLEED CONTAINER ========",
+          "role": "container",
+          "layout": "singleBlockContainerLayout",
+          "components": [
+            {
+              "//": "======== IMAGE BLEED - H1708.0/W1366.0 * 100 = 125.0366032 ========",
+              "role": "image",
+              "layout": {
+                "horizontalContentAlignment": "center",
+                "maximumContentWidth": "50cw"
+              },
+              "URL": "https://cdn-assets.ziniopro.com/var/site_881/storage/images/media2/images/p020-hth0422-minori-cream-blush/249119-1-eng-US/p020-hth0422-minori-cream-blush.png?q=100"
+            },
+            {
+              "role": "caption",
+              "layout": "captionLayout",
+              "textStyle": "captionTextStyle",
+              "format": "html",
+              "text": "<b>Minori Cream Blush in Scarlet</b> ($32; <a href=\"http://minoribeauty.com\">minoribeauty.com</a>) I keep my daily makeup look minimal—I love a bare face! This vegan, velvety cream-to-powder formula melts into your skin and mimics a natural flush.<br><i>—AU</i>"
+            }
+          ]
+        },
+        {
+          "//": "======== FULL BLEED CONTAINER ========",
+          "role": "container",
+          "layout": "singleBlockContainerLayout",
+          "components": [
+            {
+              "//": "======== IMAGE BLEED - H2200.0/W1366.0 * 100 = 161.0541728 ========",
+              "role": "image",
+              "layout": {
+                "horizontalContentAlignment": "center",
+                "maximumContentWidth": "50cw"
+              },
+              "URL": "https://cdn-assets.ziniopro.com/var/site_881/storage/images/media2/images/p020-hth0422-indie-lee-facial-oil/249112-1-eng-US/p020-hth0422-indie-lee-facial-oil.png?q=100"
+            },
+            {
+              "role": "caption",
+              "layout": "captionLayout",
+              "textStyle": "captionTextStyle",
+              "format": "html",
+              "text": "<b>Indie Lee Squalane Facial Oil</b> ($34; <a href=\"http://sephora.com\">sephora.com</a>) I press on a bit of this silky smooth oil to lock in my skin’s moisture. Sometimes I’ll add a few drops to my foundation for a dewy finish. When the bottle is empty, the glass part can go in the recycling bin and the brand offers a shipping label for the dropper.<br><i>—AU</i>"
+            }
+          ]
+        },
+        {
+          "role": "heading4",
+          "layout": "heading4Layout",
+          "textStyle": "heading4TextStyle",
+          "format": "html",
+          "text": "Skin"
+        },
+        {
+          "//": "======== SINGLE BLOCK CONTAINER ========",
+          "role": "container",
+          "layout": "singleBlockContainerLayout",
+          "components": [
+            {
+              "//": "======== IMAGE BLOCK - H898.0/W757.0 * 100 = 118.6261559 ========",
+              "role": "image",
+              "layout": {
+                "horizontalContentAlignment": "center",
+                "maximumContentWidth": "45cw"
+              },
+              "URL": "https://cdn-assets.ziniopro.com/var/site_881/storage/images/media2/images/p020-hth0422-common-heir/249182-1-eng-US/p020-hth0422-common-heir.png?q=100"
+            },
+            {
+              "role": "caption",
+              "layout": "captionLayout",
+              "textStyle": "captionTextStyle",
+              "format": "html",
+              "text": "<b>Common Heir 10% Vitamin C Serum</b> ($88 for 60 capsules; <a href=\"http://commonheir.com\">commonheir.com</a>) When it comes to skin care, we think consistency is the spice of life! We always cleanse, use a treatment, moisturize, and follow with an SPF. Our plastic-free, biodegradable capsules keep ingredients fresh, and the plant-based material dissolves in water after use.<br><i>—CL &amp; AU</i>"
+            }
+          ]
+        },
+        {
+          "role": "heading4",
+          "layout": "heading4Layout",
+          "textStyle": "heading4TextStyle",
+          "format": "html",
+          "text": "Hair"
+        },
+        {
+          "//": "======== SINGLE BLOCK CONTAINER ========",
+          "role": "container",
+          "layout": "singleBlockContainerLayout",
+          "components": [
+            {
+              "//": "======== IMAGE BLOCK - H1325.0/W823.0 * 100 = 160.9963548 ========",
+              "role": "image",
+              "layout": {
+                "horizontalContentAlignment": "center",
+                "maximumContentWidth": "40cw"
+              },
+              "URL": "https://cdn-assets.ziniopro.com/var/site_881/storage/images/media2/images/p020-hth0422-moondust-hair-wash/249126-1-eng-US/p020-hth0422-moondust-hair-wash.png?q=100"
+            },
+            {
+              "role": "caption",
+              "layout": "captionLayout",
+              "textStyle": "captionTextStyle",
+              "format": "html",
+              "text": "<b>Susteau Moondust Hair Wash</b> ($29; <a href=\"http://susteau.com\">susteau.com</a>) This concentrated powder (one bottle of Susteau is equivalent to four 8-ounce liquid shampoo bottles) is a dream—a little goes a long way. For suds, mix the powder with water from the shower. It’s a different experience than traditional lather, but I’ve been really impressed with how it cleans.<br><i>—CL</i>"
+            }
+          ]
+        },
+        {
+          "role": "heading4",
+          "layout": "heading4Layout",
+          "textStyle": "heading4TextStyle",
+          "format": "html",
+          "text": "Body ​​"
+        },
+        {
+          "//": "======== SINGLE BLOCK CONTAINER ========",
+          "role": "container",
+          "layout": "singleBlockContainerLayout",
+          "components": [
+            {
+              "//": "======== IMAGE BLOCK - H1489.0/W925.0 * 100 = 160.972973 ========",
+              "role": "image",
+              "layout": {
+                "horizontalContentAlignment": "center",
+                "maximumContentWidth": "50cw"
+              },
+              "URL": "https://cdn-assets.ziniopro.com/var/site_881/storage/images/media2/images/p020-hth0422-otp-body-gloss/249133-1-eng-US/p020-hth0422-otp-body-gloss.png?q=100"
+            },
+            {
+              "role": "caption",
+              "layout": "captionLayout",
+              "textStyle": "captionTextStyle",
+              "format": "html",
+              "text": "<b>Oui the People Featherweight Hydrating Body Gloss</b> ($65; <a href=\"http://ouithepeople.com\">ouithepeople.com</a>) Rose hip, squalane, and avocado oil promise a glow without grease, and the glass bottle makes for easy recycling.<br><i>—AU</i>"
+            }
+          ]
+        },
+        {
+          "role": "container",
+          "layout": "dividerStandardLayout",
+          "style": "dividerStandardStyle"
+        },
+        {
+          "//": "======== FULL BLEED CONTAINER ========",
+          "role": "container",
+          "layout": "fullBleedContainerLayout",
+          "components": [
+            {
+              "//": "======== IMAGE BLEED - H1560.0/W1525.0 * 100 = 102.295082 ========",
+              "role": "photo",
+              "layout": "fullBleedPhotoLayout",
+              "URL": "https://cdn-assets.ziniopro.com/var/site_881/storage/images/media2/images/laurensinge_011/247472-1-eng-US/laurensinge_0112.jpg?q=100"
+            }
+          ]
+        },
+        {
+          "role": "heading2",
+          "layout": "heading2Layout",
+          "textStyle": "heading2TextStyle",
+          "format": "html",
+          "text": "Package Free Founder Lauren Singer"
+        },
+        {
+          "role": "body",
+          "layout": "bodyNoMarginAboveLayout",
+          "style": "paragraphStyle",
+          "textStyle": "bodyTextStyle",
+          "format": "html",
+          "text": "<b><a href='https://www.instagram.com/trashisfortossers'>@trashisfortossers</a></b>"
+        },
+        {
+          "role": "intro",
+          "layout": "introLayout",
+          "style": "introStyle",
+          "textStyle": "introTextStyle",
+          "format": "html",
+          "text": "Reading Rachel Carson’s <i>Silent Spring</i> and studying environmental science in college inspired Singer to open up her own store, Package Free, to make sustainable and ethical products more convenient and accessible."
+        },
+        {
+          "role": "body",
+          "layout": "bodyLayout",
+          "style": "paragraphStyle",
+          "textStyle": "bodyTextStyle",
+          "format": "html",
+          "text": "<q>Q: How did you begin your journey toward living sustainably?</q><br>The first step was accepting that I was living a life that was incredibly wasteful. The average American makes almost 5 pounds of trash per person per day, and even though I was studying environmental science in college, my day-to-day actions were not aligned with my values. That was a hard thing to recognize, but once I did, I decided to eliminate plastics and all trash from my life. I did simple things, like not using plastic water bottles and shopping at the farmers’ market and switching out my beauty products for plastic-free and DIY options."
+        },
+        {
+          "role": "body",
+          "layout": "bodyLayout",
+          "style": "paragraphStyle",
+          "textStyle": "bodyTextStyle",
+          "format": "html",
+          "text": "<q>Q: Do you steer clear of certain ingredients?</q><br>I always avoid any synthetic ingredients, petrochemicals, and plastic packaging. I use the Environmental Working Group’s website (<a href=\"http://ewg.org\">ewg.org</a>) as a resource to examine individual ingredients, learn how products are made, and understand how toxic they are for the environment. Also, it should go without saying, but all products I use have to be cruelty-free."
+        },
+        {
+          "role": "body",
+          "layout": "bodyLayout",
+          "style": "paragraphStyle",
+          "textStyle": "bodyTextStyle",
+          "format": "html",
+          "text": "<q>Q: How would you encourage someone to go green?</q><br>It takes time, so start small. One of my favorite suggestions is when you run out of a product, use that as the catalyst to try something new and plastic-free. For example, if you run out of shampoo, try switching to a bar. Sometimes people want to throw everything away and start fresh, but that can create more waste. Once you’ve used something up, recycle it properly, make sure it has a clean end of life, and <i>then</i> invest in something new."
+        },
+        {
+          "role": "heading3",
+          "layout": "heading3Layout",
+          "textStyle": "heading3TextStyle",
+          "format": "html",
+          "text": "Her Green Routine:"
+        },
+        {
+          "role": "heading4",
+          "layout": "heading4Layout",
+          "textStyle": "heading4TextStyle",
+          "format": "html",
+          "text": "Skin"
+        },
+        {
+          "//": "======== SINGLE BLOCK CONTAINER ========",
+          "role": "container",
+          "layout": "singleBlockContainerLayout",
+          "components": [
+            {
+              "//": "======== IMAGE BLOCK - H583.0/W466.0 * 100 = 125.1072961 ========",
+              "role": "image",
+              "layout": {
+                "horizontalContentAlignment": "center",
+                "maximumContentWidth": "50cw"
+              },
+              "URL": "https://cdn-assets.ziniopro.com/var/site_881/storage/images/media2/images/p021-hth0422-facial-soap-charcoal/249147-1-eng-US/p021-hth0422-facial-soap-charcoal.png?q=100"
+            },
+            {
+              "role": "caption",
+              "layout": "captionLayout",
+              "textStyle": "captionTextStyle",
+              "format": "html",
+              "text": "<b>Meow Meow Tweet Tea Tree Charcoal Facial Soap Bar</b> ($12; <a href=\"http://packagefreeshop.com\">packagefreeshop.com</a>) After 10 years of living zero waste, my routines are pretty simple. I wash my face with a bar to avoid bottles and tubes. Charcoal draws out impurities and keeps my skin clear."
+            }
+          ]
+        },
+        {
+          "role": "heading4",
+          "layout": "heading4Layout",
+          "textStyle": "heading4TextStyle",
+          "format": "html",
+          "text": "Body"
+        },
+        {
+          "//": "======== FULL BLEED CONTAINER ========",
+          "role": "container",
+          "layout": "singleBlockContainerLayout",
+          "components": [
+            {
+              "//": "======== IMAGE BLEED - H2200.0/W1366.0 * 100 = 161.0541728 ========",
+              "role": "image",
+              "layout": {
+                "horizontalContentAlignment": "center",
+                "maximumContentWidth": "50cw"
+              },
+              "URL": "https://cdn-assets.ziniopro.com/var/site_881/storage/images/media2/images/p021-hth0422-leaf-shave-razor/249154-1-eng-US/p021-hth0422-leaf-shave-razor.png?q=100"
+            },
+            {
+              "role": "caption",
+              "layout": "captionLayout",
+              "textStyle": "captionTextStyle",
+              "format": "html",
+              "text": "<b>Leaf Shave The Twig Razor</b> ($59; <a href=\"http://leafshave.com\">leafshave.com</a>) I replaced my plastic razor with one made of stainless steel and zinc alloy. While it requires a bigger investment up front, I save so much long-term by not having to repurchase bulky razor heads."
+            }
+          ]
+        },
+        {
+          "role": "heading4",
+          "layout": "heading4Layout",
+          "textStyle": "heading4TextStyle",
+          "format": "html",
+          "text": "Makeup"
+        },
+        {
+          "//": "======== FULL BLEED CONTAINER ========",
+          "role": "container",
+          "layout": "singleBlockContainerLayout",
+          "components": [
+            {
+              "//": "======== IMAGE BLEED - H1253.0/W1032.0 * 100 = 121.4147287 ========",
+              "role": "image",
+              "layout": {
+                "horizontalContentAlignment": "center",
+                "maximumContentWidth": "45cw"
+              },
+              "URL": "https://cdn-assets.ziniopro.com/var/site_881/storage/images/media2/images/p021-hth0422-bronzer/249140-1-eng-US/p021-hth0422-bronzer.jpg?q=100"
+            },
+            {
+              "role": "caption",
+              "layout": "captionLayout",
+              "textStyle": "captionTextStyle",
+              "format": "html",
+              "text": "<b>La Bouche Rouge La Terre Blonde Bronzer</b> ($75 for compact, $45 for refill; <a href=\"http://laboucherougeparis.com\">laboucherougeparis.com</a>) It’s important to note that no makeup options are perfect, but there are definitely some that are better than others. The plastic-free compact is a bit of a splurge, but you only have to purchase it once. The buttery powder is infused with hyaluronic acid for added skin-care benefits and lasts me for months, so I feel better about spending a little more."
+            }
+          ]
+        },
+        {
+          "role": "container",
+          "layout": "dividerStandardLayout",
+          "style": "dividerStandardStyle"
+        },
+        {
+          "//": "======== FULL BLEED CONTAINER ========",
+          "role": "container",
+          "layout": "fullBleedContainerLayout",
+          "components": [
+            {
+              "//": "======== IMAGE BLEED - H1642.0/W1531.0 * 100 = 107.2501633 ========",
+              "role": "photo",
+              "layout": "fullBleedPhotoLayout",
+              "URL": "https://cdn-assets.ziniopro.com/var/site_881/storage/images/media2/images/unknown-120/247465-1-eng-US/unknown-12.jpg?q=100"
+            }
+          ]
+        },
+        {
+          "role": "heading2",
+          "layout": "heading2Layout",
+          "textStyle": "heading2TextStyle",
+          "format": "html",
+          "text": "Yay for Earth Founder Stevie Yay"
+        },
+        {
+          "role": "body",
+          "layout": "bodyNoMarginAboveLayout",
+          "style": "paragraphStyle",
+          "textStyle": "bodyTextStyle",
+          "format": "html",
+          "text": "<b><a href='https://www.instagram.com/stevieyaaaay'>@stevieyaaaay</a></b>"
+        },
+        {
+          "role": "intro",
+          "layout": "introLayout",
+          "style": "introStyle",
+          "textStyle": "introTextStyle",
+          "text": "A climate activist and beauty founder, Yay believes sustainable choices should be available to everyone, so she started her own earth-friendly line, Yay for Earth."
+        },
+        {
+          "role": "body",
+          "layout": "bodyLayout",
+          "style": "paragraphStyle",
+          "textStyle": "bodyTextStyle",
+          "format": "html",
+          "text": "<q>Q: What inspired you to start living sustainably?</q><br>When my friend lent me a book called <i>Mycelium Running</i>, by Paul Stamets, I learned about the way mushrooms respond, communicate, and benefit nature. They’re referred to as the “neurological network” of nature, and I thought that if mushrooms could do all this good for the planet, imagine what humans could do if we embraced more sustainable systems and lifestyles."
+        },
+        {
+          "role": "body",
+          "layout": "bodyLayout",
+          "style": "paragraphStyle",
+          "textStyle": "bodyTextStyle",
+          "format": "html",
+          "text": "<q>Q: What was the first step you took?</q><br>First, I decided to go plastic-free. It was challenging—though living in New York City definitely helped—but I started to buy bulk goods, shop at the farmers’ market, and make some of my own products, like toothpaste, to avoid packaging that would end up in the landfill. If we have the privilege and ability to steer clear of plastic, it’s a positive step toward healing the earth."
+        },
+        {
+          "role": "body",
+          "layout": "bodyLayout",
+          "style": "paragraphStyle",
+          "textStyle": "bodyTextStyle",
+          "format": "html",
+          "text": "<q>Q: How did the transition go?</q><br>The real transition was moving beyond being plastic-free and diving into what real sustainability means, which, to me, is how to make green living accessible for all. It’s amazing when an individual can support local systems and farms, be plastic-free, and live a minimalist lifestyle, but not everyone has the means or the ability to do that. Living sustainably goes beyond personal action; it’s about supporting policies that promote access for all people."
+        },
+        {
+          "role": "heading3",
+          "layout": "heading3Layout",
+          "textStyle": "heading3TextStyle",
+          "format": "html",
+          "text": "Her Green Routine:"
+        },
+        {
+          "role": "heading4",
+          "layout": "heading4Layout",
+          "textStyle": "heading4TextStyle",
+          "format": "html",
+          "text": "Hair"
+        },
+        {
+          "//": "======== FULL BLEED CONTAINER ========",
+          "role": "container",
+          "layout": "singleBlockContainerLayout",
+          "components": [
+            {
+              "//": "======== IMAGE BLEED - H2024.0/W1257.0 * 100 = 161.0182975 ========",
+              "role": "image",
+              "layout": {
+                "horizontalContentAlignment": "center",
+                "maximumContentWidth": "45cw"
+              },
+              "URL": "https://cdn-assets.ziniopro.com/var/site_881/storage/images/media2/images/p022-hth0422-shampoo-pump/249161-1-eng-US/p022-hth0422-shampoo-pump.png?q=100"
+            },
+            {
+              "role": "caption",
+              "layout": "captionLayout",
+              "textStyle": "captionTextStyle",
+              "format": "html",
+              "text": "<b>Plaine Products Shampoo</b> ($30; <a href=\"http://plaineproducts.com\">plaineproducts.com</a>) This zero-waste brand will send you refills when you’re finished with the original bottle (hang on to the pump—you’ll need it for the new bottle). And it includes a return label so you can send back the empty one, which will be reused."
+            }
+          ]
+        },
+        {
+          "role": "heading4",
+          "layout": "heading4Layout",
+          "textStyle": "heading4TextStyle",
+          "format": "html",
+          "text": "Makeup"
+        },
+        {
+          "//": "======== FULL BLEED CONTAINER ========",
+          "role": "container",
+          "layout": "singleBlockContainerLayout",
+          "components": [
+            {
+              "//": "======== IMAGE BLEED - H1708.0/W1366.0 * 100 = 125.0366032 ========",
+              "role": "image",
+              "layout": {
+                "horizontalContentAlignment": "center",
+                "maximumContentWidth": "50cw"
+              },
+              "URL": "https://cdn-assets.ziniopro.com/var/site_881/storage/images/media2/images/p022-hth0422-trestique/249175-1-eng-US/p022-hth0422-trestique.png?q=100"
+            },
+            {
+              "role": "caption",
+              "layout": "captionLayout",
+              "textStyle": "captionTextStyle",
+              "format": "html",
+              "text": "<b>Trestique Foundation Stick</b> ($30 for stick, $22.50 for refill; <a href=\"http://trestique.com\">trestique.com</a>) This foundation is housed in a case that is meant to last forever, so when I run out, I simply order a new insert rather than a whole new product. Plus, the built-in beauty sponge lets me apply on the go."
+            }
+          ]
+        },
+        {
+          "role": "heading4",
+          "layout": "heading4Layout",
+          "textStyle": "heading4TextStyle",
+          "format": "html",
+          "text": "Skin"
+        },
+        {
+          "//": "======== SINGLE BLOCK CONTAINER ========",
+          "role": "container",
+          "layout": "singleBlockContainerLayout",
+          "components": [
+            {
+              "//": "======== IMAGE BLOCK - H1164.0/W931.0 * 100 = 125.0268528 ========",
+              "role": "image",
+              "layout": {
+                "horizontalContentAlignment": "center",
+                "maximumContentWidth": "50cw"
+              },
+              "URL": "https://cdn-assets.ziniopro.com/var/site_881/storage/images/media2/images/p022-hth0422-yay-for-earth/249168-1-eng-US/p022-hth0422-yay-for-earth.png?q=100"
+            },
+            {
+              "role": "caption",
+              "layout": "captionLayout",
+              "textStyle": "captionTextStyle",
+              "format": "html",
+              "text": "<b>Yay for Earth Sensitive Skin Face Lotion</b> ($18; <a href=\"http://yayforearth.com\">yayforearth.com</a>) I have sensitive skin, so I keep my routine super simple. I cleanse, then swipe on a little of this gentle hydrator. I started Yay for Earth because I couldn’t find something that supported both my sensitive skin and the planet."
+            }
+          ]
+        },
+        {
+          "role": "body",
+          "layout": "attributeLayout",
+          "textStyle": "attributeTextStyle",
+          "format": "html",
+          "text": "LIN AND UBIAS COURTESY OF LIN AND UBIAS; SINGER COURTESY OF SINGER; YAY COURTESY OF YAY; PRODUCT IMAGES COURTESY OF MANUFACTURERS(3)"
+        }
+      ]
+    },
+    {
+      "role": "container",
+      "layout": "bodyContainerLayout",
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "viewLocation": "article"
+            }
+          ],
+          "hidden": false
+        }
+      ],
+      "hidden": true,
+      "components": [
+        {
+          "role": "container",
+          "layout": "dividerLayout",
+          "style": "dividerSectionHeadStyle"
+        },
+        {
+          "//": "=== VISIT TOC LINK, ONLY VISIBLE IF USER IS IN ARTICLE VIEW ===",
+          "role": "body",
+          "layout": "bodyLayout",
+          "textStyle": "tocTextStyle",
+          "format": "html",
+          "text": "<a href='https://apple.news/A9McvoZQoEeyxDMkOLUft6Q'>Tap here</a> to see more from this issue of <i>Health</i>"
+        }
+      ]
+    }
+  ],
+  "componentLayouts": {
+    "attributeLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 15
+    },
+    "authorLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10
+      }
+    },
+    "blockContainerLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "bodyContainerLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": 10
+    },
+    "bodyLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 10
+    },
+    "bodyNoMarginAboveLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10
+      }
+    },
+    "bottomPhotoDividerLayout": {
+      "//": "UNUSED"
+    },
+    "calloutBodyLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 5
+      }
+    },
+    "calloutHeadingLayout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "calloutLayout": {
+      "columnSpan": 16,
+      "columnStart": 2,
+      "margin": 20,
+      "padding": {
+        "bottom": 10,
+        "left": 20,
+        "right": 20,
+        "top": 10
+      }
+    },
+    "captionAdLayout": {
+      "//": "UNUSED"
+    },
+    "captionLayout": {
+      "margin": 8
+    },
+    "collectionLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "customHeaderLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 30
+      },
+      "padding": {
+        "bottom": 20,
+        "top": 35
+      }
+    },
+    "darkModePaddingLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "padding": 10
+        }
+      ]
+    },
+    "dividerCollectionLayout": {
+      "//": "UNUSED"
+    },
+    "dividerLayout": {
+      "//": "UNUSED"
+    },
+    "dividerStandardLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "minimumHeight": 1
+    },
+    "dividerTocLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 15,
+        "top": 20
+      },
+      "minimumHeight": 1
+    },
+    "editorSigLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "horizontalContentAlignment": "left",
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "maximumContentWidth": "25cw",
+      "minimumHeight": 100
+    },
+    "floatContainerLayout": {
+      "columnSpan": 4,
+      "columnStart": 1,
+      "conditional": [
+        {
+          "columnSpan": 4,
+          "columnStart": 0,
+          "conditions": [
+            {
+              "maxViewportWidth": 415
+            }
+          ]
+        }
+      ]
+    },
+    "fullBleedContainerLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "fullBleedDividerLayout": {
+      "//": "UNUSED"
+    },
+    "fullBleedLayout": {
+      "ignoreDocumentMargin": true
+    },
+    "fullBleedPhotoLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 700
+            }
+          ],
+          "ignoreDocumentMargin": false
+        }
+      ],
+      "ignoreDocumentMargin": true
+    },
+    "galleryPhotoLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "heading2Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 20
+      }
+    },
+    "heading3Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading4Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading5Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading6Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 20
+      }
+    },
+    "heroImageLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 15
+      }
+    },
+    "heroImageTallLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 15
+      }
+    },
+    "ingredientsLayout": {
+      "margin": {
+        "bottom": 5
+      }
+    },
+    "introLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 12
+      }
+    },
+    "noMarginLayout": {
+      "columnSpan": 18,
+      "columnStart": 1
+    },
+    "photoCreditLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "top": 8
+      },
+      "padding": {
+        "right": 15
+      }
+    },
+    "productImageStandardLayout": {
+      "minimumHeight": 280
+    },
+    "pullQuoteLayout": {
+      "columnSpan": 16,
+      "columnStart": 2,
+      "conditional": [
+        {
+          "columnSpan": 16,
+          "columnStart": 2,
+          "conditions": [
+            {
+              "minViewportWidth": 600
+            }
+          ],
+          "padding": {
+            "bottom": 30,
+            "left": "7cw",
+            "right": "7cw",
+            "top": 30
+          }
+        }
+      ],
+      "margin": 20,
+      "padding": {
+        "bottom": 25,
+        "left": 20,
+        "right": 20,
+        "top": 22
+      }
+    },
+    "recipeIconLayout": {
+      "horizontalContentAlignment": "center",
+      "maximumContentWidth": 30
+    },
+    "recipeKeyImageLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "horizontalContentAlignment": "left",
+      "margin": {
+        "bottom": 10,
+        "top": 5
+      },
+      "maximumContentWidth": 370,
+      "URL": "https://public-assets-dev.meredithcorp.io/a74420c0cf40518e44c2f5741bff24e2/key.png"
+    },
+    "recipeLabelLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "horizontalContentAlignment": "left",
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "maximumContentWidth": "25cw",
+      "minimumHeight": 35
+    },
+    "recipeSubheadLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 4,
+        "top": 5
+      }
+    },
+    "sectionLayout": {
+      "margin": {
+        "bottom": 25,
+        "top": 5
+      }
+    },
+    "sidebarBodyLayout": {
+      "margin": 10
+    },
+    "sidebarBodyNoMarginAboveLayout": {
+      "margin": {
+        "bottom": 10
+      }
+    },
+    "sidebarDividerLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "minimumHeight": 1
+    },
+    "sidebarFloatContainerLayout": {
+      "columnSpan": 4,
+      "columnStart": 0
+    },
+    "sidebarHeading2Layout": {
+      "margin": {
+        "bottom": 10,
+        "top": 10
+      }
+    },
+    "sidebarHeading3Layout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "sidebarHeading4Layout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "sidebarIntroLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 5
+      }
+    },
+    "sidebarLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 20,
+      "padding": {
+        "bottom": 10,
+        "left": 30,
+        "right": 30,
+        "top": 10
+      }
+    },
+    "sidebarSingleBlockContainerLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "sidebarSmallMarginAboveLayout": {
+      "margin": {
+        "top": 2
+      }
+    },
+    "sidebarStraplineLayout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "singleBlockContainerLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "smallMarginAboveLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 2
+      }
+    },
+    "spacerLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "straplineLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 4
+      }
+    },
+    "titleLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 15
+      }
+    },
+    "topPhotoDividerLayout": {
+      "//": "UNUSED"
+    }
+  },
+  "componentStyles": {
+    "attributeStyle": {
+      "//": "UNUSED"
+    },
+    "authorStyle": {
+      "//": "UNUSED"
+    },
+    "bodyContainerStyle": {
+      "//": "UNUSED"
+    },
+    "calloutStyle": {
+      "backgroundColor": "#000",
+      "mask": {
+        "radius": 10,
+        "type": "corners"
+      }
+    },
+    "captionAdStyle": {
+      "//": "UNUSED"
+    },
+    "customHeaderStyle": {
+      "backgroundColor": "#FDEAEB",
+      "conditional": [
+        {
+          "backgroundColor": "#FDEAEB",
+          "conditions": [
+            {
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "darkModeBackgroundStyle": {
+      "conditional": [
+        {
+          "backgroundColor": "#FFF",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "dividerSectionHeadStyle": {
+      "border": {
+        "all": {
+          "color": "#ececec",
+          "width": 1
+        },
+        "bottom": true,
+        "left": false,
+        "right": false,
+        "top": true
+      },
+      "conditional": [
+        {
+          "border": {
+            "all": {
+              "color": "#666666",
+              "width": 1
+            },
+            "bottom": true,
+            "left": false,
+            "right": false,
+            "top": true
+          },
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "dividerStandardStyle": {
+      "backgroundColor": "#000"
+    },
+    "dividerTocStyle": {
+      "//": "UNUSED"
+    },
+    "editorSigStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "fillMode": "fit",
+            "horizontalAlignment": "left",
+            "type": "image",
+            "URL": "https://public-assets.meredithcorp.io/6a4d216cc9de23a7e8167b2d1c0a2530/amyconway-3.png"
+          }
+        }
+      ],
+      "fill": {
+        "fillMode": "fit",
+        "horizontalAlignment": "left",
+        "type": "image",
+        "URL": "https://cdn-assets.ziniopro.com/var/site_881/storage/images/media2/images/amyconway_s_0082/160366-1-eng-US/amyconway_s_0082.jpg?q=100"
+      }
+    },
+    "fullBleedContainerStyle": {
+      "//": "UNUSED"
+    },
+    "heading2Style": {
+      "//": "UNUSED"
+    },
+    "heading3Style": {
+      "//": "UNUSED"
+    },
+    "heading4Style": {
+      "//": "UNUSED"
+    },
+    "heading5Style": {
+      "//": "UNUSED"
+    },
+    "heading6Style": {
+      "//": "UNUSED"
+    },
+    "ingredientsStyle": {
+      "tableStyle": {
+        "cells": {
+          "conditional": [
+            {
+              "horizontalAlignment": "right",
+              "padding": {
+                "right": 5
+              },
+              "selectors": [
+                {
+                  "columnIndex": 0
+                }
+              ],
+              "width": 10
+            },
+            {
+              "horizontalAlignment": "left",
+              "padding": {
+                "left": 5
+              },
+              "selectors": [
+                {
+                  "columnIndex": 1
+                }
+              ],
+              "width": 75
+            }
+          ],
+          "textStyle": "ingredientsTextStyle",
+          "verticalAlignment": "top"
+        },
+        "columns": {
+          "conditional": [
+            {
+              "selectors": [
+                {
+                  "columnIndex": 0
+                }
+              ],
+              "width": 10
+            },
+            {
+              "selectors": [
+                {
+                  "columnIndex": 1
+                }
+              ],
+              "width": 45
+            }
+          ]
+        },
+        "rows": {
+          "height": 20
+        }
+      }
+    },
+    "introStyle": {
+      "//": "UNUSED"
+    },
+    "paragraphDropCapStyle": {
+      "//": "UNUSED"
+    },
+    "paragraphStyle": {
+      "//": "UNUSED"
+    },
+    "photoContainerStyle": {
+      "//": "UNUSED"
+    },
+    "pullQuoteStyle": {
+      "border": {
+        "all": {
+          "color": "#000",
+          "width": 1
+        },
+        "left": false,
+        "right": false
+      }
+    },
+    "recipeLabelStyleGF": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "fillMode": "fit",
+            "horizontalAlignment": "left",
+            "type": "image",
+            "URL": "https://public-assets.meredithcorp.io/dfbbf2648453bca9aa4103c69dc0bd45/recipe-gf.png"
+          }
+        }
+      ],
+      "fill": {
+        "fillMode": "fit",
+        "horizontalAlignment": "left",
+        "type": "image",
+        "URL": "https://public-assets.meredithcorp.io/dfeb90a955a7147a00a5ee9d2db0ba02/recipe-gf.jpg"
+      }
+    },
+    "recipeLabelStyleGFCentered": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "fillMode": "fit",
+            "horizontalAlignment": "center",
+            "type": "image",
+            "URL": "https://public-assets.meredithcorp.io/dfbbf2648453bca9aa4103c69dc0bd45/recipe-gf.png"
+          }
+        }
+      ],
+      "fill": {
+        "fillMode": "fit",
+        "horizontalAlignment": "center",
+        "type": "image",
+        "URL": "https://public-assets.meredithcorp.io/dfeb90a955a7147a00a5ee9d2db0ba02/recipe-gf.jpg"
+      }
+    },
+    "recipeLabelStyleHF": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "fillMode": "fit",
+            "horizontalAlignment": "left",
+            "type": "image",
+            "URL": "https://public-assets.meredithcorp.io/ce1f31c4570bbaa3b49d547bd8429f45/recipe-hf.png"
+          }
+        }
+      ],
+      "fill": {
+        "fillMode": "fit",
+        "horizontalAlignment": "left",
+        "type": "image",
+        "URL": "https://public-assets.meredithcorp.io/18db01f9c694387b540dc500a5ea8f8a/recipe-hf.jpg"
+      }
+    },
+    "recipeLabelStyleHFCentered": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "fillMode": "fit",
+            "horizontalAlignment": "center",
+            "type": "image",
+            "URL": "https://public-assets.meredithcorp.io/ce1f31c4570bbaa3b49d547bd8429f45/recipe-hf.png"
+          }
+        }
+      ],
+      "fill": {
+        "fillMode": "fit",
+        "horizontalAlignment": "center",
+        "type": "image",
+        "URL": "https://public-assets.meredithcorp.io/18db01f9c694387b540dc500a5ea8f8a/recipe-hf.jpg"
+      }
+    },
+    "recipeLabelStyleHP": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "fillMode": "fit",
+            "horizontalAlignment": "left",
+            "type": "image",
+            "URL": "https://public-assets.meredithcorp.io/93ffc89bd8769a3b27583d8d134e4aa0/recipe-hp.png"
+          }
+        }
+      ],
+      "fill": {
+        "fillMode": "fit",
+        "horizontalAlignment": "left",
+        "type": "image",
+        "URL": "https://public-assets.meredithcorp.io/cc365a9d946e629f954cf7e27638edd7/recipe-hp.jpg"
+      }
+    },
+    "recipeLabelStyleHPCentered": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "fillMode": "fit",
+            "horizontalAlignment": "center",
+            "type": "image",
+            "URL": "https://public-assets.meredithcorp.io/93ffc89bd8769a3b27583d8d134e4aa0/recipe-hp.png"
+          }
+        }
+      ],
+      "fill": {
+        "fillMode": "fit",
+        "horizontalAlignment": "center",
+        "type": "image",
+        "URL": "https://public-assets.meredithcorp.io/cc365a9d946e629f954cf7e27638edd7/recipe-hp.jpg"
+      }
+    },
+    "recipeLabelStyleV": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "fillMode": "fit",
+            "horizontalAlignment": "left",
+            "type": "image",
+            "URL": "https://public-assets.meredithcorp.io/aae176470f83acb5f8ce099508788935/recipe-v.png"
+          }
+        }
+      ],
+      "fill": {
+        "fillMode": "fit",
+        "horizontalAlignment": "left",
+        "type": "image",
+        "URL": "https://public-assets.meredithcorp.io/2c98d7efd2ffa980b3283cab6654a319/recipe-v.jpg"
+      }
+    },
+    "recipeLabelStyleVCentered": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "fillMode": "fit",
+            "horizontalAlignment": "center",
+            "type": "image",
+            "URL": "https://public-assets.meredithcorp.io/aae176470f83acb5f8ce099508788935/recipe-v.png"
+          }
+        }
+      ],
+      "fill": {
+        "fillMode": "fit",
+        "horizontalAlignment": "center",
+        "type": "image",
+        "URL": "https://public-assets.meredithcorp.io/2c98d7efd2ffa980b3283cab6654a319/recipe-v.jpg"
+      }
+    },
+    "recipeLabelStyleVE": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "fillMode": "fit",
+            "horizontalAlignment": "left",
+            "type": "image",
+            "URL": "https://public-assets.meredithcorp.io/9f017d09f19a549a7e69be76e8699460/recipe-ve.png"
+          }
+        }
+      ],
+      "fill": {
+        "fillMode": "fit",
+        "horizontalAlignment": "left",
+        "type": "image",
+        "URL": "https://public-assets.meredithcorp.io/f83a6de315a61acf3ad247ab382270d2/recipe-ve.jpg"
+      }
+    },
+    "recipeLabelStyleVECentered": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "fillMode": "fit",
+            "horizontalAlignment": "center",
+            "type": "image",
+            "URL": "https://public-assets.meredithcorp.io/9f017d09f19a549a7e69be76e8699460/recipe-ve.png"
+          }
+        }
+      ],
+      "fill": {
+        "fillMode": "fit",
+        "horizontalAlignment": "center",
+        "type": "image",
+        "URL": "https://public-assets.meredithcorp.io/f83a6de315a61acf3ad247ab382270d2/recipe-ve.jpg"
+      }
+    },
+    "sectionStyle": {
+      "//": "UNUSED"
+    },
+    "sidebarNoBackgroundStyle": {
+      "border": {
+        "all": {
+          "color": "#f8ecdc",
+          "width": 4
+        }
+      },
+      "conditional": [
+        {
+          "border": {
+            "all": {
+              "color": "#f8ecdc",
+              "width": 4
+            }
+          },
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "sidebarStyle": {
+      "backgroundColor": "#f8ecdc",
+      "conditional": [
+        {
+          "backgroundColor": "#f8ecdc",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "straplineStyle": {
+      "//": "UNUSED"
+    },
+    "titleStyle": {
+      "//": "UNUSED"
+    }
+  },
+  "textStyles": {
+    "creditTextStyle": {
+      "fontName": "BentonSans-Book",
+      "fontSize": 10,
+      "textColor": "#8d8d8d",
+      "tracking": 0.05
+    },
+    "default-tag-caption-heading": {
+      "fontName": "BentonSans-Black",
+      "fontSize": 15,
+      "textTransform": "uppercase",
+      "tracking": 0.06
+    },
+    "default-tag-emoji": {
+      "fontName": "AppleColorEmoji"
+    },
+    "default-tag-lede": {
+      "fontName": "BentonSans-Black",
+      "fontSize": 15,
+      "textTransform": "uppercase",
+      "tracking": 0.06
+    },
+    "default-tag-pipe": {
+      "fontName": "BentonSans-Book",
+      "fontSize": 32
+    },
+    "default-tag-pullquote-attribution": {
+      "fontName": "BentonSans-Book",
+      "fontSize": 14,
+      "textTransform": "uppercase"
+    },
+    "default-tag-q": {
+      "fontName": "LibreFranklin-ExtraBold"
+    },
+    "default-tag-sidebar-lede": {
+      "fontName": "LibreFranklin-Bold"
+    },
+    "default-tag-subsection": {
+      "fontName": "LibreFranklin-Bold",
+      "fontSize": 14,
+      "tracking": 0.12
+    },
+    "endMarkerTextStyle": {
+      "//": "UNUSED"
+    },
+    "subSectionTextStyle": {
+      "//": "UNUSED"
+    }
+  },
+  "componentTextStyles": {
+    "//": {
+      "//": "================ HEALTH OVERRIDES ================"
+    },
+    "attributeTextStyle": {
+      "fontName": "BentonSans-Book",
+      "fontSize": 10,
+      "lineHeight": 12,
+      "textTransform": "uppercase",
+      "tracking": 0.05
+    },
+    "authorTextStyle": {
+      "fontName": "BentonSans-Black",
+      "textTransform": "uppercase",
+      "tracking": 0.06
+    },
+    "bodyCenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "bodyDropCapTextStyle": {
+      "fontName": "ChronicleTextG1-Roman"
+    },
+    "bodyTextStyle": {
+      "fontName": "ChronicleTextG1-Roman"
+    },
+    "calloutBodyTextStyle": {
+      "fontName": "LibreFranklin-Medium",
+      "fontSize": 16,
+      "lineHeight": 20,
+      "textAlignment": "center",
+      "textColor": "#fff"
+    },
+    "calloutHeadingTextStyle": {
+      "fontName": "LibreFranklin-Bold",
+      "fontSize": 19,
+      "lineHeight": 21,
+      "textAlignment": "center",
+      "textColor": "#fff",
+      "textTransform": "uppercase"
+    },
+    "captionAdTextStyle": {
+      "//": "UNUSED"
+    },
+    "captionCenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "captionEmbeddedTextStyle": {
+      "fontName": "HelveticaNeue",
+      "lineHeight": 16
+    },
+    "captionTextStyle": {
+      "fontName": "BentonSans-Book"
+    },
+    "customSectionHeadingTextStyle": {
+      "fontName": "BentonSans-Black",
+      "fontSize": 52,
+      "lineHeight": 40,
+      "textAlignment": "center",
+      "tracking": 0.04
+    },
+    "customSectionSubHeadingBeautyTextStyle": {
+      "fontName": "LibreFranklin-Bold",
+      "fontSize": 13,
+      "lineHeight": 16,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.15
+    },
+    "customSectionSubHeadingBodyAndMindTextStyle": {
+      "fontName": "LibreFranklin-Bold",
+      "fontSize": 12,
+      "lineHeight": 16,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.15
+    },
+    "customSectionSubHeadingFoodTextStyle": {
+      "fontName": "LibreFranklin-Bold",
+      "fontSize": 13,
+      "lineHeight": 16,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.15
+    },
+    "customSectionSubHeadingLifeTextStyle": {
+      "fontName": "LibreFranklin-Bold",
+      "fontSize": 13,
+      "lineHeight": 16,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.15
+    },
+    "customSectionSubHeadingTheShareTextStyle": {
+      "fontName": "LibreFranklin-Bold",
+      "fontSize": 14,
+      "lineHeight": 16,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.15
+    },
+    "default": {
+      "fontName": "BentonSans-Black",
+      "hyphenation": false,
+      "linkStyle": {
+        "underline": true
+      },
+      "textColor": "#000"
+    },
+    "default-author": {
+      "fontSize": 12,
+      "lineHeight": 14
+    },
+    "default-body": {
+      "fontSize": 18,
+      "lineHeight": 21,
+      "paragraphSpacingAfter": 12,
+      "paragraphSpacingBefore": 12
+    },
+    "default-byline": {
+      "//": "UNUSED"
+    },
+    "default-caption": {
+      "fontSize": 13,
+      "lineHeight": 15
+    },
+    "default-heading": {
+      "fontSize": 16,
+      "lineHeight": 16
+    },
+    "default-heading2": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 500
+            }
+          ],
+          "fontSize": 30,
+          "lineHeight": 32
+        }
+      ],
+      "fontSize": 40,
+      "lineHeight": 42
+    },
+    "default-heading3": {
+      "fontSize": 24,
+      "lineHeight": 26
+    },
+    "default-heading4": {
+      "fontSize": 19,
+      "lineHeight": 21
+    },
+    "default-heading5": {
+      "fontSize": 18,
+      "lineHeight": 20
+    },
+    "default-heading6": {
+      "fontSize": 16,
+      "lineHeight": 18
+    },
+    "default-intro": {
+      "fontSize": 20,
+      "lineHeight": 21
+    },
+    "default-photographer": {
+      "//": "UNUSED"
+    },
+    "default-pullquote": {
+      "fontSize": 32,
+      "lineHeight": 32,
+      "textAlignment": "center"
+    },
+    "default-title": {
+      "fontSize": 58,
+      "lineHeight": 54
+    },
+    "floatImageCaptionTextStyle": {
+      "fontName": "BentonSans-Book"
+    },
+    "heading2CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading2TextStyle": {
+      "textTransform": "uppercase"
+    },
+    "heading3CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading3TextStyle": {
+      "//": "UNUSED"
+    },
+    "heading4CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading4TextStyle": {
+      "textTransform": "uppercase"
+    },
+    "heading5CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading5TextStyle": {
+      "//": "UNUSED"
+    },
+    "heading6CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading6TextStyle": {
+      "textTransform": "uppercase",
+      "tracking": 0.05
+    },
+    "ingredientsTextStyle": {
+      "fontName": "LibreFranklin-SemiBold",
+      "fontSize": 15,
+      "lineHeight": 19
+    },
+    "introTextStyle": {
+      "fontName": "Acta-Medium"
+    },
+    "photoCreditTextStyle": {
+      "fontName": "BentonSans-Book",
+      "fontSize": 10,
+      "lineHeight": 12,
+      "textAlignment": "right",
+      "textTransform": "uppercase",
+      "tracking": 0.05
+    },
+    "pullQuoteTextStyle": {
+      "fontName": "Acta-ExtraBold"
+    },
+    "recipeBodyTextStyle": {
+      "fontName": "LibreFranklin-Regular",
+      "fontSize": 16,
+      "lineHeight": 20
+    },
+    "recipeDetailsTextStyle": {
+      "fontName": "LibreFranklin-Regular",
+      "fontSize": 15,
+      "lineHeight": 17
+    },
+    "recipeNutritionInfoTextStyle": {
+      "fontName": "LibreFranklin-Regular",
+      "fontSize": 14,
+      "lineHeight": 16
+    },
+    "recipeSubheadTextStyle": {
+      "fontName": "LibreFranklin-Bold",
+      "fontSize": 17,
+      "lineHeight": 19,
+      "textTransform": "uppercase",
+      "tracking": 0.02
+    },
+    "recipeTitleTextStyle": {
+      "fontSize": 24,
+      "lineHeight": 26,
+      "textTransform": "uppercase",
+      "tracking": 0.06,
+      "underline": true
+    },
+    "sectionTextStyle": {
+      "fontSize": 16,
+      "lineHeight": 18,
+      "textTransform": "uppercase",
+      "tracking": 0.08
+    },
+    "sidebarBodyTextStyle": {
+      "fontName": "LibreFranklin-Regular",
+      "fontSize": 16,
+      "lineHeight": 20,
+      "textAlignment": "center"
+    },
+    "sidebarHeading2TextStyle": {
+      "fontName": "Acta-ExtraBold",
+      "textAlignment": "center"
+    },
+    "sidebarHeading3TextStyle": {
+      "fontName": "LibreFranklin-ExtraBold",
+      "fontSize": 17,
+      "lineHeight": 16,
+      "textAlignment": "center"
+    },
+    "sidebarHeading4TextStyle": {
+      "fontSize": 16,
+      "lineHeight": 18,
+      "textAlignment": "center"
+    },
+    "sidebarIntroTextStyle": {
+      "fontName": "LibreFranklin-SemiBold",
+      "fontSize": 16,
+      "lineHeight": 20,
+      "textAlignment": "center"
+    },
+    "sidebarStraplineTextStyle": {
+      "fontSize": 14,
+      "lineHeight": 16,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.08
+    },
+    "straplineTextStyle": {
+      "fontSize": 14,
+      "lineHeight": 16,
+      "textTransform": "uppercase",
+      "tracking": 0.08
+    },
+    "titleTextStyle": {
+      "textTransform": "uppercase"
+    },
+    "tocTextStyle": {
+      "fontName": "AvenirNextCondensed-Medium",
+      "fontSize": 16,
+      "linkStyle": {
+        "underline": true
+      },
+      "textAlignment": "center",
+      "textColor": "#000"
+    }
+  }
+}

@@ -1,102 +1,74 @@
 {
   "version": "1.9",
-  "identifier": "bhg_article_716-391-10-1",
-  "title": "Family Adventures",
+  "identifier": "coastalliving_article_889-125-12-1",
+  "title": "Sitting Pretty",
   "language": "en",
   "layout": {
-    "columns": 20,
+    "columns": 23,
     "gutter": 20,
-    "margin": 40,
+    "margin": 62,
     "width": 1024
   },
-  "subtitle": "Let the good times roll! Whether you’re in your own backyard or on the road, we share some ideas to make the most of summer family time.",
+  "subtitle": "No matter where you choose to lounge this summer, here are five combos for matching your beach chair and your bathing suit",
   "metadata": {
     "authors": [
-      "Christina Poletto",
-      "Edwin Fotheringham"
+      "By Jessica Thuston"
     ],
-    "dateCreated": "2022-06-09T17:50:36.720Z",
-    "dateModified": "2022-06-07T20:09:11+00:00",
-    "excerpt": "□ Beach day □ Fruity ice pops □ Lobster rolls □ Group bike ride □ Sprinkler party □ Family campout □ Pizza on the grill □ Geocaching",
+    "dateCreated": "2022-05-20T16:37:03.449Z",
+    "dateModified": "2022-05-18T20:18:03+00:00",
+    "excerpt": "■",
     "generatorName": "ANTE Generic Template",
-    "generatorVersion": "0.0.4.33-2022-06-09 18:32",
-    "issue": {
-      "identifier": "PLACEHOLDER_ID",
-      "tocByline": "By Christina Poletto"
-    },
-    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_716/storage/images/media2/images/p010-bhg0822-family-adventures-illustration/591094-1-eng-US/p010-bhg0822-family-adventures-illustration.jpg?q=100"
+    "generatorVersion": "0.0.4.32-2022-04-15 19:20",
+    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/bpc-g-lau-s_126/129638-1-eng-GB/bpc-g-lau-s_1262.png?q=100"
   },
   "documentStyle": {
-    "backgroundColor": "#fff",
-    "conditional": [
-      {
-        "backgroundColor": "#fff",
-        "conditions": [
-          {
-            "minSpecVersion": "1.14",
-            "preferredColorScheme": "dark"
-          }
-        ]
-      }
-    ]
+    "backgroundColor": "#eee"
   },
   "components": [
     {
       "role": "container",
-      "layout": "singleBlockContainerLayout",
-      "components": [
-        {
-          "role": "image",
-          "layout": {
-            "horizontalContentAlignment": "left",
-            "maximumContentWidth": "60cw"
-          },
-          "URL": "https://public-assets.meredithcorp.io/a0500a4636aa6513ac12c1b3962213a2/life-the-main-event-lm.jpg",
-          "uid": "uid3"
-        }
-      ],
-      "uid": "conuid2"
-    },
-    {
-      "//": "======== BODY CONTAINER =======",
-      "role": "container",
       "layout": {
-        "ignoreDocumentMargin": true,
-        "margin": {
-          "bottom": 0
-        }
+        "conditional": [
+          {
+            "conditions": [
+              {
+                "platform": "ios"
+              }
+            ],
+            "ignoreViewportPadding": true
+          },
+          {
+            "conditions": [
+              {
+                "maxViewportWidth": 1366,
+                "minViewportWidth": 1112
+              }
+            ],
+            "ignoreDocumentMargin": "none",
+            "ignoreViewportPadding": "none"
+          }
+        ],
+        "ignoreDocumentMargin": true
       },
       "style": {
-        "backgroundColor": "#FCC00A"
+        "backgroundColor": "#fff"
       },
       "components": [
         {
-          "role": "container",
-          "components": [
-            {
-              "role": "image",
-              "layout": {
-                "conditional": [
-                  {
-                    "conditions": [
-                      {
-                        "minViewportWidth": 430
-                      }
-                    ],
-                    "maximumContentWidth": "100cw"
-                  }
-                ],
-                "horizontalContentAlignment": "left",
-                "margin": {
-                  "top": 20
-                },
-                "maximumContentWidth": "100cw"
-              },
-              "URL": "https://public-assets.meredithcorp.io/eec8b79e3a0adf8e31c1a3e895c1d114/title.png",
-              "uid": "uid6"
-            }
-          ],
-          "uid": "conuid5"
+          "//": "==== DEFAULT HEADER: SECTION ===",
+          "role": "heading",
+          "layout": "sectionLayout",
+          "textStyle": "sectionTextStyle",
+          "format": "html",
+          "text": "Currents <subsection>Market Report</subsection>"
+        },
+        {
+          "//": "==== DEFAULT HEADER: TITLE ===",
+          "role": "title",
+          "layout": "titleLayout",
+          "textStyle": "titleTextStyle",
+          "format": "html",
+          "text": "Sitting Pretty"
         },
         {
           "//": "==== DEFAULT HEADER: INTRO ===",
@@ -104,951 +76,404 @@
           "layout": "introLayout",
           "textStyle": "introTextStyle",
           "format": "html",
-          "text": "Let the good times roll! Whether you’re in your own backyard or on the road, we share some ideas to make the most of summer family time.",
-          "uid": "uid7"
+          "text": "No matter where you choose to lounge this summer, here are five combos for matching your beach chair and your bathing suit"
         },
         {
           "role": "author",
           "layout": "authorLayout",
           "textStyle": "authorTextStyle",
           "format": "html",
-          "text": "By <b>Christina Poletto</b><br>Illustrations by <b>Edwin Fotheringham</b>",
-          "uid": "uid8"
+          "text": "By Jessica Thuston"
+        },
+        {
+          "role": "heading2",
+          "layout": "heading2Layout",
+          "textStyle": "heading2TextStyle",
+          "format": "html",
+          "text": "Romantic Saint-Tropez"
         },
         {
           "//": "======== HERO IMAGE CONTAINER =======",
           "role": "container",
-          "layout": "heroImageLayout",
+          "layout": "singleBlockContainerLayout",
           "components": [
             {
-              "//": "======== HERO IMAGE - H6202.0/W8414.0 * 100 = 73.7104825 ========",
+              "//": "======== HERO IMAGE - H1435.0/W1367.0 * 100 = 104.9743965 ========",
               "role": "image",
-              "layout": "fullBleedPhotoLayout",
-              "URL": "https://cdn-assets.ziniopro.com/var/site_716/storage/images/media2/images/p010-bhg0822-family-adventures-illustration/591094-1-eng-US/p010-bhg0822-family-adventures-illustration.jpg?q=100",
-              "uid": "uid10"
+              "layout": {
+                "maximumContentWidth": "70cw"
+              },
+              "caption": {
+                "format": "html",
+                "text": "<bold>Romantic Saint-Tropez</bold><br><bold>CHAIR Business &amp; Pleasure The Sling Chair</bold> in Lauren’s Navy Stripe, $249.",
+                "textStyle": "captionEmbeddedTextStyle"
+              },
+              "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/bpc-g-lau-s_126/129638-1-eng-GB/bpc-g-lau-s_1262.png?q=100"
             },
             {
               "role": "caption",
               "layout": "captionLayout",
               "textStyle": "captionTextStyle",
               "format": "html",
-              "text": "<caption-heading>PUMP IT UP</caption-heading><br>Get a door-to-door gas cost estimate at <a href=\"http://gasprices.aaa.com\">gasprices.aaa.com</a>. Driving electric? Find chargers at <a href=\"http://chargehub.com\">chargehub.com</a>.",
-              "uid": "uid11"
+              "text": "<caption-heading>Chair</caption-heading><br><bold>Business &amp; Pleasure The Sling Chair</bold> in Lauren’s Navy Stripe, $249 <a href=\"http://businessandpleasureco.com\">businessandpleasureco.com</a>"
             }
-          ],
-          "uid": "conuid9"
-        }
-      ],
-      "uid": "conuid4"
-    },
-    {
-      "//": "TABLET SECTION",
-      "role": "section",
-      "layout": {
-        "columnSpan": 20,
-        "columnStart": 0,
-        "ignoreDocumentMargin": true
-      },
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minViewportWidth": 500
-            }
-          ],
-          "hidden": false
-        }
-      ],
-      "contentDisplay": {
-        "type": "horizontal_stack"
-      },
-      "hidden": true,
-      "components": [
-        {
-          "//": "left side - 1140 min height total",
-          "role": "container",
-          "layout": {
-            "minimumWidth": "50cw"
-          },
-          "components": [
-            {
-              "//": "pink container",
-              "role": "container",
-              "layout": {
-                "minimumHeight": 355,
-                "padding": {
-                  "bottom": 14,
-                  "left": 20,
-                  "right": 20,
-                  "top": 0
-                }
-              },
-              "style": {
-                "backgroundColor": "#f4a1b0",
-                "border": {
-                  "all": {
-                    "color": "#fff",
-                    "width": 2
-                  },
-                  "bottom": true,
-                  "left": false,
-                  "right": true,
-                  "top": true
-                }
-              },
-              "components": [
-                {
-                  "role": "container",
-                  "anchor": {
-                    "target": "pink",
-                    "targetAnchorPosition": "center"
-                  },
-                  "components": [
-                    {
-                      "role": "container",
-                      "components": [
-                        {
-                          "role": "image",
-                          "layout": {
-                            "conditional": [
-                              {
-                                "conditions": [
-                                  {
-                                    "minViewportWidth": 430
-                                  }
-                                ],
-                                "maximumContentWidth": "50cw"
-                              }
-                            ],
-                            "horizontalContentAlignment": "left",
-                            "margin": {
-                              "top": 20
-                            },
-                            "maximumContentWidth": "55cw"
-                          },
-                          "URL": "https://public-assets.meredithcorp.io/c4acb6bd56bf5e55b51b2633c6600395/summer.png",
-                          "uid": "uid17"
-                        }
-                      ],
-                      "uid": "conuid16"
-                    },
-                    {
-                      "role": "body",
-                      "layout": "bodyNoMarginAboveLayout",
-                      "textStyle": "sidebarBodyTextStyle",
-                      "format": "html",
-                      "text": "□ <b><red>Beach day</red></b><br>□ <b><blue>Fruity ice pops</blue></b><br>□ <b><red>Lobster rolls</red></b><br>□ <b><blue>Group bike ride</blue></b><br>□ <b><red>Sprinkler party</red></b><br>□ <b><blue>Family campout</blue></b><br>□ <b><red>Pizza on the grill</red></b><br>□ <b><blue>Geocaching</blue></b>",
-                      "uid": "uid18"
-                    }
-                  ],
-                  "uid": "conuid15"
-                }
-              ],
-              "uid": "conuid14"
-            },
-            {
-              "//": "lt blue",
-              "role": "container",
-              "layout": {
-                "minimumHeight": 200,
-                "padding": {
-                  "bottom": 14,
-                  "left": 20,
-                  "right": 20,
-                  "top": 0
-                }
-              },
-              "style": {
-                "backgroundColor": "#969BC3",
-                "border": {
-                  "all": {
-                    "color": "#fff",
-                    "width": 2
-                  },
-                  "bottom": true,
-                  "left": false,
-                  "right": true,
-                  "top": true
-                }
-              },
-              "identifier": "ltblue",
-              "components": [
-                {
-                  "role": "container",
-                  "anchor": {
-                    "target": "ltblue",
-                    "targetAnchorPosition": "center"
-                  },
-                  "components": [
-                    {
-                      "role": "container",
-                      "components": [
-                        {
-                          "role": "image",
-                          "layout": {
-                            "conditional": [
-                              {
-                                "conditions": [
-                                  {
-                                    "minViewportWidth": 430
-                                  }
-                                ],
-                                "maximumContentWidth": "50cw"
-                              }
-                            ],
-                            "horizontalContentAlignment": "center",
-                            "margin": {
-                              "top": 30
-                            },
-                            "maximumContentWidth": "55cw"
-                          },
-                          "URL": "https://public-assets.meredithcorp.io/f3f0de5e02721688c5b3bf42669d165f/15.png",
-                          "uid": "uid22"
-                        }
-                      ],
-                      "uid": "conuid21"
-                    },
-                    {
-                      "role": "heading3",
-                      "layout": "smallMarginAboveLayout",
-                      "style": "heading3Style",
-                      "textStyle": "heading3CenteredTextStyle",
-                      "format": "html",
-                      "text": "NATIONAL RELAXATION DAY",
-                      "uid": "uid23"
-                    },
-                    {
-                      "role": "body",
-                      "layout": "bodyNoMarginAboveLayout",
-                      "textStyle": "sidebarBodyCenteredTextStyle",
-                      "format": "html",
-                      "text": "Put this on your to-do list: absolutely nothing! Or try a family meditation sesh. Get started with a mantra like “I will be good to myself and others.”",
-                      "uid": "uid24"
-                    }
-                  ],
-                  "uid": "conuid20"
-                }
-              ],
-              "uid": "conuid19"
-            },
-            {
-              "//": "blue2 container",
-              "role": "container",
-              "layout": {
-                "minimumHeight": 350,
-                "padding": {
-                  "bottom": 14,
-                  "left": 20,
-                  "right": 20,
-                  "top": 0
-                }
-              },
-              "style": {
-                "backgroundColor": "#4ab6b2",
-                "border": {
-                  "all": {
-                    "color": "#fff",
-                    "width": 2
-                  },
-                  "bottom": false,
-                  "left": false,
-                  "right": true,
-                  "top": true
-                }
-              },
-              "identifier": "blue2",
-              "components": [
-                {
-                  "role": "container",
-                  "anchor": {
-                    "target": "blue2",
-                    "targetAnchorPosition": "center"
-                  },
-                  "components": [
-                    {
-                      "role": "image",
-                      "layout": {
-                        "conditional": [
-                          {
-                            "conditions": [
-                              {
-                                "minViewportWidth": 430
-                              }
-                            ],
-                            "maximumContentWidth": "50cw"
-                          }
-                        ],
-                        "horizontalContentAlignment": "center",
-                        "maximumContentWidth": "45cw"
-                      },
-                      "URL": "https://cdn-assets.ziniopro.com/var/site_716/storage/images/media2/images/p010-bhg0822-monarch-butterfly/591108-1-eng-US/p010-bhg0822-monarch-butterfly.png?q=100",
-                      "uid": "uid27"
-                    },
-                    {
-                      "role": "body",
-                      "layout": "bodyNoMarginAboveLayout",
-                      "textStyle": "sidebarBodyCenteredTextStyle",
-                      "format": "html",
-                      "text": "This is a prime time for monarchs to lay eggs. Learn how to help care for them at <a href=\"http://saveourmonarchs.org\">saveourmonarchs.org</a>. Show kids how to spot eggs, cocoons, and caterpillars.",
-                      "uid": "uid28"
-                    }
-                  ],
-                  "uid": "conuid26"
-                }
-              ],
-              "uid": "conuid25"
-            }
-          ],
-          "uid": "conuid13"
+          ]
         },
         {
-          "//": "right side - 1140 min height total",
+          "//": "======== BODY CONTAINER =======",
           "role": "container",
-          "layout": {
-            "minimumWidth": "50cw"
-          },
+          "layout": "bodyContainerLayout",
           "components": [
             {
-              "//": "red container",
+              "//": "======== FULL BLEED CONTAINER ========",
               "role": "container",
-              "layout": {
-                "minimumHeight": 180,
-                "padding": {
-                  "bottom": 14,
-                  "left": 20,
-                  "right": 20,
-                  "top": 0
-                }
-              },
-              "style": {
-                "backgroundColor": "#f14922",
-                "border": {
-                  "all": {
-                    "color": "#fff",
-                    "width": 2
-                  },
-                  "bottom": true,
-                  "left": true,
-                  "right": false,
-                  "top": true
-                }
-              },
-              "identifier": "red",
+              "layout": "singleBlockContainerLayout",
               "components": [
                 {
-                  "role": "container",
-                  "anchor": {
-                    "target": "red",
-                    "targetAnchorPosition": "center"
-                  },
-                  "components": [
-                    {
-                      "role": "container",
-                      "components": [
-                        {
-                          "role": "image",
-                          "layout": {
-                            "conditional": [
-                              {
-                                "conditions": [
-                                  {
-                                    "minViewportWidth": 430
-                                  }
-                                ],
-                                "maximumContentWidth": "50cw"
-                              }
-                            ],
-                            "horizontalContentAlignment": "center",
-                            "margin": {
-                              "top": 20
-                            },
-                            "maximumContentWidth": "55cw"
-                          },
-                          "URL": "https://public-assets.meredithcorp.io/85b7f0d6de82b7486f8192d07cdd2517/july.png",
-                          "uid": "uid33"
-                        }
-                      ],
-                      "uid": "conuid32"
-                    },
-                    {
-                      "role": "heading3",
-                      "layout": "smallMarginAboveLayout",
-                      "style": "heading3Style",
-                      "textStyle": "heading3CenteredTextStyle",
-                      "format": "html",
-                      "text": "<white>NATIONAL ICE CREAM DAY</white>",
-                      "uid": "uid34"
-                    },
-                    {
-                      "role": "body",
-                      "layout": "bodyNoMarginAboveLayout",
-                      "textStyle": "sidebarBodyCenteredTextStyle",
-                      "format": "html",
-                      "text": "<white><sidebar-lede>Float your Shirley Temple: Pour grenadine and ginger ale (or kirsch and Prosecco) over a scoop of vanilla ice cream.</sidebar-lede></white>",
-                      "uid": "uid35"
-                    }
-                  ],
-                  "uid": "conuid31"
-                }
-              ],
-              "uid": "conuid30"
-            },
-            {
-              "//": "lightgreen container",
-              "role": "container",
-              "layout": {
-                "minimumHeight": 450,
-                "padding": {
-                  "bottom": 14,
-                  "left": 20,
-                  "right": 20,
-                  "top": 0
-                }
-              },
-              "style": {
-                "backgroundColor": "#c6db5b",
-                "border": {
-                  "all": {
-                    "color": "#fff",
-                    "width": 2
-                  },
-                  "bottom": true,
-                  "left": true,
-                  "right": false,
-                  "top": true
-                }
-              },
-              "identifier": "lightgreen",
-              "components": [
-                {
-                  "role": "container",
-                  "anchor": {
-                    "target": "lightgreen",
-                    "targetAnchorPosition": "center"
-                  },
-                  "components": [
-                    {
-                      "role": "container",
-                      "layout": "fullBleedContainerLayout",
-                      "components": [
-                        {
-                          "role": "image",
-                          "layout": {
-                            "conditional": [
-                              {
-                                "conditions": [
-                                  {
-                                    "minViewportWidth": 430
-                                  }
-                                ],
-                                "maximumContentWidth": "50cw"
-                              }
-                            ],
-                            "horizontalContentAlignment": "center",
-                            "maximumContentWidth": "55cw"
-                          },
-                          "URL": "https://cdn-assets.ziniopro.com/var/site_716/storage/images/media2/images/p010-bhg0822-ranger-hat/591101-1-eng-US/p010-bhg0822-ranger-hat.png?q=100",
-                          "uid": "uid39"
-                        }
-                      ],
-                      "uid": "conuid38"
-                    },
-                    {
-                      "role": "body",
-                      "layout": "bodyLayout",
-                      "textStyle": "sidebarBodyCenteredTextStyle",
-                      "format": "html",
-                      "text": "<caption-heading2>Park Perks</caption-heading2> <br /><sidebaritalic>Our in-house National Parks enthusiast, food editor</sidebaritalic> Emily Teel, <sidebaritalic>stocks up on freebie souvenirs (without breaking any “take only pictures” rules!)</sidebaritalic>.<br><br>Start at the visitors center to grab a free Junior Ranger guide. Complete all the activities and get sworn in as a Junior Ranger by an <sidebaritalic>actual</sidebaritalic> park ranger. In addition to pride, you’ll get a badge or patch for your efforts. And don’t forget your official park stamp. You can buy a passport or BYO notebook to stamp and record memories with factoids learned, wildlife seen, and trails hiked.",
-                      "uid": "uid40"
-                    }
-                  ],
-                  "uid": "conuid37"
-                }
-              ],
-              "uid": "conuid36"
-            },
-            {
-              "//": "blue container",
-              "role": "container",
-              "layout": {
-                "minimumHeight": 220,
-                "padding": {
-                  "bottom": 14,
-                  "left": 20,
-                  "right": 20,
-                  "top": 0
-                }
-              },
-              "style": {
-                "backgroundColor": "#3B67B1",
-                "border": {
-                  "all": {
-                    "color": "#fff",
-                    "width": 2
-                  },
-                  "bottom": false,
-                  "left": true,
-                  "right": false,
-                  "top": true
-                }
-              },
-              "identifier": "blue",
-              "components": [
-                {
-                  "role": "container",
-                  "anchor": {
-                    "target": "blue",
-                    "targetAnchorPosition": "center"
-                  },
-                  "components": [
-                    {
-                      "role": "container",
-                      "components": [
-                        {
-                          "role": "image",
-                          "layout": {
-                            "conditional": [
-                              {
-                                "conditions": [
-                                  {
-                                    "minViewportWidth": 430
-                                  }
-                                ],
-                                "maximumContentWidth": "50cw"
-                              }
-                            ],
-                            "horizontalContentAlignment": "center",
-                            "maximumContentWidth": "55cw"
-                          },
-                          "URL": "https://public-assets.meredithcorp.io/b8d3818da423a6c4e96374679cc86281/all-aboard.png",
-                          "uid": "uid44"
-                        }
-                      ],
-                      "uid": "conuid43"
-                    },
-                    {
-                      "role": "pullquote",
-                      "layout": "bodyNoMarginAboveLayout",
-                      "textStyle": "pullQuoteTextStyle1",
-                      "format": "html",
-                      "text": "<white>Caravanning in multiple cars? Use the Wanderlog app to share your itinerary and collaborate in real time so everyone stays in the loop (and no one misses an exit).</white>",
-                      "uid": "uid45"
-                    }
-                  ],
-                  "uid": "conuid42"
-                }
-              ],
-              "uid": "conuid41"
-            }
-          ],
-          "uid": "conuid29"
-        }
-      ],
-      "uid": "conuid12"
-    },
-    {
-      "//": "PHONE SECTION",
-      "role": "section",
-      "layout": {
-        "columnSpan": 20,
-        "columnStart": 0,
-        "ignoreDocumentMargin": true
-      },
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minViewportWidth": 500
-            }
-          ],
-          "hidden": true
-        }
-      ],
-      "hidden": false,
-      "components": [
-        {
-          "role": "container",
-          "layout": "fullBleedContainerAltLayout",
-          "style": {
-            "backgroundColor": "#f4a1b0"
-          },
-          "anchor": {
-            "target": "pink",
-            "targetAnchorPosition": "center"
-          },
-          "components": [
-            {
-              "role": "container",
-              "components": [
-                {
+                  "//": "======== IMAGE BLEED - H1722.0/W1367.0 * 100 = 125.9692758 ========",
                   "role": "image",
                   "layout": {
-                    "conditional": [
-                      {
-                        "conditions": [
-                          {
-                            "minViewportWidth": 430
-                          }
-                        ],
-                        "maximumContentWidth": "50cw"
-                      }
-                    ],
-                    "horizontalContentAlignment": "left",
-                    "maximumContentWidth": "55cw"
+                    "maximumContentWidth": "70cw"
                   },
-                  "URL": "https://public-assets.meredithcorp.io/c4acb6bd56bf5e55b51b2633c6600395/summer.png",
-                  "uid": "uid49"
+                  "caption": {
+                    "format": "html",
+                    "text": "<bold>SUIT Vineyard Vines Anegada Floral Ruffle Bikini Top,</bold><br>$78, and <bold>High-Waisted Bikini Bottom,</bold> $75.",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/oceanreefbo_121/129645-1-eng-GB/oceanreefbo_1212.png?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Suit</caption-heading><br><bold>Vineyard Vines Anegada Floral Ruffle Bikini Top,</bold> $78, and <bold>High-Waisted Bikini Bottom,</bold> $75 <a href=\"http://tnuck.com\">tnuck.com</a>"
                 }
-              ],
-              "uid": "conuid48"
+              ]
             },
-            {
-              "role": "body",
-              "layout": "bodyNoMarginAboveLayout",
-              "textStyle": "sidebarBodyTextStyle",
-              "format": "html",
-              "text": "□ <b><red>Beach day</red></b><br>□ <b><blue>Fruity ice pops</blue></b><br>□ <b><red>Lobster rolls</red></b><br>□ <b><blue>Group bike ride</blue></b><br>□ <b><red>Sprinkler party</red></b><br>□ <b><blue>Family campout</blue></b><br>□ <b><red>Pizza on the grill</red></b><br>□ <b><blue>Geocaching</blue></b>",
-              "uid": "uid50"
-            }
-          ],
-          "uid": "conuid47"
-        },
-        {
-          "role": "container",
-          "layout": "fullBleedContainerLayout",
-          "style": {
-            "backgroundColor": "#969BC3"
-          },
-          "anchor": {
-            "target": "ltblue",
-            "targetAnchorPosition": "center"
-          },
-          "components": [
             {
               "role": "container",
+              "layout": "dividerStandardLayout",
+              "style": "dividerStandardStyle"
+            },
+            {
+              "role": "heading2",
+              "layout": "heading2Layout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "West Coast Surf"
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
               "components": [
                 {
+                  "//": "======== IMAGE BLEED - H1398.0/W1367.0 * 100 = 102.2677396 ========",
                   "role": "image",
                   "layout": {
-                    "conditional": [
-                      {
-                        "conditions": [
-                          {
-                            "minViewportWidth": 430
-                          }
-                        ],
-                        "maximumContentWidth": "50cw"
-                      }
-                    ],
-                    "horizontalContentAlignment": "center",
-                    "maximumContentWidth": "55cw"
+                    "maximumContentWidth": "70cw"
                   },
-                  "URL": "https://public-assets.meredithcorp.io/f3f0de5e02721688c5b3bf42669d165f/15.png",
-                  "uid": "uid53"
+                  "caption": {
+                    "format": "html",
+                    "text": "<bold>West Coast Surf</bold><br><bold>CHAIR PARKIT Voyager Chair</bold> in Slate, $225.",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/parkit-003__128/129631-1-eng-GB/parkit-003__1282.png?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Chair</caption-heading><br><bold>PARKIT Voyager Chair</bold> in Slate, $225 <a href=\"http://parkitmovement.com\">parkitmovement.com</a>"
                 }
-              ],
-              "uid": "conuid52"
+              ]
             },
             {
-              "role": "heading3",
-              "layout": "smallMarginAboveLayout",
-              "style": "heading3Style",
-              "textStyle": "heading3CenteredTextStyle",
-              "format": "html",
-              "text": "NATIONAL RELAXATION DAY",
-              "uid": "uid54"
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H2005.0/W1367.0 * 100 = 146.6715435 ========",
+                  "role": "image",
+                  "layout": {
+                    "maximumContentWidth": "60cw"
+                  },
+                  "caption": {
+                    "format": "html",
+                    "text": "<bold>SUIT Trina Turk Breeze Paddle Suit,</bold><br>$172.",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/trinaturk_b_131/129624-1-eng-GB/trinaturk_b_1312.png?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Suit</caption-heading><br><bold>Trina Turk Breeze Paddle Suit,</bold> $172 <a href=\"http://trinaturk.com\">trinaturk.com</a>"
+                }
+              ]
             },
             {
-              "role": "body",
-              "layout": "bodyNoMarginAboveLayout",
-              "textStyle": "sidebarBodyCenteredTextStyle",
-              "format": "html",
-              "text": "Put this on your to-do list: absolutely nothing! Or try a family meditation sesh. Get started with a mantra like “I will be good to myself and others.”",
-              "uid": "uid55"
-            }
-          ],
-          "uid": "conuid51"
-        },
-        {
-          "role": "container",
-          "layout": "fullBleedContainerLayout",
-          "style": {
-            "backgroundColor": "#4ab6b2"
-          },
-          "anchor": {
-            "target": "blue2",
-            "targetAnchorPosition": "center"
-          },
-          "components": [
+              "role": "container",
+              "layout": "dividerStandardLayout",
+              "style": "dividerStandardStyle"
+            },
             {
-              "role": "image",
-              "layout": {
-                "conditional": [
-                  {
-                    "conditions": [
-                      {
-                        "minViewportWidth": 430
-                      }
-                    ],
+              "role": "heading2",
+              "layout": "heading2Layout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Caribbean Cool"
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1397.0/W1367.0 * 100 = 102.1945867 ========",
+                  "role": "image",
+                  "layout": {
+                    "maximumContentWidth": "70cw"
+                  },
+                  "caption": {
+                    "format": "html",
+                    "text": "<bold>Caribbean Cool</bold><br><bold>CHAIR Serena &amp; Lily Palisades Outdoor Chair</bold> in Driftwood, $498.",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/serenalilyp_129/129617-1-eng-GB/serenalilyp_1292.png?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Chair</caption-heading><br><bold>Serena &amp; Lily Palisades Outdoor Chair</bold> in Driftwood, $498 <a href=\"http://serenaandlily.com\">serenaandlily.com</a>"
+                }
+              ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H2310.0/W1367.0 * 100 = 168.9831748 ========",
+                  "role": "image",
+                  "layout": {
                     "maximumContentWidth": "50cw"
-                  }
-                ],
-                "horizontalContentAlignment": "center",
-                "maximumContentWidth": "45cw"
-              },
-              "URL": "https://cdn-assets.ziniopro.com/var/site_716/storage/images/media2/images/p010-bhg0822-monarch-butterfly/591108-1-eng-US/p010-bhg0822-monarch-butterfly.png?q=100",
-              "uid": "uid57"
+                  },
+                  "caption": {
+                    "format": "html",
+                    "text": "<bold>SUIT Summersalt The Ruffle Backflip Suit</bold><br>In Hibiscus &amp; Tangerine, $95.",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/theruffleba_130/129610-1-eng-GB/theruffleba_1302.png?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Suit</caption-heading><br><bold>Summersalt The Ruffle Backflip Suit </bold>in Hibiscus &amp; Tangerine, $95 <a href=\"http://summersalt.com\">summersalt.com</a>"
+                }
+              ]
+            },
+            {
+              "role": "container",
+              "layout": "dividerStandardLayout",
+              "style": "dividerStandardStyle"
+            },
+            {
+              "role": "heading2",
+              "layout": "heading2Layout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Florida’s White Sands"
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1635.0/W1367.0 * 100 = 119.6049744 ========",
+                  "role": "image",
+                  "layout": {
+                    "maximumContentWidth": "70cw"
+                  },
+                  "caption": {
+                    "format": "html",
+                    "text": "<bold>Florida’s White Sands</bold><br><bold>CHAIR L.L.Bean Backpack Beach Chair</bold> in Ocean Blue, $89.",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/aa225429_pr_125/129603-1-eng-GB/aa225429_pr_1252.png?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Chair</caption-heading><br><bold>L.L.Bean Backpack Beach Chair</bold> in Ocean Blue, $89 <a href=\"http://llbean.com\">llbean.com</a>"
+                }
+              ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H2158.0/W1367.0 * 100 = 157.8639356 ========",
+                  "role": "image",
+                  "layout": {
+                    "maximumContentWidth": "60cw"
+                  },
+                  "caption": {
+                    "format": "html",
+                    "text": "<bold>SUIT Southern Tide Tie One Shoulder One Piece Swimsuit</bold><br>In Ocean Channel, $105.",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/8934_ocean__124/129596-1-eng-GB/8934_ocean__1242.png?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Suit</caption-heading><br><bold>Southern Tide Tie One Shoulder One Piece Swimsuit</bold> in Ocean Channel, $105 <a href=\"http://southerntide.com\">southerntide.com</a>"
+                }
+              ]
+            },
+            {
+              "role": "container",
+              "layout": "dividerStandardLayout",
+              "style": "dividerStandardStyle"
+            },
+            {
+              "role": "heading2",
+              "layout": "heading2Layout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "All-American Nantucket"
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1832.0/W1367.0 * 100 = 134.0160936 ========",
+                  "role": "image",
+                  "layout": {
+                    "maximumContentWidth": "70cw"
+                  },
+                  "caption": {
+                    "format": "html",
+                    "text": "<bold>All-American Nantucket</bold><br><bold>CHAIR LowTides Dune High Beach Chair</bold> in Laura Ashley Sweet Alyssum, $169.",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/dune-laura__127/129582-1-eng-GB/dune-laura__1272.png?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Chair</caption-heading><br><bold>LowTides Dune High Beach Chair</bold> in Laura Ashley Sweet Alyssum, $169 <a href=\"http://lowtidesop.com\">lowtidesop.com</a>"
+                }
+              ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1505.0/W1366.0 * 100 = 110.1756955 ========",
+                  "role": "image",
+                  "layout": {
+                    "maximumContentWidth": "70cw"
+                  },
+                  "caption": {
+                    "format": "html",
+                    "text": "<bold>SUIT Marysia East River Top,</bold><br> $151, and <bold>Broadway Bottom,</bold> $148; <br><span data-anf-textstyle=\"creditTextStyle\">PRODUCTS COURTESY MANUFACTURERS</span>",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/p012-bzo102397-red-swim-suit/131358-1-eng-GB/p012-bzo102397-red-swim-suit.png?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Suit</caption-heading><br><bold>Marysia East River Top,</bold> $151, and <bold>Broadway Bottom,</bold> $148 <a href=\"http://marysia.com\">marysia.com</a>"
+                }
+              ]
             },
             {
               "role": "body",
-              "layout": "bodyNoMarginAboveLayout",
-              "textStyle": "sidebarBodyCenteredTextStyle",
+              "layout": "attributeLayout",
+              "style": "attributeStyle",
+              "textStyle": "attributeTextStyle",
               "format": "html",
-              "text": "This is a prime time for monarchs to lay eggs. Learn how to help care for them at <a href=\"http://saveourmonarchs.org\">saveourmonarchs.org</a>. Show kids how to spot eggs, cocoons, and caterpillars.",
-              "uid": "uid58"
+              "text": "PRODUCTS COURTESY MANUFACTURERS"
             }
-          ],
-          "uid": "conuid56"
+          ]
         },
         {
           "role": "container",
-          "layout": "fullBleedContainerLayout",
-          "style": {
-            "backgroundColor": "#f14922"
-          },
-          "anchor": {
-            "target": "red",
-            "targetAnchorPosition": "center"
-          },
-          "components": [
+          "layout": "bodyContainerLayout",
+          "conditional": [
             {
-              "role": "container",
-              "components": [
+              "conditions": [
                 {
-                  "role": "image",
-                  "layout": {
-                    "conditional": [
-                      {
-                        "conditions": [
-                          {
-                            "minViewportWidth": 430
-                          }
-                        ],
-                        "maximumContentWidth": "50cw"
-                      }
-                    ],
-                    "horizontalContentAlignment": "center",
-                    "maximumContentWidth": "55cw"
-                  },
-                  "URL": "https://public-assets.meredithcorp.io/85b7f0d6de82b7486f8192d07cdd2517/july.png",
-                  "uid": "uid61"
+                  "viewLocation": "article"
                 }
               ],
-              "uid": "conuid60"
-            },
-            {
-              "role": "heading3",
-              "layout": "smallMarginAboveLayout",
-              "style": "heading3Style",
-              "textStyle": "heading3CenteredTextStyle",
-              "format": "html",
-              "text": "<white>NATIONAL ICE CREAM DAY</white>",
-              "uid": "uid62"
-            },
-            {
-              "role": "body",
-              "layout": "bodyNoMarginAboveLayout",
-              "textStyle": "sidebarBodyCenteredTextStyle",
-              "format": "html",
-              "text": "<white><sidebar-lede>Float your Shirley Temple: Pour grenadine and ginger ale (or kirsch and Prosecco) over a scoop of vanilla ice cream.</sidebar-lede></white>",
-              "uid": "uid63"
+              "hidden": false
             }
           ],
-          "uid": "conuid59"
-        },
-        {
-          "role": "container",
-          "layout": "fullBleedContainerLayout",
-          "style": {
-            "backgroundColor": "#c6db5b"
-          },
-          "anchor": {
-            "target": "lightgreen",
-            "targetAnchorPosition": "center"
-          },
+          "hidden": true,
           "components": [
             {
               "role": "container",
-              "layout": "fullBleedContainerLayout",
-              "components": [
-                {
-                  "role": "image",
-                  "layout": {
-                    "conditional": [
-                      {
-                        "conditions": [
-                          {
-                            "minViewportWidth": 430
-                          }
-                        ],
-                        "maximumContentWidth": "50cw"
-                      }
-                    ],
-                    "horizontalContentAlignment": "center",
-                    "maximumContentWidth": "55cw"
-                  },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_716/storage/images/media2/images/p010-bhg0822-ranger-hat/591101-1-eng-US/p010-bhg0822-ranger-hat.png?q=100",
-                  "uid": "uid66"
-                }
-              ],
-              "uid": "conuid65"
+              "layout": "dividerLayout",
+              "style": "dividerSectionHeadStyle"
             },
             {
+              "//": "=== VISIT TOC LINK, ONLY VISIBLE IF USER IS IN ARTICLE VIEW ===",
               "role": "body",
               "layout": "bodyLayout",
-              "textStyle": "sidebarBodyCenteredTextStyle",
+              "textStyle": "tocTextStyle",
               "format": "html",
-              "text": "<caption-heading2>Park Perks</caption-heading2> <br /><sidebaritalic>Our in-house National Parks enthusiast, food editor</sidebaritalic> Emily Teel, <sidebaritalic>stocks up on freebie souvenirs (without breaking any “take only pictures” rules!)</sidebaritalic>.<br><br>Start at the visitors center to grab a free Junior Ranger guide. Complete all the activities and get sworn in as a Junior Ranger by an <sidebaritalic>actual</sidebaritalic> park ranger. In addition to pride, you’ll get a badge or patch for your efforts. And don’t forget your official park stamp. You can buy a passport or BYO notebook to stamp and record memories with factoids learned, wildlife seen, and trails hiked.",
-              "uid": "uid67"
+              "text": "<a href='https://apple.news/Atu42odFLEeyNtj96zSKRvQ'>Tap here</a> to see more from this issue of <i>Coastal Living</i>"
             }
-          ],
-          "uid": "conuid64"
-        },
-        {
-          "role": "container",
-          "layout": "fullBleedContainerLayout",
-          "style": {
-            "backgroundColor": "#3B67B1"
-          },
-          "anchor": {
-            "target": "blue",
-            "targetAnchorPosition": "center"
-          },
-          "components": [
-            {
-              "role": "container",
-              "components": [
-                {
-                  "role": "image",
-                  "layout": {
-                    "conditional": [
-                      {
-                        "conditions": [
-                          {
-                            "minViewportWidth": 430
-                          }
-                        ],
-                        "maximumContentWidth": "50cw"
-                      }
-                    ],
-                    "horizontalContentAlignment": "center",
-                    "maximumContentWidth": "55cw"
-                  },
-                  "URL": "https://public-assets.meredithcorp.io/b8d3818da423a6c4e96374679cc86281/all-aboard.png",
-                  "uid": "uid70"
-                }
-              ],
-              "uid": "conuid69"
-            },
-            {
-              "role": "pullquote",
-              "layout": "bodyNoMarginAboveLayout",
-              "textStyle": "pullQuoteTextStyle1",
-              "format": "html",
-              "text": "<white>Caravanning in multiple cars? Use the Wanderlog app to share your itinerary and collaborate in real time so everyone stays in the loop (and no one misses an exit).</white>",
-              "uid": "uid71"
-            }
-          ],
-          "uid": "conuid68"
+          ]
         }
-      ],
-      "uid": "conuid46"
-    },
-    {
-      "role": "body",
-      "layout": "attributeLayout",
-      "style": "attributeStyle",
-      "textStyle": "attributeTextStyle",
-      "format": "html",
-      "text": "PRODUCED BY: ELLA FIELD",
-      "uid": "uid72"
-    },
-    {
-      "role": "container",
-      "layout": "bodyContainerLayout",
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "viewLocation": "article"
-            }
-          ],
-          "hidden": false
-        }
-      ],
-      "hidden": true,
-      "components": [
-        {
-          "role": "container",
-          "layout": "dividerLayout",
-          "style": "dividerSectionHeadStyle",
-          "uid": "uid74"
-        },
-        {
-          "//": "=== VISIT TOC LINK, ONLY VISIBLE IF USER IS IN ARTICLE VIEW ===",
-          "role": "body",
-          "layout": "bodyLayout",
-          "textStyle": "tocTextStyle",
-          "format": "html",
-          "text": "<a href='https://apple.news/AfZaggdYaEeyyQA0KhVcEZw'>Tap here</a> to see more from this issue of <i>Better Homes &amp; Gardens</i>",
-          "uid": "uid75"
-        }
-      ],
-      "uid": "conuid73"
+      ]
     }
   ],
   "componentLayouts": {
     "attributeLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": 15
     },
     "authorLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
         "bottom": 5
       }
     },
-    "bhgInsiderBodyLayout": {
-      "margin": {
-        "bottom": 10,
-        "top": 4
-      }
-    },
-    "bhgInsiderLayout": {
-      "columnSpan": 12,
-      "columnStart": 4,
-      "margin": 20
-    },
-    "bhgInsiderLogoLayout": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minViewportWidth": 500
-            }
-          ],
-          "maximumContentWidth": 150
-        }
-      ],
-      "horizontalContentAlignment": "center",
-      "maximumContentWidth": 125,
-      "URL": "https://public-assets-dev.meredithcorp.io/bde8400037db8a452dc4b69b34672272/bhg_Insider.jpg"
-    },
     "blockContainerLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "ignoreDocumentMargin": true,
       "margin": {
         "bottom": 10,
@@ -1060,15 +485,19 @@
       "margin": 10
     },
     "bodyLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
-      "margin": 10
-    },
-    "bodyNoMarginAboveLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
-        "bottom": 10
+        "bottom": 10,
+        "top": 2
+      }
+    },
+    "bodySmallMarginAboveLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 10,
+        "top": 10
       }
     },
     "bottomPhotoDividerLayout": {
@@ -1076,7 +505,8 @@
     },
     "calloutBodyLayout": {
       "margin": {
-        "bottom": 10
+        "bottom": 10,
+        "top": 5
       }
     },
     "calloutHeadingLayout": {
@@ -1087,25 +517,21 @@
     "calloutLayout": {
       "columnSpan": 16,
       "columnStart": 2,
-      "margin": 20
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "padding": {
+        "bottom": 10,
+        "left": 20,
+        "right": 20,
+        "top": 10
+      }
     },
     "captionAdLayout": {
       "//": "UNUSED"
     },
     "captionLayout": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minViewportWidth": 415
-            }
-          ],
-          "padding": {
-            "left": 20,
-            "right": 20
-          }
-        }
-      ],
       "margin": 8
     },
     "collectionLayout": {
@@ -1132,25 +558,24 @@
     "dividerCollectionLayout": {
       "//": "UNUSED"
     },
-    "dividerDoubleLayout": {
-      "minimumHeight": 8
-    },
     "dividerLayout": {
-      "ignoreDocumentMargin": true,
-      "margin": 10
+      "margin": {
+        "bottom": 20,
+        "top": 10
+      }
     },
     "dividerStandardLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
         "bottom": 10,
         "top": 20
       },
-      "minimumHeight": 2
+      "minimumHeight": 1
     },
     "dividerTocLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
         "bottom": 15,
         "top": 20
@@ -1158,7 +583,7 @@
       "minimumHeight": 10
     },
     "floatContainerLayout": {
-      "columnSpan": 6,
+      "columnSpan": 4,
       "columnStart": 1,
       "conditional": [
         {
@@ -1172,40 +597,10 @@
         }
       ]
     },
-    "fullBleedContainerAltLayout": {
-      "columnSpan": 20,
-      "columnStart": 0,
-      "ignoreDocumentMargin": true,
-      "margin": {
-        "bottom": 5,
-        "top": 10
-      },
-      "padding": {
-        "bottom": 15,
-        "left": 20,
-        "right": 20,
-        "top": 20
-      }
-    },
     "fullBleedContainerLayout": {
-      "columnSpan": 20,
-      "columnStart": 0,
       "ignoreDocumentMargin": true,
       "margin": {
-        "bottom": 5,
-        "top": 5
-      },
-      "padding": {
-        "bottom": 15,
-        "left": 20,
-        "right": 20,
-        "top": 20
-      }
-    },
-    "fullBleedContainerLayout1": {
-      "ignoreDocumentMargin": true,
-      "margin": {
-        "bottom": 20,
+        "bottom": 10,
         "top": 20
       }
     },
@@ -1236,36 +631,36 @@
       }
     },
     "heading2Layout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
-        "top": 20
+        "top": 10
       }
     },
     "heading3Layout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
         "top": 10
       }
     },
     "heading4Layout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
         "top": 10
       }
     },
     "heading5Layout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
         "top": 10
       }
     },
     "heading6Layout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
         "top": 10
       }
@@ -1278,54 +673,59 @@
       }
     },
     "heroImageTallLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
         "bottom": 10,
         "top": 15
       }
     },
     "ingredientsLayout": {
+      "margin": 10
+    },
+    "ingredientsNoMarginAboveLayout": {
       "margin": {
-        "bottom": 5,
-        "top": 5
+        "bottom": 10,
+        "top": 0
       }
     },
     "introLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
-        "bottom": 8
+        "bottom": 10
       }
     },
     "noMarginLayout": {
-      "columnSpan": 18,
-      "columnStart": 1
+      "columnSpan": 19,
+      "columnStart": 2
     },
     "productImageStandardLayout": {
       "minimumHeight": 280
     },
-    "pullQuoteLayout": {
-      "columnSpan": 16,
-      "columnStart": 2,
-      "margin": 20
-    },
-    "pullQuoteLayout1": {
-      "columnSpan": 16,
+    "pullQuoteBodyLayout": {
+      "columnSpan": 19,
       "columnStart": 2,
       "margin": {
-        "top": 10
+        "bottom": 0,
+        "top": 5
+      }
+    },
+    "pullQuoteLayout": {
+      "columnSpan": 20,
+      "columnStart": 0,
+      "margin": {
+        "bottom": 15,
+        "top": 15
       }
     },
     "sectionLayout": {
       "margin": {
+        "bottom": "20",
         "top": 5
       }
     },
     "sidebarBodyLayout": {
-      "margin": 10
-    },
-    "sidebarBodyNoMarginAboveLayout": {
       "margin": {
         "bottom": 10
       }
@@ -1335,26 +735,15 @@
         "bottom": 10,
         "top": 20
       },
-      "minimumHeight": 2
+      "minimumHeight": 1
     },
     "sidebarFloatContainerLayout": {
-      "columnSpan": 6,
-      "columnStart": 0,
-      "conditional": [
-        {
-          "columnSpan": 4,
-          "columnStart": 0,
-          "conditions": [
-            {
-              "maxViewportWidth": 415
-            }
-          ]
-        }
-      ]
+      "columnSpan": 4,
+      "columnStart": 0
     },
     "sidebarHeading2Layout": {
       "margin": {
-        "top": 10
+        "top": 20
       }
     },
     "sidebarHeading3Layout": {
@@ -1367,13 +756,20 @@
         "top": 10
       }
     },
+    "sidebarIntroLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 5
+      }
+    },
     "sidebarLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": 20,
       "padding": {
         "bottom": 10,
-        "top": 10
+        "left": 20,
+        "right": 20
       }
     },
     "sidebarSingleBlockContainerLayout": {
@@ -1388,44 +784,66 @@
       }
     },
     "singleBlockContainerLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
         "bottom": 10,
         "top": 20
       }
     },
     "smallMarginAboveLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
         "top": 2
       }
     },
+    "smallSpacerLayout": {
+      "maximumWidth": 5,
+      "minimumWidth": 5
+    },
     "spacerLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
         "bottom": 10,
         "top": 20
       }
     },
+    "starsImageLayout": {
+      "margin": {
+        "top": 2
+      },
+      "maximumWidth": 100
+    },
     "straplineLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
         "top": 10
       }
     },
     "titleLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
-        "top": 10
+        "top": 5
       }
     },
     "topPhotoDividerLayout": {
       "//": "UNUSED"
+    },
+    "youSaidContainerLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "youSaidImageLayout": {
+      "horizontalContentAlignment": "center",
+      "margin": {
+        "bottom": 10
+      }
     }
   },
   "componentStyles": {
@@ -1439,7 +857,12 @@
       "//": "UNUSED"
     },
     "calloutStyle": {
-      "//": "UNUSED"
+      "border": {
+        "all": {
+          "width": 4,
+          "color": "#000"
+        }
+      }
     },
     "captionAdStyle": {
       "//": "UNUSED"
@@ -1456,18 +879,6 @@
           ]
         }
       ]
-    },
-    "dividerDoubleStyle": {
-      "border": {
-        "all": {
-          "color": "#222",
-          "width": 1
-        },
-        "bottom": true,
-        "left": false,
-        "right": false,
-        "top": true
-      }
     },
     "dividerSectionHeadStyle": {
       "border": {
@@ -1502,7 +913,7 @@
       ]
     },
     "dividerStandardStyle": {
-      "backgroundColor": "#ccc"
+      "backgroundColor": "#000"
     },
     "dividerTocStyle": {
       "//": "UNUSED"
@@ -1551,7 +962,7 @@
                   "columnIndex": 1
                 }
               ],
-              "width": 75
+              "width": 90
             }
           ],
           "textStyle": "ingredientsTextStyle",
@@ -1565,7 +976,7 @@
                   "columnIndex": 0
                 }
               ],
-              "width": 10
+              "width": 5
             },
             {
               "selectors": [
@@ -1597,77 +1008,72 @@
     "sectionStyle": {
       "//": "UNUSED"
     },
+    "sidebarNoBackgroundStyle": {
+      "border": {
+        "all": {
+          "color": "#000",
+          "width": 2
+        }
+      }
+    },
     "sidebarStyle": {
-      "//": "UNUSED"
+      "border": {
+        "all": {
+          "width": 2,
+          "color": "#000"
+        },
+        "left": false,
+        "right": false
+      }
     },
     "straplineStyle": {
       "//": "UNUSED"
     },
     "titleStyle": {
       "//": "UNUSED"
+    },
+    "youSaidImageStyle": {
+      "backgroundColor": "#008080",
+      "mask": {
+        "radius": "60cw",
+        "type": "corners"
+      }
     }
   },
   "textStyles": {
     "creditTextStyle": {
-      "fontName": "Gotham-Light",
+      "fontName": "CaslonDoricApp-Regular",
       "fontSize": 10,
-      "textColor": "#8d8d8d",
-      "tracking": 0.05
+      "textColor": "#8d8d8d"
     },
-    "default-tag-blue": {
-      "textColor": "#3c68b1"
-    },
-    "default-tag-bracket": {
-      "fontSize": 30,
-      "textColor": "#ED096F"
-    },
-    "default-tag-caption-bold": {
-      "fontName": "Gotham-Bold"
+    "default-tag-bold": {
+      "fontName": "Gotham-Medium"
     },
     "default-tag-caption-heading": {
-      "fontName": "Gotham-Bold",
-      "fontSize": 16,
-      "textTransform": "uppercase"
-    },
-    "default-tag-caption-heading2": {
-      "fontName": "Gotham-Bold",
-      "fontSize": 18,
-      "textTransform": "uppercase"
+      "fontName": "CaslonDoricApp-Bold",
+      "fontSize": 15,
+      "tracking": 0.05
     },
     "default-tag-emoji": {
       "fontName": "AppleColorEmoji"
     },
-    "default-tag-italic": {
-      "fontName": "SurveyorText-LightItalic"
-    },
     "default-tag-lede": {
-      "fontName": "Gotham-Bold",
-      "fontSize": 17
-    },
-    "default-tag-m": {
-      "fontName": "Gotham-Medium"
+      "fontName": "CaslonDoricApp-Bold",
+      "fontSize": 16,
+      "tracking": 0.05
     },
     "default-tag-pullquote-attribution": {
-      "fontName": "SurveyorText-LightItalic",
+      "fontName": "ChronicleDisplay-Roman",
+      "fontSize": 16,
+      "textAlignment": "center",
       "textTransform": "uppercase",
-      "fontSize": 16
-    },
-    "default-tag-red": {
-      "textColor": "#e33a25"
+      "tracking": 0.05
     },
     "default-tag-sidebar-lede": {
-      "fontName": "Gotham-Medium"
+      "fontName": "CaslonDoricApp-Bold",
+      "fontSize": 16
     },
-    "default-tag-sidebaritalic": {
-      "fontName": "Gotham-MediumItalic"
-    },
-    "default-tag-title-italic": {
-      "fontName": "HTFDidot-M42MediumItalic"
-    },
-    "default-tag-twenty-five": {
-      "fontName": "Didot-Bold"
-    },
-    "default-tag-white": {
+    "default-tag-subsection": {
       "conditional": [
         {
           "conditions": [
@@ -1676,64 +1082,155 @@
               "preferredColorScheme": "dark"
             }
           ],
-          "textColor": "#fff"
+          "textColor": "#9A94C9"
         }
       ],
-      "textColor": "#fff"
+      "fontName": "Gotham-Medium",
+      "fontSize": 16,
+      "textColor": "#9A94C9",
+      "textTransform": "uppercase",
+      "tracking": 0.1
     },
     "endMarkerTextStyle": {
       "//": "UNUSED"
     },
     "subSectionTextStyle": {
       "//": "UNUSED"
+    },
+    "default-tag-blue": {
+      "textColor": "#2BADEF"
+    },
+    "default-tag-body-author": {
+      "fontSize": 14,
+      "fontName": "CaslonDoricApp-Regular"
+    },
+    "default-tag-caption-italic": {
+      "fontName": "CaslonDoricApp-RegularItalic"
+    },
+    "default-tag-coldopen-strapline": {
+      "fontName": "CaslonDoricApp-Medium",
+      "fontSize": 12,
+      "textAlignment": "center",
+      "tracking": 0.15
+    },
+    "default-tag-coldopensmall": {
+      "fontName": "OriginalSansApp-Three",
+      "fontSize": 16,
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 415
+            }
+          ],
+          "fontSize": 25
+        }
+      ],
+      "textTransform": "uppercase",
+      "tracking": 0.15
+    },
+    "default-tag-color": {
+      "textColor": "#F15A21"
+    },
+    "default-tag-highlight": {
+      "backgroundColor": "#FEF203"
+    },
+    "default-tag-introitalic": {
+      "fontName": "CaslonDoricApp-RegularNo2Italic"
+    },
+    "default-tag-introitalic-bold": {
+      "fontName": "CaslonDoricApp-BoldItalic"
+    },
+    "default-tag-red": {
+      "textColor": "#EE3124"
+    },
+    "default-tag-lede-alt": {
+      "fontName": "CaslonDoricApp-Bold",
+      "fontSize": 16,
+      "tracking": 0.05,
+      "textColor": "#F15921"
+    },
+    "default-tag-original-bold": {
+      "fontName": "OriginalSansApp-Four"
+    },
+    "default-tag-original-bolditalic": {
+      "fontName": "OriginalSansApp-FourItalic",
+      "tracking": 0.02
+    },
+    "default-tag-original-semibold": {
+      "fontName": "OriginalSansApp-Three"
+    },
+    "default-tag-original-semibolditalic": {
+      "fontName": "OriginalSansApp-ThreeItalic"
+    },
+    "default-tag-semibold-italic": {
+      "fontName": "CaslonDoricApp-SemiboldItalic"
+    },
+    "default-tag-sidebarintro-regular": {
+      "fontName": "CaslonDoricApp-Semibold"
     }
   },
   "componentTextStyles": {
     "//": {
-      "//": "===================== BETTER HOMES AND GARDENS OVERRIDES ====================="
+      "//": "===================== ENTERTAINMENT WEEKLY OVERRIDES ====================="
     },
     "attributeTextStyle": {
-      "fontName": "Gotham-Light",
+      "fontName": "CaslonDoricApp-Regular",
       "fontSize": 10,
       "textTransform": "uppercase",
-      "lineHeight": 12,
-      "tracking": 0.05
+      "lineHeight": 12
     },
     "authorTextStyle": {
-      "fontName": "SurveyorText-LightItalic"
-    },
-    "bhgInsiderBodyTextStyle": {
-      "fontName": "Gotham-Medium",
-      "fontSize": 16,
-      "lineHeight": 22,
-      "textAlignment": "center"
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "linkStyle": {
+            "underline": {
+              "color": "#eee"
+            }
+          }
+        }
+      ],
+      "fontName": "CaslonDoricApp-SemiboldItalic",
+      "linkStyle": {
+        "underline": {
+          "color": "#999"
+        }
+      },
+      "tracking": 0.05
     },
     "bodyCenteredTextStyle": {
       "textAlignment": "center"
     },
     "bodyDropCapTextStyle": {
+      "fontName": "FreightTextProBook-Regular",
       "dropCapStyle": {
-        "fontName": "DidotLTStd-Roman",
-        "numberOfCharacters": 1,
-        "numberOfLines": 4,
-        "numberOfRaisedLines": 0
+        "fontName": "CaslonDoricApp-Bold",
+        "numberOfLines": 3,
+        "numberOfRaisedLines": 0,
+        "numberOfCharacters": 1
       }
     },
     "bodyTextStyle": {
-      "//": "UNUSED"
+      "fontName": "FreightTextProBook-Regular"
     },
     "calloutBodyTextStyle": {
-      "fontName": "Gotham-Light",
-      "fontSize": 20,
-      "lineHeight": 24,
+      "fontName": "CaslonDoricApp-Regular",
+      "fontSize": 16,
+      "lineHeight": 20,
       "textAlignment": "center"
     },
     "calloutHeadingTextStyle": {
-      "fontName": "Gotham-Bold",
-      "fontSize": 16,
-      "lineHeight": 20,
+      "fontName": "CaslonDoricApp-Bold",
+      "fontSize": 24,
+      "lineHeight": 26,
       "textAlignment": "center",
-      "textTransform": "uppercase"
+      "textColor": "#F15A21"
     },
     "captionAdTextStyle": {
       "//": "UNUSED"
@@ -1746,222 +1243,190 @@
       "lineHeight": 16
     },
     "captionTextStyle": {
-      "fontName": "Gotham-Medium",
-      "linkStyle": {
-        "fontName": "Gotham-MediumItalic",
-        "underline": true
-      },
-      "textAlignment": "center"
+      "fontName": "CaslonDoricApp-Regular",
+      "tracking": 0.05
     },
     "default": {
-      "fontName": "SurveyorText-Light",
-      "hyphenation": false,
+      "fontName": "CaslonDoricApp-Bold",
+      "textColor": "#000",
       "linkStyle": {
         "underline": true
       },
-      "textColor": "#221E1F"
+      "hyphenation": false
     },
     "default-author": {
       "fontSize": 14,
-      "lineHeight": 18
+      "lineHeight": 16
     },
     "default-body": {
       "fontSize": 18,
-      "lineHeight": 22,
-      "paragraphSpacingAfter": 12,
-      "paragraphSpacingBefore": 12
+      "lineHeight": 24,
+      "paragraphSpacingBefore": 12,
+      "paragraphSpacingAfter": 12
     },
     "default-byline": {
       "//": "UNUSED"
     },
     "default-caption": {
+      "fontName": "Avenir-Book",
       "fontSize": 14,
-      "lineHeight": 18
+      "lineHeight": 16
     },
     "default-heading": {
       "fontSize": 16,
       "lineHeight": 16
     },
     "default-heading2": {
+      "fontSize": 35,
+      "lineHeight": 37
+    },
+    "default-heading3": {
+      "fontSize": 21,
+      "lineHeight": 23
+    },
+    "default-heading4": {
+      "fontSize": 18,
+      "lineHeight": 24
+    },
+    "default-heading5": {
+      "fontSize": 17,
+      "lineHeight": 19
+    },
+    "default-heading6": {
+      "fontSize": 16,
+      "lineHeight": 18
+    },
+    "default-intro": {
       "conditional": [
         {
           "conditions": [
             {
-              "minViewportWidth": 500
+              "minViewportWidth": 430
             }
           ],
-          "fontSize": 36,
-          "lineHeight": 40
+          "fontSize": 18,
+          "lineHeight": 24
         }
       ],
-      "fontSize": 46,
-      "lineHeight": 47
-    },
-    "default-heading3": {
-      "fontSize": 20,
-      "lineHeight": 22
-    },
-    "default-heading4": {
-      "fontSize": 18,
-      "lineHeight": 20
-    },
-    "default-heading5": {
-      "fontSize": 18,
-      "lineHeight": 20
-    },
-    "default-heading6": {
-      "//": "UNUSED"
-    },
-    "default-intro": {
       "fontSize": 16,
-      "lineHeight": 18
+      "lineHeight": 22
     },
     "default-photographer": {
       "//": "UNUSED"
     },
     "default-pullquote": {
-      "fontSize": 18,
-      "lineHeight": 20
+      "fontSize": 39,
+      "lineHeight": 39
     },
     "default-title": {
-      "fontSize": 62,
-      "lineHeight": 60
+      "fontSize": 45,
+      "lineHeight": 47
     },
     "floatImageCaptionTextStyle": {
-      "fontName": "Gotham-Medium",
-      "textAlignment": "center"
+      "fontName": "CaslonDoricApp-Regular",
+      "tracking": 0.05
     },
     "heading2CenteredTextStyle": {
-      "fontName": "SurveyorFine-Book",
       "textAlignment": "center"
     },
     "heading2TextStyle": {
-      "fontName": "SurveyorFine-Book"
+      "fontName": "CaslonDoricApp-Bold"
     },
     "heading3CenteredTextStyle": {
-      "fontName": "Gotham-Bold",
       "textAlignment": "center"
     },
     "heading3TextStyle": {
-      "fontName": "Gotham-Bold",
+      "fontName": "CaslonDoricApp-Bold",
       "textTransform": "uppercase"
     },
     "heading4CenteredTextStyle": {
       "textAlignment": "center"
     },
     "heading4TextStyle": {
-      "fontName": "Gotham-Bold",
-      "textTransform": "uppercase"
+      "fontName": "CaslonDoricApp-Bold"
     },
     "heading5CenteredTextStyle": {
       "textAlignment": "center"
     },
     "heading5TextStyle": {
-      "fontName": "Gotham-Bold"
+      "fontName": "CaslonDoricApp-Bold"
     },
     "heading6CenteredTextStyle": {
+      "fontName": "CaslonDoricApp-Bold",
       "textAlignment": "center"
     },
     "heading6TextStyle": {
-      "//": "UNUSED"
-    },
-    "ingredientsTextStyle": {
-      "fontName": "Gotham-Medium",
-      "fontSize": 15,
-      "lineHeight": 19
-    },
-    "introTextStyle": {
-      "fontName": "Gotham-Light"
-    },
-    "pullQuoteTextStyle": {
-      "fontName": "Gotham-Light",
+      "fontName": "CaslonDoricApp-Bold",
       "textTransform": "uppercase"
     },
-    "pullQuoteTextStyle1": {
-      "fontName": "Gotham-Medium",
-      "fontSize": 16,
-      "lineHeight": 20,
-      "textAlignment": "center"
+    "ingredientsTextStyle": {
+      "fontName": "CaslonDoricApp-MediumItalic"
     },
-    "recipeBodyTextStyle": {
-      "fontName": "Gotham-Light",
-      "fontSize": 16,
-      "lineHeight": 20
+    "introTextStyle": {
+      "fontName": "CaslonDoricApp-RegularNo2",
+      "tracking": 0.05
+    },
+    "pullQuoteTextStyle": {
+      "fontName": "CaslonDoricApp-Light",
+      "textAlignment": "center",
+      "tracking": 0.05,
+      "fontSize": 39,
+      "lineHeight": 45
     },
     "recipeDetailsTextStyle": {
-      "fontName": "Gotham-Light",
-      "fontSize": 15,
-      "lineHeight": 17
-    },
-    "recipeNutritionInfoTextStyle": {
-      "fontName": "Gotham-Light",
+      "fontName": "GothamNarrow-Book",
       "fontSize": 14,
       "lineHeight": 16
     },
-    "sectionTextStyle": {
-      "fontName": "Gotham-Bold",
-      "fontSize": 14,
-      "lineHeight": 16,
-      "textTransform": "uppercase",
-      "tracking": 0.1
+    "reviewsTextStyle": {
+      "fontName": "GothamNarrow-Black"
     },
-    "sidebarBodyCenteredTextStyle": {
-      "fontName": "Gotham-Light",
-      "fontSize": 16,
-      "lineHeight": 20,
-      "textAlignment": "center"
-    },
-    "sidebarBodyTextStyle": {
-      "fontName": "Gotham-Light",
-      "fontSize": 16,
-      "lineHeight": 20
-    },
-    "sidebarHeading2CenteredTextStyle": {
-      "fontName": "SurveyorFine-Book",
-      "fontSize": 42,
-      "lineHeight": 44,
-      "textTransform": "uppercase",
-      "textAlignment": "center"
-    },
-    "sidebarHeading2TextStyle": {
-      "fontName": "SurveyorFine-Book",
-      "fontSize": 42,
-      "lineHeight": 44,
-      "textTransform": "uppercase"
-    },
-    "sidebarHeading3CenteredTextStyle": {
-      "fontName": "Gotham-Bold",
-      "fontSize": 18,
-      "lineHeight": 20,
-      "textTransform": "uppercase",
-      "textAlignment": "center"
-    },
-    "sidebarHeading3TextStyle": {
-      "fontName": "Gotham-Bold",
-      "fontSize": 18,
-      "lineHeight": 20,
-      "textTransform": "uppercase"
-    },
-    "sidebarHeading4CenteredTextStyle": {
-      "fontName": "Gotham-Bold",
+    "savedTextStyle": {
+      "fontName": "GothamNarrow-Book",
       "fontSize": 16,
       "lineHeight": 18,
-      "textAlignment": "center"
+      "textTransform": "uppercase"
+    },
+    "sectionTextStyle": {
+      "fontName": "CaslonDoricApp-Medium",
+      "fontSize": 14,
+      "tracking": 0.03
+    },
+    "sidebarBodyTextStyle": {
+      "fontName": "CaslonDoricApp-Medium",
+      "lineHeight": 22
+    },
+    "sidebarHeading2TextStyle": {
+      "fontName": "CaslonDoricApp-Bold",
+      "fontSize": 42,
+      "lineHeight": 44
+    },
+    "sidebarHeading3TextStyle": {
+      "fontName": "CaslonDoricApp-Semibold",
+      "fontSize": 20,
+      "lineHeight": 22,
+      "textTransform": "uppercase"
     },
     "sidebarHeading4TextStyle": {
-      "fontName": "Gotham-Bold",
-      "fontSize": 16,
-      "lineHeight": 18
+      "fontName": "CaslonDoricApp-Semibold",
+      "fontSize": 18,
+      "lineHeight": 20
+    },
+    "sidebarIntroTextStyle": {
+      "fontName": "CaslonDoricApp-Regular",
+      "fontSize": 17,
+      "lineHeight": 21,
+      "tracking": 0.02
     },
     "straplineTextStyle": {
-      "fontName": "Gotham-Bold",
-      "textTransform": "uppercase",
-      "fontSize": 15
+      "fontName": "OriginalSansApp-Three",
+      "fontSize": 16,
+      "lineHeight": 18,
+      "tracking": 0.05
     },
     "titleTextStyle": {
-      "fontName": "DidotLTStd-Roman",
-      "textColor": "#000",
-      "tracking": -0.02
+      "fontName": "OriginalSansApp-Four",
+      "tracking": 0.05
     },
     "tocTextStyle": {
       "fontName": "AvenirNextCondensed-Medium",
@@ -1971,6 +1436,118 @@
       },
       "textAlignment": "center",
       "textColor": "#000"
+    },
+    "coldOpenStraplineTextStyle": {
+      "fontName": "CaslonDoricApp-Medium",
+      "fontSize": 13,
+      "textAlignment": "center",
+      "tracking": 0
+    },
+    "coldOpenTitleTextStyle": {
+      "fontName": "OriginalSansApp-Four",
+      "fontSize": 80,
+      "lineHeight": 22,
+      "textAlignment": "center",
+      "tracking": 0.1,
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 430
+            }
+          ],
+          "fontSize": 100,
+          "lineHeight": 26
+        }
+      ]
+    },
+    "contentTextStyles": {
+      "fontName": "CaslonDoricApp-Regular",
+      "fontSize": 12,
+      "lineHeight": 20,
+      "tracking": 0.1,
+      "textAlignment": "center",
+      "linkStyle": {
+        "underline": {
+          "color": "#F15921"
+        }
+      }
+    },
+    "contentsTextStyle": {
+      "fontName": "AvenirNextCondensed-Bold",
+      "textAlignment": "center",
+      "fontSize": 16,
+      "lineHeight": 20
+    },
+    "slugTextStyle": {
+      "fontName": "CaslonDoricApp-Semibold",
+      "fontSize": 16,
+      "lineHeight": 18,
+      "textColor": "#EE3124"
+    },
+    "mediaBodyTextStyle": {
+      "fontName": "CaslonDoricApp-Regular",
+      "fontSize": 17
+    },
+    "pullQuoteAttributionTextStyle": {
+      "fontName": "CaslonDoricApp-Bold",
+      "fontSize": 14,
+      "lineHeight": 16,
+      "textTransform": "capitalize",
+      "textAlignment": "center",
+      "tracking": 0.05
+    },
+    "questionTextStyle": {
+      "fontName": "CaslonDoricApp-Bold"
+    },
+    "RRTextStyle": {
+      "fontName": "CaslonDoricApp-Regular",
+      "tracking": 0.05,
+      "fontSize": 14,
+      "lineHeight": 14
+    },
+    "sidebarIntroCenteredTextStyle": {
+      "fontName": "CaslonDoricApp-Regular",
+      "fontSize": 17,
+      "lineHeight": 21,
+      "textAlignment": "center",
+      "tracking": 0.02
+    },
+    "sidebarAuthorCenteredTextStyle": {
+      "fontName": "CaslonDoricApp-SemiboldItalic",
+      "fontSize": 17,
+      "lineHeight": 21,
+      "textAlignment": "center",
+      "tracking": 0.04
+    },
+    "sidebarAuthorTextStyle": {
+      "fontName": "CaslonDoricApp-SemiboldItalic",
+      "fontSize": 17,
+      "lineHeight": 21,
+      "tracking": 0.04
+    },
+    "sidebarBodyCenteredTextStyle": {
+      "fontName": "CaslonDoricApp-MediumItalic",
+      "lineHeight": 22,
+      "textAlignment": "center"
+    },
+    "sidebarHeading2CenteredTextStyle": {
+      "fontName": "CaslonDoricApp-Bold",
+      "fontSize": 42,
+      "lineHeight": 44,
+      "textAlignment": "center"
+    },
+    "sidebarHeading3CenteredTextStyle": {
+      "fontName": "CaslonDoricApp-Semibold",
+      "fontSize": 20,
+      "lineHeight": 22,
+      "textAlignment": "center"
+    },
+    "sidebarHeading5TextStyle": {
+      "fontName": "CaslonDoricApp-Semibold",
+      "fontSize": 18,
+      "lineHeight": 18,
+      "tracking": 0.05
     }
   }
 }

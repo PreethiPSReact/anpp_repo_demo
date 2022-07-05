@@ -1,7 +1,7 @@
 {
   "version": "1.9",
-  "identifier": "alr_article_899-131-2-1",
-  "title": "MASTHEAD",
+  "identifier": "alr_article_899-131-22-1",
+  "title": "PICK YOUR POT",
   "language": "en",
   "layout": {
     "columns": 20,
@@ -9,13 +9,177 @@
     "margin": 40,
     "width": 1024
   },
+  "subtitle": "<p><b><custom name=\"underline\">What&rsquo;s your go-to cooking vessel? Whether it&rsquo;s your skillet, air fryer, electric multicooker, or slow cooker, you can put it to great use with these simple recipes.</custom></b></p>",
   "metadata": {
-    "dateCreated": "2022-06-21T16:53:46.356Z",
-    "dateModified": "2022-06-17T17:00:19+00:00",
-    "excerpt": "EXECUTIVE FOOD EDITOR Shelli McConnell",
-    "generatorName": "ANTE Generic Template",
-    "generatorVersion": "0.0.4.33-2022-06-09 18:32"
+    "dateCreated": "2022-06-21T16:54:12.143Z",
+    "dateModified": "2022-06-21T15:00:56+00:00",
+    "excerpt": "HANDS-ON 15 MIN",
+    "generatorName": "All-Recipes -- Recipe",
+    "generatorVersion": "0.0.4.33-2022-06-09 18:32",
+    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p022-023-alt102382-red-curry-chicken/199247-1-eng-GB/p022-023-alt102382-red-curry-chicken.jpg?q=100"
   },
+  "missingData": [
+    {
+      "//": "======== SINGLE BLOCK CONTAINER ========",
+      "role": "container",
+      "layout": "singleBlockContainerLayout",
+      "components": [
+        {
+          "//": "======== IMAGE BLOCK - H74.0/W421.0 * 100 = 17.5771971 ========",
+          "role": "photo",
+          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0023-0131/197779-1-eng-GB/f0023-012.jpg?q=100"
+        }
+      ]
+    },
+    {
+      "role": "body",
+      "layout": "bodyLayout",
+      "style": "paragraphStyle",
+      "textStyle": "bodyTextStyle",
+      "format": "html",
+      "text": "19 REVIEWS"
+    },
+    {
+      "//": "======== SINGLE BLOCK CONTAINER ========",
+      "role": "container",
+      "layout": "singleBlockContainerLayout",
+      "components": [
+        {
+          "//": "======== IMAGE BLOCK - H74.0/W421.0 * 100 = 17.5771971 ========",
+          "role": "photo",
+          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0024-0134/197758-1-eng-GB/f0024-012.jpg?q=100"
+        }
+      ]
+    },
+    {
+      "role": "body",
+      "layout": "bodyLayout",
+      "style": "paragraphStyle",
+      "textStyle": "bodyTextStyle",
+      "format": "html",
+      "text": "2,498 REVIEWS"
+    },
+    {
+      "//": "======== SINGLE BLOCK CONTAINER ========",
+      "role": "container",
+      "layout": "singleBlockContainerLayout",
+      "components": [
+        {
+          "//": "======== IMAGE BLOCK - H120.0/W647.0 * 100 = 18.5471406 ========",
+          "role": "photo",
+          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0025-0132/197730-1-eng-GB/f0025-012.jpg?q=100"
+        }
+      ]
+    },
+    {
+      "role": "body",
+      "layout": "bodyLayout",
+      "style": "paragraphStyle",
+      "textStyle": "bodyTextStyle",
+      "format": "html",
+      "text": "111 REVIEWS"
+    },
+    {
+      "//": "======== SINGLE BLOCK CONTAINER ========",
+      "role": "container",
+      "layout": "singleBlockContainerLayout",
+      "components": [
+        {
+          "//": "======== IMAGE BLOCK - H120.0/W647.0 * 100 = 18.5471406 ========",
+          "role": "photo",
+          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0026-0144/197709-1-eng-GB/f0026-012.jpg?q=100"
+        }
+      ]
+    },
+    {
+      "role": "body",
+      "layout": "bodyLayout",
+      "style": "paragraphStyle",
+      "textStyle": "bodyTextStyle",
+      "format": "html",
+      "text": "15 REVIEWS"
+    },
+    {
+      "//": "======== SINGLE BLOCK CONTAINER ========",
+      "role": "container",
+      "layout": "singleBlockContainerLayout",
+      "components": [
+        {
+          "//": "======== IMAGE BLOCK - H120.0/W647.0 * 100 = 18.5471406 ========",
+          "role": "photo",
+          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0028-0140/197667-1-eng-GB/f0028-012.jpg?q=100"
+        }
+      ]
+    },
+    {
+      "role": "body",
+      "layout": "bodyLayout",
+      "style": "paragraphStyle",
+      "textStyle": "bodyTextStyle",
+      "format": "html",
+      "text": "291 REVIEWS"
+    },
+    {
+      "//": "======== SINGLE BLOCK CONTAINER ========",
+      "role": "container",
+      "layout": "singleBlockContainerLayout",
+      "components": [
+        {
+          "//": "======== IMAGE BLOCK - H74.0/W421.0 * 100 = 17.5771971 ========",
+          "role": "photo",
+          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0029-0131/197646-1-eng-GB/f0029-012.jpg?q=100"
+        }
+      ]
+    },
+    {
+      "role": "body",
+      "layout": "bodyLayout",
+      "style": "paragraphStyle",
+      "textStyle": "bodyTextStyle",
+      "format": "html",
+      "text": "18 REVIEWS"
+    },
+    {
+      "//": "======== SINGLE BLOCK CONTAINER ========",
+      "role": "container",
+      "layout": "singleBlockContainerLayout",
+      "components": [
+        {
+          "//": "======== IMAGE BLOCK - H120.0/W647.0 * 100 = 18.5471406 ========",
+          "role": "photo",
+          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0030-0140/197625-1-eng-GB/f0030-012.jpg?q=100"
+        }
+      ]
+    },
+    {
+      "role": "body",
+      "layout": "bodyLayout",
+      "style": "paragraphStyle",
+      "textStyle": "bodyTextStyle",
+      "format": "html",
+      "text": "157 REVIEWS"
+    },
+    {
+      "//": "======== SINGLE BLOCK CONTAINER ========",
+      "role": "container",
+      "layout": "singleBlockContainerLayout",
+      "components": [
+        {
+          "//": "======== IMAGE BLOCK - H74.0/W421.0 * 100 = 17.5771971 ========",
+          "role": "photo",
+          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0031-0134/197597-1-eng-GB/f0031-012.jpg?q=100"
+        }
+      ]
+    },
+    {
+      "role": "body",
+      "layout": "bodyLayout",
+      "style": "paragraphStyle",
+      "textStyle": "bodyTextStyle",
+      "format": "html",
+      "text": "6,487 REVIEWS"
+    }
+  ],
   "documentStyle": {
     "backgroundColor": "#eee"
   },
@@ -55,7 +219,7 @@
           "layout": "sectionLayout",
           "textStyle": "sectionTextStyle",
           "format": "html",
-          "text": "MASTHEAD"
+          "text": "5-INGREDIENT RECIPES"
         },
         {
           "role": "container",
@@ -68,19 +232,120 @@
           "layout": "titleLayout",
           "textStyle": "titleTextStyle",
           "format": "html",
-          "text": "MASTHEAD"
+          "text": "Pick Your Pot"
         },
         {
-          "//": "======== BODY CONTAINER =======",
+          "//": "==== DEFAULT HEADER: INTRO ===",
+          "role": "intro",
+          "layout": "introLayout",
+          "textStyle": "introTextStyle",
+          "format": "html",
+          "text": "What&rsquo;s your go-to cooking vessel? Whether it&rsquo;s your skillet, air fryer, electric multicooker, or slow cooker, you can put it to great use with these simple recipes."
+        },
+        {
+          "//": "======== HERO IMAGE CONTAINER =======",
+          "role": "container",
+          "layout": "heroImageLayout",
+          "components": [
+            {
+              "//": "======== HERO IMAGE - H1545.0/W1366.0 * 100 = 113.1039531 ========",
+              "role": "photo",
+              "layout": "fullBleedPhotoLayout",
+              "caption": {
+                "format": "html",
+                "text": "<b>MAKE IT IN A</b><br>Skillet",
+                "textStyle": "captionEmbeddedTextStyle"
+              },
+              "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p022-023-alt102382-red-curry-chicken/199247-1-eng-GB/p022-023-alt102382-red-curry-chicken.jpg?q=100"
+            },
+            {
+              "role": "caption",
+              "layout": "captionLayout",
+              "textStyle": "captionTextStyle",
+              "format": "html",
+              "text": "<caption-heading>Make It in a</caption-heading><br>Skillet"
+            }
+          ]
+        },
+        {
+          "//": "======== BEGIN RECIPES BODY CONTAINER =======",
           "role": "container",
           "layout": "bodyContainerLayout",
+          "style": "bodyContainerStyle",
           "components": [
             {
               "role": "heading2",
-              "layout": "heading2Layout",
+              "layout": "bodyLayout",
               "textStyle": "heading2TextStyle",
               "format": "html",
-              "text": "Allrecipes Specials"
+              "text": "Red Curry Chicken"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "recipeDetailsTextStyle",
+              "format": "html",
+              "text": "<m>HANDS-ON</m> 15 min.br><m>TOTAL</m> 30 min.br><m>SERVES</m> 4 <br><m>SUBMITTED BY</m> CULINARY ENVY"
+            },
+            {
+              "//": "====== REVIEWS ======",
+              "role": "container",
+              "layout": "bodyLayout2",
+              "contentDisplay": {
+                "type": "horizontal_stack"
+              },
+              "components": [
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": true
+                    }
+                  ],
+                  "hidden": false,
+                  "URL": "https://public-assets.meredithcorp.io/4cadea6bc3bbdd6b0bdfab5abedfb66f/fourstars.jpg"
+                },
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": false
+                    }
+                  ],
+                  "hidden": true,
+                  "URL": "https://public-assets.meredithcorp.io/8e401d3520fc3b0bec1ecdf6f118edf3/fourstarsDM.png"
+                },
+                {
+                  "role": "container",
+                  "layout": "smallSpacerLayout"
+                },
+                {
+                  "role": "body",
+                  "layout": {
+                    "padding": {
+                      "top": 0
+                    }
+                  },
+                  "textStyle": "reviewsTextStyle",
+                  "format": "html",
+                  "text": "19 REVIEWS"
+                }
+              ]
             },
             {
               "role": "body",
@@ -88,7 +353,13 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>EXECUTIVE FOOD EDITOR</lede> Shelli McConnell"
+              "text": "<italic>Serve this simple curry with fresh basil and sliced chile pepper, plus lime wedges for squeezing.</italic>"
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td>1</td><td>(7-oz.) pkg. dried rice stick vermicelli noodles</td></tr><tr><td>2</td><td>Tbsp. olive oil or vegetable oil</td></tr><tr><td>1</td><td>lb. boneless, skinless chicken breasts, cut into bite-size pieces</td></tr><tr><td>¼</td><td>tsp. salt</td></tr><tr><td>1</td><td>(14-oz.) can unsweetened coconut milk</td></tr><tr><td>1</td><td>cup water</td></tr><tr><td>¼</td><td>cup red curry paste</td></tr></table>"
             },
             {
               "role": "body",
@@ -96,14 +367,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>EXECUTIVE CREATIVE DIRECTOR</lede> Michael D. Belknap"
-            },
-            {
-              "role": "heading3",
-              "layout": "heading3Layout",
-              "textStyle": "heading3TextStyle",
-              "format": "html",
-              "text": "Editorial"
+              "text": "<lede>1.</lede> Soak noodles in hot water 2 minutes; drain."
             },
             {
               "role": "body",
@@ -111,7 +375,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>Food Editor</b> Caitlyn Diimig, RD"
+              "text": "<lede>2.</lede> Heat oil in a large skillet over high heat. Season chicken with salt. Cook until browned, about 4 minutes."
             },
             {
               "role": "body",
@@ -119,7 +383,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>Contributing Food Editor</b> Annie Peterson"
+              "text": "<lede>3.</lede> Stir in drained noodles, coconut milk, water, and red curry paste. Bring mixture to boiling. Reduce heat and simmer, uncovered, until sauce is creamy and chicken is no longer pink, about 5 minutes."
             },
             {
               "role": "body",
@@ -127,7 +391,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>Contributing Copy Editor</b> Steven Blaski"
+              "text": "<a href=\"http://armagazine.com/red-curry-chicken\">armagazine.com/red-curry-chicken</a>"
             },
             {
               "role": "body",
@@ -135,252 +399,120 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>Contributing Proofreader</b> Terri Fredrickson"
+              "text": "<b><italic>HIDDEN GEM</italic></b> | <b><italic>QUICK</italic></b> | <b><italic>GLUTEN-FREE</italic></b>"
             },
             {
               "role": "body",
               "layout": "bodyLayout",
               "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
+              "textStyle": "attributeTextStyle",
               "format": "html",
-              "text": "<b>Editorial Administrative Assistant</b> Gabrielle Renslow"
+              "text": "PER SERVING (1<b>½</b> CUPS): 579 CAL; 26G FAT (16G SAT); 29G PRO; 51G CARB (3G FIBER, 2G SUGARS); 911MG SODIUM"
             },
             {
-              "role": "heading3",
-              "layout": "heading3Layout",
-              "textStyle": "heading3TextStyle",
-              "format": "html",
-              "text": "Art"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Creative Director</b> Kyli Hassebrock"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Associate Art Director</b> Laura Engel"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Contributing Designers</b> Shelley Caldwell, Brianna Greene"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Intern</b> Claire Taets"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Photography Director</b> Paden Reich"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Photographers</b> Antonis Achilleos, Caitlin Bensel, Carson Downing"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Stylists</b> Ruth Blackburn, Kay E. Clarke, Christina Daley, Margaret Monroe Dickey, Emily Nabors Hall, Sue Mitchell, Kelsey Moylan, Ali Ramee"
-            },
-            {
-              "role": "heading3",
-              "layout": "heading3Layout",
-              "textStyle": "heading3TextStyle",
-              "format": "html",
-              "text": "Editorial Administration"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Editorial Director</b> Jill Waage"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Assistant Managing Editor</b> Jennifer Speer Ramundt"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Senior Copy Editors</b> Erika Bjorklund, Madelaine Jerousek-Smith, Martha Coloff Long"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Lead Business Office Assistant</b> Gabrielle Renslow"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Associate Production Director</b> Patrick McGowan"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Director, Premedia Services</b> Amy Tincher-Durik"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Director, Quality</b> Joseph Kohler"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Director, Food Studios</b> Allison Lowery"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Director, Test Kitchen</b> Lynn Blanchard"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Director, Photo Studio</b> Reese Strickland"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Photo Studio Set Construction Manager</b> Dave Decarlo"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Studios Coordinator</b> Terri Charter"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Premedia Trafficking Supervisor</b> Chris Sprague"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Assistant Director, Premedia Imaging</b> Michael Sturtz"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Color Quality Analysts</b> Heidi Parcel, Sarah Schroeder"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>MEREDITH PREMIUM PUBLISHING SENIOR VICE PRESIDENT &amp; GROUP PUBLISHER</b>&nbsp;Mark Josephson"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Vice President &amp; General Manager</b> Jeremy Biloon"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Vice President, Group Editorial Director</b> Stephen Orr"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Director, Editorial Operations &amp; Finance</b> Greg Kayko"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Director, Brand Marketing</b> Jean Kennedy"
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1225.0/W1366.0 * 100 = 89.6778917 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "caption": {
+                    "format": "html",
+                    "text": "<b>MAKE IT IN A</b><br>Skillet",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p024-alt102382-chicken-fried-chicken/199261-1-eng-GB/p024-alt102382-chicken-fried-chicken.jpg?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Make It in a</caption-heading><br>Skillet"
+                }
+              ]
             },
             {
               "role": "heading2",
-              "layout": "heading2Layout",
+              "layout": "bodyLayout",
               "textStyle": "heading2TextStyle",
               "format": "html",
-              "text": "<a href=\"http://Allrecipes.com\">Allrecipes.Com</a>"
+              "text": "Chicken-Fried Chicken"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "recipeDetailsTextStyle",
+              "format": "html",
+              "text": "<m>HANDS-ON</m> 30 min.br><m>TOTAL</m> 40 min.br><m>SERVES</m> 6 <br><m>SUBMITTED BY</m> CASSJW"
+            },
+            {
+              "//": "====== REVIEWS ======",
+              "role": "container",
+              "layout": "bodyLayout2",
+              "contentDisplay": {
+                "type": "horizontal_stack"
+              },
+              "components": [
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": true
+                    }
+                  ],
+                  "hidden": false,
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common022/86031-1-eng-GB/common022.jpg"
+                },
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": false
+                    }
+                  ],
+                  "hidden": true,
+                  "URL": "https://public-assets.meredithcorp.io/ba3bbeb190fc45d4b5bb1d08c8fd2a5c/fiveDM.png"
+                },
+                {
+                  "role": "container",
+                  "layout": "smallSpacerLayout"
+                },
+                {
+                  "role": "body",
+                  "layout": {
+                    "padding": {
+                      "top": 0
+                    }
+                  },
+                  "textStyle": "reviewsTextStyle",
+                  "format": "html",
+                  "text": "2,498 REVIEWS"
+                }
+              ]
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td></td><td>Vegetable oil, for frying (about 2 cups)</td></tr><tr><td>¾</td><td>cup crushed saltine crackers (about 21 crackers)</td></tr><tr><td>2</td><td>Tbsp. dry potato flakes</td></tr><tr><td>2</td><td>Tbsp. flour</td></tr><tr><td>1</td><td>tsp. seasoned salt</td></tr><tr><td>½</td><td>tsp. black pepper</td></tr><tr><td>1</td><td>egg</td></tr><tr><td>1</td><td>Tbsp. water</td></tr><tr><td>6</td><td>(6- to 8-oz.) boneless, skinless chicken breasts</td></tr></table>"
             },
             {
               "role": "body",
@@ -388,7 +520,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>SENIOR VICE PRESIDENT AND GROUP GENERAL MANAGER, FOOD</lede>&nbsp;Eric Handelsman"
+              "text": "<lede>1.</lede> Heat oil in a large skillet over medium heat until it reaches 350°F, 10 to 15 minutes."
             },
             {
               "role": "body",
@@ -396,7 +528,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>Senior Vice President &amp; General Manager</b> Molly Fergus"
+              "text": "<lede>2.</lede> Meanwhile, put crushed crackers, potato flakes, flour, seasoned salt, and pepper in a large zip-top plastic bag. Seal bag, then shake to mix well."
             },
             {
               "role": "body",
@@ -404,7 +536,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>General Manager</b> Lorraine Goldberg"
+              "text": "<lede>3.</lede> Whisk egg with the water in a shallow bowl. Dip each chicken breast in egg mixture, then put in bag with crumb mixture. Seal bag and shake to coat."
             },
             {
               "role": "body",
@@ -412,14 +544,137 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>Editorial Director</b> Ashley Kappel"
+              "text": "<lede>4.</lede> Add chicken to hot oil in skillet; cook, turning frequently, 15 to 20 minutes, until golden brown and an instant-read thermometer inserted into thickest parts registers 165°F."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<a href=\"http://armagazine.com/chicken-fried-chicken\">armagazine.com/chicken-fried-chicken</a>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b><italic>HEALTHY</italic></b>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "attributeTextStyle",
+              "format": "html",
+              "text": "PER BREAST: 327 CAL; 13G FAT (2G SAT); 41G PRO; 9G CARB (1G FIBER, 0G SUGARS); 410MG SODIUM"
+            },
+            {
+              "//": "======= YOU SAID CONTAINER ======",
+              "role": "container",
+              "layout": "youSaidContainerLayout",
+              "components": [
+                {
+                  "role": "pullquote",
+                  "textStyle": "youSaidQuoteTextStyle",
+                  "format": "html",
+                  "text": "“I dredged the chicken in a bowl with ½ cup flour and a little seasoned salt, then in a second bowl with the egg, and then in a third bowl with the crumbs.”<br><pullquote-attribution>– SHEILA L.</pullquote-attribution>"
+                }
+              ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1716.0/W1366.0 * 100 = 125.6222548 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p025-alt102382-honey-apple-pork-chops/199268-1-eng-GB/p025-alt102382-honey-apple-pork-chops.jpg?q=100"
+                }
+              ]
             },
             {
               "role": "heading2",
-              "layout": "heading2Layout",
+              "layout": "bodyLayout",
               "textStyle": "heading2TextStyle",
               "format": "html",
-              "text": "Allrecipes Magazine"
+              "text": "Honey-Apple Pork Chops"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "recipeDetailsTextStyle",
+              "format": "html",
+              "text": "<m>HANDS-ON</m> 10 min.br><m>TOTAL</m> 25 min.br><m>SERVES</m> 4 <br><m>SUBMITTED BY</m> Chr.STIE BIGGERS"
+            },
+            {
+              "//": "====== REVIEWS ======",
+              "role": "container",
+              "layout": "bodyLayout2",
+              "contentDisplay": {
+                "type": "horizontal_stack"
+              },
+              "components": [
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": true
+                    }
+                  ],
+                  "hidden": false,
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common0166/108858-1-eng-GB/common012.jpg?q=100"
+                },
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": false
+                    }
+                  ],
+                  "hidden": true,
+                  "URL": "https://public-assets.meredithcorp.io/8700c3d249629b59c38e0b147c58947c/fourDM.png"
+                },
+                {
+                  "role": "container",
+                  "layout": "smallSpacerLayout"
+                },
+                {
+                  "role": "body",
+                  "layout": {
+                    "padding": {
+                      "top": 0
+                    }
+                  },
+                  "textStyle": "reviewsTextStyle",
+                  "format": "html",
+                  "text": "111 REVIEWS"
+                }
+              ]
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td>4</td><td>(1-inch-thick) boneless or bone-in pork chops (about 2¼ lb.)</td></tr><tr><td>½</td><td>tsp. salt</td></tr><tr><td>½</td><td>tsp. black pepper</td></tr><tr><td>1</td><td>Tbsp. olive oil</td></tr><tr><td>2</td><td>apples, cut into wedges <i>[You could substitute 4 fresh apricots or peaches.]</i></td></tr><tr><td>3</td><td>cloves garlic, minced</td></tr><tr><td>2</td><td>Tbsp. honey</td></tr><tr><td>1</td><td>Tbsp. chopped fresh sage</td></tr></table>"
             },
             {
               "role": "body",
@@ -427,7 +682,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>EDITOR IN CHIEF</lede> Nichole Aksamit"
+              "text": "<lede>1.</lede> Pat chops dry with paper towels; season both sides with salt and pepper. Heat oil in a large skillet over medium-high heat; brown chops 3 to 5 minutes per side."
             },
             {
               "role": "body",
@@ -435,7 +690,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>CREATIVE DIRECTOR</lede> Kyli Hassebrock"
+              "text": "<lede>2.</lede> Stir in apples, garlic, and honey. Reduce heat to medium-low and simmer, covered, about 5 minutes, until pork is tender and an instant-read thermometer inserted into centers registers 145°F. Sprinkle with sage."
             },
             {
               "role": "body",
@@ -443,7 +698,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>Deputy Editor</b> Carrie Boyd"
+              "text": "<a href=\"http://armagazine.com/honey-apple-pork-chops\">armagazine.com/honey-apple-pork-chops</a>"
             },
             {
               "role": "body",
@@ -451,46 +706,173 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>Senior Food &amp; Features Editor</b> Cheryl Slocum"
+              "text": "<b><italic>HEALTHY</italic></b> | <b><italic>QUICK</italic></b> | <b><italic>GLUTEN-FREE</italic></b>"
             },
             {
               "role": "body",
               "layout": "bodyLayout",
               "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
+              "textStyle": "attributeTextStyle",
               "format": "html",
-              "text": "<b>Food Editor</b> Caitlyn Diimig, RD"
+              "text": "PER SERVING: 303 CAL; 8G FAT (2G SAT); 43G PRO; 14G CARB (1G FIBER, 12G SUGARS); 246MG SODIUM"
             },
             {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Associate Art Director</b> Laura Engel"
+              "//": "======= YOU SAID CONTAINER ======",
+              "role": "container",
+              "layout": "youSaidContainerLayout",
+              "components": [
+                {
+                  "role": "pullquote",
+                  "textStyle": "youSaidQuoteTextStyle",
+                  "format": "html",
+                  "text": "“I seared the meat about four minutes per side. I then removed the pork, added the sauce, and simmered until it thickened up a bit. I returned the meat to the pan and simmered only five or so minutes.”<br><pullquote-attribution>– ASCHILL</pullquote-attribution>"
+                }
+              ]
             },
             {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Editorial Administrative Assistant</b> Courtney Bush"
+              "//": "======= YOU SAID CONTAINER ======",
+              "role": "container",
+              "layout": "youSaidContainerLayout",
+              "components": [
+                {
+                  "role": "container",
+                  "layout": {
+                    "margin": {
+                      "bottom": 10
+                    }
+                  },
+                  "contentDisplay": {
+                    "alignment": "center",
+                    "distribution": "narrow",
+                    "maximumWidth": 80,
+                    "type": "collection"
+                  },
+                  "components": [
+                    {
+                      "role": "image",
+                      "style": {
+                        "backgroundColor": "#008080",
+                        "mask": {
+                          "radius": 80,
+                          "type": "corners"
+                        }
+                      },
+                      "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/tieraconyer_081/197737-1-eng-GB/tieraconyer_0812.jpg?q=100"
+                    }
+                  ]
+                },
+                {
+                  "role": "pullquote",
+                  "textStyle": "youSaidQuoteTextStyle",
+                  "format": "html",
+                  "text": "“I added a lot more honey and used canned apricots. Be generous with salt on the chops. I served this with rice to absorb some sauce. A big hit!”<br><pullquote-attribution>– TIERA CONYERS-EVERITT</pullquote-attribution>"
+                }
+              ]
             },
             {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Test Kitchen</b> Lynn Blanchard; Sarah Brekke; Linda Brewer, RD; Olivia Dansky; Juliana Hale; Julia Levy; Emily Nienhaus; Karen Rankin"
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1779.0/W1366.0 * 100 = 130.2342606 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "caption": {
+                    "format": "html",
+                    "text": "<b>MAKE IT IN AN</b><br>Air fryer",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p026-alt102382-air-fryer-ribeye-steak/199254-1-eng-GB/p026-alt102382-air-fryer-ribeye-steak.jpg?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Make It in an</caption-heading><br>Air fryer"
+                }
+              ]
             },
             {
               "role": "heading2",
-              "layout": "heading2Layout",
+              "layout": "bodyLayout",
               "textStyle": "heading2TextStyle",
               "format": "html",
-              "text": "Advertising &amp; Business"
+              "text": "Air Fryer Ribeye Steak"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "recipeDetailsTextStyle",
+              "format": "html",
+              "text": "<m>HANDS-ON</m> 5 min.br><m>TOTAL</m> 2 hr. 25 min.br><m>SERVES</m> 2 <br><m>SUBMITTED BY</m> ALAN"
+            },
+            {
+              "//": "====== REVIEWS ======",
+              "role": "container",
+              "layout": "bodyLayout2",
+              "contentDisplay": {
+                "type": "horizontal_stack"
+              },
+              "components": [
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": true
+                    }
+                  ],
+                  "hidden": false,
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common022/86031-1-eng-GB/common022.jpg"
+                },
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": false
+                    }
+                  ],
+                  "hidden": true,
+                  "URL": "https://public-assets.meredithcorp.io/ba3bbeb190fc45d4b5bb1d08c8fd2a5c/fiveDM.png"
+                },
+                {
+                  "role": "container",
+                  "layout": "smallSpacerLayout"
+                },
+                {
+                  "role": "body",
+                  "layout": {
+                    "padding": {
+                      "top": 0
+                    }
+                  },
+                  "textStyle": "reviewsTextStyle",
+                  "format": "html",
+                  "text": "15 REVIEWS"
+                }
+              ]
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td>⅓</td><td>cup less-sodium soy sauce</td></tr><tr><td>3</td><td>Tbsp. olive oil</td></tr><tr><td>1</td><td>Tbsp. Montreal Steak Seasoning or other grill seasoning</td></tr><tr><td>2</td><td>(1½-inch-thick) ribeye steaks</td></tr><tr><td>1</td><td>Tbsp. water</td></tr></table>"
             },
             {
               "role": "body",
@@ -498,14 +880,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>PUBLISHER</lede> Donna Lindskog"
-            },
-            {
-              "role": "heading3",
-              "layout": "heading3Layout",
-              "textStyle": "heading3TextStyle",
-              "format": "html",
-              "text": "Advertising"
+              "text": "<lede>1.</lede> Put soy sauce, oil, and steak seasoning in a large zip-top plastic bag; seal and shake to combine. Add steaks to bag; seal and turn to coat. Chill at least 2 hours."
             },
             {
               "role": "body",
@@ -513,7 +888,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<i>NEW YORK: 212-455-1344</i>"
+              "text": "<lede>2.</lede> Remove steaks from bag, discarding marinade, and pat off excess oil with paper towels."
             },
             {
               "role": "body",
@@ -521,7 +896,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>Account Manager</b> Maggie Connolly"
+              "text": "<lede>3.</lede> Add about 1 Tbsp. water to air fryer pan (to prevent smoking) and preheat to 400°F. Arrange steaks in a single layer in fryer basket; cook 5 minutes. Turn steaks; cook until desired doneness (145°F for medium-rare), 5 to 10 minutes."
             },
             {
               "role": "body",
@@ -529,7 +904,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>Account Manager</b> Sara D’Angelo"
+              "text": "<lede>4.</lede> Remove steaks from air fryer and let stand about 4 minutes before serving."
             },
             {
               "role": "body",
@@ -537,7 +912,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>Sales Director</b> Tyler Hub"
+              "text": "<a href=\"http://armagazine.com/air-fryer-ribeye-steak\">armagazine.com/air-fryer-ribeye-steak</a>"
             },
             {
               "role": "body",
@@ -545,7 +920,64 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<i>CHICAGO: 312-853-1224</i>"
+              "text": "<b><italic>HIDDEN GEM</italic></b>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "attributeTextStyle",
+              "format": "html",
+              "text": "PER STEAK: 419 CAL; 21G FAT (7G SAT); 57G PRO; 0G CARB (0G FIBER, 0G SUGARS); 405MG SODIUM"
+            },
+            {
+              "//": "======= YOU SAID CONTAINER ======",
+              "role": "container",
+              "layout": "youSaidContainerLayout",
+              "components": [
+                {
+                  "role": "pullquote",
+                  "textStyle": "youSaidQuoteTextStyle",
+                  "format": "html",
+                  "text": "“My husband was so upset that I was putting our ribeyes in the air fryer—until they came out! He was amazed. When it’s just the two of us, we will probably never grill our steak again.”<br><pullquote-attribution>– TBURGESS</pullquote-attribution>"
+                }
+              ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1687.0/W1366.0 * 100 = 123.4992679 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p027-alt102382-scallops-lemon-herb-sauce/199275-1-eng-GB/p027-alt102382-scallops-lemon-herb-sauce.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "bodyLayout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Scallops With Lemon-Herb Sauce"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "recipeDetailsTextStyle",
+              "format": "html",
+              "text": "<m>HANDS-ON</m> 10 min.br><m>TOTAL</m> 20 min.br><m>SERVES</m> 2"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "recipeDetailsTextStyle",
+              "format": "html",
+              "text": "<a href=\"http://armagazine.com/scallops-with-lemon-herb-sauce\">NEW RECIPE GO ONLINE TO RATE &amp; REVIEW</a>"
             },
             {
               "role": "body",
@@ -553,7 +985,13 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>Account Director</b> Jennifer Swanton"
+              "text": "<italic>Be sure to cook the scallops to temperature. They may not brown in the fryer, so don’t wait for a golden crust to tell you they’re ready.</italic>"
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td>8</td><td>large sea scallops (8 oz. total), rinsed and patted dry</td></tr><tr><td>¼</td><td>tsp. black pepper</td></tr><tr><td>⅛</td><td>tsp. salt</td></tr><tr><td>¼</td><td>cup olive oil</td></tr><tr><td>2</td><td>Tbsp. chopped parsley, plus more for garnish</td></tr><tr><td>2</td><td>tsp. finely chopped capers</td></tr><tr><td>1</td><td>tsp. finely grated lemon zest</td></tr><tr><td>½</td><td>tsp. finely chopped garlic</td></tr><tr><td></td><td>Lemon wedges (optional)</td></tr></table>"
             },
             {
               "role": "body",
@@ -561,7 +999,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>Account Director</b> Michelle Butler-Mingey"
+              "text": "<lede>1.</lede> Preheat an air fryer to 400°F. Coat fryer basket with cooking spray."
             },
             {
               "role": "body",
@@ -569,7 +1007,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>National Travel Director</b> Katy Hildman"
+              "text": "<lede>2.</lede> Sprinkle scallops with pepper and salt. Arrange scallops in fryer basket and coat with cooking spray. Cook about 6 minutes, or until an instant-read thermometer inserted in centers registers 120°F."
             },
             {
               "role": "body",
@@ -577,7 +1015,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<i>DETROIT: 248-205-2571</i>"
+              "text": "<lede>3.</lede> Meanwhile, stir together oil, parsley, capers, lemon zest, and garlic in a small bowl; drizzle sauce over scallops. Garnish with parsley leaves and lemon wedges (if using)."
             },
             {
               "role": "body",
@@ -585,7 +1023,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>Detroit Director</b> Karen Barnhart"
+              "text": "<a href=\"http://armagazine.com/scallops-with-lemon-herb-sauce\">armagazine.com/scallops-with-lemon-herb-sauce</a>"
             },
             {
               "role": "body",
@@ -593,7 +1031,115 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<i>LOS ANGELES: 310-268-7159</i>"
+              "text": "<b><italic>HEALTHY</italic></b> | <b><italic>QUICK</italic></b> | <b><italic>GLUTEN-FREE</italic></b>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "attributeTextStyle",
+              "format": "html",
+              "text": "PER 4-SCALLOP SERVING: 348 CAL; 30G FAT (4G SAT); 14G PRO; 5G CARB (0G FIBER, 0G SUGARS); 660MG SODIUM"
+            },
+            {
+              "//": "======= YOU SAID CONTAINER ======",
+              "role": "container",
+              "layout": "youSaidContainerLayout",
+              "components": [
+                {
+                  "role": "pullquote",
+                  "textStyle": "youSaidQuoteTextStyle",
+                  "format": "html",
+                  "text": "“I never would have thought to put scallops in the air fryer, but I will never cook them any other way. Super easy recipe to follow for a fresh and delicious dinner on the table in no time!”<br><pullquote-attribution>– ALLY SORRELLS</pullquote-attribution>"
+                }
+              ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H2702.0/W1843.0 * 100 = 146.60879 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/m7003925_bp_083/197681-1-eng-GB/m7003925_bp_0832.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "bodyLayout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Instant Pot Barbecued Beef Ribs"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "recipeDetailsTextStyle",
+              "format": "html",
+              "text": "<m>HANDS-ON</m> 10 min.br><m>TOTAL</m> 1 hr.br><m>SERVES</m> 4 <br><m>SUBMITTED BY</m> SHARRON"
+            },
+            {
+              "//": "====== REVIEWS ======",
+              "role": "container",
+              "layout": "bodyLayout2",
+              "contentDisplay": {
+                "type": "horizontal_stack"
+              },
+              "components": [
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": true
+                    }
+                  ],
+                  "hidden": false,
+                  "URL": "https://public-assets.meredithcorp.io/4cadea6bc3bbdd6b0bdfab5abedfb66f/fourstars.jpg"
+                },
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": false
+                    }
+                  ],
+                  "hidden": true,
+                  "URL": "https://public-assets.meredithcorp.io/8e401d3520fc3b0bec1ecdf6f118edf3/fourstarsDM.png"
+                },
+                {
+                  "role": "container",
+                  "layout": "smallSpacerLayout"
+                },
+                {
+                  "role": "body",
+                  "layout": {
+                    "padding": {
+                      "top": 0
+                    }
+                  },
+                  "textStyle": "reviewsTextStyle",
+                  "format": "html",
+                  "text": "291 REVIEWS"
+                }
+              ]
             },
             {
               "role": "body",
@@ -601,22 +1147,13 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>Account Manager</b> Blair Shales"
+              "text": "<italic>Sprinkle these ribs with sliced green onion just before serving.</italic>"
             },
             {
-              "role": "heading3",
-              "layout": "heading3Layout",
-              "textStyle": "heading3TextStyle",
-              "format": "html",
-              "text": "Marketing"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b>Associate Publisher, Marketing</b> Sandra Salerno Roth"
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td>1½</td><td>cups water</td></tr><tr><td>1</td><td>cup ketchup</td></tr><tr><td>1</td><td>(6-oz.) can tomato paste</td></tr><tr><td>¾</td><td>cup packed brown sugar</td></tr><tr><td>½</td><td>cup cider vinegar</td></tr><tr><td>2</td><td>Tbsp. yellow mustard</td></tr><tr><td>1¼</td><td>tsp. salt</td></tr><tr><td>4</td><td>lb. beef short ribs or beef back ribs</td></tr></table>"
             },
             {
               "role": "body",
@@ -624,7 +1161,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>Art Director</b> Tracy D’Agostino"
+              "text": "<lede>1.</lede> Mix together water, ketchup, tomato paste, brown sugar, vinegar, mustard, and salt in an electric multicooker, stirring to dissolve brown sugar and salt. Add ribs and turn to coat."
             },
             {
               "role": "body",
@@ -632,7 +1169,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>Associate Marketing Manager</b> Harley Gates"
+              "text": "<lede>2.</lede> Close and lock lid. Select High Pressure and set timer for 30 minutes. (Allow about 9 minutes for pressure to build.) Let pressure release naturally, about 10 minutes. Carefully remove lid. Transfer ribs to a platter. Serve with sauce after skimming off fat."
             },
             {
               "role": "body",
@@ -640,7 +1177,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>Executive Director, Brand Communication</b> Elizabeth Marsh"
+              "text": "<a href=\"http://armagazine.com/slow-cooker-barbecued-beef-ribs\">armagazine.com/slow-cooker-barbecued-beef-ribs</a>"
             },
             {
               "role": "body",
@@ -648,7 +1185,160 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>Director, Sales Strategy &amp; Insights</b> Nancy Elias"
+              "text": "<b><italic>GLUTEN-FREE</italic></b>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "attributeTextStyle",
+              "format": "html",
+              "text": "PER SERVING (7<b>¼</b> OZ. MEAT WITHOUT BONES AND <b>¼</b> CUP SAUCE): 765 CAL; 31G FAT (13G SAT); 55G PRO; 66G CARB (2G FIBER, 58G SUGARS); 1,547MG SODIUM"
+            },
+            {
+              "//": "======= YOU SAID CONTAINER ======",
+              "role": "container",
+              "layout": "youSaidContainerLayout",
+              "components": [
+                {
+                  "role": "container",
+                  "layout": {
+                    "margin": {
+                      "bottom": 10
+                    }
+                  },
+                  "contentDisplay": {
+                    "alignment": "center",
+                    "distribution": "narrow",
+                    "maximumWidth": 80,
+                    "type": "collection"
+                  },
+                  "components": [
+                    {
+                      "role": "image",
+                      "style": {
+                        "backgroundColor": "#008080",
+                        "mask": {
+                          "radius": 80,
+                          "type": "corners"
+                        }
+                      },
+                      "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/lori/197674-1-eng-GB/lori2.jpg?q=100"
+                    }
+                  ]
+                },
+                {
+                  "role": "pullquote",
+                  "textStyle": "youSaidQuoteTextStyle",
+                  "format": "html",
+                  "text": "“Terrific! I seasoned the ribs with salt and pepper, then seared them on all sides before adding to the cooker. That provides a caramelized crust on the ribs.”<br><pullquote-attribution>– LORI</pullquote-attribution>"
+                }
+              ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H3255.0/W2211.0 * 100 = 147.2184532 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "caption": {
+                    "format": "html",
+                    "text": "<b>MAKE IT IN AN</b><br>Electric multicooker",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/103038711/197653-1-eng-GB/1030387112.jpg?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Make It in an</caption-heading><br>Electric multicooker"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "bodyLayout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Instant Pot Frozen Salmon"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "recipeDetailsTextStyle",
+              "format": "html",
+              "text": "<m>HANDS-ON </m>5 min.br><m>TOTAL </m>20 min.br><m>SERVES </m>4 <br/><m>SUBMITTED BY </m>CAROL CASTELLUCCI MILLER"
+            },
+            {
+              "//": "====== REVIEWS ======",
+              "role": "container",
+              "layout": "bodyLayout2",
+              "contentDisplay": {
+                "type": "horizontal_stack"
+              },
+              "components": [
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": true
+                    }
+                  ],
+                  "hidden": false,
+                  "URL": "https://public-assets.meredithcorp.io/4cadea6bc3bbdd6b0bdfab5abedfb66f/fourstars.jpg"
+                },
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": false
+                    }
+                  ],
+                  "hidden": true,
+                  "URL": "https://public-assets.meredithcorp.io/8e401d3520fc3b0bec1ecdf6f118edf3/fourstarsDM.png"
+                },
+                {
+                  "role": "container",
+                  "layout": "smallSpacerLayout"
+                },
+                {
+                  "role": "body",
+                  "layout": {
+                    "padding": {
+                      "top": 0
+                    }
+                  },
+                  "textStyle": "reviewsTextStyle",
+                  "format": "html",
+                  "text": "18 REVIEWS"
+                }
+              ]
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td>1</td><td>cup cold water</td></tr><tr><td>¼</td><td>cup lemon juice</td></tr><tr><td>4</td><td>frozen salmon fillets (about 1 lb.)</td></tr><tr><td>¼</td><td>tsp. salt</td></tr><tr><td>⅛</td><td>tsp. black pepper</td></tr><tr><td>1</td><td>lemon, cut into wedges</td></tr></table>"
             },
             {
               "role": "body",
@@ -656,14 +1346,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>Senior Research Manager</b> Cheryl Campbell"
-            },
-            {
-              "role": "heading3",
-              "layout": "heading3Layout",
-              "textStyle": "heading3TextStyle",
-              "format": "html",
-              "text": "Production"
+              "text": "<lede>1.</lede> Add water and lemon juice to an electric multicooker. Insert a steamer rack and spray with cooking spray. Arrange salmon, skin sides down, on rack (fillets may overlap slightly)."
             },
             {
               "role": "body",
@@ -671,7 +1354,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>Senior Production Manager</b> Jennifer Paugh"
+              "text": "<lede>2.</lede> Cover and lock lid. Set on High Pressure and bring up to pressure. Immediately quick-release steam. Salmon should flake easily with a fork."
             },
             {
               "role": "body",
@@ -679,14 +1362,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>Assistant Director, Premedia Trafficking</b> Jill Cruchelow"
-            },
-            {
-              "role": "heading3",
-              "layout": "heading3Layout",
-              "textStyle": "heading3TextStyle",
-              "format": "html",
-              "text": "Circulation &amp; Finance"
+              "text": "<lede>3.</lede> Sprinkle with salt and pepper. Serve with lemon wedges."
             },
             {
               "role": "body",
@@ -694,7 +1370,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>Consumer Marketing Manager</b> Laura Krogh"
+              "text": "<a href=\"http://armagazine.com/instant-pot-frozen-salmon\">armagazine.com/instant-pot-frozen-salmon</a>"
             },
             {
               "role": "body",
@@ -702,7 +1378,121 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<b>Business Manager</b> Leslie Rohr"
+              "text": "<b><italic>HEALTHY</italic></b> | <b><italic>QUICK</italic></b> | <b><italic>GLUTEN-FREE</italic></b>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "attributeTextStyle",
+              "format": "html",
+              "text": "PER FILLET: 243 CAL; 15G FAT (4G SAT); 24G PRO; 4G CARB (1G FIBER, 1G SUGARS); 215MG SODIUM"
+            },
+            {
+              "//": "======= YOU SAID CONTAINER ======",
+              "role": "container",
+              "layout": "youSaidContainerLayout",
+              "components": [
+                {
+                  "role": "pullquote",
+                  "textStyle": "youSaidQuoteTextStyle",
+                  "format": "html",
+                  "text": "“I added cauliflower to the pot before the salmon. I also used lots of dill on the salmon.”<br><pullquote-attribution>– SEQUOYAH KEARNS</pullquote-attribution>"
+                }
+              ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1743.0/W1366.0 * 100 = 127.5988287 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p030-alt102382-sweet-sour-brisket/199282-1-eng-GB/p030-alt102382-sweet-sour-brisket.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "bodyLayout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Sweet-and-Sour Brisket"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "recipeDetailsTextStyle",
+              "format": "html",
+              "text": "<m>HANDS-ON</m> 15 min.br><m>TOTAL</m> 3 hr. 10 min.br><m>SERVES</m> 10 <br><m>SUBMITTED BY</m> LOUISE"
+            },
+            {
+              "//": "====== REVIEWS ======",
+              "role": "container",
+              "layout": "bodyLayout2",
+              "contentDisplay": {
+                "type": "horizontal_stack"
+              },
+              "components": [
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": true
+                    }
+                  ],
+                  "hidden": false,
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common0166/108858-1-eng-GB/common012.jpg?q=100"
+                },
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": false
+                    }
+                  ],
+                  "hidden": true,
+                  "URL": "https://public-assets.meredithcorp.io/8700c3d249629b59c38e0b147c58947c/fourDM.png"
+                },
+                {
+                  "role": "container",
+                  "layout": "smallSpacerLayout"
+                },
+                {
+                  "role": "body",
+                  "layout": {
+                    "padding": {
+                      "top": 0
+                    }
+                  },
+                  "textStyle": "reviewsTextStyle",
+                  "format": "html",
+                  "text": "157 REVIEWS"
+                }
+              ]
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td>4</td><td>lb. beef brisket, fat trimmed</td></tr><tr><td>2</td><td>cups sliced onions (about 2 onions)</td></tr><tr><td>1</td><td>cup water</td></tr><tr><td>1</td><td>cup ketchup</td></tr><tr><td>¾</td><td>cup packed brown sugar</td></tr><tr><td>½</td><td>cup white vinegar</td></tr><tr><td>1</td><td>Tbsp. kosher salt</td></tr><tr><td>1</td><td>clove garlic, minced</td></tr></table>"
             },
             {
               "role": "body",
@@ -710,7 +1500,237 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>PRESIDENT, LIFESTYLE</lede>&nbsp;Alysia Borsa"
+              "text": "<lede>1.</lede> Brown brisket over medium-high heat in a large skillet, about 4 minutes per side. Stir together onions and remaining ingredients in a 5- to 6-qt. slow cooker. Add brisket and turn to coat. Cook, covered, until meat is tender, 5 to 6 hours on High or 10 to 12 hours on Low."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>2.</lede> Transfer brisket to a cutting board. Tent lightly with foil and let stand 15 minutes before slicing against the grain. Skim any fat from sauce and serve sauce with brisket."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<a href=\"http://armagazine.com/sweet-and-sour-brisket\">armagazine.com/sweet-and-sour-brisket</a>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b><italic>GLUTEN-FREE</italic></b>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "attributeTextStyle",
+              "format": "html",
+              "text": "PER 4-OZ. SERVING: 389 CAL; 18G FAT (7G SAT); 30G PRO; 26G CARB (1G FIBER, 23G SUGARS); 611MG SODIUM"
+            },
+            {
+              "//": "======= YOU SAID CONTAINER ======",
+              "role": "container",
+              "layout": "youSaidContainerLayout",
+              "components": [
+                {
+                  "role": "pullquote",
+                  "textStyle": "youSaidQuoteTextStyle",
+                  "format": "html",
+                  "text": "“I browned the meat in a pan and then put it in a slow cooker for 12 hours on Low. It’s perfect: I can start the meat before work, and it’s ready when I have guests over in the evening.”<br><pullquote-attribution>– FRESHJIVEN</pullquote-attribution>"
+                }
+              ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1213.0/W1366.0 * 100 = 88.7994143 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "caption": {
+                    "format": "html",
+                    "text": "<b>MAKE IT IN A</b><br>Slow cooker",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p031-alt102382-zesty-slow-cooker-chicken-barbecue/199289-1-eng-GB/p031-alt102382-zesty-slow-cooker-chicken-barbecue.jpg?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Make It in a</caption-heading><br>Slow cooker"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "bodyLayout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Zesty Slow Cooker Chicken Barbecue"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "recipeDetailsTextStyle",
+              "format": "html",
+              "text": "<m>HANDS-ON</m> 15 min.br><m>TOTAL</m> 4 hr. 15 min.br><m>SERVES</m> 8 <br><m>SUBMITTED BY</m> SUZANNE ELIZABETH MASTAW"
+            },
+            {
+              "//": "====== REVIEWS ======",
+              "role": "container",
+              "layout": "bodyLayout2",
+              "contentDisplay": {
+                "type": "horizontal_stack"
+              },
+              "components": [
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": true
+                    }
+                  ],
+                  "hidden": false,
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common0166/108858-1-eng-GB/common012.jpg?q=100"
+                },
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": false
+                    }
+                  ],
+                  "hidden": true,
+                  "URL": "https://public-assets.meredithcorp.io/8700c3d249629b59c38e0b147c58947c/fourDM.png"
+                },
+                {
+                  "role": "container",
+                  "layout": "smallSpacerLayout"
+                },
+                {
+                  "role": "body",
+                  "layout": {
+                    "padding": {
+                      "top": 0
+                    }
+                  },
+                  "textStyle": "reviewsTextStyle",
+                  "format": "html",
+                  "text": "6,487 REVIEWS"
+                }
+              ]
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<italic>Pile the pulled chicken with desired toppings, such as sliced cheese, red onion, and/or avocado.</italic>"
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td>1</td><td>(12-oz.) bottle barbecue sauce</td></tr><tr><td>½</td><td>cup Italian salad dressing</td></tr><tr><td>¼</td><td>cup packed brown sugar</td></tr><tr><td>2</td><td>Tbsp. Worcestershire sauce</td></tr><tr><td>6</td><td>boneless, skinless chicken breasts</td></tr><tr><td>8</td><td>hamburger buns</td></tr></table>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>1.</lede> Stir together barbecue sauce, salad dressing, brown sugar, and Worcestershire in a 6-qt. slow cooker. Add chicken and toss to coat. Cook, covered, 4 to 5 hours on Low."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>2.</lede> Transfer chicken to a cutting board or plate, then shred with 2 forks. Return to slow cooker; stir to coat. Serve on hamburger buns."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<a href=\"http://armagazine.com/zesty-slow-cooker-chicken-barbecue\">armagazine.com/zesty-slow-cooker-chicken-barbecue</a>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "attributeTextStyle",
+              "format": "html",
+              "text": "PER SERVING (INCLUDING BUNS): 401 CAL; 8G FAT (2G SAT); 33G PRO; 46G CARB (1G FIBER, 24G SUGARS); 895MG SODIUM"
+            },
+            {
+              "//": "======= YOU SAID CONTAINER ======",
+              "role": "container",
+              "layout": "youSaidContainerLayout",
+              "components": [
+                {
+                  "role": "container",
+                  "layout": {
+                    "margin": {
+                      "bottom": 10
+                    }
+                  },
+                  "contentDisplay": {
+                    "alignment": "center",
+                    "distribution": "narrow",
+                    "maximumWidth": 80,
+                    "type": "collection"
+                  },
+                  "components": [
+                    {
+                      "role": "image",
+                      "style": {
+                        "backgroundColor": "#008080",
+                        "mask": {
+                          "radius": 80,
+                          "type": "corners"
+                        }
+                      },
+                      "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/marilynwood_082/197604-1-eng-GB/marilynwood_0822.jpg?q=100"
+                    }
+                  ]
+                },
+                {
+                  "role": "pullquote",
+                  "textStyle": "youSaidQuoteTextStyle",
+                  "format": "html",
+                  "text": "“I love this! The only change I made was to add ½ cup diced onion and 1 tsp. liquid smoke.”<br><pullquote-attribution>– MARILYN WOODARD THOMPSON</pullquote-attribution>"
+                }
+              ]
             }
           ]
         },
@@ -781,6 +1801,14 @@
         "top": 2
       }
     },
+    "bodyLayout2": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 15,
+        "top": 10
+      }
+    },
     "bottomPhotoDividerLayout": {
       "//": "UNUSED"
     },
@@ -814,14 +1842,6 @@
     },
     "captionLayout": {
       "margin": 8
-    },
-    "collectionLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
-      "margin": {
-        "bottom": 10,
-        "top": 20
-      }
     },
     "darkModePaddingLayout": {
       "conditional": [
@@ -963,7 +1983,10 @@
       }
     },
     "ingredientsLayout": {
-      "margin": 10
+      "margin": {
+        "bottom": 10,
+        "top": 10
+      }
     },
     "introLayout": {
       "columnSpan": 18,
@@ -976,9 +1999,6 @@
       "columnSpan": 18,
       "columnStart": 1
     },
-    "productImageStandardLayout": {
-      "minimumHeight": 280
-    },
     "pullQuoteLayout": {
       "columnSpan": 16,
       "columnStart": 2,
@@ -990,6 +2010,18 @@
     "reviewLayout": {
       "columnSpan": 18,
       "columnStart": 1,
+      "padding": {
+        "left": 85,
+        "top": 2
+      }
+    },
+    "reviewLayout2": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 2
+      },
       "padding": {
         "left": 85,
         "top": 2
@@ -1146,9 +2178,12 @@
       "//": "UNUSED"
     },
     "calloutStyle": {
+      "//": "UNUSED"
+    },
+    "calloutStyle2": {
       "border": {
         "all": {
-          "color": "#FF7E19",
+          "color": "#feaa26",
           "width": 4
         }
       }
@@ -1202,7 +2237,7 @@
       ]
     },
     "dividerStandardStyle": {
-      "backgroundColor": "#000"
+      "backgroundColor": "#ccc"
     },
     "dividerTocStyle": {
       "//": "UNUSED"
@@ -1390,36 +2425,48 @@
       }
     },
     "sidebarStyle": {
-      "backgroundColor": "#f2f2f2",
-      "conditional": [
-        {
-          "backgroundColor": "#828282",
-          "conditions": [
-            {
-              "minSpecVersion": "1.14",
-              "preferredColorScheme": "dark"
-            }
-          ]
-        }
-      ]
+      "//": "UNUSED"
     },
     "straplineStyle": {
       "//": "UNUSED"
     },
     "titleStyle": {
       "//": "UNUSED"
+    },
+    "youSaidImageStyle": {
+      "backgroundColor": "#008080",
+      "mask": {
+        "radius": "60cw",
+        "type": "corners"
+      }
+    },
+    "dividerDoubleStyle": {
+      "border": {
+        "all": {
+          "color": "#222",
+          "width": 1
+        },
+        "bottom": true,
+        "left": false,
+        "right": false,
+        "top": true
+      }
     }
   },
   "textStyles": {
     "creditTextStyle": {
-      "fontName": "Gotham-Book",
+      "fontName": "Gotham-Light",
       "fontSize": 10,
       "textColor": "#8d8d8d",
       "tracking": 0.05
     },
+    "default-tag-bold": {
+      "fontName": "GothamNarrow-Bold"
+    },
     "default-tag-caption-heading": {
-      "fontName": "Gotham-Black",
-      "fontSize": 15
+      "fontName": "Gotham-Bold",
+      "fontSize": 16,
+      "textTransform": "uppercase"
     },
     "default-tag-caption-i": {
       "fontName": "Gotham-Book"
@@ -1428,18 +2475,22 @@
       "fontName": "AppleColorEmoji"
     },
     "default-tag-lede": {
-      "fontName": "GothamNarrow-Bold",
-      "tracking": 0.02
+      "fontName": "Gotham-Bold",
+      "fontSize": 17
+    },
+    "default-tag-m": {
+      "fontName": "Gotham-Medium"
+    },
+    "default-tag-mi": {
+      "fontName": "Gotham-MediumItalic"
     },
     "default-tag-pullquote-attribution": {
-      "fontName": "GothamCondensed-Medium",
-      "fontSize": 18,
-      "textAlignment": "center",
+      "fontName": "SurveyorText-LightItalic",
       "textTransform": "uppercase",
-      "tracking": 0.05
+      "fontSize": 16
     },
     "default-tag-sidebar-lede": {
-      "fontName": "GothamNarrow-Bold"
+      "fontName": "Gotham-Medium"
     },
     "default-tag-subsection": {
       "fontName": "Gotham-Light"
@@ -1449,52 +2500,61 @@
     },
     "subSectionTextStyle": {
       "//": "UNUSED"
+    },
+    "default-tag-title-italic": {
+      "fontName": "HTFDidot-M42MediumItalic"
+    },
+    "default-tag-bracket": {
+      "fontSize": 30,
+      "textColor": "#ED096F"
+    },
+    "default-tag-caption-bold": {
+      "fontName": "Gotham-Bold"
+    },
+    "default-tag-italic": {
+      "fontName": "SurveyorText-LightItalic"
     }
   },
   "componentTextStyles": {
     "//": {
-      "//": "================ ALL RECIPES OVERRIDES ================"
+      "//": "===================== BETTER HOMES AND GARDENS OVERRIDES ====================="
     },
     "attributeTextStyle": {
-      "fontName": "GothamNarrow-Book",
+      "fontName": "Gotham-Light",
       "fontSize": 10,
+      "textTransform": "uppercase",
       "lineHeight": 12,
       "tracking": 0.05
     },
     "authorTextStyle": {
-      "fontName": "Gotham-Light",
-      "tracking": 0.1
+      "fontName": "SurveyorText-LightItalic"
     },
     "bodyCenteredTextStyle": {
       "textAlignment": "center"
     },
     "bodyDropCapTextStyle": {
       "dropCapStyle": {
-        "fontName": "GothamNarrow-ThinItalic",
+        "fontName": "DidotLTStd-Roman",
         "numberOfCharacters": 1,
         "numberOfLines": 4,
         "numberOfRaisedLines": 0
-      },
-      "tracking": 0.02
+      }
     },
     "bodyTextStyle": {
-      "tracking": 0.02
+      "//": "UNUSED"
     },
     "calloutBodyTextStyle": {
-      "fontSize": 15,
-      "lineHeight": 19,
-      "linkStyle": {
-        "fontName": "GothamNarrow-Bold",
-        "textColor": "#000",
-        "underline": true
-      },
+      "fontName": "Gotham-Light",
+      "fontSize": 20,
+      "lineHeight": 24,
       "textAlignment": "center"
     },
     "calloutHeadingTextStyle": {
-      "fontName": "Harrietv2Display-Bold",
-      "fontSize": 28,
-      "lineHeight": 30,
-      "textAlignment": "center"
+      "fontName": "Gotham-Bold",
+      "fontSize": 16,
+      "lineHeight": 20,
+      "textAlignment": "center",
+      "textTransform": "uppercase"
     },
     "captionAdTextStyle": {
       "//": "UNUSED"
@@ -1507,27 +2567,28 @@
       "lineHeight": 16
     },
     "captionTextStyle": {
-      "fontName": "Gotham-BookItalic",
-      "tracking": 0.02
-    },
-    "default": {
-      "fontName": "GothamNarrow-Book",
-      "hyphenation": false,
+      "fontName": "Gotham-Medium",
       "linkStyle": {
-        "fontName": "GothamNarrow-Bold",
-        "textColor": "#000",
+        "fontName": "Gotham-MediumItalic",
         "underline": true
       },
-      "textColor": "#000"
+      "textAlignment": "center"
+    },
+    "default": {
+      "fontName": "SurveyorText-Light",
+      "hyphenation": false,
+      "linkStyle": {
+        "underline": true
+      },
+      "textColor": "#221E1F"
     },
     "default-author": {
-      "fontName": "Avenir-Book",
       "fontSize": 14,
-      "lineHeight": 16
+      "lineHeight": 18
     },
     "default-body": {
-      "fontSize": 16,
-      "lineHeight": 20,
+      "fontSize": 18,
+      "lineHeight": 22,
       "paragraphSpacingAfter": 12,
       "paragraphSpacingBefore": 12
     },
@@ -1535,23 +2596,14 @@
       "//": "UNUSED"
     },
     "default-caption": {
-      "fontName": "Avenir-Book",
       "fontSize": 14,
-      "lineHeight": 16
+      "lineHeight": 18
     },
     "default-heading": {
       "fontSize": 16,
       "lineHeight": 16
     },
     "default-heading2": {
-      "fontSize": 40,
-      "lineHeight": 42
-    },
-    "default-heading3": {
-      "fontSize": 32,
-      "lineHeight": 34
-    },
-    "default-heading4": {
       "conditional": [
         {
           "conditions": [
@@ -1559,95 +2611,98 @@
               "minViewportWidth": 500
             }
           ],
-          "fontSize": 24,
-          "lineHeight": 26
+          "fontSize": 36,
+          "lineHeight": 40
         }
       ],
-      "fontSize": 28,
-      "lineHeight": 30
+      "fontSize": 46,
+      "lineHeight": 47
     },
-    "default-heading5": {
-      "fontSize": 17,
-      "lineHeight": 19
+    "default-heading3": {
+      "fontSize": 20,
+      "lineHeight": 22
     },
-    "default-heading6": {
+    "default-heading4": {
       "fontSize": 18,
       "lineHeight": 20
     },
+    "default-heading5": {
+      "fontSize": 18,
+      "lineHeight": 20
+    },
+    "default-heading6": {
+      "//": "UNUSED"
+    },
     "default-intro": {
-      "fontName": "Avenir-Book",
-      "fontSize": 20,
-      "lineHeight": 24
+      "fontSize": 16,
+      "lineHeight": 18
     },
     "default-photographer": {
       "//": "UNUSED"
     },
     "default-pullquote": {
-      "fontSize": 44,
-      "lineHeight": 44,
-      "textAlignment": "center"
+      "fontSize": 18,
+      "lineHeight": 20
     },
     "default-title": {
-      "fontSize": 66,
-      "lineHeight": 59
+      "fontSize": 62,
+      "lineHeight": 60
     },
     "floatImageCaptionTextStyle": {
-      "fontName": "Gotham-BookItalic",
-      "tracking": 0.02
+      "fontName": "Gotham-Medium",
+      "textAlignment": "center"
     },
     "heading2CenteredTextStyle": {
       "textAlignment": "center"
     },
     "heading2TextStyle": {
-      "fontName": "GothamXNarrow-Ultra",
-      "textTransform": "uppercase",
-      "tracking": 0.11
+      "fontName": "SurveyorFine-Book"
     },
     "heading3CenteredTextStyle": {
       "textAlignment": "center"
     },
     "heading3TextStyle": {
-      "fontName": "Gotham-Black"
+      "fontName": "Gotham-Bold",
+      "textTransform": "uppercase"
     },
     "heading4CenteredTextStyle": {
       "textAlignment": "center"
     },
     "heading4TextStyle": {
-      "fontName": "GothamXNarrow-Ultra",
-      "textTransform": "uppercase",
-      "tracking": 0.12
+      "fontName": "Gotham-Bold",
+      "textTransform": "uppercase"
     },
     "heading5CenteredTextStyle": {
-      "textAlignment": "center"
-    },
-    "heading5TextStyle": {
       "fontName": "Gotham-Bold",
+      "textAlignment": "center",
       "textTransform": "uppercase",
       "tracking": 0.02
+    },
+    "heading5TextStyle": {
+      "fontName": "Gotham-Bold"
     },
     "heading6CenteredTextStyle": {
       "textAlignment": "center"
     },
     "heading6TextStyle": {
-      "fontName": "GothamXNarrow-Black",
-      "tracking": 0.04
+      "//": "UNUSED"
     },
     "ingredientsTextStyle": {
-      "fontName": "GothamNarrow-Book",
-      "lineHeight": 24
+      "fontName": "Gotham-Medium",
+      "fontSize": 15,
+      "lineHeight": 19
     },
     "introTextStyle": {
-      "fontName": "Gotham-Book",
-      "tracking": 0.03
+      "fontName": "Gotham-Light"
     },
     "pullQuoteTextStyle": {
-      "fontName": "GothamCondensed-LightItalic",
-      "textAlignment": "center"
+      "fontName": "Gotham-Light",
+      "textTransform": "uppercase"
     },
     "recipeDetailsTextStyle": {
-      "fontName": "GothamNarrow-Book",
-      "fontSize": 14,
-      "lineHeight": 16
+      "fontName": "Gotham-Light",
+      "fontSize": 15,
+      "lineHeight": 17
     },
     "reviewsTextStyle": {
       "conditional": [
@@ -1671,41 +2726,46 @@
       "textTransform": "uppercase"
     },
     "sectionTextStyle": {
-      "fontName": "Gotham-Ultra",
+      "fontName": "Gotham-Bold",
       "fontSize": 14,
+      "lineHeight": 16,
+      "textTransform": "uppercase",
       "tracking": 0.1
     },
     "sidebarBodyTextStyle": {
-      "fontName": "GothamNarrow-Book"
+      "fontName": "Gotham-Light",
+      "fontSize": 16,
+      "lineHeight": 20
     },
     "sidebarHeading2TextStyle": {
-      "fontName": "Harrietv2Display-Bold",
-      "tracking": 0.02
+      "fontName": "SurveyorFine-Book",
+      "fontSize": 42,
+      "lineHeight": 44,
+      "textTransform": "uppercase"
     },
     "sidebarHeading3TextStyle": {
-      "fontName": "GothamXNarrow-Bold",
-      "fontSize": 28,
-      "lineHeight": 30,
-      "textTransform": "uppercase",
-      "tracking": 0.09
+      "fontName": "Gotham-Bold",
+      "fontSize": 18,
+      "lineHeight": 20,
+      "textTransform": "uppercase"
     },
     "sidebarHeading4TextStyle": {
-      "fontName": "GothamXNarrow-Bold",
-      "fontSize": 24,
-      "lineHeight": 26,
-      "tracking": 0.02
+      "fontName": "Gotham-Bold",
+      "fontSize": 16,
+      "lineHeight": 18
     },
     "sidebarIntroTextStyle": {
       "fontName": "GothamNarrow-Medium"
     },
     "straplineTextStyle": {
-      "fontName": "Gotham-Ultra",
-      "tracking": 0.15
+      "fontName": "Gotham-Bold",
+      "textTransform": "uppercase",
+      "fontSize": 15
     },
     "titleTextStyle": {
-      "fontName": "GothamCondensed-Black",
-      "textTransform": "uppercase",
-      "tracking": 0.03
+      "fontName": "DidotLTStd-Roman",
+      "textColor": "#000",
+      "tracking": -0.02
     },
     "tocTextStyle": {
       "fontName": "AvenirNextCondensed-Medium",
@@ -1721,6 +2781,48 @@
       "fontSize": 22,
       "lineHeight": 24,
       "textAlignment": "center"
+    },
+    "sidebarHeading2CenteredTextStyle": {
+      "fontName": "SurveyorFine-Book",
+      "fontSize": 42,
+      "lineHeight": 44,
+      "textTransform": "uppercase",
+      "textAlignment": "center"
+    },
+    "sidebarHeading3CenteredTextStyle": {
+      "fontName": "Gotham-Bold",
+      "fontSize": 18,
+      "lineHeight": 20,
+      "textTransform": "uppercase",
+      "textAlignment": "center"
+    },
+    "sidebarHeading4CenteredTextStyle": {
+      "fontName": "Gotham-Bold",
+      "fontSize": 16,
+      "lineHeight": 18,
+      "textAlignment": "center"
+    },
+    "sidebarBodyCenteredTextStyle": {
+      "fontName": "Gotham-Light",
+      "fontSize": 16,
+      "lineHeight": 20,
+      "textAlignment": "center"
+    },
+    "bhgInsiderBodyTextStyle": {
+      "fontName": "Gotham-Medium",
+      "fontSize": 16,
+      "lineHeight": 22,
+      "textAlignment": "center"
+    },
+    "recipeBodyTextStyle": {
+      "fontName": "Gotham-Light",
+      "fontSize": 16,
+      "lineHeight": 20
+    },
+    "recipeNutritionInfoTextStyle": {
+      "fontName": "Gotham-Light",
+      "fontSize": 14,
+      "lineHeight": 16
     }
   }
 }

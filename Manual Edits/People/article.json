@@ -1,25 +1,29 @@
 {
   "version": "1.9",
-  "identifier": "coastalliving_article_889-125-12-1",
-  "title": "Sitting Pretty",
+  "identifier": "people_article_677-1001-65-1",
+  "title": "What to Wear Now: A White Dress",
   "language": "en",
   "layout": {
-    "columns": 23,
+    "columns": 20,
     "gutter": 20,
-    "margin": 62,
+    "margin": 40,
     "width": 1024
   },
-  "subtitle": "No matter where you choose to lounge this summer, here are five combos for matching your beach chair and your bathing suit",
+  "subtitle": "IT’S A BLANK CANVAS, SO LEAN ON CHIC ACCESSORIES TO CREATE A STANDOUT LOOK",
   "metadata": {
     "authors": [
-      "By Jessica Thuston"
+      "Sarah Ball"
     ],
-    "dateCreated": "2022-05-20T16:37:03.449Z",
-    "dateModified": "2022-05-18T20:18:03+00:00",
-    "excerpt": "■",
+    "dateCreated": "2022-06-29T16:55:10.942Z",
+    "dateModified": "2022-06-29T14:05:47+00:00",
+    "excerpt": "Play up the beachy vibes of this breezy dress with braided metallic slides, an embellished tote and reflective sunnies.",
     "generatorName": "ANTE Generic Template",
-    "generatorVersion": "0.0.4.32-2022-04-15 19:20",
-    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/bpc-g-lau-s_126/129638-1-eng-GB/bpc-g-lau-s_1262.png?q=100"
+    "generatorVersion": "0.0.4.33-2022-06-09 18:32",
+    "issue": {
+      "identifier": "July 11, 2022",
+      "tocByline": "By Sarah Ball"
+    },
+    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/p065-ppl220711-selena/1989564-1-eng-US/p065-ppl220711-selena.jpg?q=100"
   },
   "documentStyle": {
     "backgroundColor": "#eee"
@@ -55,67 +59,119 @@
       },
       "components": [
         {
-          "//": "==== DEFAULT HEADER: SECTION ===",
-          "role": "heading",
-          "layout": "sectionLayout",
-          "textStyle": "sectionTextStyle",
-          "format": "html",
-          "text": "CURRENTS | <subsection>MARKET REPORT</subsection>"
+          "role": "image",
+          "layout": {
+            "columnSpan": 18,
+            "columnStart": 1,
+            "horizontalContentAlignment": "left",
+            "margin": {
+              "bottom": 15
+            },
+            "maximumContentWidth": "40cw"
+          },
+          "conditional": [
+            {
+              "conditions": [
+                {
+                  "minSpecVersion": "1.14",
+                  "preferredColorScheme": "dark"
+                }
+              ],
+              "hidden": true
+            }
+          ],
+          "hidden": false,
+          "URL": "https://public-assets.meredithcorp.io/45f230deb8b0da4c71a9fc583b2bc0e6/people-style.jpg"
         },
         {
-          "//": "==== DEFAULT HEADER: TITLE ===",
+          "role": "image",
+          "layout": {
+            "columnSpan": 18,
+            "columnStart": 1,
+            "horizontalContentAlignment": "left",
+            "margin": {
+              "bottom": 15
+            },
+            "maximumContentWidth": "40cw"
+          },
+          "conditional": [
+            {
+              "conditions": [
+                {
+                  "minSpecVersion": "1.14",
+                  "preferredColorScheme": "dark"
+                }
+              ],
+              "hidden": false
+            }
+          ],
+          "hidden": true,
+          "URL": "https://public-assets.meredithcorp.io/a450fcc5c1d49c071214ce2f3bdc6b34/styleDM.png"
+        },
+        {
+          "role": "heading",
+          "layout": "straplineLayout",
+          "textStyle": "straplineAltTextStyle",
+          "format": "html",
+          "text": "What to Wear Now"
+        },
+        {
           "role": "title",
           "layout": "titleLayout",
           "textStyle": "titleTextStyle",
           "format": "html",
-          "text": "Sitting Pretty"
+          "text": "A White Dress"
         },
         {
-          "//": "==== DEFAULT HEADER: INTRO ===",
           "role": "intro",
           "layout": "introLayout",
           "textStyle": "introTextStyle",
           "format": "html",
-          "text": "No matter where you choose to lounge this summer, here are five combos for matching your beach chair and your bathing suit"
+          "text": "It’s a blank canvas, so lean on chic accessories to create a standout look"
         },
         {
           "role": "author",
           "layout": "authorLayout",
           "textStyle": "authorTextStyle",
           "format": "html",
-          "text": "By Jessica Thuston"
+          "text": "By <author-name>Sarah Ball</author-name>"
         },
         {
-          "role": "heading2",
-          "layout": "heading2Layout",
-          "textStyle": "heading2TextStyle",
-          "format": "html",
-          "text": "ROMANTIC SAINT-TROPEZ"
-        },
-        {
-          "//": "======== HERO IMAGE CONTAINER =======",
           "role": "container",
-          "layout": "singleBlockContainerLayout",
+          "layout": "galleryPhotoLayout",
+          "animation": {
+            "preferredStartingPosition": "right",
+            "type": "move_in",
+            "userControllable": false
+          },
           "components": [
             {
-              "//": "======== HERO IMAGE - H1435.0/W1367.0 * 100 = 104.9743965 ========",
-              "role": "image",
-              "layout": {
-                "maximumContentWidth": "70cw"
-              },
-              "caption": {
-                "format": "html",
-                "text": "<bold>Romantic Saint-Tropez</bold><br><bold>CHAIR Business &amp; Pleasure The Sling Chair</bold> in Lauren’s Navy Stripe, $249.",
-                "textStyle": "captionEmbeddedTextStyle"
-              },
-              "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/bpc-g-lau-s_126/129638-1-eng-GB/bpc-g-lau-s_1262.png?q=100"
+              "role": "gallery",
+              "items": [
+                {
+                  "caption": {
+                    "format": "html",
+                    "text": "Selena Gomez in Prada on June 12.",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/p065-ppl220711-selena/1989564-1-eng-US/p065-ppl220711-selena.jpg?q=100"
+                },
+                {
+                  "caption": {
+                    "format": "html",
+                    "text": "Blake Lively in Reformation on June 11.",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/p065-ppl220711-blake/1989550-1-eng-US/p065-ppl220711-blake.jpg?q=100"
+                }
+              ]
             },
             {
               "role": "caption",
               "layout": "captionLayout",
               "textStyle": "captionTextStyle",
               "format": "html",
-              "text": "<caption-heading>Chair</caption-heading> <bold>Business & Pleasure The Sling Chair</bold> in Lauren’s Navy Stripe, $249 <a href=\"http://businessandpleasureco.com\">businessandpleasureco.com</a>"
+              "text": "From left: Selena Gomez in Prada on June 12; Blake Lively in Reformation on June 11."
             }
           ]
         },
@@ -125,303 +181,641 @@
           "layout": "bodyContainerLayout",
           "components": [
             {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "singleBlockContainerLayout",
-              "components": [
-                {
-                  "//": "======== IMAGE BLEED - H1722.0/W1367.0 * 100 = 125.9692758 ========",
-                  "role": "image",
-                  "layout": {
-                    "maximumContentWidth": "70cw"
-                  },
-                  "caption": {
-                    "format": "html",
-                    "text": "<bold>SUIT Vineyard Vines Anegada Floral Ruffle Bikini Top,</bold><br>$78, and <bold>High-Waisted Bikini Bottom,</bold> $75.",
-                    "textStyle": "captionEmbeddedTextStyle"
-                  },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/oceanreefbo_121/129645-1-eng-GB/oceanreefbo_1212.png?q=100"
-                },
-                {
-                  "role": "caption",
-                  "layout": "captionLayout",
-                  "textStyle": "captionTextStyle",
-                  "format": "html",
-                  "text": "<caption-heading>Suit</caption-heading> <bold>Vineyard Vines Anegada Floral Ruffle Bikini Top,</bold> $78, and <bold>High-Waisted Bikini Bottom,</bold> $75 <a href=\"http://tnuck.com\">tnuck.com</a>"
-                }
-              ]
-            },
-            {
-              "role": "container",
-              "layout": "dividerStandardLayout",
-              "style": "dividerStandardStyle"
-            },
-            {
-              "role": "heading2",
-              "layout": "heading2Layout",
-              "textStyle": "heading2TextStyle",
+              "role": "heading3",
+              "layout": "heading3Layout",
+              "textStyle": "heading3TextStyle",
               "format": "html",
-              "text": "WEST COAST SURF"
+              "text": "<pink>Flowy</pink>"
             },
             {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "singleBlockContainerLayout",
-              "components": [
-                {
-                  "//": "======== IMAGE BLEED - H1398.0/W1367.0 * 100 = 102.2677396 ========",
-                  "role": "image",
-                  "layout": {
-                    "maximumContentWidth": "70cw"
-                  },
-                  "caption": {
-                    "format": "html",
-                    "text": "<bold>West Coast Surf</bold><br><bold>CHAIR PARKIT Voyager Chair</bold> in Slate, $225.",
-                    "textStyle": "captionEmbeddedTextStyle"
-                  },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/parkit-003__128/129631-1-eng-GB/parkit-003__1282.png?q=100"
-                },
-                {
-                  "role": "caption",
-                  "layout": "captionLayout",
-                  "textStyle": "captionTextStyle",
-                  "format": "html",
-                  "text": "<caption-heading>Chair</caption-heading> <bold>PARKIT Voyager Chair</bold> in Slate, $225 <a href=\"http://parkitmovement.com\">parkitmovement.com</a>"
-                }
-              ]
-            },
-            {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "singleBlockContainerLayout",
-              "components": [
-                {
-                  "//": "======== IMAGE BLEED - H2005.0/W1367.0 * 100 = 146.6715435 ========",
-                  "role": "image",
-                  "layout": {
-                    "maximumContentWidth": "60cw"
-                  },
-                  "caption": {
-                    "format": "html",
-                    "text": "<bold>SUIT Trina Turk Breeze Paddle Suit,</bold><br>$172.",
-                    "textStyle": "captionEmbeddedTextStyle"
-                  },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/trinaturk_b_131/129624-1-eng-GB/trinaturk_b_1312.png?q=100"
-                },
-                {
-                  "role": "caption",
-                  "layout": "captionLayout",
-                  "textStyle": "captionTextStyle",
-                  "format": "html",
-                  "text": "<caption-heading>Suit</caption-heading> <bold>Trina Turk Breeze Paddle Suit,</bold> $172 <a href=\"http://trinaturk.com\">trinaturk.com</a>"
-                }
-              ]
-            },
-            {
-              "role": "container",
-              "layout": "dividerStandardLayout",
-              "style": "dividerStandardStyle"
-            },
-            {
-              "role": "heading2",
-              "layout": "heading2Layout",
-              "textStyle": "heading2TextStyle",
+              "role": "body",
+              "layout": "bodyNoMarginAboveLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "CARIBBEAN COOL"
+              "text": "Play up the beachy vibes of this breezy dress with braided metallic slides, an embellished tote and reflective sunnies."
             },
             {
               "//": "======== FULL BLEED CONTAINER ========",
               "role": "container",
-              "layout": "singleBlockContainerLayout",
+              "layout": "fullBleedContainerLayout",
               "components": [
                 {
-                  "//": "======== IMAGE BLEED - H1397.0/W1367.0 * 100 = 102.1945867 ========",
+                  "//": "======== IMAGE BLEED - H2200.0/W1366.0 * 100 = 161.0541728 ========",
                   "role": "image",
                   "layout": {
-                    "maximumContentWidth": "70cw"
+                    "horizontalContentAlignment": "center",
+                    "maximumContentWidth": "55cw"
                   },
-                  "caption": {
-                    "format": "html",
-                    "text": "<bold>Caribbean Cool</bold><br><bold>CHAIR Serena &amp; Lily Palisades Outdoor Chair</bold> in Driftwood, $498.",
-                    "textStyle": "captionEmbeddedTextStyle"
-                  },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/serenalilyp_129/129617-1-eng-GB/serenalilyp_1292.png?q=100"
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/p065-ppl220711-flowy/1989557-1-eng-US/p065-ppl220711-flowy.png?q=100"
                 },
                 {
                   "role": "caption",
                   "layout": "captionLayout",
                   "textStyle": "captionTextStyle",
                   "format": "html",
-                  "text": "<caption-heading>Chair</caption-heading> <bold>Serena &amp; Lily Palisades Outdoor Chair</bold> in Driftwood, $498 <a href=\"http://serenaandlily.com\">serenaandlily.com</a>"
+                  "text": "Old Navy Dress, $45 <a href=\"http://oldnavy.com\">oldnavy.com</a>"
                 }
               ]
             },
             {
+              "role": "divider",
+              "layout": {
+                "columnSpan": 18,
+                "columnStart": 1,
+                "padding": {
+                  "bottom": 15,
+                  "top": 15
+                }
+              },
+              "conditional": [
+                {
+                  "color": "#ececec",
+                  "conditions": [
+                    {
+                      "minSpecVersion": "1.14",
+                      "preferredColorScheme": "dark"
+                    }
+                  ]
+                }
+              ],
+              "stroke": {
+                "color": "#ececec",
+                "width": 1
+              }
+            },
+            {
               "//": "======== FULL BLEED CONTAINER ========",
               "role": "container",
-              "layout": "singleBlockContainerLayout",
+              "layout": "fullBleedContainerLayout",
               "components": [
                 {
-                  "//": "======== IMAGE BLEED - H2310.0/W1367.0 * 100 = 168.9831748 ========",
+                  "//": "======== IMAGE BLEED - H491.0/W1367.0 * 100 = 35.9180688 ========",
                   "role": "image",
                   "layout": {
+                    "horizontalContentAlignment": "center",
+                    "maximumContentWidth": "65cw"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/quay_highke_0592/1988370-1-eng-US/quay_highke_0592.png?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "Quay Sunglasses, $75 <a href=\"http://quayaustralia.com\">quayaustralia.com</a>"
+                }
+              ]
+            },
+            {
+              "role": "divider",
+              "layout": {
+                "columnSpan": 18,
+                "columnStart": 1,
+                "padding": {
+                  "bottom": 15,
+                  "top": 15
+                }
+              },
+              "conditional": [
+                {
+                  "color": "#ececec",
+                  "conditions": [
+                    {
+                      "minSpecVersion": "1.14",
+                      "preferredColorScheme": "dark"
+                    }
+                  ]
+                }
+              ],
+              "stroke": {
+                "color": "#ececec",
+                "width": 1
+              }
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H2199.0/W1366.0 * 100 = 160.9809663 ========",
+                  "role": "image",
+                  "layout": {
+                    "horizontalContentAlignment": "center",
+                    "maximumContentWidth": "40cw"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/p065-ppl220711-necklace/1989585-1-eng-US/p065-ppl220711-necklace.png?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "Stella &amp; Dot Necklace, $74 <a href=\"http://stelladot.com\">stelladot.com</a>"
+                }
+              ]
+            },
+            {
+              "role": "divider",
+              "layout": {
+                "columnSpan": 18,
+                "columnStart": 1,
+                "padding": {
+                  "bottom": 15,
+                  "top": 15
+                }
+              },
+              "conditional": [
+                {
+                  "color": "#ececec",
+                  "conditions": [
+                    {
+                      "minSpecVersion": "1.14",
+                      "preferredColorScheme": "dark"
+                    }
+                  ]
+                }
+              ],
+              "stroke": {
+                "color": "#ececec",
+                "width": 1
+              }
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1655.0/W1121.0 * 100 = 147.6360393 ========",
+                  "role": "image",
+                  "layout": {
+                    "horizontalContentAlignment": "center",
                     "maximumContentWidth": "50cw"
                   },
-                  "caption": {
-                    "format": "html",
-                    "text": "<bold>SUIT Summersalt The Ruffle Backflip Suit</bold><br>In Hibiscus &amp; Tangerine, $95.",
-                    "textStyle": "captionEmbeddedTextStyle"
-                  },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/theruffleba_130/129610-1-eng-GB/theruffleba_1302.png?q=100"
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/lulus1_silo_0562/1988349-1-eng-US/lulus1_silo_0562.png?q=100"
                 },
                 {
                   "role": "caption",
                   "layout": "captionLayout",
                   "textStyle": "captionTextStyle",
                   "format": "html",
-                  "text": "<caption-heading>Suit</caption-heading> <bold>Summersalt The Ruffle Backflip Suit </bold>in Hibiscus &amp; Tangerine, $95 <a href=\"http://summersalt.com\">summersalt.com</a>"
+                  "text": "Lulus Bag, $58 <a href=\"http://lulus.com\">lulus.com</a>"
                 }
               ]
             },
             {
+              "role": "divider",
+              "layout": {
+                "columnSpan": 18,
+                "columnStart": 1,
+                "padding": {
+                  "bottom": 15,
+                  "top": 15
+                }
+              },
+              "conditional": [
+                {
+                  "color": "#ececec",
+                  "conditions": [
+                    {
+                      "minSpecVersion": "1.14",
+                      "preferredColorScheme": "dark"
+                    }
+                  ]
+                }
+              ],
+              "stroke": {
+                "color": "#ececec",
+                "width": 1
+              }
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
               "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H486.0/W1367.0 * 100 = 35.5523043 ========",
+                  "role": "image",
+                  "layout": {
+                    "horizontalContentAlignment": "center",
+                    "maximumContentWidth": "65cw"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/dolcevita-s_0602/1988342-1-eng-US/dolcevita-s_0602.png?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "Dolce Vita Sandals, $75 <a href=\"http://dolcevita.com\">dolcevita.com</a>"
+                }
+              ]
+            },
+            {
+              "//": "====== DIVIDER ======",
+              "role": "divider",
               "layout": "dividerStandardLayout",
               "style": "dividerStandardStyle"
             },
             {
-              "role": "heading2",
-              "layout": "heading2Layout",
-              "textStyle": "heading2TextStyle",
+              "role": "heading3",
+              "layout": "heading3Layout",
+              "textStyle": "heading3TextStyle",
               "format": "html",
-              "text": "FLORIDA’S WHITE SANDS"
+              "text": "<pink>Tailored"
+            },
+            {
+              "role": "body",
+              "layout": "bodyNoMarginAboveLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "This crisp style looks work-appropriate with classic loafers, a structured handbag and a sophisticated watch."
             },
             {
               "//": "======== FULL BLEED CONTAINER ========",
               "role": "container",
-              "layout": "singleBlockContainerLayout",
+              "layout": "fullBleedContainerLayout",
               "components": [
                 {
-                  "//": "======== IMAGE BLEED - H1635.0/W1367.0 * 100 = 119.6049744 ========",
+                  "//": "======== IMAGE BLEED - H2200.0/W1366.0 * 100 = 161.0541728 ========",
                   "role": "image",
                   "layout": {
-                    "maximumContentWidth": "70cw"
+                    "horizontalContentAlignment": "center",
+                    "maximumContentWidth": "50cw"
                   },
-                  "caption": {
-                    "format": "html",
-                    "text": "<bold>Florida’s White Sands</bold><br><bold>CHAIR L.L.Bean Backpack Beach Chair</bold> in Ocean Blue, $89.",
-                    "textStyle": "captionEmbeddedTextStyle"
-                  },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/aa225429_pr_125/129603-1-eng-GB/aa225429_pr_1252.png?q=100"
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/p065-ppl220711-tailored/1989571-1-eng-US/p065-ppl220711-tailored.png?q=100"
                 },
                 {
                   "role": "caption",
                   "layout": "captionLayout",
                   "textStyle": "captionTextStyle",
                   "format": "html",
-                  "text": "<caption-heading>Chair</caption-heading> <bold>L.L.Bean Backpack Beach Chair</bold> in Ocean Blue, $89 <a href=\"http://llbean.com\">llbean.com</a>"
+                  "text": "Rails Dress, $133 (on sale)</b> <a href=\"http://nordstrom.com\">nordstrom.com</a>"
                 }
               ]
             },
             {
-              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "altCalloutLayout",
+              "style": "altCalloutStyle",
+              "components": [
+                {
+                  "role": "body",
+                  "layout": "calloutBodyLayout",
+                  "textStyle": "altCalloutTextStyle",
+                  "format": "html",
+                  "text": "<b>Sale Alert!</b><br>Snag this dress and more bargains at the Nordstrom Anniversary Sale beginning 7/6 for card members and 7/15 for all"
+                }
+              ]
+            },
+            {
+              "role": "divider",
+              "layout": {
+                "columnSpan": 18,
+                "columnStart": 1,
+                "padding": {
+                  "bottom": 15,
+                  "top": 15
+                }
+              },
+              "conditional": [
+                {
+                  "color": "#ececec",
+                  "conditions": [
+                    {
+                      "minSpecVersion": "1.14",
+                      "preferredColorScheme": "dark"
+                    }
+                  ]
+                }
+              ],
+              "stroke": {
+                "color": "#ececec",
+                "width": 1
+              }
+            },
+            {
+              "//": "======== SINGLE BLOCK CONTAINER ========",
               "role": "container",
               "layout": "singleBlockContainerLayout",
               "components": [
                 {
-                  "//": "======== IMAGE BLEED - H2158.0/W1367.0 * 100 = 157.8639356 ========",
+                  "//": "======== IMAGE BLOCK - H1613.0/W783.0 * 100 = 206.0025543 ========",
                   "role": "image",
                   "layout": {
-                    "maximumContentWidth": "60cw"
+                    "horizontalContentAlignment": "center",
+                    "maximumContentWidth": "30cw"
                   },
-                  "caption": {
-                    "format": "html",
-                    "text": "<bold>SUIT Southern Tide Tie One Shoulder One Piece Swimsuit</bold><br>In Ocean Channel, $105.",
-                    "textStyle": "captionEmbeddedTextStyle"
-                  },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/8934_ocean__124/129596-1-eng-GB/8934_ocean__1242.png?q=100"
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/anneklein_s_0612/1988328-1-eng-US/anneklein_s_0612.png?q=100"
                 },
                 {
                   "role": "caption",
                   "layout": "captionLayout",
                   "textStyle": "captionTextStyle",
                   "format": "html",
-                  "text": "<caption-heading>Suit</caption-heading> <bold>Southern Tide Tie One Shoulder One Piece Swimsuit</bold> in Ocean Channel, $105 <a href=\"http://southerntide.com\">southerntide.com</a>"
+                  "text": "Anne Klein Watch, $75 <a href=\"http://anneklein.com\">anneklein.com</a>"
                 }
               ]
             },
             {
+              "role": "divider",
+              "layout": {
+                "columnSpan": 18,
+                "columnStart": 1,
+                "padding": {
+                  "bottom": 15,
+                  "top": 15
+                }
+              },
+              "conditional": [
+                {
+                  "color": "#ececec",
+                  "conditions": [
+                    {
+                      "minSpecVersion": "1.14",
+                      "preferredColorScheme": "dark"
+                    }
+                  ]
+                }
+              ],
+              "stroke": {
+                "color": "#ececec",
+                "width": 1
+              }
+            },
+            {
+              "//": "======== SINGLE BLOCK CONTAINER ========",
               "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLOCK - H805.0/W775.0 * 100 = 103.8709677 ========",
+                  "role": "image",
+                  "layout": {
+                    "horizontalContentAlignment": "center",
+                    "maximumContentWidth": "50cw"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/charleskeit_0572/1988321-1-eng-US/charleskeit_0572.png?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "Charles &amp; Keith Bag, $109 <a href=\"http://charleskeith.com\">charleskeith.com</a>"
+                }
+              ]
+            },
+            {
+              "role": "divider",
+              "layout": {
+                "columnSpan": 18,
+                "columnStart": 1,
+                "padding": {
+                  "bottom": 15,
+                  "top": 15
+                }
+              },
+              "conditional": [
+                {
+                  "color": "#ececec",
+                  "conditions": [
+                    {
+                      "minSpecVersion": "1.14",
+                      "preferredColorScheme": "dark"
+                    }
+                  ]
+                }
+              ],
+              "stroke": {
+                "color": "#ececec",
+                "width": 1
+              }
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H459.0/W1367.0 * 100 = 33.5771763 ========",
+                  "role": "image",
+                  "layout": {
+                    "horizontalContentAlignment": "center",
+                    "maximumContentWidth": "65cw"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/i2227l1400__0652/1988314-1-eng-US/i2227l1400__0652.png?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "Naturalizer Loafers, $140 <a href=\"http://naturalizer.com\">naturalizer.com</a>"
+                }
+              ]
+            },
+            {
+              "//": "====== DIVIDER ======",
+              "role": "divider",
               "layout": "dividerStandardLayout",
               "style": "dividerStandardStyle"
             },
             {
-              "role": "heading2",
-              "layout": "heading2Layout",
-              "textStyle": "heading2TextStyle",
+              "role": "heading3",
+              "layout": "heading3Layout",
+              "textStyle": "heading3TextStyle",
               "format": "html",
-              "text": "ALL-AMERICAN NANTUCKET"
+              "text": "<pink>Lace"
+            },
+            {
+              "role": "body",
+              "layout": "bodyNoMarginAboveLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "Statement accessories, like floral-print wedges, a beaded bag and a bold headband, give this eyelet sundress a festive upgrade."
             },
             {
               "//": "======== FULL BLEED CONTAINER ========",
               "role": "container",
-              "layout": "singleBlockContainerLayout",
+              "layout": "fullBleedContainerLayout",
               "components": [
                 {
-                  "//": "======== IMAGE BLEED - H1832.0/W1367.0 * 100 = 134.0160936 ========",
+                  "//": "======== IMAGE BLEED - H1643.0/W1232.0 * 100 = 133.3603896 ========",
                   "role": "image",
                   "layout": {
-                    "maximumContentWidth": "70cw"
+                    "horizontalContentAlignment": "center",
+                    "maximumContentWidth": "40cw"
                   },
-                  "caption": {
-                    "format": "html",
-                    "text": "<bold>All-American Nantucket</bold><br><bold>CHAIR LowTides Dune High Beach Chair</bold> in Laura Ashley Sweet Alyssum, $169.",
-                    "textStyle": "captionEmbeddedTextStyle"
-                  },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/dune-laura__127/129582-1-eng-GB/dune-laura__1272.png?q=100"
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/lele-sadoug_0642/1988307-1-eng-US/lele-sadoug_0642.png?q=100"
                 },
                 {
                   "role": "caption",
                   "layout": "captionLayout",
                   "textStyle": "captionTextStyle",
                   "format": "html",
-                  "text": "<caption-heading>Chair</caption-heading> <bold>LowTides Dune High Beach Chair</bold> in Laura Ashley Sweet Alyssum, $169 <a href=\"http://lowtidesop.com\">lowtidesop.com</a>"
+                  "text": "Lele Sadoughi Headband, $49 <a href=\"http://lelesadoughi.com\">lelesadoughi.com</a>"
                 }
               ]
             },
             {
+              "role": "divider",
+              "layout": {
+                "columnSpan": 18,
+                "columnStart": 1,
+                "padding": {
+                  "bottom": 15,
+                  "top": 15
+                }
+              },
+              "conditional": [
+                {
+                  "color": "#ececec",
+                  "conditions": [
+                    {
+                      "minSpecVersion": "1.14",
+                      "preferredColorScheme": "dark"
+                    }
+                  ]
+                }
+              ],
+              "stroke": {
+                "color": "#ececec",
+                "width": 1
+              }
+            },
+            {
               "//": "======== FULL BLEED CONTAINER ========",
               "role": "container",
-              "layout": "singleBlockContainerLayout",
+              "layout": "fullBleedContainerLayout",
               "components": [
                 {
-                  "//": "======== IMAGE BLEED - H1505.0/W1366.0 * 100 = 110.1756955 ========",
+                  "//": "======== IMAGE BLEED - H2200.0/W1366.0 * 100 = 161.0541728 ========",
                   "role": "image",
                   "layout": {
-                    "maximumContentWidth": "70cw"
+                    "horizontalContentAlignment": "center",
+                    "maximumContentWidth": "65cw"
                   },
-                  "caption": {
-                    "format": "html",
-                    "text": "<bold>SUIT Marysia East River Top,</bold><br> $151, and <bold>Broadway Bottom,</bold> $148; <br><span data-anf-textstyle=\"creditTextStyle\">PRODUCTS COURTESY MANUFACTURERS</span>",
-                    "textStyle": "captionEmbeddedTextStyle"
-                  },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/p012-bzo102397-red-swim-suit/131358-1-eng-GB/p012-bzo102397-red-swim-suit.png?q=100"
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/p065-ppl220711-lace/1989578-1-eng-US/p065-ppl220711-lace.png?q=100"
                 },
                 {
                   "role": "caption",
                   "layout": "captionLayout",
                   "textStyle": "captionTextStyle",
                   "format": "html",
-                  "text": "<caption-heading>Suit</caption-heading> <bold>Marysia East River Top,</bold> $151, and <bold>Broadway Bottom,</bold> $148 <a href=\"http://marysia.com\">marysia.com</a>"
+                  "text": "Banana Republic Dress, $140 (on sale) <a href=\"http://bananarepublic.com\">bananarepublic.com</a>"
+                }
+              ]
+            },
+            {
+              "role": "divider",
+              "layout": {
+                "columnSpan": 18,
+                "columnStart": 1,
+                "padding": {
+                  "bottom": 15,
+                  "top": 15
+                }
+              },
+              "conditional": [
+                {
+                  "color": "#ececec",
+                  "conditions": [
+                    {
+                      "minSpecVersion": "1.14",
+                      "preferredColorScheme": "dark"
+                    }
+                  ]
+                }
+              ],
+              "stroke": {
+                "color": "#ececec",
+                "width": 1
+              }
+            },
+            {
+              "//": "======== SINGLE BLOCK CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLOCK - H1195.0/W827.0 * 100 = 144.4981862 ========",
+                  "role": "image",
+                  "layout": {
+                    "horizontalContentAlignment": "center",
+                    "maximumContentWidth": "45cw"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/zara1-1_sil_0632/1988293-1-eng-US/zara1-1_sil_0632.png?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "Zara Bag, $50 <a href=\"http://zara.com\">zara.com</a>"
+                }
+              ]
+            },
+            {
+              "role": "divider",
+              "layout": {
+                "columnSpan": 18,
+                "columnStart": 1,
+                "padding": {
+                  "bottom": 15,
+                  "top": 15
+                }
+              },
+              "conditional": [
+                {
+                  "color": "#ececec",
+                  "conditions": [
+                    {
+                      "minSpecVersion": "1.14",
+                      "preferredColorScheme": "dark"
+                    }
+                  ]
+                }
+              ],
+              "stroke": {
+                "color": "#ececec",
+                "width": 1
+              }
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1006.0/W1367.0 * 100 = 73.5918069 ========",
+                  "role": "image",
+                  "layout": {
+                    "horizontalContentAlignment": "center",
+                    "maximumContentWidth": "55cw"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/k8292_960_s_0672/1988286-1-eng-US/k8292_960_s_0672.png?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "Kate Spade New York Wedges, $198 <a href=\"http://katespade.com\">katespade.com</a>"
                 }
               ]
             },
             {
               "role": "body",
               "layout": "attributeLayout",
-              "style": "attributeStyle",
               "textStyle": "attributeTextStyle",
               "format": "html",
-              "text": "PRODUCTS COURTESY MANUFACTURERS"
+              "text": "(CELEBRITIES) MATT BARON/BEI/SHUTTERSTOCK; J MAYER/SHUTTERSTOCK"
             }
           ]
         },
@@ -449,9 +843,205 @@
               "//": "=== VISIT TOC LINK, ONLY VISIBLE IF USER IS IN ARTICLE VIEW ===",
               "role": "body",
               "layout": "bodyLayout",
-              "textStyle": "tocTextStyle",
+              "textStyle": "captionTextStyle",
               "format": "html",
-              "text": "<a href='https://apple.news/Atu42odFLEeyNtj96zSKRvQ'>Tap here</a> to see more from this issue of <i>Coastal Living</i>"
+              "text": "<a href=\"https://apple.news/A7UbhofYeEey3wPC6TBJtrQ\">Tap here</a> to see more from this week's issue of <bold-italic>People</bold-italic>"
+            }
+          ]
+        },
+        {
+          "//": "======== BODY CONTAINER =======",
+          "role": "container",
+          "layout": {
+            "ignoreDocumentMargin": true,
+            "padding": {
+              "bottom": "3cw",
+              "left": "0cw",
+              "right": "0cw",
+              "top": "3cw"
+            }
+          },
+          "style": {
+            "backgroundColor": "#f2f2f2",
+            "border": {
+              "all": {
+                "color": "#000",
+                "conditional": [
+                  {
+                    "color": "#fff",
+                    "conditions": [
+                      {
+                        "minSpecVersion": "1.14",
+                        "preferredColorScheme": "dark"
+                      }
+                    ]
+                  }
+                ],
+                "width": 7
+              },
+              "bottom": false,
+              "left": false,
+              "right": false,
+              "top": true
+            },
+            "conditional": [
+              {
+                "backgroundColor": "#1e1e1e",
+                "conditions": [
+                  {
+                    "minSpecVersion": "1.14",
+                    "preferredColorScheme": "dark"
+                  }
+                ]
+              }
+            ]
+          },
+          "components": [
+            {
+              "role": "heading4",
+              "layout": "heading4Layout",
+              "textStyle": {
+                "backgroundColor": "#fff200",
+                "conditional": [
+                  {
+                    "conditions": [
+                      {
+                        "minViewportWidth": 430
+                      }
+                    ],
+                    "fontSize": 35,
+                    "lineHeight": 48
+                  }
+                ],
+                "fontName": "VerlagText-Bold",
+                "fontSize": 35,
+                "lineHeight": 48,
+                "textAlignment": "center",
+                "tracking": -0.02
+              },
+              "format": "html",
+              "conditional": [
+                {
+                  "conditions": [
+                    {
+                      "minViewportWidth": 430
+                    }
+                  ],
+                  "hidden": true
+                }
+              ],
+              "text": "&nbsp;Don’t miss out!&nbsp;<br />&nbsp;Get more of the latest&nbsp;<br />&nbsp;celebrity exclusives&nbsp;<br />&nbsp;you love from <bold-italic>PEOPLE</bold-italic>&nbsp;<br />&nbsp;for just 75¢ an issue.&nbsp;"
+            },
+            {
+              "role": "heading4",
+              "layout": "heading4Layout",
+              "textStyle": {
+                "backgroundColor": "#fff200",
+                "conditional": [
+                  {
+                    "conditions": [
+                      {
+                        "minViewportWidth": 430
+                      }
+                    ],
+                    "fontSize": 35,
+                    "lineHeight": 48
+                  }
+                ],
+                "fontName": "VerlagText-Bold",
+                "fontSize": 35,
+                "lineHeight": 48,
+                "textAlignment": "center",
+                "tracking": -0.02
+              },
+              "format": "html",
+              "conditional": [
+                {
+                  "conditions": [
+                    {
+                      "minViewportWidth": 430
+                    }
+                  ],
+                  "hidden": false
+                }
+              ],
+              "hidden": true,
+              "text": "&nbsp;Don’t miss out!&nbsp;<br />&nbsp;Get more of the latest&nbsp;<br />&nbsp;celebrity exclusives&nbsp;<br />&nbsp;you love from <bold-italic>PEOPLE</bold-italic>&nbsp;<br />&nbsp;for just 75¢ an issue.&nbsp;"
+            },
+            {
+              "//": "======== BUY NOW BUTTON ========",
+              "role": "link_button",
+              "layout": {
+                "conditional": [
+                  {
+                    "conditions": [
+                      {
+                        "platform": "macos"
+                      }
+                    ],
+                    "padding": {
+                      "bottom": 10,
+                      "left": 20,
+                      "right": 20,
+                      "top": 10
+                    }
+                  }
+                ],
+                "margin": {
+                  "bottom": 20,
+                  "top": 20
+                },
+                "padding": {
+                  "bottom": 10,
+                  "left": 20,
+                  "right": 20,
+                  "top": 10
+                }
+              },
+              "style": {
+                "backgroundColor": "#21b1ea",
+                "conditional": [
+                  {
+                    "backgroundColor": "#21b1ea",
+                    "conditions": [
+                      {
+                        "minSpecVersion": "1.14",
+                        "preferredColorScheme": "dark"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "textStyle": {
+                "conditional": [
+                  {
+                    "conditions": [
+                      {
+                        "minSpecVersion": "1.14",
+                        "preferredColorScheme": "dark"
+                      }
+                    ],
+                    "textColor": "#fff"
+                  },
+                  {
+                    "conditions": [
+                      {
+                        "minViewportWidth": 430
+                      }
+                    ],
+                    "fontSize": 20,
+                    "lineHeight": 26
+                  }
+                ],
+                "fontName": "VerlagText-Bold",
+                "fontSize": 15,
+                "lineHeight": 15,
+                "textAlignment": "center",
+                "textColor": "#fff"
+              },
+              "format": "html",
+              "URL": "https://www.magazines.com/?containerName=ppl_on_jun22_07&utm_source=applenewsplus&utm_medium=partner&utm_campaign=ppl_5239",
+              "text": "SUBSCRIBE"
             }
           ]
         }
@@ -459,21 +1049,30 @@
     }
   ],
   "componentLayouts": {
+    "altCalloutLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 10
+      },
+      "padding": 15
+    },
     "attributeLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": 15
     },
     "authorLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
-        "bottom": 5
+        "top": 8
       }
     },
     "blockContainerLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "ignoreDocumentMargin": true,
       "margin": {
         "bottom": 10,
@@ -485,53 +1084,93 @@
       "margin": 10
     },
     "bodyLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
-      "margin": {
-        "bottom": 10,
-        "top": 2
-      }
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 10
     },
-    "bodySmallMarginAboveLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+    "bodyNoMarginAboveLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
-        "bottom": 10,
-        "top": 10
+        "bottom": 10
       }
     },
     "bottomPhotoDividerLayout": {
       "//": "UNUSED"
     },
+    "buttonBodyLayout": {
+      "margin": {
+        "bottom": 15,
+        "top": 10
+      },
+      "padding": {
+        "bottom": 5,
+        "left": 0,
+        "right": 0,
+        "top": 0
+      }
+    },
+    "buttonHeadingLayout": {
+      "margin": {
+        "top": 15
+      },
+      "padding": {
+        "bottom": 0,
+        "left": 0,
+        "right": 0,
+        "top": 5
+      }
+    },
+    "buttonLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 20,
+      "padding": {
+        "left": 10,
+        "right": 10
+      }
+    },
+    "byTheNumbersContainerLayout": {
+      "margin": {
+        "bottom": 10
+      }
+    },
     "calloutBodyLayout": {
       "margin": {
-        "bottom": 10,
-        "top": 5
+        "bottom": 15
       }
     },
     "calloutHeadingLayout": {
       "margin": {
-        "top": 10
+        "top": 15
       }
     },
     "calloutLayout": {
-      "columnSpan": 16,
-      "columnStart": 2,
-      "margin": {
-        "bottom": 10,
-        "top": 20
-      },
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 20,
       "padding": {
-        "bottom": 10,
-        "left": 20,
-        "right": 20,
-        "top": 10
+        "left": 10,
+        "right": 10
       }
     },
     "captionAdLayout": {
       "//": "UNUSED"
     },
     "captionLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 430
+            }
+          ],
+          "padding": {
+            "left": "10cw",
+            "right": "10cw"
+          }
+        }
+      ],
       "margin": 8
     },
     "collectionLayout": {
@@ -551,7 +1190,11 @@
               "preferredColorScheme": "dark"
             }
           ],
-          "padding": 10
+          "margin": {
+            "bottom": 10,
+            "top": 10
+          },
+          "padding": "10"
         }
       ]
     },
@@ -559,28 +1202,52 @@
       "//": "UNUSED"
     },
     "dividerLayout": {
+      "ignoreDocumentMargin": true,
       "margin": {
-        "bottom": 20,
-        "top": 10
+        "bottom": 15
       }
     },
     "dividerStandardLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
-      "margin": {
-        "bottom": 10,
-        "top": 20
-      },
-      "minimumHeight": 1
+      "columnSpan": 18,
+      "columnStart": 1,
+      "conditional": [
+        {
+          "columnSpan": 18,
+          "columnStart": 1,
+          "conditions": [
+            {
+              "minViewportWidth": 430
+            }
+          ],
+          "minimumHeight": 7
+        },
+        {
+          "columnSpan": 18,
+          "columnStart": 1,
+          "conditions": [
+            {
+              "minViewportWidth": 780
+            }
+          ],
+          "minimumHeight": 8
+        }
+      ],
+      "margin": 20,
+      "minimumHeight": 6
     },
     "dividerTocLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
         "bottom": 15,
         "top": 20
       },
       "minimumHeight": 10
+    },
+    "endOfStoryCalloutLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "padding": 10
     },
     "floatContainerLayout": {
       "columnSpan": 4,
@@ -591,7 +1258,7 @@
           "columnStart": 0,
           "conditions": [
             {
-              "maxViewportWidth": 415
+              "maxViewportWidth": 430
             }
           ]
         }
@@ -613,6 +1280,8 @@
     "fullBleedPhotoLayout": {
       "conditional": [
         {
+          "columnSpan": 18,
+          "columnStart": 1,
           "conditions": [
             {
               "minViewportWidth": 700
@@ -631,36 +1300,36 @@
       }
     },
     "heading2Layout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
-        "top": 10
+        "top": 20
       }
     },
     "heading3Layout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
         "top": 10
       }
     },
     "heading4Layout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
         "top": 10
       }
     },
     "heading5Layout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
         "top": 10
       }
     },
     "heading6Layout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
         "top": 10
       }
@@ -673,69 +1342,292 @@
       }
     },
     "heroImageTallLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
         "bottom": 10,
         "top": 15
       }
     },
-    "ingredientsLayout": {
-      "margin": 10
-    },
-    "ingredientsNoMarginAboveLayout": {
+    "introLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "conditional": [
+        {
+          "columnSpan": 18,
+          "columnStart": 1,
+          "conditions": [
+            {
+              "minViewportWidth": 430
+            }
+          ],
+          "padding": {
+            "right": "10cw"
+          }
+        }
+      ],
       "margin": {
         "bottom": 10,
-        "top": 0
-      }
-    },
-    "introLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
-      "margin": {
-        "bottom": 10
+        "top": 5
       }
     },
     "noMarginLayout": {
-      "columnSpan": 19,
-      "columnStart": 2
+      "columnSpan": 18,
+      "columnStart": 1
+    },
+    "peopleCustomContainerLayout": {
+      "//": "IPAD CONDITION STYLING",
+      "conditional": [
+        {
+          "//": "PHONE CONDITION STYLING",
+          "conditions": [
+            {
+              "maxViewportWidth": 430
+            }
+          ],
+          "maximumContentWidth": "20cw",
+          "minimumWidth": "20cw"
+        }
+      ],
+      "maximumContentWidth": "15cw",
+      "minimumWidth": "15cw"
+    },
+    "peopleCustomLayout": {
+      "//": "IPAD CONDITION STYLING",
+      "conditional": [
+        {
+          "//": "PHONE CONDITION STYLING",
+          "conditions": [
+            {
+              "maxViewportWidth": 430
+            }
+          ],
+          "maximumContentWidth": "100cw",
+          "minimumWidth": "100cw",
+          "padding": {
+            "bottom": 0,
+            "left": 0,
+            "right": 0,
+            "top": 2
+          }
+        }
+      ],
+      "maximumContentWidth": "100cw",
+      "minimumWidth": "100cw",
+      "padding": {
+        "bottom": 0,
+        "left": 0,
+        "right": 0,
+        "top": 5
+      }
+    },
+    "peopleHeaderLayout": {
+      "//": "IPAD CONDITION STYLING",
+      "columnSpan": 18,
+      "columnStart": 1,
+      "conditional": [
+        {
+          "//": "PHONE CONDITION STYLING",
+          "conditions": [
+            {
+              "maxViewportWidth": 430
+            }
+          ],
+          "padding": {
+            "bottom": 0,
+            "left": 25,
+            "right": 0,
+            "top": 0
+          }
+        }
+      ],
+      "ignoreDocumentMargin": true
+    },
+    "photoCreditLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "top": 4
+      },
+      "padding": {
+        "right": 20
+      }
     },
     "productImageStandardLayout": {
       "minimumHeight": 280
     },
-    "pullQuoteBodyLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+    "pullQuoteLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "conditional": [
+        {
+          "columnSpan": 18,
+          "columnStart": 1,
+          "conditions": [
+            {
+              "minViewportWidth": 600
+            }
+          ],
+          "padding": {
+            "bottom": 20,
+            "left": "20cw",
+            "right": "20cw",
+            "top": 20
+          }
+        }
+      ],
       "margin": {
-        "bottom": 0,
-        "top": 5
+        "bottom": 20,
+        "left": 0,
+        "right": 0,
+        "top": 20
+      },
+      "padding": {
+        "bottom": 25,
+        "left": 20,
+        "right": 20,
+        "top": 20
       }
     },
-    "pullQuoteLayout": {
-      "columnSpan": 20,
-      "columnStart": 0,
+    "pullQuoteLayoutBottom": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "conditional": [
+        {
+          "columnSpan": 18,
+          "columnStart": 1,
+          "conditions": [
+            {
+              "minViewportWidth": 600
+            }
+          ],
+          "padding": {
+            "bottom": 20,
+            "left": "20cw",
+            "right": "20cw",
+            "top": 0
+          }
+        }
+      ],
+      "margin": {
+        "bottom": 20,
+        "left": 0,
+        "right": 0,
+        "top": 5
+      },
+      "padding": {
+        "bottom": 25,
+        "left": 20,
+        "right": 20,
+        "top": 0
+      }
+    },
+    "pullQuoteLayoutTop": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "conditional": [
+        {
+          "columnSpan": 18,
+          "columnStart": 1,
+          "conditions": [
+            {
+              "minViewportWidth": 600
+            }
+          ],
+          "padding": {
+            "bottom": 0,
+            "left": "20cw",
+            "right": "20cw",
+            "top": 20
+          }
+        }
+      ],
+      "margin": {
+        "bottom": 5,
+        "left": 0,
+        "right": 0,
+        "top": 20
+      },
+      "padding": {
+        "bottom": 0,
+        "left": 20,
+        "right": 20,
+        "top": 25
+      }
+    },
+    "rubricLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 5
+      }
+    },
+    "sectionCustomContainerLayout": {
+      "//": "IPAD CONDITION STYLING",
+      "conditional": [
+        {
+          "//": "PHONE CONDITION STYLING",
+          "conditions": [
+            {
+              "maxViewportWidth": 430
+            }
+          ],
+          "maximumContentWidth": "85cw",
+          "minimumWidth": "85cw"
+        }
+      ],
+      "maximumContentWidth": "90cw",
+      "minimumWidth": "90cw"
+    },
+    "sectionCustomLayout": {
       "margin": {
         "bottom": 15,
-        "top": 15
+        "top": 5
       }
     },
     "sectionLayout": {
       "margin": {
-        "bottom": "20",
+        "bottom": 5,
         "top": 5
       }
     },
-    "sidebarBodyLayout": {
-      "margin": {
-        "bottom": 10
-      }
-    },
-    "sidebarDividerLayout": {
+    "sidebarBlockContainerLayout": {
       "margin": {
         "bottom": 10,
         "top": 20
-      },
-      "minimumHeight": 1
+      }
+    },
+    "sidebarBodyLayout": {
+      "margin": 8
+    },
+    "sidebarBodyNoMarginAboveLayout": {
+      "margin": {
+        "bottom": 8
+      }
+    },
+    "sidebarBodyNoMarginLayout": {
+      "margin": 0
+    },
+    "sidebarDividerLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 430
+            }
+          ],
+          "minimumHeight": 7
+        },
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 780
+            }
+          ],
+          "minimumHeight": 8
+        }
+      ],
+      "margin": 20,
+      "minimumHeight": 6
     },
     "sidebarFloatContainerLayout": {
       "columnSpan": 4,
@@ -743,7 +1635,7 @@
     },
     "sidebarHeading2Layout": {
       "margin": {
-        "top": 20
+        "top": 10
       }
     },
     "sidebarHeading3Layout": {
@@ -756,21 +1648,105 @@
         "top": 10
       }
     },
-    "sidebarIntroLayout": {
-      "margin": {
-        "bottom": 10,
-        "top": 5
-      }
-    },
     "sidebarLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": 20,
       "padding": {
         "bottom": 10,
-        "left": 20,
-        "right": 20
+        "top": 10
       }
+    },
+    "sidebarLayout2": {
+      "columnSpan": 20,
+      "columnStart": 0,
+      "conditional": [
+        {
+          "columnSpan": 20,
+          "columnStart": 0,
+          "conditions": [
+            {
+              "maxViewportWidth": 780
+            }
+          ],
+          "ignoreViewportPadding": "both"
+        }
+      ],
+      "ignoreDocumentMargin": "both",
+      "ignoreViewportPadding": "both",
+      "margin": 20,
+      "padding": {
+        "bottom": 10,
+        "top": 10
+      }
+    },
+    "sidebarLeftAlignedFullBleedLayout": {
+      "columnSpan": 8,
+      "columnStart": 0,
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "maxViewportWidth": 430
+            }
+          ],
+          "margin": {
+            "bottom": 10
+          }
+        }
+      ],
+      "ignoreDocumentMargin": "both",
+      "ignoreViewportPadding": "both"
+    },
+    "sidebarLeftAlignedLayout": {
+      "columnSpan": 8,
+      "columnStart": 0,
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "maxViewportWidth": 430
+            }
+          ],
+          "margin": {
+            "bottom": 10
+          }
+        }
+      ]
+    },
+    "sidebarRightAlignedFullBleedLayout": {
+      "columnSpan": 8,
+      "columnStart": 12,
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "maxViewportWidth": 430
+            }
+          ],
+          "margin": {
+            "bottom": 10
+          }
+        }
+      ],
+      "ignoreDocumentMargin": "both",
+      "ignoreViewportPadding": "both"
+    },
+    "sidebarRightAlignedLayout": {
+      "columnSpan": 8,
+      "columnStart": 12,
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "maxViewportWidth": 430
+            }
+          ],
+          "margin": {
+            "bottom": 10
+          }
+        }
+      ]
     },
     "sidebarSingleBlockContainerLayout": {
       "margin": {
@@ -780,73 +1756,120 @@
     },
     "sidebarSmallMarginAboveLayout": {
       "margin": {
-        "top": 2
+        "top": 4
       }
     },
     "singleBlockContainerLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
         "bottom": 10,
         "top": 20
       }
     },
     "smallMarginAboveLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
-        "top": 2
+        "top": 5
       }
-    },
-    "smallSpacerLayout": {
-      "maximumWidth": 5,
-      "minimumWidth": 5
-    },
-    "spacerLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
-      "margin": {
-        "bottom": 10,
-        "top": 20
-      }
-    },
-    "starsImageLayout": {
-      "margin": {
-        "top": 2
-      },
-      "maximumWidth": 100
     },
     "straplineLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
-        "top": 10
+        "bottom": 5
       }
     },
     "titleLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
-        "top": 5
+        "bottom": 5
       }
     },
     "topPhotoDividerLayout": {
       "//": "UNUSED"
     },
-    "youSaidContainerLayout": {
+    "videoContainerLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
         "bottom": 10,
-        "top": 20
+        "top": 10
+      },
+      "padding": {
+        "bottom": 10
       }
     },
-    "youSaidImageLayout": {
-      "horizontalContentAlignment": "center",
+    "videoIconLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 430
+            }
+          ],
+          "maximumContentWidth": 175
+        }
+      ],
+      "horizontalContentAlignment": "left",
       "margin": {
-        "bottom": 10
+        "bottom": 2,
+        "top": 0
+      },
+      "maximumContentWidth": 150
+    },
+    "videoTitleLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 0
       }
     }
   },
   "componentStyles": {
+    "altCalloutStyle": {
+      "border": {
+        "all": {
+          "color": "#fcf7b1",
+          "width": 3
+        }
+      },
+      "conditional": [
+        {
+          "border": {
+            "all": {
+              "color": "#fcf7b1",
+              "width": 3
+            }
+          },
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ],
+      "fill": {
+        "angle": 250,
+        "colorStops": [
+          {
+            "color": "#FFD1D0"
+          },
+          {
+            "color": "#FFD0CC"
+          },
+          {
+            "color": "#FFCBBB"
+          },
+          {
+            "color": "#FFC5A2"
+          }
+        ],
+        "type": "linear_gradient"
+      }
+    },
     "attributeStyle": {
       "//": "UNUSED"
     },
@@ -856,48 +1879,14 @@
     "bodyContainerStyle": {
       "//": "UNUSED"
     },
-    "calloutStyle": {
-      "border": {
-        "all": {
-          "width": 5,
-          "color": "lightpink",
-          "possibleColors": {
-            "red": "#db3832",
-            "blue": "#4289ab",
-            "yellow": "#fdb913",
-            "seafoamGreen": "#94b9b6",
-            "grey": "#59595b",
-            "gold": "#847336"
-          }
-        }
-      },
-      "conditional": [
-        {
-          "border": {
-            "all": {
-              "width": 5,
-              "color": "lightpink",
-              "possibleColors": {
-                "red": "#db3832",
-                "blue": "#4289ab",
-                "yellow": "#fdb913",
-                "seafoamGreen": "#94b9b6",
-                "grey": "#59595b",
-                "gold": "#847336"
-              }
-            }
-          },
-          "conditions": [
-            {
-              "preferredColorScheme": "dark",
-              "minSpecVersion": "1.14"
-            }
-          ]
-        }
-      ]
-    },
     "captionAdStyle": {
       "//": "UNUSED"
+    },
+    "cornersStyle": {
+      "mask": {
+        "radius": 1000,
+        "type": "corners"
+      }
     },
     "darkModeBackgroundStyle": {
       "conditional": [
@@ -915,13 +1904,13 @@
     "dividerSectionHeadStyle": {
       "border": {
         "all": {
-          "color": "#59595b",
+          "color": "#ececec",
           "width": 1
         },
         "bottom": true,
         "left": false,
         "right": false,
-        "top": false
+        "top": true
       },
       "conditional": [
         {
@@ -933,7 +1922,7 @@
             "bottom": true,
             "left": false,
             "right": false,
-            "top": false
+            "top": true
           },
           "conditions": [
             {
@@ -945,7 +1934,7 @@
       ]
     },
     "dividerStandardStyle": {
-      "backgroundColor": "#000"
+      "backgroundColor": "#ccc"
     },
     "dividerTocStyle": {
       "//": "UNUSED"
@@ -967,6 +1956,147 @@
     },
     "heading6Style": {
       "//": "UNUSED"
+    },
+    "introStyle": {
+      "//": "UNUSED"
+    },
+    "paragraphDropCapStyle": {
+      "//": "UNUSED"
+    },
+    "paragraphStyle": {
+      "//": "UNUSED"
+    },
+    "peopleDividerStyle": {
+      "backgroundColor": "#000"
+    },
+    "photoContainerStyle": {
+      "//": "UNUSED"
+    },
+    "pullQuoteStyle": {
+      "//": "UNUSED"
+    },
+    "pullQuoteStyleBottom": {
+      "//": "UNUSED"
+    },
+    "pullQuoteStyleTop": {
+      "//": "UNUSED"
+    },
+    "sectionStyle": {
+      "//": "UNUSED"
+    },
+    "sidebarStyle": {
+      "//": "UNUSED"
+    },
+    "sidebarStyle2": {
+      "backgroundColor": "#E2E7EA",
+      "conditional": [
+        {
+          "backgroundColor": "#E2E7EA",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "straplineStyle": {
+      "//": "UNUSED"
+    },
+    "tableLayoutStyle": {
+      "tableStyle": {
+        "cells": {
+          "//": "*** ^ Note: this aligns image to bottom ***",
+          "conditional": [
+            {
+              "//": "***  ^ Note: this aligns text/desc to top ***",
+              "selectors": [
+                {
+                  "columnIndex": 7,
+                  "rowIndex": 1
+                },
+                {
+                  "columnIndex": 6,
+                  "rowIndex": 1
+                },
+                {
+                  "columnIndex": 5,
+                  "rowIndex": 1
+                },
+                {
+                  "columnIndex": 4,
+                  "rowIndex": 1
+                },
+                {
+                  "columnIndex": 3,
+                  "rowIndex": 1
+                },
+                {
+                  "columnIndex": 2,
+                  "rowIndex": 1
+                },
+                {
+                  "columnIndex": 1,
+                  "rowIndex": 1
+                },
+                {
+                  "columnIndex": 0,
+                  "rowIndex": 1
+                }
+              ],
+              "verticalAlignment": "top"
+            }
+          ],
+          "horizontalAlignment": "center",
+          "padding": {
+            "bottom": 8,
+            "left": 5,
+            "right": 10,
+            "top": 0
+          },
+          "verticalAlignment": "bottom"
+        },
+        "rows": {
+          "horizontalAlignment": "center",
+          "verticalAlignment": "top"
+        }
+      }
+    },
+    "titleStyle": {
+      "//": "UNUSED"
+    },
+    "videoStyle": {
+      "backgroundColor": "#fff",
+      "conditional": [
+        {
+          "backgroundColor": "#000",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "shadow": {
+            "color": "#ebebeb",
+            "offset": {
+              "x": 5,
+              "y": 15
+            },
+            "opacity": 0.23,
+            "radius": 10
+          }
+        }
+      ],
+      "shadow": {
+        "color": "#333",
+        "offset": {
+          "x": 5,
+          "y": 15
+        },
+        "opacity": 0.33,
+        "radius": 15
+      }
     },
     "ingredientsStyle": {
       "tableStyle": {
@@ -1022,260 +2152,178 @@
         }
       }
     },
-    "introStyle": {
-      "//": "UNUSED"
-    },
-    "paragraphDropCapStyle": {
-      "//": "UNUSED"
-    },
-    "paragraphStyle": {
-      "//": "UNUSED"
-    },
-    "photoContainerStyle": {
-      "//": "UNUSED"
-    },
-    "pullQuoteStyle": {
-      "//": "UNUSED"
-    },
-    "sectionStyle": {
-      "//": "UNUSED"
-    },
-    "sidebarNoBackgroundStyle": {
+    "dividerDoubleStyle": {
       "border": {
         "all": {
-          "color": "#000",
-          "width": 2
-        }
-      }
-    },
-    "sidebarStyle": {
-      "border": {
-        "all": {
-          "width": 5,
-          "color": "lightpink",
-          "possibleColors": {
-            "red": "#db3832",
-            "blue": "#4289ab",
-            "yellow": "#fdb913",
-            "seafoamGreen": "#94b9b6",
-            "grey": "#59595b",
-            "gold": "#847336"
-          }
+          "color": "#222",
+          "width": 1
         },
-        "left": false,
-        "right": false
-      },
-      "conditional": [
-        {
-          "border": {
-            "all": {
-              "width": 5,
-              "color": "lightpink",
-              "possibleColors": {
-                "red": "#db3832",
-                "blue": "#4289ab",
-                "yellow": "#fdb913",
-                "seafoamGreen": "#94b9b6",
-                "grey": "#59595b",
-                "gold": "#847336"
-              }
-            },
-            "left": false,
-            "right": false
-          },
-          "conditions": [
-            {
-              "preferredColorScheme": "dark",
-              "minSpecVersion": "1.14"
-            }
-          ]
-        }
-      ]
-    },
-    "straplineStyle": {
-      "//": "UNUSED"
-    },
-    "titleStyle": {
-      "//": "UNUSED"
-    },
-    "youSaidImageStyle": {
-      "backgroundColor": "#008080",
-      "mask": {
-        "radius": "60cw",
-        "type": "corners"
-      }
-    },
-    "numbersContainerStyle": {
-      "border": {
-        "all": {
-          "width": 20,
-          "color": "gainsboro"
-        },
-        "top": false,
-        "left": false,
-        "right": false
-      }
-    },
-    "captionUserInstructionStyle": {
-      "border": {
-        "all": {
-          "width": 1,
-          "color": "#ececec"
-        },
+        "bottom": true,
         "left": false,
         "right": false,
-        "bottom": false
+        "top": true
       }
     },
-    "sidebarContainerStyle": {
-      "border": {
-        "all": {
-          "width": 5,
-          "color": "lightpink",
-          "possibleColors": {
-            "red": "#db3832",
-            "blue": "#4289ab",
-            "yellow": "#fdb913",
-            "seafoamGreen": "#94b9b6",
-            "grey": "#59595b",
-            "gold": "#847336"
-          }
-        },
-        "left": false,
-        "right": false
-      },
-      "conditional": [
-        {
-          "border": {
-            "all": {
-              "width": 5,
-              "color": "lightpink",
-              "possibleColors": {
-                "red": "#db3832",
-                "blue": "#4289ab",
-                "yellow": "#fdb913",
-                "seafoamGreen": "#94b9b6",
-                "grey": "#59595b",
-                "gold": "#847336"
-              }
-            },
-            "left": false,
-            "right": false
-          },
-          "conditions": [
-            {
-              "preferredColorScheme": "dark",
-              "minSpecVersion": "1.14"
-            }
-          ]
-        }
-      ]
-    },
-    "buttonStyle": {
-      "border": {
-        "all": {
-          "width": 2,
-          "color": "lightpink",
-          "possibleColors": {
-            "red": "#db3832",
-            "blue": "#4289ab",
-            "yellow": "#fdb913",
-            "seafoamGreen": "#94b9b6",
-            "grey": "#59595b",
-            "gold": "#847336"
-          }
-        }
-      },
-      "conditional": [
-        {
-          "border": {
-            "all": {
-              "width": 2,
-              "color": "lightpink",
-              "possibleColors": {
-                "red": "#db3832",
-                "blue": "#4289ab",
-                "yellow": "#fdb913",
-                "seafoamGreen": "#94b9b6",
-                "grey": "#59595b",
-                "gold": "#847336"
-              }
-            }
-          },
-          "conditions": [
-            {
-              "preferredColorScheme": "dark",
-              "minSpecVersion": "1.14"
-            }
-          ]
-        }
-      ]
-    },
-    "statStyle": {
-      "border": {
-        "all": {
-          "width": 2,
-          "color": "#000"
-        }
-      }
+    "calloutStyle": {
+      "//": "UNUSED"
     }
   },
   "textStyles": {
     "creditTextStyle": {
-      "fontName": "Gotham-Book",
+      "fontName": "Gotham-Light",
       "fontSize": 10,
       "textColor": "#8d8d8d",
       "tracking": 0.05
     },
-    "default-tag-bold": {
-      "fontName": "Gotham-Medium"
+    "default-tag-ans": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "textColor": "#5EAEE0"
+        }
+      ],
+      "fontName": "ChronicleTextG1-Bold",
+      "fontSize": 23,
+      "textColor": "#5EAEE0"
+    },
+    "default-tag-author-name": {
+      "fontName": "VerlagText-Bold",
+      "textTransform": "uppercase"
+    },
+    "default-tag-black": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "textColor": "#000"
+        }
+      ],
+      "textColor": "#000"
+    },
+    "default-tag-black-italic": {
+      "fontName": "VerlagText-BlackItalic"
+    },
+    "default-tag-bold-italic": {
+      "fontName": "VerlagText-BoldItalic"
     },
     "default-tag-caption-heading": {
-      "fontName": "Barlow-ExtraBold",
+      "fontName": "Gotham-Bold",
+      "fontSize": 16,
       "textTransform": "uppercase"
+    },
+    "default-tag-caption-italic": {
+      "fontName": "VerlagText-BoldItalic"
     },
     "default-tag-emoji": {
       "fontName": "AppleColorEmoji"
     },
+    "default-tag-investigates": {
+      "textColor": "red"
+    },
+    "default-tag-italicss": {
+      "fontName": "LeagueGothic-Italic",
+      "fontSize": 28
+    },
+    "default-tag-knockout-i": {
+      "fontName": "LeagueGothic-Italic",
+      "textTransform": "uppercase"
+    },
     "default-tag-lede": {
-      "fontName": "Barlow-ExtraBold",
-      "textTransform": "uppercase",
-      "tracking": 0.1
+      "fontName": "Gotham-Bold",
+      "fontSize": 17
     },
-    "default-tag-pullquote-attribution": {
-      "fontName": "Barlow-Medium",
-      "fontSize": 16,
-      "textTransform": "capitalize",
-      "textColor": "#000"
+    "default-tag-lede-alt": {
+      "fontName": "VerlagText-Black"
     },
-    "default-tag-sidebar-lede": {
-      "fontName": "Barlow-Black",
-      "textColor": "#000"
+    "default-tag-pink": {
+      "fontName": "VerlagText-Black",
+      "textColor": "#F37160"
     },
-    "default-tag-subsection": {
-      "fontName": "BarlowCondensed-ExtraBold",
-      "textTransform": "uppercase",
-      "tracking": 0.16,
-      "possibleColors": {
-        "red": "#db3832",
-        "blue": "#4289ab",
-        "yellow": "#fdb913",
-        "seafoamGreen": "#94b9b6",
-        "grey": "#59595b",
-        "gold": "#847336"
-      },
-      "textColor": "lightpink",
+    "default-tag-place": {
+      "fontName": "VerlagText-Bold"
+    },
+    "default-tag-q": {
+      "fontName": "VerlagText-Black"
+    },
+    "default-tag-question": {
       "conditional": [
         {
-          "textColor": "lightpink",
           "conditions": [
             {
-              "preferredColorScheme": "dark",
-              "minSpecVersion": "1.14"
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
             }
-          ]
+          ],
+          "textColor": "#F37160"
         }
-      ]
+      ],
+      "fontSize": 48,
+      "textColor": "#F37160"
+    },
+    "default-tag-red": {
+      "textColor": "#E42628"
+    },
+    "default-tag-scoop": {
+      "fontName": "VerlagText-BlackItalic",
+      "fontSize": 16,
+      "lineHeight": 34,
+      "textColor": "#E42628",
+      "tracking": -0.08
+    },
+    "default-tag-sidebar-lede": {
+      "fontName": "Gotham-Medium"
+    },
+    "default-tag-sub": {
+      "textColor": "#fff"
+    },
+    "default-tag-subsection": {
+      "//": "IPAD CONDITION STYLING",
+      "conditional": [
+        {
+          "//": "PHONE CONDITION STYLING",
+          "conditions": [
+            {
+              "maxViewportWidth": 415
+            }
+          ],
+          "fontSize": 15
+        }
+      ],
+      "fontName": "VerlagText-Book",
+      "fontSize": 22,
+      "lineHeight": 26,
+      "textColor": "#000",
+      "textTransform": "uppercase",
+      "tracking": 0.07
+    },
+    "default-tag-title-italic": {
+      "fontName": "HTFDidot-M42MediumItalic"
+    },
+    "default-tag-vcbi": {
+      "fontName": "VerlagCondensed-BoldItalic"
+    },
+    "default-tag-white": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "textColor": "#fff"
+        }
+      ],
+      "textColor": "#fff"
     },
     "endMarkerTextStyle": {
       "//": "UNUSED"
@@ -1283,169 +2331,108 @@
     "subSectionTextStyle": {
       "//": "UNUSED"
     },
-    "defaut-tag-italic": {
-      "fontName": "Palatino-Italic"
+    "default-tag-bracket": {
+      "fontSize": 30,
+      "textColor": "#ED096F"
     },
-    "default-tag-caption-credit": {
-      "fontName": "BarlowSemiCondensed-Medium",
-      "fontSize": 12,
-      "tracking": 0.05,
-      "textTransform": "uppercase"
+    "default-tag-caption-bold": {
+      "fontName": "Gotham-Bold"
     },
-    "default-tag-color": {
-      "possibleColors": {
-        "red": "#db3832",
-        "blue": "#4289ab",
-        "yellow": "#fdb913",
-        "seafoamGreen": "#94b9b6",
-        "grey": "#59595b",
-        "gold": "#847336"
-      },
-      "textColor": "lightpink",
-      "conditional": [
-        {
-          "textColor": "lightpink",
-          "conditions": [
-            {
-              "preferredColorScheme": "dark",
-              "minSpecVersion": "1.14"
-            }
-          ]
-        }
-      ]
+    "default-tag-m": {
+      "fontName": "Gotham-Medium"
     },
-    "default-tag-author": {
-      "fontName": "Barlow-Bold",
+    "default-tag-pullquote-attribution": {
+      "fontName": "SurveyorText-LightItalic",
       "textTransform": "uppercase",
-      "fontSize": 14,
-      "textColor": "#000"
+      "fontSize": 16
+    },
+    "default-tag-italic": {
+      "fontName": "SurveyorText-LightItalic"
     }
   },
   "componentTextStyles": {
     "//": {
-      "//": "================ FORTUNE OVERRIDES ================"
+      "//": "===================== BETTER HOMES AND GARDENS OVERRIDES ====================="
+    },
+    "altCalloutTextStyle": {
+      "fontName": "VerlagText-Bold",
+      "fontSize": 16,
+      "lineHeight": 24,
+      "textAlignment": "center",
+      "tracking": 0.1
     },
     "attributeTextStyle": {
-      "fontName": "RobotoMono-Regular",
+      "fontName": "Gotham-Light",
       "fontSize": 10,
       "textTransform": "uppercase",
       "lineHeight": 12,
       "tracking": 0.05
     },
     "authorTextStyle": {
-      "fontName": "Barlow-Bold",
-      "textTransform": "uppercase",
-      "fontSize": 14
+      "fontName": "SurveyorText-LightItalic"
+    },
+    "authorTextStyle2": {
+      "fontName": "ChronicleDisplay-Italic",
+      "tracking": 0.1
     },
     "bodyCenteredTextStyle": {
+      "fontName": "ChronicleTextG1-Roman",
       "textAlignment": "center"
     },
     "bodyDropCapTextStyle": {
-      "fontName": "Palatino-Roman",
       "dropCapStyle": {
-        "fontName": "BarlowCondensed-Bold",
-        "numberOfLines": 4,
-        "numberOfRaisedLines": 0,
+        "fontName": "DidotLTStd-Roman",
         "numberOfCharacters": 1,
-        "textColor": "#000",
-        "padding": 0
-      },
-      "linkStyle": {
-        "textColor": "lightpink",
-        "underline": true
-      },
-      "conditional": [
-        {
-          "dropCapStyle": {
-            "fontName": "BarlowCondensed-Bold",
-            "numberOfLines": 4,
-            "numberOfRaisedLines": 0,
-            "numberOfCharacters": 1,
-            "textColor": "#fff",
-            "padding": 0
-          },
-          "linkStyle": {
-            "textColor": "lightpink",
-            "underline": true
-          },
-          "conditions": [
-            {
-              "preferredColorScheme": "dark",
-              "minSpecVersion": "1.14"
-            }
-          ]
-        }
-      ]
+        "numberOfLines": 4,
+        "numberOfRaisedLines": 0
+      }
+    },
+    "bodyIntroUnderlined": {
+      "fontName": "ChronicleDisplay-Roman",
+      "fontSize": 30,
+      "lineHeight": 34,
+      "underline": {
+        "color": "#EF7A00"
+      }
     },
     "bodyTextStyle": {
-      "fontName": "Palatino-Roman",
-      "linkStyle": {
-        "textColor": "lightpink",
-        "underline": true,
-        "possibleColors": {
-          "red": "#db3832",
-          "blue": "#4289ab",
-          "yellow": "#fdb913",
-          "seafoamGreen": "#94b9b6",
-          "grey": "#59595b",
-          "gold": "#847336"
-        }
-      },
-      "conditional": [
-        {
-          "linkStyle": {
-            "textColor": "lightpink",
-            "underline": true,
-            "possibleColors": {
-              "red": "#db3832",
-              "blue": "#4289ab",
-              "yellow": "#fdb913",
-              "seafoamGreen": "#94b9b6",
-              "grey": "#59595b",
-              "gold": "#847336"
-            }
-          },
-          "conditions": [
-            {
-              "preferredColorScheme": "dark",
-              "minSpecVersion": "1.14"
-            }
-          ]
-        }
-      ]
+      "//": "UNUSED"
+    },
+    "buttonBodyTextStyle": {
+      "fontName": "VerlagCondensed-Bold",
+      "fontSize": 17,
+      "lineHeight": 20,
+      "textAlignment": "center",
+      "textColor": "#5EAEE0",
+      "textTransform": "uppercase",
+      "tracking": 0.3
+    },
+    "buttonHeadingTextStyle": {
+      "fontName": "DidotLTStd-Bold",
+      "fontSize": 22,
+      "lineHeight": 30,
+      "textAlignment": "center",
+      "tracking": 0.04
+    },
+    "byTheNumbersTextStyle": {
+      "fontName": "VerlagText-Black",
+      "fontSize": 30,
+      "lineHeight": 34,
+      "textAlignment": "center",
+      "textTransform": "uppercase"
     },
     "calloutBodyTextStyle": {
-      "fontName": "Barlow-Regular",
-      "fontSize": 16,
-      "lineHeight": 20,
+      "fontName": "Gotham-Light",
+      "fontSize": 20,
+      "lineHeight": 24,
       "textAlignment": "center"
     },
     "calloutHeadingTextStyle": {
-      "fontName": "BarlowSemiCondensed-Bold",
-      "fontSize": 19,
-      "lineHeight": 21,
-      "textColor": "lightpink",
+      "fontName": "Gotham-Bold",
+      "fontSize": 16,
+      "lineHeight": 20,
       "textAlignment": "center",
-      "textTransform": "uppercase",
-      "possibleColors": {
-        "red": "#db3832",
-        "blue": "#4289ab",
-        "yellow": "#fdb913",
-        "seafoamGreen": "#94b9b6",
-        "grey": "#59595b",
-        "gold": "#847336"
-      },
-      "conditional": [
-        {
-          "textColor": "lightpink",
-          "conditions": [
-            {
-              "preferredColorScheme": "dark",
-              "minSpecVersion": "1.14"
-            }
-          ]
-        }
-      ]
+      "textTransform": "uppercase"
     },
     "captionAdTextStyle": {
       "//": "UNUSED"
@@ -1458,266 +2445,346 @@
       "lineHeight": 16
     },
     "captionTextStyle": {
-      "fontName": "Barlow-Bold",
-      "tracking": 0.02,
-      "textColor": "#59595b"
+      "fontName": "Gotham-Medium",
+      "linkStyle": {
+        "fontName": "Gotham-MediumItalic",
+        "underline": true
+      },
+      "textAlignment": "center"
+    },
+    "captionTextStyle2": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "textColor": "#000"
+        }
+      ],
+      "fontName": "VerlagText-Bold",
+      "fontSize": 14,
+      "textAlignment": "center"
     },
     "default": {
-      "fontName": "Barlow-Black",
-      "textColor": "#000",
+      "fontName": "SurveyorText-Light",
+      "hyphenation": false,
       "linkStyle": {
-        "textColor": "#366a9b"
+        "underline": true
       },
-      "hyphenation": false
+      "textColor": "#221E1F"
     },
     "default-author": {
-      "fontName": "Barlow-Medium",
-      "fontSize": 15,
-      "lineHeight": 19
+      "fontSize": 14,
+      "lineHeight": 18
     },
     "default-body": {
-      "fontSize": 16,
-      "lineHeight": 20,
-      "paragraphSpacingBefore": 12,
-      "paragraphSpacingAfter": 12
+      "fontSize": 18,
+      "lineHeight": 22,
+      "paragraphSpacingAfter": 12,
+      "paragraphSpacingBefore": 12
     },
     "default-byline": {
       "//": "UNUSED"
     },
     "default-caption": {
-      "fontName": "Avenir-Book",
       "fontSize": 14,
-      "lineHeight": 16
+      "lineHeight": 18
     },
     "default-heading": {
       "fontSize": 16,
       "lineHeight": 16
     },
     "default-heading2": {
-      "fontSize": 35,
-      "lineHeight": 40
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 500
+            }
+          ],
+          "fontSize": 36,
+          "lineHeight": 40
+        }
+      ],
+      "fontSize": 46,
+      "lineHeight": 47
     },
     "default-heading3": {
-      "fontSize": 24,
-      "lineHeight": 26
-    },
-    "default-heading4": {
       "fontSize": 20,
       "lineHeight": 22
+    },
+    "default-heading4": {
+      "fontSize": 18,
+      "lineHeight": 20
     },
     "default-heading5": {
       "fontSize": 18,
       "lineHeight": 20
     },
     "default-heading6": {
-      "fontSize": 18,
-      "lineHeight": 20
+      "//": "UNUSED"
     },
     "default-intro": {
-      "fontName": "Barlow-Medium",
-      "fontSize": 20,
-      "lineHeight": 22
+      "fontSize": 16,
+      "lineHeight": 18
     },
     "default-photographer": {
       "//": "UNUSED"
     },
     "default-pullquote": {
-      "fontSize": 32,
-      "lineHeight": 35
+      "fontSize": 18,
+      "lineHeight": 20
     },
     "default-title": {
-      "fontSize": 60,
-      "lineHeight": 56,
-      "fontName": "Barlow-ExtraBold"
+      "fontSize": 62,
+      "lineHeight": 60
+    },
+    "endOfStoryCalloutTextStyle": {
+      "fontName": "VerlagText-Bold",
+      "fontSize": 16,
+      "lineHeight": 20,
+      "linkStyle": {
+        "textColor": "#fff",
+        "underline": true
+      },
+      "textColor": "#fff"
     },
     "floatImageCaptionTextStyle": {
-      "fontName": "Barlow-Bold",
-      "tracking": 0.02,
-      "textColor": "#59595b"
-    },
-    "heading2CenteredTextStyle": {
-      "textTransform": "uppercase",
+      "fontName": "Gotham-Medium",
       "textAlignment": "center"
     },
+    "heading2CenteredTextStyle": {
+      "fontName": "DidotLTStd-Bold",
+      "textAlignment": "center",
+      "textColor": "#000"
+    },
     "heading2TextStyle": {
-      "textTransform": "uppercase"
+      "fontName": "SurveyorFine-Book"
     },
     "heading3CenteredTextStyle": {
       "textAlignment": "center"
     },
     "heading3TextStyle": {
-      "fontName": "Barlow-Black",
+      "fontName": "Gotham-Bold",
       "textTransform": "uppercase"
     },
     "heading4CenteredTextStyle": {
       "textAlignment": "center"
     },
     "heading4TextStyle": {
-      "fontName": "Barlow-Bold"
-    },
-    "heading5CenteredTextStyle": {
-      "fontName": "GothamNarrow-Bold",
-      "textAlignment": "center",
+      "fontName": "Gotham-Bold",
       "textTransform": "uppercase"
     },
+    "heading5CenteredTextStyle": {
+      "textAlignment": "center"
+    },
     "heading5TextStyle": {
-      "fontName": "Barlow-Bold"
+      "fontName": "Gotham-Bold"
     },
     "heading6CenteredTextStyle": {
       "textAlignment": "center"
     },
     "heading6TextStyle": {
-      "fontName": "Barlow-Bold",
-      "textTransform": "uppercase"
+      "//": "UNUSED"
     },
-    "ingredientsTextStyle": {
-      "fontName": "GothamNarrow-Book",
-      "lineHeight": 24
+    "headingCenteredTextStyle": {
+      "fontName": "VerlagCondensed-Bold",
+      "fontSize": 16,
+      "textAlignment": "center",
+      "tracking": 0.1
     },
     "introTextStyle": {
-      "//": "THE BRIEF and MINI FEATURE",
-      "fontName": "Barlow-Medium",
-      "textColor": "#59595b"
+      "fontName": "Gotham-Light"
+    },
+    "photoCreditTextStyle": {
+      "fontName": "VerlagText-Light",
+      "fontSize": 10,
+      "lineHeight": 12,
+      "textAlignment": "right",
+      "textTransform": "uppercase",
+      "tracking": 0.05
     },
     "pullQuoteTextStyle": {
-      "textColor": "lightpink",
-      "fontName": "Barlow-Black",
-      "fontSize": 32,
-      "lineHeight": 34,
-      "possibleColors": {
-        "red": "#db3832",
-        "blue": "#4289ab",
-        "yellow": "#fdb913",
-        "seafoamGreen": "#94b9b6",
-        "grey": "#59595b",
-        "gold": "#847336"
-      },
-      "conditional": [
-        {
-          "textColor": "lightpink",
-          "conditions": [
-            {
-              "preferredColorScheme": "dark",
-              "minSpecVersion": "1.14"
-            }
-          ]
-        }
-      ]
-    },
-    "recipeDetailsTextStyle": {
-      "fontName": "GothamNarrow-Book",
-      "fontSize": 14,
-      "lineHeight": 16
-    },
-    "reviewsTextStyle": {
-      "fontName": "GothamNarrow-Black"
-    },
-    "savedTextStyle": {
-      "fontName": "GothamNarrow-Book",
-      "fontSize": 16,
-      "lineHeight": 18,
+      "fontName": "Gotham-Light",
       "textTransform": "uppercase"
     },
-    "sectionTextStyle": {
-      "fontName": "BarlowCondensed-Light",
+    "pullQuoteTextStyleBottom": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 430
+            }
+          ],
+          "fontSize": 20
+        }
+      ],
+      "fontName": "VerlagCondensed-Bold",
+      "fontSize": 15,
+      "textColor": "#5EAEE0",
       "textTransform": "uppercase",
-      "tracking": 0.14
+      "tracking": 0.3
+    },
+    "pullQuoteTextStyleTop": {
+      "fontName": "ChronicleDisplay-Roman",
+      "tracking": -0.03
+    },
+    "questionTextStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 500
+            }
+          ],
+          "fontSize": 37,
+          "lineHeight": 40
+        }
+      ],
+      "fontName": "DidotLTStd-Bold",
+      "fontSize": 30,
+      "lineHeight": 35,
+      "tracking": 0.04
+    },
+    "rubricExclusiveCaptionTextStyle": {
+      "backgroundColor": "#000",
+      "blue_backgroundColor": "#5EAEE0",
+      "fontName": "DidotLTStd-Bold",
+      "fontSize": 16,
+      "lineHeight": 24,
+      "people_exclusive": "#000",
+      "textAlignment": "center",
+      "textColor": "#fff",
+      "textTransform": "uppercase",
+      "tracking": 0.1,
+      "yellow_backgroundColor": "#fff200"
+    },
+    "rubricExclusiveTextStyle": {
+      "backgroundColor": "#000",
+      "blue_backgroundColor": "#5EAEE0",
+      "fontName": "DidotLTStd-Bold",
+      "fontSize": 26,
+      "lineHeight": 34,
+      "people_exclusive": "#000",
+      "textColor": "#fff",
+      "tracking": 0.1,
+      "yellow_backgroundColor": "#fff200"
+    },
+    "rubricTextStyle": {
+      "//": "CHANGE COLOR TO MATCH ARTICLE CATEGORY",
+      "backgroundColor": "#fff200",
+      "blue_backgroundColor": "#5EAEE0",
+      "fontName": "DidotLTStd-Bold",
+      "fontSize": 26,
+      "light_yellow_beauty,style,chatter": "#FFF78F",
+      "lineHeight": 34,
+      "people_beauty,style,chatter": "#F37160",
+      "people_exclusive": "#000",
+      "people_food": "#E42628",
+      "people_picks": "#8C68AC",
+      "red_backgroundColor": "#E42628",
+      "textColor": "#000",
+      "tracking": 0.1,
+      "yellow_everything_else": "#fff200"
+    },
+    "scoopCustomTextStyle": {
+      "//": "CHANGE TEXT COLOR TO MATCH ARTICLE CATEGORY",
+      "fontName": "VerlagText-BlackItalic",
+      "fontSize": 30,
+      "lineHeight": 34,
+      "people_beauty,style,chatter": "#FFF200",
+      "people_exclusive": "#000",
+      "people_food_scoop": "#E42628",
+      "people_picks": "#8C68AC",
+      "textColor": "#E42628",
+      "tracking": 0
+    },
+    "sectionCustomTextStyle": {
+      "//": "CHANGE TEXT COLOR TO MATCH ARTICLE CATEGORY",
+      "fontName": "VerlagText-Black",
+      "fontSize": 34,
+      "lineHeight": 36,
+      "people_beauty,style,chatter": "#FFF200",
+      "people_exclusive": "#000",
+      "people_food": "#E42628",
+      "people_picks": "#8C68AC",
+      "textColor": "#8C68AC",
+      "tracking": -0.08
+    },
+    "sectionTextStyle": {
+      "fontName": "Gotham-Bold",
+      "fontSize": 14,
+      "lineHeight": 16,
+      "textTransform": "uppercase",
+      "tracking": 0.1
+    },
+    "sidebarBodyCenteredTextStyle": {
+      "fontName": "Gotham-Light",
+      "fontSize": 16,
+      "lineHeight": 20,
+      "textAlignment": "center"
     },
     "sidebarBodyTextStyle": {
-      "fontName": "Barlow-Bold",
-      "textColor": "#000"
-    },
-    "sidebarHeading2TextStyle": {
-      "fontName": "BarlowCondensed-Medium",
-      "textTransform": "uppercase",
-      "fontSize": 38,
-      "lineHeight": 40
-    },
-    "sidebarHeading3TextStyle": {
-      "textTransform": "uppercase",
-      "fontSize": 19,
-      "lineHeight": 21,
-      "textColor": "lightpink",
-      "possibleColors": {
-        "red": "#db3832",
-        "blue": "#4289ab",
-        "yellow": "#fdb913",
-        "seafoamGreen": "#94b9b6",
-        "grey": "#59595b",
-        "gold": "#847336"
-      },
-      "conditional": [
-        {
-          "textColor": "lightpink",
-          "conditions": [
-            {
-              "preferredColorScheme": "dark",
-              "minSpecVersion": "1.14"
-            }
-          ]
-        }
-      ]
-    },
-    "sidebarHeading4TextStyle": {
-      "fontName": "Barlow-Black",
-      "textColor": "#000",
-      "fontSize": 18,
+      "fontName": "Gotham-Light",
+      "fontSize": 16,
       "lineHeight": 20
     },
-    "sidebarIntroTextStyle": {
-      "fontName": "Barlow-Bold",
-      "textColor": "lightpink",
-      "possibleColors": {
-        "red": "#db3832",
-        "blue": "#4289ab",
-        "yellow": "#fdb913",
-        "seafoamGreen": "#94b9b6",
-        "grey": "#59595b",
-        "gold": "#847336"
-      },
+    "sidebarHeading2TextStyle": {
+      "fontName": "SurveyorFine-Book",
+      "fontSize": 42,
+      "lineHeight": 44,
+      "textTransform": "uppercase"
+    },
+    "sidebarHeading2TextStyle2": {
+      "fontName": "Knockout-48Featherweight",
+      "fontSize": 45,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "underline": {
+        "color": "#DF2367"
+      }
+    },
+    "sidebarHeading3TextStyle": {
+      "fontName": "Gotham-Bold",
+      "fontSize": 18,
+      "lineHeight": 20,
+      "textTransform": "uppercase"
+    },
+    "sidebarHeading4TextStyle": {
+      "fontName": "Gotham-Bold",
+      "fontSize": 16,
+      "lineHeight": 18
+    },
+    "straplineAltTextStyle": {
       "conditional": [
         {
-          "textColor": "lightpink",
           "conditions": [
             {
-              "preferredColorScheme": "dark",
-              "minSpecVersion": "1.14"
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
             }
-          ]
+          ],
+          "textColor": "#3DAEE5"
         }
-      ]
+      ],
+      "fontName": "Knockout-48Featherweight",
+      "fontSize": 30,
+      "lineHeight": 36,
+      "textColor": "#3DAEE5",
+      "textTransform": "uppercase",
+      "tracking": 0.15
     },
     "straplineTextStyle": {
-      "//": "THE BRIEF",
-      "fontName": "Barlow-Medium",
+      "fontName": "Gotham-Bold",
       "textTransform": "uppercase",
-      "fontSize": 18,
-      "lineHeight": 22,
-      "tracking": 0.08,
-      "textColor": "#fff",
-      "backgroundColor": "lightpink",
-      "possibleColors": {
-        "red": "#db3832",
-        "blue": "#4289ab",
-        "yellow": "#fdb913",
-        "seafoamGreen": "#94b9b6",
-        "grey": "#59595b",
-        "gold": "#847336"
-      },
-      "conditional": [
-        {
-          "backgroundColor": "lightpink",
-          "conditions": [
-            {
-              "preferredColorScheme": "dark",
-              "minSpecVersion": "1.14"
-            }
-          ]
-        }
-      ]
+      "fontSize": 15
     },
     "titleTextStyle": {
-      "fontName": "Barlow-ExtraBold",
+      "fontName": "DidotLTStd-Roman",
+      "textColor": "#000",
       "tracking": -0.02
     },
     "tocTextStyle": {
@@ -1729,334 +2796,62 @@
       "textAlignment": "center",
       "textColor": "#000"
     },
-    "categoryTextStyle": {
-      "fontName": "Palatino-Bold",
-      "textTransform": "uppercase",
-      "lineHeight": 25,
-      "tracking": 0.07,
-      "underline": {
-        "color": "#000"
-      }
+    "videoTitleTextStyle": {
+      "fontName": "VerlagText-Bold",
+      "fontSize": 14,
+      "lineHeight": 16
     },
-    "questionTextStyle": {
-      "fontName": "Barlow-Bold",
+    "wobTextStyle": {
+      "fontName": "DidotLTStd-Bold",
+      "fontSize": 40,
+      "lineHeight": 42,
+      "tracking": 0.1
+    },
+    "sidebarHeading2CenteredTextStyle": {
+      "fontName": "SurveyorFine-Book",
+      "fontSize": 42,
+      "lineHeight": 44,
+      "textTransform": "uppercase",
+      "textAlignment": "center"
+    },
+    "sidebarHeading3CenteredTextStyle": {
+      "fontName": "Gotham-Bold",
+      "fontSize": 18,
+      "lineHeight": 20,
+      "textTransform": "uppercase",
+      "textAlignment": "center"
+    },
+    "sidebarHeading4CenteredTextStyle": {
+      "fontName": "Gotham-Bold",
+      "fontSize": 16,
+      "lineHeight": 18,
+      "textAlignment": "center"
+    },
+    "bhgInsiderBodyTextStyle": {
+      "fontName": "Gotham-Medium",
+      "fontSize": 16,
+      "lineHeight": 22,
+      "textAlignment": "center"
+    },
+    "recipeDetailsTextStyle": {
+      "fontName": "Gotham-Light",
+      "fontSize": 15,
+      "lineHeight": 17
+    },
+    "ingredientsTextStyle": {
+      "fontName": "Gotham-Medium",
+      "fontSize": 15,
+      "lineHeight": 19
+    },
+    "recipeBodyTextStyle": {
+      "fontName": "Gotham-Light",
+      "fontSize": 16,
       "lineHeight": 20
     },
-    "sidebarHedTextStyle": {
-      "//": "THE CONVERSATION",
-      "fontName": "BarlowSemiCondensed-Medium",
-      "textTransform": "uppercase",
-      "fontSize": 38,
-      "lineHeight": 40,
-      "tracking": 0.06,
-      "textColor": "lightpink",
-      "possibleColors": {
-        "red": "#db3832",
-        "blue": "#4289ab",
-        "yellow": "#fdb913",
-        "seafoamGreen": "#94b9b6",
-        "grey": "#59595b",
-        "gold": "#847336"
-      },
-      "conditional": [
-        {
-          "textColor": "lightpink",
-          "conditions": [
-            {
-              "preferredColorScheme": "dark",
-              "minSpecVersion": "1.14"
-            }
-          ]
-        }
-      ]
-    },
-    "sourceTextStyle": {
-      "fontName": "RobotoMono-Regular",
-      "fontSize": 10,
-      "lineHeight": 12,
-      "tracking": 0.05,
-      "textTransform": "uppercase"
-    },
-    "titleSansTextStyle": {
-      "fontName": "Barlow-ExtraBold",
-      "tracking": -0.02
-    },
-    "titleSerifTextStyle": {
-      "fontName": "Didot-Bold",
-      "textColor": "#000000",
-      "fontSize": 60,
-      "lineHeight": 65
-    },
-    "subtitleTextStyle": {
-      "fontName": "Barlow-ExtraBold",
-      "textColor": "lightpink",
-      "fontSize": 53,
-      "lineHeight": 53,
-      "possibleColors": {
-        "red": "#db3832",
-        "blue": "#4289ab",
-        "yellow": "#fdb913",
-        "seafoamGreen": "#94b9b6",
-        "grey": "#59595b",
-        "gold": "#847336"
-      },
-      "conditional": [
-        {
-          "textColor": "lightpink",
-          "conditions": [
-            {
-              "preferredColorScheme": "dark",
-              "minSpecVersion": "1.14"
-            }
-          ]
-        }
-      ]
-    },
-    "titleFeaturedTextStyle": {
-      "fontName": "BarlowSemiCondensed-Bold",
-      "textColor": "#000000",
-      "fontSize": 60,
-      "lineHeight": 65,
-      "textTransform": "uppercase"
-    },
-    "jobTitleTextStyle": {
-      "fontName": "Didot",
-      "textTransform": "uppercase",
-      "fontSize": 20,
-      "lineHeight": 24,
-      "tracking": 0.02
-    },
-    "introTextStyle3": {
-      "//": "THE BIG IDEA",
-      "fontName": "BodoniSvtyTwoOSITCTT-Book",
-      "fontSize": 20,
-      "lineHeight": 24,
-      "tracking": 0.02
-    },
-    "captionUserInstructionTextStyle": {
-      "fontName": "BarlowSemiCondensed-LightItalic"
-    },
-    "bodyDropCapSansTextStyle": {
-      "fontName": "Palatino-Roman",
-      "dropCapStyle": {
-        "fontName": "BarlowCondensed-Bold",
-        "numberOfLines": 4,
-        "numberOfRaisedLines": 0,
-        "numberOfCharacters": 1,
-        "textColor": "#000",
-        "padding": 0
-      },
-      "linkStyle": {
-        "textColor": "lightpink",
-        "underline": true,
-        "possibleColors": {
-          "red": "#db3832",
-          "blue": "#4289ab",
-          "yellow": "#fdb913",
-          "seafoamGreen": "#94b9b6",
-          "grey": "#59595b",
-          "gold": "#847336"
-        }
-      },
-      "conditional": [
-        {
-          "dropCapStyle": {
-            "fontName": "BarlowCondensed-Bold",
-            "numberOfLines": 4,
-            "numberOfRaisedLines": 0,
-            "numberOfCharacters": 1,
-            "textColor": "#fff",
-            "padding": 0
-          },
-          "linkStyle": {
-            "textColor": "lightpink",
-            "underline": true,
-            "possibleColors": {
-              "red": "#db3832",
-              "blue": "#4289ab",
-              "yellow": "#fdb913",
-              "seafoamGreen": "#94b9b6",
-              "grey": "#59595b",
-              "gold": "#847336"
-            }
-          },
-          "conditions": [
-            {
-              "preferredColorScheme": "dark",
-              "minSpecVersion": "1.14"
-            }
-          ]
-        }
-      ]
-    },
-    "bodyDropCapSerifTextStyle": {
-      "fontName": "Palatino-Roman",
-      "dropCapStyle": {
-        "fontName": "BodoniSvtyTwoOSITCTT-Bold",
-        "numberOfLines": 4,
-        "numberOfRaisedLines": 0,
-        "numberOfCharacters": 1,
-        "textColor": "#000",
-        "padding": 0
-      },
-      "linkStyle": {
-        "textColor": "lightpink",
-        "underline": true,
-        "possibleColors": {
-          "red": "#db3832",
-          "blue": "#4289ab",
-          "yellow": "#fdb913",
-          "seafoamGreen": "#94b9b6",
-          "grey": "#59595b",
-          "gold": "#847336"
-        }
-      },
-      "conditional": [
-        {
-          "dropCapStyle": {
-            "fontName": "BodoniSvtyTwoOSITCTT-Bold",
-            "numberOfLines": 4,
-            "numberOfRaisedLines": 0,
-            "numberOfCharacters": 1,
-            "textColor": "#fff",
-            "padding": 0
-          },
-          "linkStyle": {
-            "textColor": "lightpink",
-            "underline": true,
-            "possibleColors": {
-              "red": "#db3832",
-              "blue": "#4289ab",
-              "yellow": "#fdb913",
-              "seafoamGreen": "#94b9b6",
-              "grey": "#59595b",
-              "gold": "#847336"
-            }
-          },
-          "conditions": [
-            {
-              "preferredColorScheme": "dark",
-              "minSpecVersion": "1.14"
-            }
-          ]
-        }
-      ]
-    },
-    "pullQuoteSansTextStyle": {
-      "textColor": "lightpink",
-      "fontName": "Barlow-Black",
-      "fontSize": 32,
-      "lineHeight": 34,
-      "possibleColors": {
-        "red": "#db3832",
-        "blue": "#4289ab",
-        "yellow": "#fdb913",
-        "seafoamGreen": "#94b9b6",
-        "grey": "#59595b",
-        "gold": "#847336"
-      },
-      "conditional": [
-        {
-          "textColor": "lightpink",
-          "conditions": [
-            {
-              "preferredColorScheme": "dark",
-              "minSpecVersion": "1.14"
-            }
-          ]
-        }
-      ]
-    },
-    "pullQuoteSerifTextStyle": {
-      "textColor": "lightpink",
-      "fontName": "BodoniSvtyTwoOSITCTT-Bold",
-      "fontSize": 40,
-      "lineHeight": 40,
-      "possibleColors": {
-        "red": "#db3832",
-        "blue": "#4289ab",
-        "yellow": "#fdb913",
-        "seafoamGreen": "#94b9b6",
-        "grey": "#59595b",
-        "gold": "#847336"
-      },
-      "conditional": [
-        {
-          "textColor": "lightpink",
-          "conditions": [
-            {
-              "preferredColorScheme": "dark",
-              "minSpecVersion": "1.14"
-            }
-          ]
-        }
-      ]
-    },
-    "numbersTextStyle": {
-      "fontName": "BarlowCondensed-Black",
-      "textTransform": "uppercase",
-      "fontSize": 85,
-      "lineHeight": 60,
-      "textColor": "lightpink",
-      "conditional": [
-        {
-          "textColor": "lightpink",
-          "conditions": [
-            {
-              "preferredColorScheme": "dark",
-              "minSpecVersion": "1.14"
-            }
-          ]
-        }
-      ],
-      "possibleColors": {
-        "red": "#db3832",
-        "blue": "#4289ab",
-        "yellow": "#fdb913",
-        "seafoamGreen": "#94b9b6",
-        "grey": "#59595b",
-        "gold": "#847336"
-      }
-    },
-    "numbersBodyTextStyle": {
-      "fontName": "Barlow-Bold",
-      "fontSize": 18,
-      "lineHeight": 18
-    },
-    "numbersStraplineTextStyle": {
-      "fontName": "BarlowCondensed-Bold",
-      "fontSize": 18,
-      "lineHeight": 18,
-      "textColor": "lightpink",
-      "textTransform": "uppercase",
-      "tracking": 0.01,
-      "textAlignment": "center",
-      "conditional": [
-        {
-          "textColor": "lightpink",
-          "conditions": [
-            {
-              "preferredColorScheme": "dark",
-              "minSpecVersion": "1.14"
-            }
-          ]
-        }
-      ],
-      "possibleColors": {
-        "red": "#db3832",
-        "blue": "#4289ab",
-        "yellow": "#fdb913",
-        "seafoamGreen": "#94b9b6",
-        "grey": "#59595b",
-        "gold": "#847336"
-      }
-    },
-    "sidebarStatTextStyle": {
-      "fontName": "BarlowCondensed-Black",
-      "textTransform": "uppercase",
-      "fontSize": 55,
-      "lineHeight": 60,
-      "textColor": "#db3832"
+    "recipeNutritionInfoTextStyle": {
+      "fontName": "Gotham-Light",
+      "fontSize": 14,
+      "lineHeight": 16
     }
   }
 }

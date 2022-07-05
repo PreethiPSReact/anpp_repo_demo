@@ -1,581 +1,594 @@
 {
   "version": "1.9",
-  "identifier": "health_article_881-167-17-1",
-  "title": "BARE NECESSITIES",
+  "identifier": "coastalliving_article_889-125-18-1",
+  "title": "What’s in Your Beach Bag?",
   "language": "en",
   "layout": {
-    "columns": 20,
+    "columns": 23,
     "gutter": 20,
-    "margin": 40,
-    "width": 768
+    "margin": 62,
+    "width": 1024
   },
-  "subtitle": "Putting on that swimsuit for the first day of summer can give anyone pause—most of us have something we’d rather not show to the world. We turned to the experts for solutions to common issues, so you can relax and feel good in your skin.",
+  "subtitle": "Fashion and housewares designer Heidi Merrick shares her beach day essentials",
   "metadata": {
     "authors": [
-      "By LISA DESANTIS"
+      "By Patricia Shannon"
     ],
-    "dateCreated": "2021-04-30T13:55:36.900Z",
-    "dateModified": "2021-04-30T02:05:42+00:00",
-    "excerpt": "Shaving is the most popular method, but it doesn’t last long (hello, stubble that shows up the next day). And it can lead to ingrowns, especially on the bikini line, where the hair is curlier, says Sabrina Fabi, MD, a dermatologist in San Diego. Instead, try a depilatory cream—new formulas smell better than ever and may have soothing ingredients. 1. Nair Bladeless Shave ($9; walmart.com), for example, is available with CBD broad-spectrum hemp oil, lavender oil, or rose water. Let the cream sit for 5 to 10 minutes before rinsing; it dissolves the hair shaft below the skin’s surface so results last longer than with shaving.",
+    "dateCreated": "2022-05-20T16:37:04.726Z",
+    "dateModified": "2022-05-18T20:47:52+00:00",
+    "excerpt": "There’s no such thing as time off for Heidi Merrick, but she’s not complaining. Her father, renowned surfboard shaper Al Merrick, taught her early on the importance of loving one’s craft while still making time to soak it all in. “My dad was very good at what he did and had high standards for himself, but he still took time to go fishing, so to speak,” she says. “I think the example of having a life’s work and living a full life has influenced how I work and how I live.” And for Merrick, that life (and her eponymous fashion and housewares lines) is tied to the beach. “There’s an earthiness and refined simplicity that is inherent to beach people,” she says. While the brand is based in Los Angeles, Merrick’s beach house on the road to Ojai is where she, husband Johnny Johnston, and their two children spend much of their time. “I just love seeing the ocean, and I like the people who live near it,” she says, “people who understand that nature is bigger than we are.”",
     "generatorName": "ANTE Generic Template",
-    "generatorVersion": "0.0.4.25-2021-03-26 14:16",
-    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_881/storage/images/media2/images/tlp-kabo-23_034/221982-1-eng-US/tlp-kabo-23_0342.jpg?w=450"
+    "generatorVersion": "0.0.4.32-2022-04-15 19:20",
+    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/heidi/129777-1-eng-GB/heidi2.png?q=100"
   },
-  "missingData": [
-    {
-      "role": "body",
-      "layout": "bodyLayout",
-      "style": "paragraphStyle",
-      "textStyle": "bodyTextStyle",
-      "format": "html",
-      "text": "The best way to remove hair—if you want to—depends on lifestyle, skin sensitivity, etc. Here’s what really works."
-    }
-  ],
   "documentStyle": {
-    "backgroundColor": "#fff"
+    "backgroundColor": "#eee"
   },
   "components": [
     {
-      "//": "====== CUSTOM HEADER - BEAUTY ======",
-      "role": "header",
-      "layout": "customHeaderLayout",
-      "style": "customHeaderStyle",
-      "components": [
-        {
-          "role": "title",
-          "textStyle": "customSectionHeadingTextStyle",
-          "format": "html",
-          "text": "Beauty"
-        },
-        {
-          "role": "body",
-          "textStyle": "customSectionSubHeadingBeautyTextStyle",
-          "format": "html",
-          "text": "SKIN CARE | MAKEUP | INNOVATIONS"
-        }
-      ]
-    },
-    {
-      "role": "title",
-      "layout": "titleLayout",
-      "textStyle": "titleTextStyle",
-      "format": "html",
-      "text": "Bare Necessities"
-    },
-    {
-      "role": "intro",
-      "layout": "introLayout",
-      "textStyle": "introTextStyle",
-      "format": "html",
-      "text": "Putting on that swimsuit for the first day of summer can give anyone pause—most of us have something we’d rather not show to the world. We turned to the experts for solutions to common issues, so you can relax and feel good in your skin."
-    },
-    {
-      "role": "author",
-      "layout": "authorLayout",
-      "textStyle": "authorTextStyle",
-      "format": "html",
-      "text": "By Lisa D<small>e</small>santis"
-    },
-    {
-      "//": "===== sticky animation =====",
-      "role": "section",
+      "role": "container",
       "layout": {
-        "ignoreDocumentMargin": "both",
-        "ignoreViewportPadding": "both"
-      },
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minSpecVersion": "1.14",
-              "preferredColorScheme": "dark"
-            }
-          ],
-          "scene": {
-            "fadeColor": "#000000",
-            "type": "fading_sticky_header"
+        "conditional": [
+          {
+            "conditions": [
+              {
+                "platform": "ios"
+              }
+            ],
+            "ignoreViewportPadding": true
+          },
+          {
+            "conditions": [
+              {
+                "maxViewportWidth": 1366,
+                "minViewportWidth": 1112
+              }
+            ],
+            "ignoreDocumentMargin": "none",
+            "ignoreViewportPadding": "none"
           }
-        }
-      ],
-      "scene": {
-        "fadeColor": "#ffffff",
-        "type": "fading_sticky_header"
+        ],
+        "ignoreDocumentMargin": true
+      },
+      "style": {
+        "backgroundColor": "#fff"
       },
       "components": [
         {
-          "role": "header",
-          "layout": "heroImageLayout",
-          "components": [
-            {
-              "role": "photo",
-              "layout": "fullBleedPhotoLayout",
-              "URL": "https://public-assets.meredithcorp.io/24b0f3279ef80494038ca2c74f0ce4af/bare-herov2.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "role": "container",
-      "layout": "fullBleedContainerLayout2",
-      "components": [
-        {
-          "role": "photo",
-          "layout": "fullBleedPhotoLayout",
-          "URL": "https://cdn-assets.ziniopro.com/var/site_881/storage/images/media2/images/tlp-deal-00_033/221975-1-eng-US/tlp-deal-00_0332.jpg?q=100"
-        }
-      ]
-    },
-    {
-      "//": "======== BODY CONTAINER =======",
-      "role": "container",
-      "layout": "bodyContainerLayout",
-      "components": [
-        {
-          "role": "heading2",
-          "layout": "heading2Layout",
-          "textStyle": "heading2TextStyle",
+          "//": "==== DEFAULT HEADER: SECTION ===",
+          "role": "heading",
+          "layout": "sectionLayout",
+          "textStyle": "sectionTextStyle",
           "format": "html",
-          "text": "Smooth the Skin"
+          "text": "CURRENTS | <subsection>STYLE</subsection>"
         },
         {
+          "//": "==== DEFAULT HEADER: TITLE ===",
+          "role": "title",
+          "layout": "titleLayout",
+          "textStyle": "titleTextStyle",
+          "format": "html",
+          "text": "What’s in Your Beach Bag?"
+        },
+        {
+          "//": "==== DEFAULT HEADER: INTRO ===",
           "role": "intro",
           "layout": "introLayout",
           "textStyle": "introTextStyle",
           "format": "html",
-          "text": "The best way to remove hair—if you want to—depends on lifestyle, skin sensitivity, etc. Here’s what really works."
+          "text": "Fashion and housewares designer Heidi Merrick shares her beach day essentials"
         },
         {
-          "//": "======== FULL BLEED CONTAINER ========",
+          "role": "author",
+          "layout": "authorLayout",
+          "textStyle": "authorTextStyle",
+          "format": "html",
+          "text": "By Patricia Shannon"
+        },
+        {
+          "//": "======== HERO IMAGE CONTAINER =======",
           "role": "container",
-          "layout": "fullBleedContainerLayout",
+          "layout": "heroImageLayout",
           "components": [
             {
-              "//": "======== IMAGE BLEED - H2201.0/W1366.0 * 100 = 161.1273792 ========",
-              "role": "image",
-              "layout": {
-                "maximumContentWidth": "60cw"
-              },
-              "URL": "https://public-assets.meredithcorp.io/fca73dc5523d7fc13214a340ec7aae1d/blade.png"
+              "//": "======== HERO IMAGE - H1014.0/W820.0 * 100 = 123.6585366 ========",
+              "role": "photo",
+              "layout": "fullBleedPhotoLayout",
+              "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/heidi/129777-1-eng-GB/heidi2.png?q=100"
             }
           ]
         },
         {
-          "role": "heading3",
-          "layout": "heading3Layout",
-          "textStyle": "heading3TextStyle",
-          "format": "html",
-          "text": "At Home"
-        },
-        {
-          "role": "body",
-          "layout": "bodyNoMarginAboveLayout",
-          "style": "paragraphStyle",
-          "textStyle": "bodyTextStyle",
-          "format": "html",
-          "text": "Shaving is the most popular method, but it doesn’t last long (hello, stubble that shows up the next day). And it can lead to ingrowns, especially on the bikini line, where the hair is curlier, says Sabrina Fabi, MD, a dermatologist in San Diego. Instead, try a depilatory cream—new formulas smell better than ever and may have soothing ingredients. <b>1. Nair Bladeless Shave</b> ($9; <a href=\"http://walmart.com\">walmart.com</a>)</i>, for example, is available with CBD broad-spectrum hemp oil, lavender oil, or rose water. Let the cream sit for 5 to 10 minutes before rinsing; it dissolves the hair shaft below the skin’s surface so results last longer than with shaving."
-        },
-        {
-          "//": "======== FULL BLEED CONTAINER ========",
+          "//": "======== BODY CONTAINER =======",
           "role": "container",
-          "layout": "fullBleedContainerLayout",
+          "layout": "bodyContainerLayout",
           "components": [
             {
-              "//": "======== IMAGE BLEED - H2201.0/W1366.0 * 100 = 161.1273792 ========",
-              "role": "image",
-              "layout": {
-                "maximumContentWidth": "60cw"
-              },
-              "URL": "https://public-assets.meredithcorp.io/6a6dad79dc2abac7fd9af46490a2319f/braun.png"
-            }
-          ]
-        },
-        {
-          "role": "heading3",
-          "layout": "heading3Layout",
-          "textStyle": "heading3TextStyle",
-          "format": "html",
-          "text": "Go-To Gadget"
-        },
-        {
-          "role": "body",
-          "layout": "bodyNoMarginAboveLayout",
-          "style": "paragraphStyle",
-          "textStyle": "bodyTextStyle",
-          "format": "html",
-          "text": "Another at-home way to nix fuzz is with an epilator, which pulls out a bunch of hairs at once from the root—not completely painless, but the results can last up to four weeks, and you don’t have to wait until hair is a certain length to use it. <b>2. Braun Silk-épil 9 Flex</b> ($180; <a href=\"http://amazon.com\">amazon.com</a>)</i> features a flexible head that hugs the contours of your body and better grips the hair. Pro tip: This one can be used in the shower or bath—warm water will help the hair follicles open and may even reduce pain."
-        },
-        {
-          "role": "heading3",
-          "layout": "heading3Layout",
-          "textStyle": "heading3TextStyle",
-          "format": "html",
-          "text": "At a Salon"
-        },
-        {
-          "role": "body",
-          "layout": "bodyNoMarginAboveLayout",
-          "style": "paragraphStyle",
-          "textStyle": "bodyTextStyle",
-          "format": "html",
-          "text": "Waxing keeps you hair-free for an extended time, but you’ll need an appointment every three to four weeks, depending on how fast your hair grows, says Gina Petak, a specialist in training and development at European Wax Center. Similarly, a process called sugaring also pulls the hair from the root: It’s done with a paste of sugar, lemon, and water, and it’s said to be less painful than waxing because the mixture sticks to just the hair, not the skin. “The sugar paste wraps around the hair shaft, which both lubricates and makes the hair more pliable,” explains Courtney Claghorn, CEO and founder of Sugared + Bronzed. For either method, there needs to be enough hair for the wax or sugar paste to grab onto: at least ¼ inch for the former and at least ⅛ inch for the latter. So for those who don’t like any growth at <i>all</i>, these may not be the right options for you."
-        },
-        {
-          "role": "heading3",
-          "layout": "heading3Layout",
-          "textStyle": "heading3TextStyle",
-          "format": "html",
-          "text": "In Office"
-        },
-        {
-          "role": "body",
-          "layout": "bodyNoMarginAboveLayout",
-          "style": "paragraphStyle",
-          "textStyle": "bodyTextStyle",
-          "format": "html",
-          "text": "Most derms will tell you that laser hair removal is the best way to achieve long-term results. But it also comes with a heftier price tag. According to the American Society of Plastic Surgeons, the average cost of a laser-hair-removal session is $287, and the price will vary depending on what part of the body is being treated along with the number of sessions you require. Another factor to consider: It works best for those with lighter skin and darker hair; there’s a risk of hyperpigmentation in those with melanin-rich skin. That’s why Paul Jarrod Frank, MD, a cosmetic dermatologist in New York City, recommends the Motus AX and LightSheer Duet lasers—they work on most skin tones, even darker ones. “Most patients only need four to six treatments to see an 85 percent hair loss,” says Dr. Frank. And you don’t have to worry about ingrown hairs with laser, adds Dr. Fabi."
-        },
-        {
-          "//": "====== CALLOUT ======",
-          "role": "container",
-          "layout": "calloutLayout",
-          "style": "calloutStyle",
-          "components": [
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "There’s no such thing as time off for Heidi Merrick, but she’s not complaining. Her father, renowned surfboard shaper Al Merrick, taught her early on the importance of loving one’s craft while still making time to soak it all in. “My dad was very good at what he did and had high standards for himself, but he still took time to go fishing, so to speak,” she says. “I think the example of having a life’s work and living a full life has influenced how I work and how I live.” And for Merrick, that life (and her eponymous fashion and housewares lines) is tied to the beach. “There’s an earthiness and refined simplicity that is inherent to beach people,” she says. While the brand is based in Los Angeles, Merrick’s beach house on the road to Ojai is where she, husband Johnny Johnston, and their two children spend much of their time. “I just love seeing the ocean, and I like the people who live near it,” she says, “people who understand that nature is bigger than we are.”"
+            },
+            {
+              "role": "container",
+              "layout": "pullQuoteLayout",
+              "components": [
+                {
+                  "role": "container",
+                  "layout": "singleBlockContainerLayout",
+                  "style": "photoContainerStyle",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": true
+                    }
+                  ],
+                  "components": [
+                    {
+                      "role": "image",
+                      "layout": {
+                        "maximumContentWidth": "7cw"
+                      },
+                      "URL": "https://public-assets.meredithcorp.io/369daac52b3e1104ffd3162ae000dfe3/topQuote.png"
+                    }
+                  ]
+                },
+                {
+                  "role": "container",
+                  "layout": "singleBlockContainerLayout",
+                  "style": "photoContainerStyle",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": false
+                    }
+                  ],
+                  "hidden": true,
+                  "components": [
+                    {
+                      "role": "image",
+                      "layout": {
+                        "maximumContentWidth": "7cw"
+                      },
+                      "URL": "https://public-assets.meredithcorp.io/9ef250b467391a6f9f29406d482b60cd/topQuote_DM.png"
+                    }
+                  ]
+                },
+                {
+                  "role": "pullquote",
+                  "layout": "pullQuoteBodyLayout",
+                  "style": "pullQuoteStyle",
+                  "textStyle": "pullQuoteTextStyle",
+                  "format": "html",
+                  "text": "There’s an earthiness and refined simplicity that is inherent to beach people<br><pullquote-attribution>—Heidi Merrick</pullquote-attribution>"
+                },
+                {
+                  "role": "container",
+                  "layout": "singleBlockContainerLayout",
+                  "style": "photoContainerStyle",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": true
+                    }
+                  ],
+                  "components": [
+                    {
+                      "role": "image",
+                      "layout": {
+                        "maximumContentWidth": "7cw"
+                      },
+                      "URL": "https://public-assets.meredithcorp.io/8f32dc42cf9d467a4db59867ae2f2886/bottomQuote.png"
+                    }
+                  ]
+                },
+                {
+                  "role": "container",
+                  "layout": "singleBlockContainerLayout",
+                  "style": "photoContainerStyle",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": false
+                    }
+                  ],
+                  "hidden": true,
+                  "components": [
+                    {
+                      "role": "image",
+                      "layout": {
+                        "maximumContentWidth": "7cw"
+                      },
+                      "URL": "https://public-assets.meredithcorp.io/e9c2845e7992b958807d1c03d050fb53/bottomQuote_DM.png"
+                    }
+                  ]
+                }
+              ]
+            },
             {
               "//": "======== SINGLE BLOCK CONTAINER ========",
               "role": "container",
               "layout": "singleBlockContainerLayout",
               "components": [
                 {
-                  "//": "======== IMAGE BLOCK - H561.0/W234.0 * 100 = 239.7435897 ========",
+                  "//": "======== IMAGE BLOCK - H1066.0/W519.0 * 100 = 205.3949904 ========",
                   "role": "image",
                   "layout": {
-                    "maximumContentWidth": "30cw"
+                    "//": "IPAD CONDITION STYLING",
+                    "conditional": [
+                      {
+                        "//": "PHONE CONDITION STYLING",
+                        "conditions": [
+                          {
+                            "maxViewportWidth": 415
+                          }
+                        ],
+                        "horizontalContentAlignment": "center",
+                        "maximumContentWidth": "52cw",
+                        "minimumWidth": "52cw"
+                      }
+                    ],
+                    "horizontalContentAlignment": "center",
+                    "maximumContentWidth": "47cw",
+                    "minimumWidth": "47cw"
                   },
-                  "URL": "https://public-assets.meredithcorp.io/614385978fe7bf20a4580e2f7e829ad8/flamingoing_.png"
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/drinkyourfl_113/129770-1-eng-GB/drinkyourfl_1132.png?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Apiary Drink Your Flowers 6% ABV Hard Jun Kombucha,</caption-heading> <a href=\"http://drinkapiary.com\">drinkapiary.com</a> for retailers"
                 }
               ]
             },
             {
-              "role": "heading",
-              "layout": "calloutHeadingLayout",
-              "textStyle": "calloutHeadingTextStyle",
-              "format": "html",
-              "text": "Outsmart Ingrowns"
+              "//": "======== SINGLE BLOCK CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLOCK - H1066.0/W519.0 * 100 = 205.3949904 ========",
+                  "role": "image",
+                  "layout": {
+                    "//": "IPAD CONDITION STYLING",
+                    "conditional": [
+                      {
+                        "//": "PHONE CONDITION STYLING",
+                        "conditions": [
+                          {
+                            "maxViewportWidth": 415
+                          }
+                        ],
+                        "horizontalContentAlignment": "center",
+                        "maximumContentWidth": "52cw",
+                        "minimumWidth": "52cw"
+                      }
+                    ],
+                    "horizontalContentAlignment": "center",
+                    "maximumContentWidth": "47cw",
+                    "minimumWidth": "47cw"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/p018-bzo102397-heidi-vincent-swim-suit/131372-1-eng-GB/p018-bzo102397-heidi-vincent-swim-suit.png?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Heidi Merrick Vicent Top,</caption-heading> $77, and <caption-heading>Bottom,</caption-heading> $95, both in Black <a href=\"http://heidimerrick.com\">heidimerrick.com</a>"
+                }
+              ]
+            },
+            {
+              "//": "======== SINGLE BLOCK CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLOCK - H1066.0/W519.0 * 100 = 205.3949904 ========",
+                  "role": "image",
+                  "layout": {
+                    "//": "IPAD CONDITION STYLING",
+                    "conditional": [
+                      {
+                        "//": "PHONE CONDITION STYLING",
+                        "conditions": [
+                          {
+                            "maxViewportWidth": 415
+                          }
+                        ],
+                        "horizontalContentAlignment": "center",
+                        "maximumContentWidth": "52cw",
+                        "minimumWidth": "52cw"
+                      }
+                    ],
+                    "horizontalContentAlignment": "center",
+                    "maximumContentWidth": "42cw",
+                    "minimumWidth": "42cw"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/p018-bzo102397-body-oil/131379-1-eng-GB/p018-bzo102397-body-oil.png?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Kjaer Weis Body Oil,</caption-heading> $125 <a href=\"http://kjaerweis.com\">kjaerweis.com</a>"
+                }
+              ]
+            },
+            {
+              "//": "======== SINGLE BLOCK CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLOCK - H1066.0/W519.0 * 100 = 205.3949904 ========",
+                  "role": "image",
+                  "layout": {
+                    "//": "IPAD CONDITION STYLING",
+                    "conditional": [
+                      {
+                        "//": "PHONE CONDITION STYLING",
+                        "conditions": [
+                          {
+                            "maxViewportWidth": 415
+                          }
+                        ],
+                        "horizontalContentAlignment": "center",
+                        "maximumContentWidth": "52cw",
+                        "minimumWidth": "52cw"
+                      }
+                    ],
+                    "horizontalContentAlignment": "center",
+                    "maximumContentWidth": "50cw",
+                    "minimumWidth": "50cw"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/heidi-srf-h_114/129749-1-eng-GB/heidi-srf-h_1142.png?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Heidi Merrick SRF Dad Hat,</caption-heading> $49 <a href=\"http://heidimerrick.com\">heidimerrick.com</a>"
+                }
+              ]
+            },
+            {
+              "//": "======== SINGLE BLOCK CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLOCK - H1066.0/W519.0 * 100 = 205.3949904 ========",
+                  "role": "image",
+                  "layout": {
+                    "//": "IPAD CONDITION STYLING",
+                    "conditional": [
+                      {
+                        "//": "PHONE CONDITION STYLING",
+                        "conditions": [
+                          {
+                            "maxViewportWidth": 415
+                          }
+                        ],
+                        "horizontalContentAlignment": "center",
+                        "maximumContentWidth": "52cw",
+                        "minimumWidth": "52cw"
+                      }
+                    ],
+                    "horizontalContentAlignment": "center",
+                    "maximumContentWidth": "42cw",
+                    "minimumWidth": "42cw"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/eastofeden/129742-1-eng-GB/eastofeden2.png?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading><caption-italic>East of Eden</caption-italic> by John Steinbeck,</caption-heading> price varies <a href=\"http://bookshop.org\">bookshop.org</a>"
+                }
+              ]
+            },
+            {
+              "//": "======== SINGLE BLOCK CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLOCK - H1066.0/W519.0 * 100 = 205.3949904 ========",
+                  "role": "image",
+                  "layout": {
+                    "//": "IPAD CONDITION STYLING",
+                    "conditional": [
+                      {
+                        "//": "PHONE CONDITION STYLING",
+                        "conditions": [
+                          {
+                            "maxViewportWidth": 415
+                          }
+                        ],
+                        "horizontalContentAlignment": "center",
+                        "maximumContentWidth": "80cw",
+                        "minimumWidth": "80cw"
+                      }
+                    ],
+                    "horizontalContentAlignment": "center",
+                    "maximumContentWidth": "70cw",
+                    "minimumWidth": "70cw"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/p018-bzo102397-sunscreen-primer/131365-1-eng-GB/p018-bzo102397-sunscreen-primer.png?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Chantecaille Ultra Sun Protection Sunscreen Broad Spectrum SPF 45 Primer,</caption-heading> $96 <a href=\"http://chantecaille.com\">chantecaille.com</a>"
+                }
+              ]
+            },
+            {
+              "//": "======== SINGLE BLOCK CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLOCK - H1066.0/W519.0 * 100 = 205.3949904 ========",
+                  "role": "image",
+                  "layout": {
+                    "//": "IPAD CONDITION STYLING",
+                    "conditional": [
+                      {
+                        "//": "PHONE CONDITION STYLING",
+                        "conditions": [
+                          {
+                            "maxViewportWidth": 415
+                          }
+                        ],
+                        "horizontalContentAlignment": "center",
+                        "maximumContentWidth": "57cw",
+                        "minimumWidth": "57cw"
+                      }
+                    ],
+                    "horizontalContentAlignment": "center",
+                    "maximumContentWidth": "55cw",
+                    "minimumWidth": "55cw"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/heidi-santa_115/129728-1-eng-GB/heidi-santa_1152.png?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Heidi Merrick Santa Barbara Frame Sunglasses</caption-heading> in Tortoise, $155 <a href=\"http://heidimerrick.com\">heidimerrick.com</a>"
+                }
+              ]
+            },
+            {
+              "//": "======== SINGLE BLOCK CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLOCK - H1066.0/W519.0 * 100 = 205.3949904 ========",
+                  "role": "image",
+                  "layout": {
+                    "//": "IPAD CONDITION STYLING",
+                    "conditional": [
+                      {
+                        "//": "PHONE CONDITION STYLING",
+                        "conditions": [
+                          {
+                            "maxViewportWidth": 415
+                          }
+                        ],
+                        "horizontalContentAlignment": "center",
+                        "maximumContentWidth": "70cw",
+                        "minimumWidth": "70cw"
+                      }
+                    ],
+                    "horizontalContentAlignment": "center",
+                    "maximumContentWidth": "65cw",
+                    "minimumWidth": "65cw"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/black-graph_117/129721-1-eng-GB/black-graph_1172.png?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Staedtler Mars Lumograph Black Drawing Pencils,</caption-heading> $11 for a set of six <a href=\"http://dickblick.com\">dickblick.com</a>"
+                }
+              ]
             },
             {
               "role": "body",
-              "layout": "calloutBodyLayout",
-              "textStyle": "calloutBodyTextStyle",
+              "layout": "attributeLayout",
+              "textStyle": "attributeTextStyle",
               "format": "html",
-              "text": "Ingrown hairs are common after hair removal—growing strands can curve down or get stuck under a buildup of dead skin. An AHA exfoliant like <sidebar-lede>Flamingo Ingrown Spot Treatment</sidebar-lede> ($10; <a href=\"http://shopflamingo.com\">shopflamingo.com</a>)</i> can help. Use twice daily to resolve ingrowns and soothe irritation.</b>"
+              "text": "COURTESY MANUFACTURERS; PORTRAIT: COURTESY HEIDI MERRICK"
             }
           ]
         },
         {
           "role": "container",
-          "layout": "dividerStandardLayout",
-          "style": "dividerStandardStyle"
-        },
-        {
-          "//": "======== FULL BLEED CONTAINER ========",
-          "role": "container",
-          "layout": "fullBleedContainerLayout",
-          "components": [
+          "layout": "bodyContainerLayout",
+          "conditional": [
             {
-              "//": "======== IMAGE BLEED - H1712.0/W1367.0 * 100 = 125.2377469 ========",
-              "role": "photo",
-              "layout": "fullBleedPhotoLayout",
-              "URL": "https://cdn-assets.ziniopro.com/var/site_881/storage/images/media2/images/tlp-nala-09_031/221954-1-eng-US/tlp-nala-09_0312.jpg?q=100"
-            }
-          ]
-        },
-        {
-          "role": "heading2",
-          "layout": "heading2Layout",
-          "textStyle": "heading2TextStyle",
-          "format": "html",
-          "text": "Lessen Cellulite"
-        },
-        {
-          "role": "intro",
-          "layout": "introLayout",
-          "textStyle": "introTextStyle",
-          "format": "html",
-          "text": "Between 80 and 90 percent of women have it at some point, and it has nothing to do with your weight or how often you hit the gym. According to Dr. Fabi, the dimpling occurs when the connective cords that tether the layer of fat to the underlying muscle tissue pulls down, causing fat to accumulate and creating that orange-peel look. There’s no “cure,” but there are a few ways to help diminish its appearance."
-        },
-        {
-          "//": "======== FULL BLEED CONTAINER ========",
-          "role": "container",
-          "layout": "fullBleedContainerLayout",
-          "components": [
-            {
-              "//": "======== IMAGE BLEED - H1313.0/W1367.0 * 100 = 96.049744 ========",
-              "role": "image",
-              "layout": {
-                "maximumContentWidth": "55cw"
-              },
-              "URL": "https://public-assets.meredithcorp.io/73d30f91f68f8a0d22fb7fee7bdffa87/btight.png"
-            },
-            {
-              "//": "======== IMAGE BLOCK - H434.0/W473.0 * 100 = 91.7547569 ========",
-              "role": "image",
-              "layout": {
-                "maximumContentWidth": "55cw",
-                "padding": {
-                  "top": 10
+              "conditions": [
+                {
+                  "viewLocation": "article"
                 }
-              },
-              "URL": "https://public-assets.meredithcorp.io/31a99fdb572ca2c76d86b4b1d2777855/bodybutter.png"
-            }
-          ]
-        },
-        {
-          "role": "heading3",
-          "layout": "heading3Layout",
-          "textStyle": "heading3TextStyle",
-          "format": "html",
-          "text": "At Home"
-        },
-        {
-          "role": "body",
-          "layout": "bodyNoMarginAboveLayout",
-          "style": "paragraphStyle",
-          "textStyle": "bodyTextStyle",
-          "format": "html",
-          "text": "Two ingredients known to help smooth cellulite are caffeine and retinol. The former is a temporary fix because it revs up blood circulation and reduces water retention, which helps flatten the tissue. Try <b>1. Maëlys B-Tight Lift &amp;</b> <b>Firm Booty Mask</b> ($49; <a href=\"http://maelyscosmetics.com\">maelyscosmetics.com</a>)</i>. Retinol stimulates collagen production, and increased collagen leads to thicker skin, which lessens the appearance of dimpling, explains Dr. Fabi. In addition, a 2014 study published in the journal of <i>Clinical, Cosmetic and Investigational Dermatology</i> found that retinol, when used twice a day, improved the appearance of cellulite after three months. We like <b>2. Josie Maran Argan Pro-Retinol Whipped Body Butter</b> ($46; <a href=\"http://sephora.com\">sephora.com</a>)</i>. Just remember that retinol exfoliates, which leaves skin more vulnerable to sunburn, meaning you’ll need to be diligent about sunscreen use!"
-        },
-        {
-          "//": "======== SINGLE BLOCK CONTAINER ========",
-          "role": "container",
-          "layout": "singleBlockContainerLayout",
-          "components": [
-            {
-              "//": "======== IMAGE BLOCK - H694.0/W248.0 * 100 = 279.8387097 ========",
-              "role": "image",
-              "layout": {
-                "maximumContentWidth": "50cw"
-              },
-              "URL": "https://public-assets.meredithcorp.io/cf57dd9647ef4a8639d15b15005617c4/brush.png"
-            }
-          ]
-        },
-        {
-          "role": "heading3",
-          "layout": "heading3Layout",
-          "textStyle": "heading3TextStyle",
-          "format": "html",
-          "text": "Go-To Gadget"
-        },
-        {
-          "role": "body",
-          "layout": "bodyNoMarginAboveLayout",
-          "style": "paragraphStyle",
-          "textStyle": "bodyTextStyle",
-          "format": "html",
-          "text": "Manual massage can help, too. When you’re applying body lotions, actually knead the skin. Another way to boost circulation, according to Jennifer Woog, treatments supervisor at Rancho Valencia Resort &amp; Spa in Rancho Santa Fe, California, is to use a dry brush—the tool is a staple in spa treatments. <b>3. De La Heart The Body Brush</b> ($28; <a href=\"http://delaheart.com\">delaheart.com</a>)</i> fits in the palm of your hand. Before you shower, start brushing at your feet, using upward strokes on your legs toward your heart. Repeat from your hands and up the arms."
-        },
-        {
-          "role": "heading3",
-          "layout": "heading3Layout",
-          "textStyle": "heading3TextStyle",
-          "format": "html",
-          "text": "In Office"
-        },
-        {
-          "role": "body",
-          "layout": "bodyNoMarginAboveLayout",
-          "style": "paragraphStyle",
-          "textStyle": "bodyTextStyle",
-          "format": "html",
-          "text": "Qwo is a newly available FDA-approved injectable that’s for patients with 12 to 24 dimples on the buttocks—your provider will determine your eligibility. Enzymes called collagenases are injected into the dimpled area to release the fibrous bands that cause the tethered look on the surface. The result: a redistribution of fat cells and the stimulation of new collagen, which make for a smooth appearance. At $695–$995 for each of the three necessary sessions (over a two-month period), it’s not cheap; however, results are permanent. Expect some bruising, but discomfort should be minimal."
-        },
-        {
-          "role": "container",
-          "layout": "dividerStandardLayout",
-          "style": "dividerStandardStyle"
-        },
-        {
-          "role": "heading2",
-          "layout": "heading2Layout",
-          "textStyle": "heading2TextStyle",
-          "format": "html",
-          "text": "Tackle Spider Veins"
-        },
-        {
-          "role": "intro",
-          "layout": "introLayout",
-          "textStyle": "introTextStyle",
-          "format": "html",
-          "text": "Those pesky little leg veins seem to appear out of nowhere, especially for pregnant women or those over the age of 30 (thanks, hormones). The good news is they’re not dangerous and they’re easy to hide or treat."
-        },
-        {
-          "//": "======== FULL BLEED CONTAINER ========",
-          "role": "container",
-          "layout": "fullBleedContainerLayout",
-          "components": [
-            {
-              "//": "======== IMAGE BLEED - H2198.0/W1366.0 * 100 = 160.9077599 ========",
-              "role": "image",
-              "layout": {
-                "maximumContentWidth": "60cw"
-              },
-              "URL": "https://public-assets.meredithcorp.io/de90a9bf50895a52bac4b57caa0cce58/beauty.png"
-            }
-          ]
-        },
-        {
-          "role": "heading3",
-          "layout": "heading3Layout",
-          "textStyle": "heading3TextStyle",
-          "format": "html",
-          "text": "At Home"
-        },
-        {
-          "role": "body",
-          "layout": "bodyNoMarginAboveLayout",
-          "style": "paragraphStyle",
-          "textStyle": "bodyTextStyle",
-          "format": "html",
-          "text": "What concealer does for under-eye circles, it can do for leg discoloration, too. <b>4. Fenty Beauty Body Sauce Body Luminizing Tint</b> ($48; <a href=\"http://sephora.com\">sephora.com</a>)</i> is a concealer-luminizer hybrid that blurs imperfections and leaves behind a subtle glow. Choose from seven water-resistant shades."
-        },
-        {
-          "role": "heading3",
-          "layout": "heading3Layout",
-          "textStyle": "heading3TextStyle",
-          "format": "html",
-          "text": "In Office"
-        },
-        {
-          "role": "body",
-          "layout": "bodyNoMarginAboveLayout",
-          "style": "paragraphStyle",
-          "textStyle": "bodyTextStyle",
-          "format": "html",
-          "text": "“Spider veins are like branches of a tree trunk. If you just trim the branches, they will sprout again, so you need to eliminate the trunk,” explains Dr. Fabi. “The trunks are the blue veins that feed the red and purple spider veins.” Her method of choice is sclerotherapy; a solution is injected into the veins, which causes them to collapse or “scar.” The collapsed vein is absorbed by the body and disappears. The procedure can take three to four months to heal, and bruising on the surface may last a few weeks, but you’re left with long-term results. Also important to note: You’ll have to wear a compression stocking for a week or so after each treatment. Most patients will need two to four appointments, with a single session costing between $500 and $700."
-        },
-        {
-          "//": "======== SIDEBAR =======",
-          "role": "container",
-          "layout": "sidebarLayout",
-          "style": "sidebarStyle",
-          "components": [
-            {
-              "//": "======== SIDEBAR BODY CONTAINER =======",
-              "role": "container",
-              "layout": "bodyContainerLayout",
-              "components": [
-                {
-                  "role": "heading2",
-                  "layout": "sidebarHeading2Layout",
-                  "textStyle": "sidebarHeading2TextStyle",
-                  "format": "html",
-                  "text": "Body of Work"
-                },
-                {
-                  "role": "body",
-                  "layout": "sidebarIntroLayout",
-                  "style": "paragraphStyle",
-                  "textStyle": "sidebarIntroTextStyle",
-                  "format": "html",
-                  "text": "Ever wonder about body-sculpting treatments? Here’s the lowdown on three popular ones."
-                },
-                {
-                  "//": "======== SIDEBAR SINGLE BLOCK CONTAINER ========",
-                  "role": "container",
-                  "layout": "sidebarSingleBlockContainerLayout",
-                  "components": [
-                    {
-                      "//": "======== IMAGE BLOCK - H1744.0/W1367.0 * 100 = 127.5786394 ========",
-                      "role": "image",
-                      "URL": "https://cdn-assets.ziniopro.com/var/site_881/storage/images/media2/images/tlp-iama-01_037/221912-1-eng-US/tlp-iama-01_0372.jpg?q=100"
-                    }
-                  ]
-                },
-                {
-                  "role": "body",
-                  "layout": "sidebarBodyLayout",
-                  "style": "paragraphStyle",
-                  "textStyle": "sidebarBodyTextStyle",
-                  "format": "html",
-                  "text": "<b>CoolTone is for people who want extra help defining the abdomen, thighs, or buttocks.</b> It uses magnetic muscle stimulation to engage the muscles, making them contract, resulting in a more sculpted look. (The contractions feel mild and are mostly tolerated well.) For four 30-minute treatments within two weeks, it’s about $2,000. The outcome isn’t permanent—Dr. Fabi recommends upkeep sessions every four to six months."
-                },
-                {
-                  "role": "body",
-                  "layout": "sidebarBodyLayout",
-                  "style": "paragraphStyle",
-                  "textStyle": "sidebarBodyTextStyle",
-                  "format": "html",
-                  "text": "<b>If you’re looking for fat reduction rather than simply toning, consider SculpSure.</b> Most commonly used on the belly, love handles, back, thighs, and under the chin, it uses light-based technology to heat the fat cells and melt them, reducing the amount of fat cells you have in about 25 minutes. The destroyed fat cells won’t come back, but cells that remain can grow larger again with weight gain. Expect to pay about $1,000 per session, depending on the area of the body being treated. (Many doctors will offer a deal if you require more than one treatment, or if you’re treating multiple areas). You could feel pain that many liken to intense muscle cramps with a warming sensation, but most providers have nitrous oxide (laughing gas) to help."
-                },
-                {
-                  "role": "body",
-                  "layout": "sidebarBodyLayout",
-                  "style": "paragraphStyle",
-                  "textStyle": "sidebarBodyTextStyle",
-                  "format": "html",
-                  "text": "<b>For a less invasive form of liposuction, look into BodyTite.</b> A probe is inserted through a very small incision; it works with an external electrode to emit radiofrequency energy that dissolves fat, then removes it and tightens skin simultaneously. It’s used in places like the chin and neck, abdomen, buttocks, hips, knees, thighs, and upper arms. Dr. Frank likes it for patients who are looking to remove more than 12 ounces of fat as well as tighten skin. The treatment will cost you about $3,000, depending on the area, and typically requires a few days for recovery and a compression garment to help with healing. Results can last years, but as skin ages and stretches, a patient may require another treatment down the line."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "role": "body",
-          "layout": "attributeLayout",
-          "textStyle": "attributeTextStyle",
-          "format": "html",
-          "text": "Kat Borchart/The Licensing Project; Woman: Deniz Alaca/The Licensing Project, Nat Lanyon/The Licensing Project; Product images courtesty of manufacturers; Runner: Ian Maddox/The Licensing Project"
-        }
-      ]
-    },
-    {
-      "role": "container",
-      "layout": "bodyContainerLayout",
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "viewLocation": "article"
+              ],
+              "hidden": false
             }
           ],
-          "hidden": false
-        }
-      ],
-      "hidden": true,
-      "components": [
-        {
-          "role": "container",
-          "layout": "dividerLayout",
-          "style": "dividerSectionHeadStyle"
-        },
-        {
-          "//": "=== VISIT TOC LINK, ONLY VISIBLE IF USER IS IN ARTICLE VIEW ===",
-          "role": "body",
-          "layout": "bodyLayout",
-          "textStyle": "tocTextStyle",
-          "format": "html",
-          "text": "<a href='https://apple.news/ALut7AahwEeu6DTM4ql0FLA'>Tap here</a> to see more from this issue of <i>Health</i>"
+          "hidden": true,
+          "components": [
+            {
+              "role": "container",
+              "layout": "dividerLayout",
+              "style": "dividerSectionHeadStyle"
+            },
+            {
+              "//": "=== VISIT TOC LINK, ONLY VISIBLE IF USER IS IN ARTICLE VIEW ===",
+              "role": "body",
+              "layout": "bodyLayout",
+              "textStyle": "tocTextStyle",
+              "format": "html",
+              "text": "<a href='https://apple.news/Atu42odFLEeyNtj96zSKRvQ'>Tap here</a> to see more from this issue of <i>Coastal Living</i>"
+            }
+          ]
         }
       ]
     }
   ],
   "componentLayouts": {
     "attributeLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": 15
     },
     "authorLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
-        "bottom": 10
+        "bottom": 5
       }
     },
     "blockContainerLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "ignoreDocumentMargin": true,
       "margin": {
         "bottom": 10,
@@ -587,15 +600,19 @@
       "margin": 10
     },
     "bodyLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
-      "margin": 10
-    },
-    "bodyNoMarginAboveLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
-        "bottom": 10
+        "bottom": 10,
+        "top": 2
+      }
+    },
+    "bodySmallMarginAboveLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 10,
+        "top": 10
       }
     },
     "bottomPhotoDividerLayout": {
@@ -615,7 +632,10 @@
     "calloutLayout": {
       "columnSpan": 16,
       "columnStart": 2,
-      "margin": 20,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
       "padding": {
         "bottom": 10,
         "left": 20,
@@ -637,17 +657,6 @@
         "top": 20
       }
     },
-    "customHeaderLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
-      "margin": {
-        "bottom": 30
-      },
-      "padding": {
-        "bottom": 20,
-        "top": 35
-      }
-    },
     "darkModePaddingLayout": {
       "conditional": [
         {
@@ -657,11 +666,7 @@
               "preferredColorScheme": "dark"
             }
           ],
-          "margin": {
-            "bottom": 10,
-            "top": 10
-          },
-          "padding": "10"
+          "padding": 10
         }
       ]
     },
@@ -669,11 +674,14 @@
       "//": "UNUSED"
     },
     "dividerLayout": {
-      "//": "UNUSED"
+      "margin": {
+        "bottom": 20,
+        "top": 10
+      }
     },
     "dividerStandardLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
         "bottom": 10,
         "top": 20
@@ -681,25 +689,13 @@
       "minimumHeight": 1
     },
     "dividerTocLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
-      "ignoreDocumentMargin": true,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
         "bottom": 15,
         "top": 20
       },
-      "minimumHeight": 1
-    },
-    "editorSigLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
-      "horizontalContentAlignment": "left",
-      "margin": {
-        "bottom": 10,
-        "top": 20
-      },
-      "maximumContentWidth": "25cw",
-      "minimumHeight": 100
+      "minimumHeight": 10
     },
     "floatContainerLayout": {
       "columnSpan": 4,
@@ -721,13 +717,6 @@
       "margin": {
         "bottom": 10,
         "top": 20
-      }
-    },
-    "fullBleedContainerLayout2": {
-      "ignoreDocumentMargin": true,
-      "margin": {
-        "bottom": 0,
-        "top": 10
       }
     },
     "fullBleedDividerLayout": {
@@ -757,38 +746,38 @@
       }
     },
     "heading2Layout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
-        "top": 20
+        "top": 10
       }
     },
     "heading3Layout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
         "top": 10
       }
     },
     "heading4Layout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
         "top": 10
       }
     },
     "heading5Layout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
         "top": 10
       }
     },
     "heading6Layout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
-        "top": 20
+        "top": 10
       }
     },
     "heroImageLayout": {
@@ -799,113 +788,59 @@
       }
     },
     "heroImageTallLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
         "bottom": 10,
         "top": 15
       }
     },
     "ingredientsLayout": {
+      "margin": 10
+    },
+    "ingredientsNoMarginAboveLayout": {
       "margin": {
-        "bottom": 5
+        "bottom": 10,
+        "top": 0
       }
     },
     "introLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
-        "bottom": 12
+        "bottom": 10
       }
     },
     "noMarginLayout": {
-      "columnSpan": 18,
-      "columnStart": 1
-    },
-    "photoCreditLayout": {
-      "ignoreDocumentMargin": true,
-      "margin": {
-        "top": 8
-      },
-      "padding": {
-        "right": 15
-      }
+      "columnSpan": 19,
+      "columnStart": 2
     },
     "productImageStandardLayout": {
       "minimumHeight": 280
     },
-    "pullQuoteLayout": {
-      "columnSpan": 16,
+    "pullQuoteBodyLayout": {
+      "columnSpan": 19,
       "columnStart": 2,
-      "conditional": [
-        {
-          "columnSpan": 16,
-          "columnStart": 2,
-          "conditions": [
-            {
-              "minViewportWidth": 600
-            }
-          ],
-          "padding": {
-            "bottom": 30,
-            "left": "7cw",
-            "right": "7cw",
-            "top": 30
-          }
-        }
-      ],
-      "margin": 20,
-      "padding": {
-        "bottom": 25,
-        "left": 20,
-        "right": 20,
-        "top": 22
+      "margin": {
+        "bottom": 0,
+        "top": 5
       }
     },
-    "recipeIconLayout": {
-      "horizontalContentAlignment": "center",
-      "maximumContentWidth": 30
-    },
-    "recipeKeyImageLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
-      "horizontalContentAlignment": "left",
+    "pullQuoteLayout": {
+      "columnSpan": 20,
+      "columnStart": 0,
       "margin": {
-        "bottom": 10,
-        "top": 5
-      },
-      "maximumContentWidth": 370,
-      "URL": "https://public-assets-dev.meredithcorp.io/a74420c0cf40518e44c2f5741bff24e2/key.png"
-    },
-    "recipeLabelLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
-      "horizontalContentAlignment": "left",
-      "margin": {
-        "bottom": 10,
-        "top": 20
-      },
-      "maximumContentWidth": "25cw",
-      "minimumHeight": 35
-    },
-    "recipeSubheadLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
-      "margin": {
-        "bottom": 4,
-        "top": 5
+        "bottom": 15,
+        "top": 15
       }
     },
     "sectionLayout": {
       "margin": {
-        "bottom": 25,
+        "bottom": "20",
         "top": 5
       }
     },
     "sidebarBodyLayout": {
-      "margin": 10
-    },
-    "sidebarBodyNoMarginAboveLayout": {
       "margin": {
         "bottom": 10
       }
@@ -923,8 +858,7 @@
     },
     "sidebarHeading2Layout": {
       "margin": {
-        "bottom": 10,
-        "top": 10
+        "top": 20
       }
     },
     "sidebarHeading3Layout": {
@@ -944,14 +878,13 @@
       }
     },
     "sidebarLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": 20,
       "padding": {
         "bottom": 10,
-        "left": 30,
-        "right": 30,
-        "top": 10
+        "left": 20,
+        "right": 20
       }
     },
     "sidebarSingleBlockContainerLayout": {
@@ -965,50 +898,67 @@
         "top": 2
       }
     },
-    "sidebarStraplineLayout": {
-      "margin": {
-        "top": 10
-      }
-    },
     "singleBlockContainerLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
         "bottom": 10,
         "top": 20
       }
     },
     "smallMarginAboveLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
         "top": 2
       }
     },
+    "smallSpacerLayout": {
+      "maximumWidth": 5,
+      "minimumWidth": 5
+    },
     "spacerLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
         "bottom": 10,
         "top": 20
       }
     },
-    "straplineLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+    "starsImageLayout": {
       "margin": {
-        "bottom": 4
+        "top": 2
+      },
+      "maximumWidth": 100
+    },
+    "straplineLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "top": 10
       }
     },
     "titleLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
+      "columnSpan": 19,
+      "columnStart": 2,
       "margin": {
-        "bottom": 15
+        "top": 5
       }
     },
     "topPhotoDividerLayout": {
       "//": "UNUSED"
+    },
+    "youSaidContainerLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "youSaidImageLayout": {
+      "horizontalContentAlignment": "center",
+      "margin": {
+        "bottom": 10
+      }
     }
   },
   "componentStyles": {
@@ -1064,19 +1014,6 @@
     "captionAdStyle": {
       "//": "UNUSED"
     },
-    "customHeaderStyle": {
-      "backgroundColor": "#FDEAEB",
-      "conditional": [
-        {
-          "backgroundColor": "#FDEAEB",
-          "conditions": [
-            {
-              "preferredColorScheme": "dark"
-            }
-          ]
-        }
-      ]
-    },
     "darkModeBackgroundStyle": {
       "conditional": [
         {
@@ -1127,30 +1064,6 @@
     },
     "dividerTocStyle": {
       "//": "UNUSED"
-    },
-    "editorSigStyle": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minSpecVersion": "1.14",
-              "preferredColorScheme": "dark"
-            }
-          ],
-          "fill": {
-            "fillMode": "fit",
-            "horizontalAlignment": "left",
-            "type": "image",
-            "URL": "https://public-assets.meredithcorp.io/6a4d216cc9de23a7e8167b2d1c0a2530/amyconway-3.png"
-          }
-        }
-      ],
-      "fill": {
-        "fillMode": "fit",
-        "horizontalAlignment": "left",
-        "type": "image",
-        "URL": "https://cdn-assets.ziniopro.com/var/site_881/storage/images/media2/images/amyconway_s_0082/160366-1-eng-US/amyconway_s_0082.jpg?q=100"
-      }
     },
     "fullBleedContainerStyle": {
       "//": "UNUSED"
@@ -1221,9 +1134,6 @@
               "width": 45
             }
           ]
-        },
-        "rows": {
-          "height": 20
         }
       }
     },
@@ -1242,272 +1152,16 @@
     "pullQuoteStyle": {
       "//": "UNUSED"
     },
-    "recipeLabelStyleGF": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minSpecVersion": "1.14",
-              "preferredColorScheme": "dark"
-            }
-          ],
-          "fill": {
-            "fillMode": "fit",
-            "horizontalAlignment": "left",
-            "type": "image",
-            "URL": "https://public-assets.meredithcorp.io/dfbbf2648453bca9aa4103c69dc0bd45/recipe-gf.png"
-          }
-        }
-      ],
-      "fill": {
-        "fillMode": "fit",
-        "horizontalAlignment": "left",
-        "type": "image",
-        "URL": "https://public-assets.meredithcorp.io/dfeb90a955a7147a00a5ee9d2db0ba02/recipe-gf.jpg"
-      }
-    },
-    "recipeLabelStyleGFCentered": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minSpecVersion": "1.14",
-              "preferredColorScheme": "dark"
-            }
-          ],
-          "fill": {
-            "fillMode": "fit",
-            "horizontalAlignment": "center",
-            "type": "image",
-            "URL": "https://public-assets.meredithcorp.io/dfbbf2648453bca9aa4103c69dc0bd45/recipe-gf.png"
-          }
-        }
-      ],
-      "fill": {
-        "fillMode": "fit",
-        "horizontalAlignment": "center",
-        "type": "image",
-        "URL": "https://public-assets.meredithcorp.io/dfeb90a955a7147a00a5ee9d2db0ba02/recipe-gf.jpg"
-      }
-    },
-    "recipeLabelStyleHF": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minSpecVersion": "1.14",
-              "preferredColorScheme": "dark"
-            }
-          ],
-          "fill": {
-            "fillMode": "fit",
-            "horizontalAlignment": "left",
-            "type": "image",
-            "URL": "https://public-assets.meredithcorp.io/ce1f31c4570bbaa3b49d547bd8429f45/recipe-hf.png"
-          }
-        }
-      ],
-      "fill": {
-        "fillMode": "fit",
-        "horizontalAlignment": "left",
-        "type": "image",
-        "URL": "https://public-assets.meredithcorp.io/18db01f9c694387b540dc500a5ea8f8a/recipe-hf.jpg"
-      }
-    },
-    "recipeLabelStyleHFCentered": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minSpecVersion": "1.14",
-              "preferredColorScheme": "dark"
-            }
-          ],
-          "fill": {
-            "fillMode": "fit",
-            "horizontalAlignment": "center",
-            "type": "image",
-            "URL": "https://public-assets.meredithcorp.io/ce1f31c4570bbaa3b49d547bd8429f45/recipe-hf.png"
-          }
-        }
-      ],
-      "fill": {
-        "fillMode": "fit",
-        "horizontalAlignment": "center",
-        "type": "image",
-        "URL": "https://public-assets.meredithcorp.io/18db01f9c694387b540dc500a5ea8f8a/recipe-hf.jpg"
-      }
-    },
-    "recipeLabelStyleHP": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minSpecVersion": "1.14",
-              "preferredColorScheme": "dark"
-            }
-          ],
-          "fill": {
-            "fillMode": "fit",
-            "horizontalAlignment": "left",
-            "type": "image",
-            "URL": "https://public-assets.meredithcorp.io/93ffc89bd8769a3b27583d8d134e4aa0/recipe-hp.png"
-          }
-        }
-      ],
-      "fill": {
-        "fillMode": "fit",
-        "horizontalAlignment": "left",
-        "type": "image",
-        "URL": "https://public-assets.meredithcorp.io/cc365a9d946e629f954cf7e27638edd7/recipe-hp.jpg"
-      }
-    },
-    "recipeLabelStyleHPCentered": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minSpecVersion": "1.14",
-              "preferredColorScheme": "dark"
-            }
-          ],
-          "fill": {
-            "fillMode": "fit",
-            "horizontalAlignment": "center",
-            "type": "image",
-            "URL": "https://public-assets.meredithcorp.io/93ffc89bd8769a3b27583d8d134e4aa0/recipe-hp.png"
-          }
-        }
-      ],
-      "fill": {
-        "fillMode": "fit",
-        "horizontalAlignment": "center",
-        "type": "image",
-        "URL": "https://public-assets.meredithcorp.io/cc365a9d946e629f954cf7e27638edd7/recipe-hp.jpg"
-      }
-    },
-    "recipeLabelStyleV": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minSpecVersion": "1.14",
-              "preferredColorScheme": "dark"
-            }
-          ],
-          "fill": {
-            "fillMode": "fit",
-            "horizontalAlignment": "left",
-            "type": "image",
-            "URL": "https://public-assets.meredithcorp.io/aae176470f83acb5f8ce099508788935/recipe-v.png"
-          }
-        }
-      ],
-      "fill": {
-        "fillMode": "fit",
-        "horizontalAlignment": "left",
-        "type": "image",
-        "URL": "https://public-assets.meredithcorp.io/2c98d7efd2ffa980b3283cab6654a319/recipe-v.jpg"
-      }
-    },
-    "recipeLabelStyleVCentered": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minSpecVersion": "1.14",
-              "preferredColorScheme": "dark"
-            }
-          ],
-          "fill": {
-            "fillMode": "fit",
-            "horizontalAlignment": "Center",
-            "type": "image",
-            "URL": "https://public-assets.meredithcorp.io/aae176470f83acb5f8ce099508788935/recipe-v.png"
-          }
-        }
-      ],
-      "fill": {
-        "fillMode": "fit",
-        "horizontalAlignment": "center",
-        "type": "image",
-        "URL": "https://public-assets.meredithcorp.io/2c98d7efd2ffa980b3283cab6654a319/recipe-v.jpg"
-      }
-    },
-    "recipeLabelStyleVE": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minSpecVersion": "1.14",
-              "preferredColorScheme": "dark"
-            }
-          ],
-          "fill": {
-            "fillMode": "fit",
-            "horizontalAlignment": "left",
-            "type": "image",
-            "URL": "https://public-assets.meredithcorp.io/9f017d09f19a549a7e69be76e8699460/recipe-ve.png"
-          }
-        }
-      ],
-      "fill": {
-        "fillMode": "fit",
-        "horizontalAlignment": "left",
-        "type": "image",
-        "URL": "https://public-assets.meredithcorp.io/f83a6de315a61acf3ad247ab382270d2/recipe-ve.jpg"
-      }
-    },
-    "recipeLabelStyleVECentered": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minSpecVersion": "1.14",
-              "preferredColorScheme": "dark"
-            }
-          ],
-          "fill": {
-            "fillMode": "fit",
-            "horizontalAlignment": "center",
-            "type": "image",
-            "URL": "https://public-assets.meredithcorp.io/9f017d09f19a549a7e69be76e8699460/recipe-ve.png"
-          }
-        }
-      ],
-      "fill": {
-        "fillMode": "fit",
-        "horizontalAlignment": "center",
-        "type": "image",
-        "URL": "https://public-assets.meredithcorp.io/f83a6de315a61acf3ad247ab382270d2/recipe-ve.jpg"
-      }
-    },
     "sectionStyle": {
       "//": "UNUSED"
     },
     "sidebarNoBackgroundStyle": {
       "border": {
         "all": {
-          "color": "#f8ecdc",
-          "width": 4
+          "color": "#000",
+          "width": 2
         }
-      },
-      "conditional": [
-        {
-          "border": {
-            "all": {
-              "color": "#f8ecdc",
-              "width": 4
-            }
-          },
-          "conditions": [
-            {
-              "minSpecVersion": "1.14",
-              "preferredColorScheme": "dark"
-            }
-          ]
-        }
-      ]
+      }
     },
     "sidebarStyle": {
       "border": {
@@ -1558,6 +1212,13 @@
     },
     "titleStyle": {
       "//": "UNUSED"
+    },
+    "youSaidImageStyle": {
+      "backgroundColor": "#008080",
+      "mask": {
+        "radius": "60cw",
+        "type": "corners"
+      }
     },
     "numbersContainerStyle": {
       "border": {
@@ -1676,7 +1337,7 @@
   },
   "textStyles": {
     "creditTextStyle": {
-      "fontName": "BentonSans-Book",
+      "fontName": "Gotham-Book",
       "fontSize": 10,
       "textColor": "#8d8d8d",
       "tracking": 0.05
@@ -1684,6 +1345,12 @@
     "default-tag-caption-heading": {
       "fontName": "Barlow-ExtraBold",
       "textTransform": "uppercase"
+    },
+    "default-tag-caption-i": {
+      "fontName": "Gotham-Book"
+    },
+    "default-tag-caption-italic": {
+      "fontName": "Gotham-MediumItalic"
     },
     "default-tag-emoji": {
       "fontName": "AppleColorEmoji"
@@ -1693,25 +1360,15 @@
       "textTransform": "uppercase",
       "tracking": 0.1
     },
-    "default-tag-pipe": {
-      "fontName": "BentonSans-Book",
-      "fontSize": 32
-    },
     "default-tag-pullquote-attribution": {
       "fontName": "Barlow-Medium",
       "fontSize": 16,
       "textTransform": "capitalize",
       "textColor": "#000"
     },
-    "default-tag-q": {
-      "fontName": "LibreFranklin-ExtraBold"
-    },
     "default-tag-sidebar-lede": {
       "fontName": "Barlow-Black",
       "textColor": "#000"
-    },
-    "default-tag-small": {
-      "fontSize": 10
     },
     "default-tag-subsection": {
       "fontName": "BarlowCondensed-ExtraBold",
@@ -1923,53 +1580,6 @@
       "tracking": 0.02,
       "textColor": "#59595b"
     },
-    "customSectionHeadingTextStyle": {
-      "fontName": "BentonSans-Black",
-      "fontSize": 52,
-      "lineHeight": 40,
-      "textAlignment": "center",
-      "tracking": 0.04
-    },
-    "customSectionSubHeadingBeautyTextStyle": {
-      "fontName": "LibreFranklin-Bold",
-      "fontSize": 13,
-      "lineHeight": 15,
-      "textAlignment": "center",
-      "textTransform": "uppercase",
-      "tracking": 0.15
-    },
-    "customSectionSubHeadingBodyAndMindTextStyle": {
-      "fontName": "LibreFranklin-Bold",
-      "fontSize": 12,
-      "lineHeight": 14,
-      "textAlignment": "center",
-      "textTransform": "uppercase",
-      "tracking": 0.15
-    },
-    "customSectionSubHeadingFoodTextStyle": {
-      "fontName": "LibreFranklin-Bold",
-      "fontSize": 13,
-      "lineHeight": 15,
-      "textAlignment": "center",
-      "textTransform": "uppercase",
-      "tracking": 0.15
-    },
-    "customSectionSubHeadingLifeTextStyle": {
-      "fontName": "LibreFranklin-Bold",
-      "fontSize": 13,
-      "lineHeight": 15,
-      "textAlignment": "center",
-      "textTransform": "uppercase",
-      "tracking": 0.15
-    },
-    "customSectionSubHeadingTheShareTextStyle": {
-      "fontName": "LibreFranklin-Bold",
-      "fontSize": 14,
-      "lineHeight": 16,
-      "textAlignment": "center",
-      "textTransform": "uppercase",
-      "tracking": 0.15
-    },
     "default": {
       "fontName": "Barlow-Black",
       "textColor": "#000",
@@ -2064,7 +1674,9 @@
       "fontName": "Barlow-Bold"
     },
     "heading5CenteredTextStyle": {
-      "textAlignment": "center"
+      "fontName": "GothamNarrow-Bold",
+      "textAlignment": "center",
+      "textTransform": "uppercase"
     },
     "heading5TextStyle": {
       "fontName": "Barlow-Bold"
@@ -2077,22 +1689,13 @@
       "textTransform": "uppercase"
     },
     "ingredientsTextStyle": {
-      "fontName": "LibreFranklin-SemiBold",
-      "fontSize": 15,
-      "lineHeight": 19
+      "fontName": "GothamNarrow-Book",
+      "lineHeight": 24
     },
     "introTextStyle": {
       "//": "THE BRIEF and MINI FEATURE",
       "fontName": "Barlow-Medium",
       "textColor": "#59595b"
-    },
-    "photoCreditTextStyle": {
-      "fontName": "BentonSans-Book",
-      "fontSize": 10,
-      "lineHeight": 12,
-      "textAlignment": "right",
-      "textTransform": "uppercase",
-      "tracking": 0.05
     },
     "pullQuoteTextStyle": {
       "textColor": "lightpink",
@@ -2119,34 +1722,19 @@
         }
       ]
     },
-    "recipeBodyTextStyle": {
-      "fontName": "LibreFranklin-Regular",
-      "fontSize": 16,
-      "lineHeight": 20
-    },
     "recipeDetailsTextStyle": {
-      "fontName": "LibreFranklin-Regular",
-      "fontSize": 15,
-      "lineHeight": 17
-    },
-    "recipeNutritionInfoTextStyle": {
-      "fontName": "LibreFranklin-Regular",
+      "fontName": "GothamNarrow-Book",
       "fontSize": 14,
       "lineHeight": 16
     },
-    "recipeSubheadTextStyle": {
-      "fontName": "LibreFranklin-Bold",
-      "fontSize": 17,
-      "lineHeight": 19,
-      "textTransform": "uppercase",
-      "tracking": 0.02
+    "reviewsTextStyle": {
+      "fontName": "GothamNarrow-Black"
     },
-    "recipeTitleTextStyle": {
-      "fontSize": 24,
-      "lineHeight": 26,
-      "textTransform": "uppercase",
-      "tracking": 0.06,
-      "underline": true
+    "savedTextStyle": {
+      "fontName": "GothamNarrow-Book",
+      "fontSize": 16,
+      "lineHeight": 18,
+      "textTransform": "uppercase"
     },
     "sectionTextStyle": {
       "fontName": "BarlowCondensed-Light",
@@ -2216,13 +1804,6 @@
           ]
         }
       ]
-    },
-    "sidebarStraplineTextStyle": {
-      "fontSize": 14,
-      "lineHeight": 16,
-      "textAlignment": "center",
-      "textTransform": "uppercase",
-      "tracking": 0.08
     },
     "straplineTextStyle": {
       "//": "THE BRIEF",

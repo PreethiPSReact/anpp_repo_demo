@@ -1,7 +1,7 @@
 {
   "version": "1.9",
-  "identifier": "alr_article_899-131-12-1",
-  "title": "FROM THE GROUND UP",
+  "identifier": "bhg_article_716-391-12-1",
+  "title": "Sun-Sational Prints",
   "language": "en",
   "layout": {
     "columns": 20,
@@ -9,164 +9,25 @@
     "margin": 40,
     "width": 1024
   },
-  "subtitle": "<p><b><custom name=\"underline\">These recipes begin with a ground meat&mdash;beef, chicken, turkey, or pork&mdash;and then build into easy, speedy burgers, lasagna cupcakes, meatloaf, and more.</custom></b></p>",
+  "subtitle": "Somewhere between science and magic, cyanotypes use the power of the sun to record graphic blue-and-white prints. Grab a kit and use it to memorialize a summer day.",
   "metadata": {
-    "dateCreated": "2022-06-21T16:54:01.449Z",
-    "dateModified": "2022-06-21T15:09:12+00:00",
-    "excerpt": "HANDS-ON 20 MIN",
-    "generatorName": "All-Recipes -- Recipe",
+    "authors": [
+      "Ella Field",
+      "Kelsey Hansen",
+      "Crafts",
+      "Kim Hutchison"
+    ],
+    "dateCreated": "2022-06-09T17:50:38.906Z",
+    "dateModified": "2022-06-07T20:16:01+00:00",
+    "excerpt": "Developed in 1842 by John Herschel, cyanotypes are an early form of photography. They’re made by placing objects on light-reactive paper.",
+    "generatorName": "ANTE Generic Template",
     "generatorVersion": "0.0.4.33-2022-06-09 18:32",
-    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p012-013-alt102382-mushroom-beef-burgers/199191-1-eng-GB/p012-013-alt102382-mushroom-beef-burgers.jpg?q=100"
+    "issue": {
+      "identifier": "PLACEHOLDER_ID",
+      "tocByline": "By Ella Field"
+    },
+    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_716/storage/images/media2/images/p012-bhg0822-cyanotype-hero/591115-1-eng-US/p012-bhg0822-cyanotype-hero.png?q=100"
   },
-  "missingData": [
-    {
-      "//": "======== SINGLE BLOCK CONTAINER ========",
-      "role": "container",
-      "layout": "singleBlockContainerLayout",
-      "components": [
-        {
-          "//": "======== IMAGE BLOCK - H74.0/W421.0 * 100 = 17.5771971 ========",
-          "role": "photo",
-          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0013-0125/197521-1-eng-GB/f0013-012.jpg?q=100"
-        }
-      ]
-    },
-    {
-      "role": "body",
-      "layout": "bodyLayout",
-      "style": "paragraphStyle",
-      "textStyle": "bodyTextStyle",
-      "format": "html",
-      "text": "7 REVIEWS"
-    },
-    {
-      "//": "======== SINGLE BLOCK CONTAINER ========",
-      "role": "container",
-      "layout": "singleBlockContainerLayout",
-      "components": [
-        {
-          "//": "======== IMAGE BLOCK - H38.0/W211.0 * 100 = 18.0094787 ========",
-          "role": "photo",
-          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0014-0129/197493-1-eng-GB/f0014-012.jpg?q=100"
-        }
-      ]
-    },
-    {
-      "role": "body",
-      "layout": "bodyLayout",
-      "style": "paragraphStyle",
-      "textStyle": "bodyTextStyle",
-      "format": "html",
-      "text": "115 REVIEWS"
-    },
-    {
-      "//": "======== SINGLE BLOCK CONTAINER ========",
-      "role": "container",
-      "layout": "singleBlockContainerLayout",
-      "components": [
-        {
-          "//": "======== IMAGE BLOCK - H476.0/W394.0 * 100 = 120.8121827 ========",
-          "role": "photo",
-          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p014-alt102382-alr-badge/199177-1-eng-GB/p014-alt102382-alr-badge.png?q=100"
-        }
-      ]
-    },
-    {
-      "role": "heading3",
-      "layout": "heading3Layout",
-      "textStyle": "heading3TextStyle",
-      "format": "html",
-      "text": "<b>ALEXA-ENABLED!</b>"
-    },
-    {
-      "//": "======== SINGLE BLOCK CONTAINER ========",
-      "role": "container",
-      "layout": "singleBlockContainerLayout",
-      "components": [
-        {
-          "//": "======== IMAGE BLOCK - H74.0/W420.0 * 100 = 17.6190476 ========",
-          "role": "photo",
-          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0016-0139/197458-1-eng-GB/f0016-012.jpg?q=100"
-        }
-      ]
-    },
-    {
-      "role": "body",
-      "layout": "bodyLayout",
-      "style": "paragraphStyle",
-      "textStyle": "bodyTextStyle",
-      "format": "html",
-      "text": "72 REVIEWS"
-    },
-    {
-      "//": "======== SINGLE BLOCK CONTAINER ========",
-      "role": "container",
-      "layout": "singleBlockContainerLayout",
-      "components": [
-        {
-          "//": "======== IMAGE BLOCK - H74.0/W420.0 * 100 = 17.6190476 ========",
-          "role": "photo",
-          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0017-0129/197437-1-eng-GB/f0017-012.jpg?q=100"
-        }
-      ]
-    },
-    {
-      "role": "body",
-      "layout": "bodyLayout",
-      "style": "paragraphStyle",
-      "textStyle": "bodyTextStyle",
-      "format": "html",
-      "text": "184 REVIEWS"
-    },
-    {
-      "//": "======== SINGLE BLOCK CONTAINER ========",
-      "role": "container",
-      "layout": "singleBlockContainerLayout",
-      "components": [
-        {
-          "//": "======== IMAGE BLOCK - H74.0/W421.0 * 100 = 17.5771971 ========",
-          "role": "photo",
-          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0018-0145/197423-1-eng-GB/f0018-012.jpg?q=100"
-        }
-      ]
-    },
-    {
-      "role": "body",
-      "layout": "bodyLayout",
-      "style": "paragraphStyle",
-      "textStyle": "bodyTextStyle",
-      "format": "html",
-      "text": "51 REVIEWS"
-    },
-    {
-      "//": "======== SINGLE BLOCK CONTAINER ========",
-      "role": "container",
-      "layout": "singleBlockContainerLayout",
-      "components": [
-        {
-          "//": "======== IMAGE BLOCK - H74.0/W421.0 * 100 = 17.5771971 ========",
-          "role": "photo",
-          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0019-0123/197409-1-eng-GB/f0019-012.jpg?q=100"
-        }
-      ]
-    },
-    {
-      "role": "body",
-      "layout": "bodyLayout",
-      "style": "paragraphStyle",
-      "textStyle": "bodyTextStyle",
-      "format": "html",
-      "text": "518 REVIEWS"
-    },
-    {
-      "role": "body",
-      "layout": "bodyLayout",
-      "style": "paragraphStyle",
-      "textStyle": "bodyTextStyle",
-      "format": "html",
-      "text": "<b>PICK YOUR SALSA</b>&nbsp;With so many different salsa options on store shelves, you can give this meatloaf a different flavor each time you make it. Try chipotle salsa for a deep, smoky flavor. Go green by using salsa verde. Or add a fruity salsa, such as pineapple or peach salsa, for a sweet-savory twist.<span class=\"end-marker\"> ■</span>"
-    }
-  ],
   "documentStyle": {
     "backgroundColor": "#eee"
   },
@@ -201,12 +62,44 @@
       },
       "components": [
         {
-          "//": "==== DEFAULT HEADER: SECTION ===",
-          "role": "heading",
-          "layout": "sectionLayout",
-          "textStyle": "sectionTextStyle",
-          "format": "html",
-          "text": "5-INGREDIENT RECIPES"
+          "role": "container",
+          "layout": {
+            "conditional": [
+              {
+                "conditions": [
+                  {
+                    "minViewportWidth": 415
+                  }
+                ],
+                "minimumHeight": "10cw"
+              }
+            ],
+            "minimumHeight": "14cw"
+          },
+          "style": {
+            "conditional": [
+              {
+                "conditions": [
+                  {
+                    "minSpecVersion": "1.14",
+                    "preferredColorScheme": "dark"
+                  }
+                ],
+                "fill": {
+                  "fillMode": "fit",
+                  "horizontalAlignment": "left",
+                  "type": "image",
+                  "URL": "https://public-assets.meredithcorp.io/2d7d28561add354e2d755cf160ffa77c/life-crafts_DM.jpg"
+                }
+              }
+            ],
+            "fill": {
+              "fillMode": "fit",
+              "horizontalAlignment": "left",
+              "type": "image",
+              "URL": "https://public-assets.meredithcorp.io/7ff9ff0c6caa435d0da091d31ab7500b/life-crafts.jpg"
+            }
+          }
         },
         {
           "role": "container",
@@ -219,7 +112,7 @@
           "layout": "titleLayout",
           "textStyle": "titleTextStyle",
           "format": "html",
-          "text": "From the Ground Up"
+          "text": "Sun-Sational Prints"
         },
         {
           "//": "==== DEFAULT HEADER: INTRO ===",
@@ -227,7 +120,14 @@
           "layout": "introLayout",
           "textStyle": "introTextStyle",
           "format": "html",
-          "text": "These recipes begin with a ground meat&mdash;beef, chicken, turkey, or pork&mdash;and then build into easy, speedy burgers, lasagna cupcakes, meatloaf, and more."
+          "text": "Somewhere between science and magic, cyanotypes use the power of the sun to record graphic blue-and-white prints. Grab a kit and use it to memorialize a summer day."
+        },
+        {
+          "role": "author",
+          "layout": "authorLayout",
+          "textStyle": "authorTextStyle",
+          "format": "html",
+          "text": "By <b>Ella Field</b><br>Photos by <b>Kelsey Hansen</b><br>Crafts by <b>Kim Hutchison</b>"
         },
         {
           "//": "======== HERO IMAGE CONTAINER =======",
@@ -235,1197 +135,209 @@
           "layout": "heroImageLayout",
           "components": [
             {
-              "//": "======== HERO IMAGE - H1035.0/W1366.0 * 100 = 75.7686676 ========",
+              "//": "======== HERO IMAGE - H1366.0/W1502.0 * 100 = 90.9454061 ========",
               "role": "photo",
               "layout": "fullBleedPhotoLayout",
-              "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p012-013-alt102382-mushroom-beef-burgers/199191-1-eng-GB/p012-013-alt102382-mushroom-beef-burgers.jpg?q=100"
+              "URL": "https://public-assets.meredithcorp.io/be77ab24cc1d0990d4f55cf6f9d020f0/herop.png"
             }
           ]
         },
         {
-          "//": "======== BEGIN RECIPES BODY CONTAINER =======",
+          "//": "======== BODY CONTAINER =======",
           "role": "container",
           "layout": "bodyContainerLayout",
-          "style": "bodyContainerStyle",
           "components": [
             {
-              "role": "heading2",
-              "layout": "bodyLayout",
-              "textStyle": "heading2TextStyle",
+              "role": "heading3",
+              "layout": "heading3Layout",
+              "style": "heading3Style",
+              "textStyle": "heading3TextStyle",
               "format": "html",
-              "text": "Mushroom Beef Burgers"
+              "text": "Get Started"
+            },
+            {
+              "role": "body",
+              "layout": "bodyNoMarginAboveLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "Developed in 1842 by John Herschel, cyanotypes are an early form of photography. They’re made by placing objects on light-reactive paper."
             },
             {
               "role": "body",
               "layout": "bodyLayout",
               "style": "paragraphStyle",
-              "textStyle": "recipeDetailsTextStyle",
+              "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>HANDS-ON</lede> 20 MIN <lede>TOTAL</lede> 20 MIN <lede>SERVES</lede> 8 <br><lede>SUBMITTED BY</lede> JUANITA S"
+              "text": "<lede>BUY IT:</lede><br>■ Cyanotype Store 8\"×10\" Cyanotype Paper, 12 sheets for $19; <a href=\"http://bhphotovideo.com\">bhphotovideo.com</a><br><br>■ Sunprint Refills and Kits, $4–$20; <a href=\"http://sunprints.org\">sunprints.org</a>"
             },
             {
-              "//": "====== REVIEWS ======",
+              "role": "heading3",
+              "layout": "heading3Layout",
+              "style": "heading3Style",
+              "textStyle": "heading3TextStyle",
+              "format": "html",
+              "text": "Pick a Subject"
+            },
+            {
+              "role": "body",
+              "layout": "bodyNoMarginAboveLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "Plants, shells, rocks, and pinecones are all good sun-print candidates. Only the shadows cast by objects will appear, so opacity, size, and shape are key. So is timing: If the sun is directly overhead, shadows will be shorter and better capture the object’s true outline."
+            },
+            {
+              "role": "heading3",
+              "layout": "heading3Layout",
+              "style": "heading3Style",
+              "textStyle": "heading3TextStyle",
+              "format": "html",
+              "text": "Compose"
+            },
+            {
+              "role": "body",
+              "layout": "bodyNoMarginAboveLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "Place cyanotype paper on a flat surface (like cardboard) and arrange your nature finds on top. If you can, top with a piece of glass or acrylic to flatten your work. The flatter your objects, the crisper the final image. Glass should be larger than paper to prevent unwanted shadows. Use clips or tape around the edges to secure your composition."
+            },
+            {
+              "role": "heading3",
+              "layout": "heading3Layout",
+              "style": "heading3Style",
+              "textStyle": "heading3TextStyle",
+              "format": "html",
+              "text": "Print"
+            },
+            {
+              "role": "body",
+              "layout": "bodyNoMarginAboveLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "Expose the layout to the sun until paper looks bronze, about 3–5 minutes on a sunny day. Develop your print in a tub of water according to kit instructions. Lay flat to dry."
+            },
+            {
               "role": "container",
-              "layout": "bodyLayout",
-              "contentDisplay": {
-                "type": "horizontal_stack"
-              },
-              "components": [
-                {
-                  "role": "image",
-                  "layout": "starsImageLayout",
-                  "conditional": [
-                    {
-                      "conditions": [
-                        {
-                          "minSpecVersion": "1.14",
-                          "preferredColorScheme": "dark"
-                        }
-                      ],
-                      "hidden": true
-                    }
-                  ],
-                  "hidden": false,
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common022/86031-1-eng-GB/common022.jpg"
-                },
-                {
-                  "role": "image",
-                  "layout": "starsImageLayout",
-                  "conditional": [
-                    {
-                      "conditions": [
-                        {
-                          "minSpecVersion": "1.14",
-                          "preferredColorScheme": "dark"
-                        }
-                      ],
-                      "hidden": false
-                    }
-                  ],
-                  "hidden": true,
-                  "URL": "https://public-assets.meredithcorp.io/ba3bbeb190fc45d4b5bb1d08c8fd2a5c/fiveDM.png"
-                },
-                {
-                  "role": "container",
-                  "layout": "smallSpacerLayout"
-                },
-                {
-                  "role": "body",
-                  "layout": {
-                    "padding": {
-                      "top": 0
-                    }
-                  },
-                  "textStyle": "reviewsTextStyle",
-                  "format": "html",
-                  "text": "7 REVIEWS"
-                }
-              ]
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<i>Serve these burgers on buns with your favorite toppings. We love the classics—lettuce, tomato, onion, mustard, and pickles.</i>"
-            },
-            {
-              "role": "htmltable",
-              "layout": "ingredientsLayout",
-              "style": "ingredientsStyle",
-              "html": "<table><tr><td>3</td><td>cups finely chopped mushrooms (8 oz.)</td></tr><tr><td>1</td><td>cup finely chopped onion</td></tr><tr><td>3</td><td>cloves garlic, minced</td></tr><tr><td>1</td><td>tsp. Italian seasoning</td></tr><tr><td>1</td><td>tsp. salt</td></tr><tr><td>½</td><td>tsp. black pepper</td></tr><tr><td>2</td><td>lb. 85%-lean ground beef</td></tr></table>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>1.</lede> Stir together mushrooms, onion, garlic, Italian seasoning, salt, and pepper in a large bowl. With moistened hands, add beef and gently mix just until evenly combined. Shape into eight ½-inch-thick patties."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>2.</lede> Preheat an outdoor grill to medium heat (325°F to 375°F). Lightly oil grate. Grill patties, covered, 5 to 7 minutes per side, or until an instant-read thermometer inserted into centers registers 160°F."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede><a href=\"https://www.allrecipes.com/recipe/258947/mushroom-beef-burgers/\">armagazine.com/mushroom-beef-burgers</a></i></lede>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b><i>HIDDEN GEM</i></b> | <b><i>QUICK</i></b>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "attributeTextStyle",
-              "format": "html",
-              "text": "PER BURGER (WITH BUN, WITHOUT TOPPINGS): 402 CAL; 22G FAT (9G SAT); 26G PRO; 25G CARB (2G FIBER, 5G SUGARS); 576MG SODIUM"
-            },
-            {
-              "//": "======= YOU SAID CONTAINER ======",
-              "role": "container",
-              "layout": "youSaidContainerLayout",
-              "components": [
-                {
-                  "role": "pullquote",
-                  "textStyle": "youSaidQuoteTextStyle",
-                  "format": "html",
-                  "text": "“This recipe makes burgers that are juicy and very tasty. I cooked them in an air fryer, and they were perfect.”<br><pullquote-attribution>– CASSIEGAYLE46</pullquote-attribution>"
-                }
-              ]
-            },
-            {
-              "//": "====== CALLOUT ======",
-              "role": "container",
-              "layout": "calloutLayout",
-              "style": "calloutStyle",
-              "components": [
-                {
-                  "role": "heading",
-                  "layout": "calloutHeadingLayout",
-                  "textStyle": "calloutHeadingTextStyle",
-                  "format": "html",
-                  "text": "Juicy Secret"
-                },
-                {
-                  "role": "body",
-                  "layout": "calloutBodyLayout",
-                  "textStyle": "calloutBodyTextStyle",
-                  "format": "html",
-                  "text": "Adding chopped mushrooms to the beef boosts flavor, sneaks in a veggie, and keeps these burgers big and juicy."
-                }
-              ]
-            },
-            {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "fullBleedContainerLayout",
-              "components": [
-                {
-                  "//": "======== IMAGE BLEED - H1516.0/W1366.0 * 100 = 110.9809663 ========",
-                  "role": "photo",
-                  "layout": "fullBleedPhotoLayout",
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p014-alt102382-lasagna-cups/199184-1-eng-GB/p014-alt102382-lasagna-cups.jpg?q=100"
-                }
-              ]
-            },
-            {
-              "role": "heading2",
-              "layout": "bodyLayout",
-              "textStyle": "heading2TextStyle",
-              "format": "html",
-              "text": "Lasagna Cupcakes"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "recipeDetailsTextStyle",
-              "format": "html",
-              "text": "<lede>HANDS-ON</lede> 15 MIN <lede>TOTAL</lede> 40 MIN <lede>SERVES</lede> 6 <br><lede>SUBMITTED BY</lede> KIMBERLEY PIPER"
-            },
-            {
-              "//": "====== REVIEWS ======",
-              "role": "container",
-              "layout": "bodyLayout",
-              "contentDisplay": {
-                "type": "horizontal_stack"
-              },
-              "components": [
-                {
-                  "role": "image",
-                  "layout": "starsImageLayout",
-                  "conditional": [
-                    {
-                      "conditions": [
-                        {
-                          "minSpecVersion": "1.14",
-                          "preferredColorScheme": "dark"
-                        }
-                      ],
-                      "hidden": true
-                    }
-                  ],
-                  "hidden": false,
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common0166/108858-1-eng-GB/common012.jpg?q=100"
-                },
-                {
-                  "role": "image",
-                  "layout": "starsImageLayout",
-                  "conditional": [
-                    {
-                      "conditions": [
-                        {
-                          "minSpecVersion": "1.14",
-                          "preferredColorScheme": "dark"
-                        }
-                      ],
-                      "hidden": false
-                    }
-                  ],
-                  "hidden": true,
-                  "URL": "https://public-assets.meredithcorp.io/8700c3d249629b59c38e0b147c58947c/fourDM.png"
-                },
-                {
-                  "role": "container",
-                  "layout": "smallSpacerLayout"
-                },
-                {
-                  "role": "body",
-                  "layout": {
-                    "padding": {
-                      "top": 0
-                    }
-                  },
-                  "textStyle": "reviewsTextStyle",
-                  "format": "html",
-                  "text": "115 REVIEWS"
-                }
-              ]
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<i>Give these “cupcakes” a pop of extra flavor with chopped fresh basil and crushed red pepper.</i>"
-            },
-            {
-              "role": "htmltable",
-              "layout": "ingredientsLayout",
-              "style": "ingredientsStyle",
-              "html": "<table><tr><td>24</td><td>wonton wrappers</td></tr><tr><td>6</td><td>oz. ground beef</td></tr><tr><td>¼</td><td>tsp. salt</td></tr><tr><td>¼</td><td>tsp. black pepper</td></tr><tr><td>1¼</td><td>cups grated Parmesan cheese (5 oz.)</td></tr><tr><td>1½</td><td>cups shredded mozzarella cheese (6 oz.)</td></tr><tr><td>1</td><td>cup pasta sauce</td></tr></table>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>1.</lede> Preheat oven to 375°F. Coat twelve 3½-inch muffin cups with cooking spray, then press 1 wonton wrapper into each."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>2.</lede> Cook beef in a large skillet over medium-high heat, stirring to break up lumps, until browned, 5 to 7 minutes. Sprinkle with salt and black pepper; drain grease."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>3.</lede> Stir together ¾ cup each Parmesan and mozzarella in a bowl. Spoon half the cheese mixture into muffin cups; top with half the beef and half the pasta sauce. Top muffin cups with remaining wonton wrappers, cheese mixture, beef, and sauce. Sprinkle with remaining Parmesan and mozzarella."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>4.</lede> Bake until edges are browned, 18 to 20 minutes. Let cool in pan 5 minutes, then run a knife around edges to loosen and remove cupcakes."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede><a href=\"https://www.allrecipes.com/recipe/241564/lasagna-cupcakes/\">armagazine.com/lasagna-cupcakes</a></lede>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "attributeTextStyle",
-              "format": "html",
-              "text": "PER SERVING (2 CUPCAKES): 355 CAL; 16G FAT (8G SAT); 24G PRO; 26G CARB (1G FIBER, 3G SUGARS); 990MG SODIUM"
-            },
-            {
-              "//": "======= YOU SAID CONTAINER ======",
-              "role": "container",
-              "layout": "youSaidContainerLayout",
+              "layout": "sidebarLayout",
+              "style": "sidebarStyle",
               "components": [
                 {
                   "role": "container",
-                  "layout": {
-                    "margin": {
-                      "bottom": 10
-                    }
-                  },
-                  "contentDisplay": {
-                    "alignment": "center",
-                    "distribution": "narrow",
-                    "maximumWidth": 80,
-                    "type": "collection"
-                  },
+                  "layout": "dividerDoubleLayout",
+                  "style": "dividerDoubleStyle"
+                },
+                {
+                  "//": "======== BODY CONTAINER =======",
+                  "role": "container",
+                  "layout": "bodyContainerLayout",
+                  "style": "bodyContainerStyle",
                   "components": [
                     {
-                      "role": "image",
-                      "style": {
-                        "backgroundColor": "#008080",
-                        "mask": {
-                          "radius": 80,
-                          "type": "corners"
+                      "role": "heading2",
+                      "layout": "sidebarHeading2Layout",
+                      "style": "heading2Style",
+                      "textStyle": "sidebarHeading2TextStyle",
+                      "format": "html",
+                      "text": "Sun-Print Secrets"
+                    },
+                    {
+                      "role": "body",
+                      "layout": "sidebarBodyNoMarginAboveLayout",
+                      "style": "paragraphStyle",
+                      "textStyle": "sidebarBodyTextStyle",
+                      "format": "html",
+                      "text": "A few suggestions for making keepsake art."
+                    },
+                    {
+                      "//": "======== SINGLE BLOCK CONTAINER =======",
+                      "role": "container",
+                      "layout": "sidebarSingleBlockContainerLayout",
+                      "style": "photoContainerStyle",
+                      "components": [
+                        {
+                          "//": "======== IMAGE BLEED - H1707.0/W1366.0 * 100 = 124.9633968 ========",
+                          "role": "image",
+                          "layout": {
+                            "horizontalContentAlignment": "center",
+                            "maximumContentWidth": "70cw"
+                          },
+                          "URL": "https://cdn-assets.ziniopro.com/var/site_716/storage/images/media2/images/p012-bhg0822-cyanotype-how-to/591122-1-eng-US/p012-bhg0822-cyanotype-how-to.png?q=100"
                         }
-                      },
-                      "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/carolportno_032/197500-1-eng-GB/carolportno_0322.jpg?q=100"
+                      ]
+                    },
+                    {
+                      "role": "heading3",
+                      "layout": "sidebarHeading3Layout",
+                      "style": "heading3Style",
+                      "textStyle": "sidebarHeading3TextStyle",
+                      "format": "html",
+                      "text": "1. Shade"
+                    },
+                    {
+                      "role": "body",
+                      "layout": "sidebarBodyNoMarginAboveLayout",
+                      "style": "paragraphStyle",
+                      "textStyle": "sidebarBodyTextStyle",
+                      "format": "html",
+                      "text": "Prep in a shady spot. As soon as the paper is in the light, it will start to expose."
+                    },
+                    {
+                      "role": "heading3",
+                      "layout": "sidebarHeading3Layout",
+                      "style": "heading3Style",
+                      "textStyle": "sidebarHeading3TextStyle",
+                      "format": "html",
+                      "text": "2. Glass"
+                    },
+                    {
+                      "role": "body",
+                      "layout": "sidebarBodyNoMarginAboveLayout",
+                      "style": "paragraphStyle",
+                      "textStyle": "sidebarBodyTextStyle",
+                      "format": "html",
+                      "text": "Use glass that isn’t UV-coated or the cyanotype won’t develop."
+                    },
+                    {
+                      "role": "heading3",
+                      "layout": "sidebarHeading3Layout",
+                      "style": "heading3Style",
+                      "textStyle": "sidebarHeading3TextStyle",
+                      "format": "html",
+                      "text": "3. Water"
+                    },
+                    {
+                      "role": "body",
+                      "layout": "sidebarBodyNoMarginAboveLayout",
+                      "style": "paragraphStyle",
+                      "textStyle": "sidebarBodyTextStyle",
+                      "format": "html",
+                      "text": "No water handy? Slip exposed paper back in the kit’s light-blocking bag to rinse later."
+                    },
+                    {
+                      "role": "heading3",
+                      "layout": "sidebarHeading3Layout",
+                      "style": "heading3Style",
+                      "textStyle": "sidebarHeading3TextStyle",
+                      "format": "html",
+                      "text": "4. Technique"
+                    },
+                    {
+                      "role": "body",
+                      "layout": "sidebarBodyNoMarginAboveLayout",
+                      "style": "paragraphStyle",
+                      "textStyle": "sidebarBodyTextStyle",
+                      "format": "html",
+                      "text": "Experiment with light angles, exposure times, subjects, and compositions. The process and surprise are part of the fun."
                     }
                   ]
                 },
                 {
-                  "role": "pullquote",
-                  "textStyle": "youSaidQuoteTextStyle",
-                  "format": "html",
-                  "text": "“I made these vegetarian by using spinach, zucchini, yellow squash, and onions. They tasted even better two days later.”<br><pullquote-attribution>– CAROL PORTNOY CENNAMO</pullquote-attribution>"
-                }
-              ]
-            },
-            {
-              "//": "======= YOU SAID CONTAINER ======",
-              "role": "container",
-              "layout": "youSaidContainerLayout",
-              "components": [
-                {
-                  "//": "======= YOU SAID HEADING ======",
-                  "role": "heading5",
-                  "layout": "heading5Layout",
-                  "style": "heading5Style",
-                  "textStyle": "heading5CenteredTextStyle",
-                  "format": "html",
-                  "text": "Alexa-enabled!"
-                },
-                {
-                  "role": "image",
-                  "layout": {
-                    "//": "IPAD CONDITION STYLING",
-                    "conditional": [
-                      {
-                        "//": "PHONE CONDITION STYLING",
-                        "conditions": [
-                          {
-                            "maxViewportWidth": 415
-                          }
-                        ],
-                        "maximumContentWidth": "20cw",
-                        "minimumWidth": "20cw"
-                      }
-                    ],
-                    "maximumContentWidth": "10cw",
-                    "minimumWidth": "10cw"
-                  },
-                  "URL": "https://public-assets.meredithcorp.io/52a9945feae3786d54921b3bcdb7b230/ALR0920-p51-badge.png"
-                },
-                {
-                  "role": "pullquote",
-                  "layout": "bodySmallMarginAboveLayout",
-                  "textStyle": "youSaidQuoteTextStyle",
-                  "format": "html",
-                  "text": "“Just say, “Alexa, ask Allrecipes for Lasagna Cupcakes.” She’ll guide you through the recipe step-by-step—all hands-free!”"
-                }
-              ]
-            },
-            {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "fullBleedContainerLayout",
-              "components": [
-                {
-                  "//": "======== IMAGE BLEED - H1585.0/W1366.0 * 100 = 116.0322108 ========",
-                  "role": "photo",
-                  "layout": "fullBleedPhotoLayout",
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p015-alt102382-fire-roasted-corn-beef-skillet-pie/199198-1-eng-GB/p015-alt102382-fire-roasted-corn-beef-skillet-pie.jpg?q=100"
-                }
-              ]
-            },
-            {
-              "role": "heading2",
-              "layout": "bodyLayout",
-              "textStyle": "heading2TextStyle",
-              "format": "html",
-              "text": "Fire-Roasted Corn and Beef Skillet Pie"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "recipeDetailsTextStyle",
-              "format": "html",
-              "text": "<lede>HANDS-ON</lede> 15 MIN <lede>TOTAL</lede> 45 MIN <lede>SERVES</lede> 6 <br><lede>SUBMITTED BY</lede> EATANDRUN"
-            },
-            {
-              "//": "***** NEW RECIPE LINK *****",
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "recipeDetailsTextStyle",
-              "format": "html",
-              "text": "<a href=\"https://www.allrecipes.com/recipe/8388138/fire-roasted-corn-and-beef-skillet-pie/\">NEW RECIPE GO ONLINE TO RATE &amp; REVIEW</a>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<i>Have some pizza seasoning in your spice cabinet? Sprinkle it over the breadsticks before baking.</i>"
-            },
-            {
-              "role": "htmltable",
-              "layout": "ingredientsLayout",
-              "style": "ingredientsStyle",
-              "html": "<table><tr><td>1</td><td>lb. ground beef</td></tr><tr><td>2</td><td>cups frozen fire-roasted corn</td></tr><tr><td>24</td><td>oz. jar red pasta sauce</td></tr><tr><td>¾</td><td>cup shredded pepper Jack cheese</td></tr><tr><td>1</td><td>(11-oz.) pkg. refrigerated breadsticks</td></tr></table>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>1.</lede> Preheat oven to 400°F. Cook ground beef, stirring and breaking up lumps, in a large cast-iron skillet until browned, about 10 minutes. Stir in corn and pasta sauce. Bring to a boil, then stir in cheese. Unroll breadsticks and loosely weave on top of filling."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>2.</lede> Bake until golden brown and bubbly, 20 to 25 minutes. Let stand 10 minutes."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede><a href=\"https://www.allrecipes.com/recipe/8388138/fire-roasted-corn-and-beef-skillet-pie/\">armagazine.com/fire-roasted-corn-and-beef-skillet-pie</a></lede>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "attributeTextStyle",
-              "format": "html",
-              "text": "PER SERVING: 435 CAL; 18G FAT (7G SAT); 24G PRO; 43G CARB (4G FIBER, 11G SUGARS); 1,015MG SODIUM"
-            },
-            {
-              "//": "====== CALLOUT ======",
-              "role": "container",
-              "layout": "calloutLayout",
-              "style": "calloutStyle",
-              "components": [
-                {
-                  "role": "heading",
-                  "layout": "calloutHeadingLayout",
-                  "textStyle": "calloutHeadingTextStyle",
-                  "format": "html",
-                  "text": "Get More Recipes"
-                },
-                {
-                  "role": "body",
-                  "layout": "calloutBodyLayout",
-                  "textStyle": "calloutBodyTextStyle",
-                  "format": "html",
-                  "text": "Tap <a href=\"http://tqr.bz/iTT\">here</a> to see 19 fast, family-friendly ground beef dinners. No app download needed!"
-                }
-              ]
-            },
-            {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "fullBleedContainerLayout",
-              "components": [
-                {
-                  "//": "======== IMAGE BLEED - H1890.0/W1366.0 * 100 = 138.3601757 ========",
-                  "role": "photo",
-                  "layout": "fullBleedPhotoLayout",
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p016-alt102382-spicy-lamb-patties/199212-1-eng-GB/p016-alt102382-spicy-lamb-patties.jpg?q=100"
-                }
-              ]
-            },
-            {
-              "role": "heading2",
-              "layout": "bodyLayout",
-              "textStyle": "heading2TextStyle",
-              "format": "html",
-              "text": "Spicy Lamb Patties"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "recipeDetailsTextStyle",
-              "format": "html",
-              "text": "<lede>HANDS-ON</lede> 25 MIN <lede>TOTAL</lede> 25 MIN <lede>SERVES</lede> 4 <br><lede>SUBMITTED BY</lede> CHEYENNIGANS"
-            },
-            {
-              "//": "====== REVIEWS ======",
-              "role": "container",
-              "layout": "bodyLayout",
-              "contentDisplay": {
-                "type": "horizontal_stack"
-              },
-              "components": [
-                {
-                  "role": "image",
-                  "layout": "starsImageLayout",
-                  "conditional": [
-                    {
-                      "conditions": [
-                        {
-                          "minSpecVersion": "1.14",
-                          "preferredColorScheme": "dark"
-                        }
-                      ],
-                      "hidden": true
-                    }
-                  ],
-                  "hidden": false,
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common0166/108858-1-eng-GB/common012.jpg?q=100"
-                },
-                {
-                  "role": "image",
-                  "layout": "starsImageLayout",
-                  "conditional": [
-                    {
-                      "conditions": [
-                        {
-                          "minSpecVersion": "1.14",
-                          "preferredColorScheme": "dark"
-                        }
-                      ],
-                      "hidden": false
-                    }
-                  ],
-                  "hidden": true,
-                  "URL": "https://public-assets.meredithcorp.io/8700c3d249629b59c38e0b147c58947c/fourDM.png"
-                },
-                {
                   "role": "container",
-                  "layout": "smallSpacerLayout"
-                },
-                {
-                  "role": "body",
-                  "layout": {
-                    "padding": {
-                      "top": 0
-                    }
-                  },
-                  "textStyle": "reviewsTextStyle",
-                  "format": "html",
-                  "text": "72 REVIEWS"
-                }
-              ]
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<i>Try tucking these spiced patties into pitas along with fresh toppings, such as cucumber, baby spinach, tomato, and/or yogurt.</i>"
-            },
-            {
-              "role": "htmltable",
-              "layout": "ingredientsLayout",
-              "style": "ingredientsStyle",
-              "html": "<table><tr><td>1</td><td>lb. ground lamb</td></tr><tr><td>⅓</td><td>cup minced green onion</td></tr><tr><td>4</td><td>cloves garlic, minced</td></tr><tr><td>1</td><td>Tbsp. curry powder</td></tr><tr><td>1</td><td>tsp. cumin</td></tr><tr><td>¼</td><td>tsp. crushed red pepper</td></tr><tr><td>½</td><td>tsp. salt</td></tr><tr><td>½</td><td>tsp. black pepper</td></tr></table>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>1.</lede> Preheat an outdoor or stovetop grill to high (450°F to 650°F). Lightly oil grate."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>2.</lede> Stir all ingredients into a bowl. Form mixture into 4 patties (3¼ inches wide and ¾ inch thick)."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>3.</lede> Grill patties to preferred degree of doneness, about 5 minutes per side for medium."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede><a href=\"https://www.allrecipes.com/recipe/84364/spicy-lamb-patties/\">armagazine.com/spicy-lamb-patties</a></lede>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b><i>QUICK</i></b>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "attributeTextStyle",
-              "format": "html",
-              "text": "PER PATTY: 287 CAL; 22G FAT (9G SAT); 20G PRO; 3G CARB (1G FIBER, 0G SUGARS); 362MG SODIUM"
-            },
-            {
-              "//": "======= YOU SAID CONTAINER ======",
-              "role": "container",
-              "layout": "youSaidContainerLayout",
-              "components": [
-                {
-                  "role": "pullquote",
-                  "textStyle": "youSaidQuoteTextStyle",
-                  "format": "html",
-                  "text": "“Remember to check the heat level of the curry powder. There is mild, medium, and hot. If you’re new to curry, start with mild.”<br><pullquote-attribution>– LAURAELLEN225</pullquote-attribution>"
-                }
-              ]
-            },
-            {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "fullBleedContainerLayout",
-              "components": [
-                {
-                  "//": "======== IMAGE BLEED - H2107.0/W1366.0 * 100 = 154.2459736 ========",
-                  "role": "photo",
-                  "layout": "fullBleedPhotoLayout",
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p017-alt102382-sausage-egg-muffins/199205-1-eng-GB/p017-alt102382-sausage-egg-muffins.jpg?q=100"
-                }
-              ]
-            },
-            {
-              "role": "heading2",
-              "layout": "bodyLayout",
-              "textStyle": "heading2TextStyle",
-              "format": "html",
-              "text": "Sausage-Egg Muffins"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "recipeDetailsTextStyle",
-              "format": "html",
-              "text": "<lede>HANDS-ON</lede> 20 MIN <lede>TOTAL</lede> 40 MIN <lede>MAKES</lede> 12<br><lede>SUBMITTED BY</lede> SMILEYBLAKE"
-            },
-            {
-              "//": "====== REVIEWS ======",
-              "role": "container",
-              "layout": "bodyLayout",
-              "contentDisplay": {
-                "type": "horizontal_stack"
-              },
-              "components": [
-                {
-                  "role": "image",
-                  "layout": "starsImageLayout",
-                  "conditional": [
-                    {
-                      "conditions": [
-                        {
-                          "minSpecVersion": "1.14",
-                          "preferredColorScheme": "dark"
-                        }
-                      ],
-                      "hidden": true
-                    }
-                  ],
-                  "hidden": false,
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common0166/108858-1-eng-GB/common012.jpg?q=100"
-                },
-                {
-                  "role": "image",
-                  "layout": "starsImageLayout",
-                  "conditional": [
-                    {
-                      "conditions": [
-                        {
-                          "minSpecVersion": "1.14",
-                          "preferredColorScheme": "dark"
-                        }
-                      ],
-                      "hidden": false
-                    }
-                  ],
-                  "hidden": true,
-                  "URL": "https://public-assets.meredithcorp.io/8700c3d249629b59c38e0b147c58947c/fourDM.png"
-                },
-                {
-                  "role": "container",
-                  "layout": "smallSpacerLayout"
-                },
-                {
-                  "role": "body",
-                  "layout": {
-                    "padding": {
-                      "top": 0
-                    }
-                  },
-                  "textStyle": "reviewsTextStyle",
-                  "format": "html",
-                  "text": "184 REVIEWS"
-                }
-              ]
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<i>Round out your meal by serving these muffins with salsa and/or fresh fruit.</i>"
-            },
-            {
-              "role": "htmltable",
-              "layout": "ingredientsLayout",
-              "style": "ingredientsStyle",
-              "html": "<table><tr><td>½</td><td>lb. ground pork sausage</td></tr><tr><td>12</td><td>eggs, beaten</td></tr><tr><td>½</td><td>(4-oz.) can chopped green chile peppers, drained</td></tr><tr><td>¾</td><td>cup chopped onion</td></tr><tr><td>1</td><td>tsp. garlic powder</td></tr><tr><td>¼</td><td>tsp. salt</td></tr><tr><td>⅛</td><td>tsp. black pepper</td></tr></table>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>1.</lede> Preheat oven to 350°F. Lightly grease 12 muffin cups."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>2.</lede> Add sausage to a large, deep skillet over medium-high heat; cook, breaking up lumps with a wooden spoon, until evenly browned, about 5 minutes. Drain grease and transfer sausage to a large bowl. Stir in eggs, chiles, onion, garlic powder, salt, and black pepper until well combined. Spoon ¼ cup sausage mixture into each prepared muffin cup."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>3.</lede> Bake until egg has set and a toothpick inserted into centers comes out clean, 15 to 20 minutes."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede><a href=\"https://www.allrecipes.com/recipe/21602/sausage-egg-muffins/\">armagazine.com/sausage-egg-muffins</a></lede>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "attributeTextStyle",
-              "format": "html",
-              "text": "PER MUFFIN: 132 CAL; 9G FAT (3G SAT); 9G PRO; 2G CARB (0G FIBER, 1G SUGARS); 278MG SODIUM"
-            },
-            {
-              "//": "======= YOU SAID CONTAINER ======",
-              "role": "container",
-              "layout": "youSaidContainerLayout",
-              "components": [
-                {
-                  "role": "pullquote",
-                  "textStyle": "youSaidQuoteTextStyle",
-                  "format": "html",
-                  "text": "“I added about 2 Tbsp. salsa and a splash of hot sauce instead of the chile peppers. These would probably be even better with some cheese sprinkled on top.”<br><pullquote-attribution>– BEANIE76</pullquote-attribution>"
-                }
-              ]
-            },
-            {
-              "//": "======= YOU SAID CONTAINER ======",
-              "role": "container",
-              "layout": "youSaidContainerLayout",
-              "components": [
-                {
-                  "role": "pullquote",
-                  "textStyle": "youSaidQuoteTextStyle",
-                  "format": "html",
-                  "text": "“So much fun! I made these in a mini muffin pan so they were easier to eat and made for a fast breakfast on the run.”<br><pullquote-attribution>– LAURA</pullquote-attribution>"
-                }
-              ]
-            },
-            {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "fullBleedContainerLayout",
-              "components": [
-                {
-                  "//": "======== IMAGE BLEED - H1334.0/W1366.0 * 100 = 97.6573939 ========",
-                  "role": "photo",
-                  "layout": "fullBleedPhotoLayout",
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p018-alt102382-ms-buffalo-chicken-meatballs/199240-1-eng-GB/p018-alt102382-ms-buffalo-chicken-meatballs.jpg?q=100"
-                }
-              ]
-            },
-            {
-              "role": "heading2",
-              "layout": "bodyLayout",
-              "textStyle": "heading2TextStyle",
-              "format": "html",
-              "text": "M’s Buffalo Chicken Meatballs"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "recipeDetailsTextStyle",
-              "format": "html",
-              "text": "<lede>HANDS-ON</lede> 25 MIN <lede>TOTAL</lede> 45 MIN <lede>SERVES</lede> 10 <br><lede>SUBMITTED BY</lede> MMARONIC"
-            },
-            {
-              "//": "====== REVIEWS ======",
-              "role": "container",
-              "layout": "bodyLayout",
-              "contentDisplay": {
-                "type": "horizontal_stack"
-              },
-              "components": [
-                {
-                  "role": "image",
-                  "layout": "starsImageLayout",
-                  "conditional": [
-                    {
-                      "conditions": [
-                        {
-                          "minSpecVersion": "1.14",
-                          "preferredColorScheme": "dark"
-                        }
-                      ],
-                      "hidden": true
-                    }
-                  ],
-                  "hidden": false,
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common0166/108858-1-eng-GB/common012.jpg?q=100"
-                },
-                {
-                  "role": "image",
-                  "layout": "starsImageLayout",
-                  "conditional": [
-                    {
-                      "conditions": [
-                        {
-                          "minSpecVersion": "1.14",
-                          "preferredColorScheme": "dark"
-                        }
-                      ],
-                      "hidden": false
-                    }
-                  ],
-                  "hidden": true,
-                  "URL": "https://public-assets.meredithcorp.io/8700c3d249629b59c38e0b147c58947c/fourDM.png"
-                },
-                {
-                  "role": "container",
-                  "layout": "smallSpacerLayout"
-                },
-                {
-                  "role": "body",
-                  "layout": {
-                    "padding": {
-                      "top": 0
-                    }
-                  },
-                  "textStyle": "reviewsTextStyle",
-                  "format": "html",
-                  "text": "51 REVIEWS"
-                }
-              ]
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<i>For a fresh finish, top these meatballs with chopped parsley or celery leaves.</i>"
-            },
-            {
-              "role": "htmltable",
-              "layout": "ingredientsLayout",
-              "style": "ingredientsStyle",
-              "html": "<table><tr><td>6</td><td>Tbsp. hot pepper sauce (such as Frank’s RedHot), plus more for serving</td></tr><tr><td>¼</td><td>cup butter</td></tr><tr><td>1</td><td>lb. ground chicken</td></tr><tr><td>¾</td><td>cup dried bread crumbs</td></tr><tr><td>1</td><td>egg, lightly beaten</td></tr></table>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>1.</lede> Preheat oven to 450°F. Grease a large rimmed baking sheet."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>2.</lede> Heat hot sauce and butter in a saucepan over low heat, whisking until butter is melted. Let cool to room temperature."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>3.</lede> Stir together hot sauce mixture, chicken, bread crumbs, and egg in a bowl until well combined. Shape into 1-inch balls; arrange on prepared sheet."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>4.</lede> Bake about 15 minutes, or until an instant-read thermometer inserted into centers registers 165°F. Let cool on sheet 5 minutes. Transfer to a platter. Drizzle with additional hot sauce."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede><a href=\"https://www.allrecipes.com/recipe/238020/buffalo-meatballs/\">armagazine.com/ms-buffalo-chicken-meatballs</a></lede>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "attributeTextStyle",
-              "format": "html",
-              "text": "PER SERVING (4 MEATBALLS): 145 CAL; 9G FAT (4G SAT); 10G PRO; 6G CARB (0G FIBER, 1G SUGARS); 475MG SODIUM"
-            },
-            {
-              "//": "======= YOU SAID CONTAINER ======",
-              "role": "container",
-              "layout": "youSaidContainerLayout",
-              "components": [
-                {
-                  "role": "pullquote",
-                  "textStyle": "youSaidQuoteTextStyle",
-                  "format": "html",
-                  "text": "“These were a great way to scratch the itch for chicken wings without having all the fat and calories. I used ground turkey breast and panko bread crumbs.”<br><pullquote-attribution>– KOOLKITTY</pullquote-attribution>"
-                }
-              ]
-            },
-            {
-              "//": "======= YOU SAID CONTAINER ======",
-              "role": "container",
-              "layout": "youSaidContainerLayout",
-              "components": [
-                {
-                  "role": "pullquote",
-                  "textStyle": "youSaidQuoteTextStyle",
-                  "format": "html",
-                  "text": "“I tucked a little cheddar inside each meatball. And I added melted butter and hot sauce at the end instead of plain hot sauce. Huge hit!”<br><pullquote-attribution>– SCARVIN</pullquote-attribution>"
-                }
-              ]
-            },
-            {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "fullBleedContainerLayout",
-              "components": [
-                {
-                  "//": "======== IMAGE BLEED - H2010.0/W1366.0 * 100 = 147.1449488 ========",
-                  "role": "photo",
-                  "layout": "fullBleedPhotoLayout",
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p019-alt102382-healthy-turkey-loaf/199219-1-eng-GB/p019-alt102382-healthy-turkey-loaf.jpg?q=100"
-                }
-              ]
-            },
-            {
-              "role": "heading2",
-              "layout": "bodyLayout",
-              "textStyle": "heading2TextStyle",
-              "format": "html",
-              "text": "Healthy Turkey Loaf"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "recipeDetailsTextStyle",
-              "format": "html",
-              "text": "<lede>HANDS-ON</lede> 15 MIN <lede>TOTAL</lede> 40 MIN <lede>SERVES</lede> 6 <br><lede>SUBMITTED BY</lede> SUSAN E. MURPHY"
-            },
-            {
-              "//": "====== REVIEWS ======",
-              "role": "container",
-              "layout": "bodyLayout",
-              "contentDisplay": {
-                "type": "horizontal_stack"
-              },
-              "components": [
-                {
-                  "role": "image",
-                  "layout": "starsImageLayout",
-                  "conditional": [
-                    {
-                      "conditions": [
-                        {
-                          "minSpecVersion": "1.14",
-                          "preferredColorScheme": "dark"
-                        }
-                      ],
-                      "hidden": true
-                    }
-                  ],
-                  "hidden": false,
-                  "URL": "https://public-assets.meredithcorp.io/4cadea6bc3bbdd6b0bdfab5abedfb66f/fourstars.jpg"
-                },
-                {
-                  "role": "image",
-                  "layout": "starsImageLayout",
-                  "conditional": [
-                    {
-                      "conditions": [
-                        {
-                          "minSpecVersion": "1.14",
-                          "preferredColorScheme": "dark"
-                        }
-                      ],
-                      "hidden": false
-                    }
-                  ],
-                  "hidden": true,
-                  "URL": "https://public-assets.meredithcorp.io/8e401d3520fc3b0bec1ecdf6f118edf3/fourstarsDM.png"
-                },
-                {
-                  "role": "container",
-                  "layout": "smallSpacerLayout"
-                },
-                {
-                  "role": "body",
-                  "layout": {
-                    "padding": {
-                      "top": 0
-                    }
-                  },
-                  "textStyle": "reviewsTextStyle",
-                  "format": "html",
-                  "text": "518 REVIEWS"
-                }
-              ]
-            },
-            {
-              "role": "htmltable",
-              "layout": "ingredientsLayout",
-              "style": "ingredientsStyle",
-              "html": "<table><tr><td>1</td><td>lb. ground turkey <i>[Use 93% lean ground turkey, not ground turkey breast, which dries out quickly.]</i></td></tr><tr><td>1</td><td>egg</td></tr><tr><td>½</td><td>cup salsa, plus more for serving</td></tr><tr><td>½</td><td>cup chopped red and/or yellow bell pepper</td></tr><tr><td>½</td><td>cup dried bread crumbs</td></tr><tr><td>¼</td><td>cup chopped onion (optional)</td></tr><tr><td>1</td><td>tsp. black or lemon pepper</td></tr><tr><td>½</td><td>tsp. salt</td></tr></table>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>1.</lede> Preheat oven to 350°F."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>2.</lede> Combine all ingredients in a large bowl with your hands until well blended. Press mixture into a lightly greased 4x8-inch loaf pan."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>3.</lede> Bake about 25 minutes, or until an instant-read thermometer inserted into center registers 165°F. Serve with additional salsa."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede><a href=\"https://www.allrecipes.com/recipe/25418/healthy-turkey-loaf/\">armagazine.com/healthy-turkey-loaf</a></lede>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b><i>HIDDEN GEM</i></b> | <b><i>QUICK</i></b> | <b><i>GLUTEN-FREE</i></b>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "attributeTextStyle",
-              "format": "html",
-              "text": "PER 4.8-OZ. SERVING: 203 CAL; 9G FAT (2G SAT); 19G PRO; 10G CARB (1G FIBER, 1G SUGARS); 481MG SODIUM"
-            },
-            {
-              "//": "======= YOU SAID CONTAINER ======",
-              "role": "container",
-              "layout": "youSaidContainerLayout",
-              "components": [
-                {
-                  "role": "pullquote",
-                  "textStyle": "youSaidQuoteTextStyle",
-                  "format": "html",
-                  "text": "“I tried this with some light barbecue sauce poured on the top, and wow—that was good!”<br><pullquote-attribution>– CINDY LINEBERRY</pullquote-attribution>"
-                }
-              ]
-            },
-            {
-              "//": "====== CALLOUT ======",
-              "role": "container",
-              "layout": "calloutLayout",
-              "style": "calloutStyle",
-              "components": [
-                {
-                  "role": "heading",
-                  "layout": "calloutHeadingLayout",
-                  "textStyle": "calloutHeadingTextStyle",
-                  "format": "html",
-                  "text": "Pick Your Salsa"
-                },
-                {
-                  "role": "body",
-                  "layout": "calloutBodyLayout",
-                  "textStyle": "calloutBodyTextStyle",
-                  "format": "html",
-                  "text": "With so many different salsa options on store shelves, you can give this meatloaf a different flavor each time you make it. Try chipotle salsa for a deep, smoky flavor. Go green by using salsa verde. Or add a fruity salsa, such as pineapple or peach salsa, for a sweet-savory twist."
+                  "layout": "dividerDoubleLayout",
+                  "style": "dividerDoubleStyle"
                 }
               ]
             }
@@ -1457,7 +369,7 @@
               "layout": "bodyLayout",
               "textStyle": "tocTextStyle",
               "format": "html",
-              "text": "<a href='https://apple.news/AeWTaQfGQEeyRKiYivkxSbA'>Tap here</a> to see more from this issue of <i>Allrecipes</i>"
+              "text": "<a href='https://apple.news/AfZaggdYaEeyyQA0KhVcEZw'>Tap here</a> to see more from this issue of <i>Better Homes &amp; Gardens</i>"
             }
           ]
         }
@@ -1477,6 +389,32 @@
         "bottom": 5
       }
     },
+    "bhgInsiderBodyLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 4
+      }
+    },
+    "bhgInsiderLayout": {
+      "columnSpan": 12,
+      "columnStart": 4,
+      "margin": 20
+    },
+    "bhgInsiderLogoLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 500
+            }
+          ],
+          "maximumContentWidth": 150
+        }
+      ],
+      "horizontalContentAlignment": "center",
+      "maximumContentWidth": 125,
+      "URL": "https://public-assets-dev.meredithcorp.io/bde8400037db8a452dc4b69b34672272/bhg_Insider.jpg"
+    },
     "blockContainerLayout": {
       "columnSpan": 18,
       "columnStart": 1,
@@ -1493,17 +431,13 @@
     "bodyLayout": {
       "columnSpan": 18,
       "columnStart": 1,
-      "margin": {
-        "bottom": 10,
-        "top": 2
-      }
+      "margin": 10
     },
-    "bodySmallMarginAboveLayout": {
+    "bodyNoMarginAboveLayout": {
       "columnSpan": 18,
       "columnStart": 1,
       "margin": {
-        "bottom": 10,
-        "top": 10
+        "bottom": 10
       }
     },
     "bottomPhotoDividerLayout": {
@@ -1511,8 +445,7 @@
     },
     "calloutBodyLayout": {
       "margin": {
-        "bottom": 10,
-        "top": 5
+        "bottom": 10
       }
     },
     "calloutHeadingLayout": {
@@ -1523,22 +456,34 @@
     "calloutLayout": {
       "columnSpan": 16,
       "columnStart": 2,
-      "margin": {
-        "bottom": 10,
-        "top": 20
-      },
-      "padding": {
-        "bottom": 10,
-        "left": 20,
-        "right": 20,
-        "top": 10
-      }
+      "margin": 20
     },
     "captionAdLayout": {
       "//": "UNUSED"
     },
     "captionLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 415
+            }
+          ],
+          "padding": {
+            "left": 20,
+            "right": 20
+          }
+        }
+      ],
       "margin": 8
+    },
+    "collectionLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
     },
     "darkModePaddingLayout": {
       "conditional": [
@@ -1556,12 +501,12 @@
     "dividerCollectionLayout": {
       "//": "UNUSED"
     },
+    "dividerDoubleLayout": {
+      "minimumHeight": 8
+    },
     "dividerLayout": {
       "ignoreDocumentMargin": true,
-      "margin": {
-        "bottom": 20,
-        "top": 10
-      }
+      "margin": 10
     },
     "dividerStandardLayout": {
       "columnSpan": 18,
@@ -1570,7 +515,7 @@
         "bottom": 10,
         "top": 20
       },
-      "minimumHeight": 1
+      "minimumHeight": 2
     },
     "dividerTocLayout": {
       "columnSpan": 18,
@@ -1582,7 +527,7 @@
       "minimumHeight": 10
     },
     "floatContainerLayout": {
-      "columnSpan": 4,
+      "columnSpan": 6,
       "columnStart": 1,
       "conditional": [
         {
@@ -1633,7 +578,7 @@
       "columnSpan": 18,
       "columnStart": 1,
       "margin": {
-        "top": 10
+        "top": 20
       }
     },
     "heading3Layout": {
@@ -1681,36 +626,28 @@
     },
     "ingredientsLayout": {
       "margin": {
-        "bottom": 10,
-        "top": 10
+        "bottom": 5,
+        "top": 5
       }
     },
     "introLayout": {
       "columnSpan": 18,
       "columnStart": 1,
       "margin": {
-        "bottom": 10
+        "bottom": 8
       }
     },
     "noMarginLayout": {
       "columnSpan": 18,
       "columnStart": 1
     },
+    "productImageStandardLayout": {
+      "minimumHeight": 280
+    },
     "pullQuoteLayout": {
       "columnSpan": 16,
       "columnStart": 2,
-      "margin": {
-        "bottom": 25,
-        "top": 15
-      }
-    },
-    "reviewLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
-      "padding": {
-        "left": 85,
-        "top": 2
-      }
+      "margin": 20
     },
     "sectionLayout": {
       "margin": {
@@ -1718,6 +655,9 @@
       }
     },
     "sidebarBodyLayout": {
+      "margin": 10
+    },
+    "sidebarBodyNoMarginAboveLayout": {
       "margin": {
         "bottom": 10
       }
@@ -1727,15 +667,26 @@
         "bottom": 10,
         "top": 20
       },
-      "minimumHeight": 1
+      "minimumHeight": 2
     },
     "sidebarFloatContainerLayout": {
-      "columnSpan": 4,
-      "columnStart": 0
+      "columnSpan": 6,
+      "columnStart": 0,
+      "conditional": [
+        {
+          "columnSpan": 4,
+          "columnStart": 0,
+          "conditions": [
+            {
+              "maxViewportWidth": 415
+            }
+          ]
+        }
+      ]
     },
     "sidebarHeading2Layout": {
       "margin": {
-        "top": 20
+        "top": 10
       }
     },
     "sidebarHeading3Layout": {
@@ -1748,20 +699,13 @@
         "top": 10
       }
     },
-    "sidebarIntroLayout": {
-      "margin": {
-        "bottom": 10,
-        "top": 5
-      }
-    },
     "sidebarLayout": {
       "columnSpan": 18,
       "columnStart": 1,
       "margin": 20,
       "padding": {
         "bottom": 10,
-        "left": 20,
-        "right": 20
+        "top": 10
       }
     },
     "sidebarSingleBlockContainerLayout": {
@@ -1790,10 +734,6 @@
         "top": 2
       }
     },
-    "smallSpacerLayout": {
-      "maximumWidth": 5,
-      "minimumWidth": 5
-    },
     "spacerLayout": {
       "columnSpan": 18,
       "columnStart": 1,
@@ -1801,12 +741,6 @@
         "bottom": 10,
         "top": 20
       }
-    },
-    "starsImageLayout": {
-      "margin": {
-        "top": 2
-      },
-      "maximumWidth": 100
     },
     "straplineLayout": {
       "columnSpan": 18,
@@ -1819,37 +753,11 @@
       "columnSpan": 18,
       "columnStart": 1,
       "margin": {
-        "top": 5
+        "top": 10
       }
     },
     "topPhotoDividerLayout": {
       "//": "UNUSED"
-    },
-    "youSaidContainerLayout": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minViewportWidth": 500
-            }
-          ],
-          "padding": {
-            "left": "20cw",
-            "right": "20cw"
-          }
-        }
-      ],
-      "margin": {
-        "bottom": 10,
-        "top": 20
-      }
-    },
-    "youSaidImageLayout": {
-      "horizontalContentAlignment": "center",
-      "margin": {
-        "bottom": 10
-      },
-      "maximumContentWidth": 110
     }
   },
   "componentStyles": {
@@ -1870,14 +778,6 @@
         }
       }
     },
-    "calloutStyle2": {
-      "border": {
-        "all": {
-          "color": "#feaa26",
-          "width": 4
-        }
-      }
-    },
     "captionAdStyle": {
       "//": "UNUSED"
     },
@@ -1893,6 +793,18 @@
           ]
         }
       ]
+    },
+    "dividerDoubleStyle": {
+      "border": {
+        "all": {
+          "color": "#222",
+          "width": 1
+        },
+        "bottom": true,
+        "left": false,
+        "right": false,
+        "top": true
+      }
     },
     "dividerSectionHeadStyle": {
       "border": {
@@ -2019,100 +931,8 @@
     "pullQuoteStyle": {
       "//": "UNUSED"
     },
-    "reviewFiveStarsStyle": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minSpecVersion": "1.14",
-              "preferredColorScheme": "dark"
-            }
-          ],
-          "fill": {
-            "horizontalAlignment": "left",
-            "repeat": "none",
-            "type": "repeatable_image",
-            "URL": "https://public-assets.meredithcorp.io/ba3bbeb190fc45d4b5bb1d08c8fd2a5c/fiveDM.png",
-            "verticalAlignment": "top",
-            "width": 80
-          }
-        }
-      ],
-      "fill": {
-        "horizontalAlignment": "left",
-        "repeat": "none",
-        "type": "repeatable_image",
-        "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common022/86031-1-eng-GB/common022.jpg",
-        "verticalAlignment": "top",
-        "width": 80
-      }
-    },
-    "reviewFourHalfStarsStyle": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minSpecVersion": "1.14",
-              "preferredColorScheme": "dark"
-            }
-          ],
-          "fill": {
-            "horizontalAlignment": "left",
-            "repeat": "none",
-            "type": "repeatable_image",
-            "URL": "https://public-assets.meredithcorp.io/8700c3d249629b59c38e0b147c58947c/fourDM.png",
-            "verticalAlignment": "top",
-            "width": 80
-          }
-        }
-      ],
-      "fill": {
-        "horizontalAlignment": "left",
-        "repeat": "none",
-        "type": "repeatable_image",
-        "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common0166/108858-1-eng-GB/common012.jpg?q=100",
-        "verticalAlignment": "top",
-        "width": 80
-      }
-    },
-    "reviewFourStarsStyle": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minSpecVersion": "1.14",
-              "preferredColorScheme": "dark"
-            }
-          ],
-          "fill": {
-            "horizontalAlignment": "left",
-            "repeat": "none",
-            "type": "repeatable_image",
-            "URL": "https://public-assets.meredithcorp.io/8e401d3520fc3b0bec1ecdf6f118edf3/fourstarsDM.png",
-            "verticalAlignment": "top",
-            "width": 80
-          }
-        }
-      ],
-      "fill": {
-        "horizontalAlignment": "left",
-        "repeat": "none",
-        "type": "repeatable_image",
-        "URL": "https://public-assets.meredithcorp.io/4cadea6bc3bbdd6b0bdfab5abedfb66f/fourstars.jpg",
-        "verticalAlignment": "top",
-        "width": 80
-      }
-    },
     "sectionStyle": {
       "//": "UNUSED"
-    },
-    "sidebarNoBackgroundStyle": {
-      "border": {
-        "all": {
-          "color": "#f2f2f2",
-          "width": 2
-        }
-      }
     },
     "sidebarStyle": {
       "backgroundColor": "#f2f2f2",
@@ -2134,13 +954,6 @@
     "titleStyle": {
       "//": "UNUSED"
     },
-    "youSaidImageStyle": {
-      "backgroundColor": "#008080",
-      "mask": {
-        "radius": "60cw",
-        "type": "corners"
-      }
-    },
     "captionStyle": {
       "border": {
         "all": {
@@ -2152,6 +965,14 @@
         "right": false,
         "top": false
       }
+    },
+    "sidebarNoBackgroundStyle": {
+      "border": {
+        "all": {
+          "color": "#f2f2f2",
+          "width": 2
+        }
+      }
     }
   },
   "textStyles": {
@@ -2162,8 +983,12 @@
       "textTransform": "uppercase",
       "tracking": 0.1
     },
-    "default-tag-bold": {
-      "fontName": "GothamNarrow-Bold"
+    "default-tag-bracket": {
+      "fontSize": 30,
+      "textColor": "#ED096F"
+    },
+    "default-tag-caption-bold": {
+      "fontName": "Gotham-Bold"
     },
     "default-tag-caption-heading": {
       "fontName": "AvenirNext-Bold",
@@ -2171,20 +996,17 @@
       "textTransform": "uppercase",
       "tracking": 0.05
     },
-    "default-tag-caption-i": {
-      "fontName": "Gotham-Book"
-    },
     "default-tag-emoji": {
       "fontName": "AppleColorEmoji"
+    },
+    "default-tag-italic": {
+      "fontName": "SurveyorText-LightItalic"
     },
     "default-tag-lede": {
       "fontName": "AvenirNext-Bold"
     },
     "default-tag-m": {
       "fontName": "Gotham-Medium"
-    },
-    "default-tag-mi": {
-      "fontName": "Gotham-MediumItalic"
     },
     "default-tag-pullquote-attribution": {
       "fontName": "Georgia-Bold",
@@ -2198,8 +1020,11 @@
       "textTransform": "uppercase",
       "tracking": 0.05
     },
-    "default-tag-subsection": {
-      "fontName": "Gotham-Light"
+    "default-tag-title-italic": {
+      "fontName": "HTFDidot-M42MediumItalic"
+    },
+    "default-tag-twenty-five": {
+      "fontName": "Didot-Bold"
     },
     "endMarkerTextStyle": {
       "//": "UNUSED"
@@ -2228,6 +1053,12 @@
       "textAlignment": "center",
       "textTransform": "uppercase",
       "tracking": 0.05
+    },
+    "bhgInsiderBodyTextStyle": {
+      "fontName": "Gotham-Medium",
+      "fontSize": 16,
+      "lineHeight": 22,
+      "textAlignment": "center"
     },
     "bodyCenteredTextStyle": {
       "fontName": "Georgia",
@@ -2370,10 +1201,7 @@
       "tracking": -0.01
     },
     "heading5CenteredTextStyle": {
-      "fontName": "Gotham-Bold",
-      "textAlignment": "center",
-      "textTransform": "uppercase",
-      "tracking": 0.02
+      "textAlignment": "center"
     },
     "heading5TextStyle": {
       "fontName": "Georgia-BoldItalic"
@@ -2386,8 +1214,9 @@
       "tracking": 0.05
     },
     "ingredientsTextStyle": {
-      "fontName": "GothamNarrow-Book",
-      "lineHeight": 24
+      "fontName": "Gotham-Medium",
+      "fontSize": 15,
+      "lineHeight": 19
     },
     "introTextStyle": {
       "fontName": "Georgia-Italic",
@@ -2397,36 +1226,20 @@
       "fontName": "Georgia",
       "textAlignment": "center"
     },
-    "recipeDetailsTextStyle": {
-      "fontName": "GothamNarrow-Book",
-      "fontSize": 14,
-      "lineHeight": 16,
-      "linkStyle": {
-        "fontName": "GothamNarrow-Bold",
-        "textColor": "#000",
-        "underline": true
-      }
-    },
-    "reviewsTextStyle": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minSpecVersion": "1.14",
-              "preferredColorScheme": "dark"
-            }
-          ],
-          "textColor": "#fff"
-        }
-      ],
-      "fontName": "GothamNarrow-Black",
-      "textColor": "#000"
-    },
-    "savedTextStyle": {
-      "fontName": "GothamNarrow-Book",
+    "recipeBodyTextStyle": {
+      "fontName": "Gotham-Light",
       "fontSize": 16,
-      "lineHeight": 18,
-      "textTransform": "uppercase"
+      "lineHeight": 20
+    },
+    "recipeDetailsTextStyle": {
+      "fontName": "Gotham-Light",
+      "fontSize": 15,
+      "lineHeight": 17
+    },
+    "recipeNutritionInfoTextStyle": {
+      "fontName": "Gotham-Light",
+      "fontSize": 14,
+      "lineHeight": 16
     },
     "sectionTextStyle": {
       "fontName": "AvenirNext-Regular",
@@ -2435,16 +1248,37 @@
       "textTransform": "uppercase",
       "tracking": 0.05
     },
+    "sidebarBodyCenteredTextStyle": {
+      "fontName": "AvenirNext-Medium",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "textAlignment": "center",
+      "tracking": 0.02
+    },
     "sidebarBodyTextStyle": {
       "fontName": "AvenirNext-Medium",
       "fontSize": 18,
       "lineHeight": 26,
       "tracking": 0.02
     },
+    "sidebarHeading2CenteredTextStyle": {
+      "fontName": "Georgia-Bold",
+      "fontSize": 45,
+      "lineHeight": 50,
+      "textAlignment": "center"
+    },
     "sidebarHeading2TextStyle": {
       "fontName": "Georgia-Bold",
       "fontSize": 45,
       "lineHeight": 50
+    },
+    "sidebarHeading3CenteredTextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "fontSize": 24,
+      "lineHeight": 28,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": -0.05
     },
     "sidebarHeading3TextStyle": {
       "fontName": "AvenirNext-Bold",
@@ -2453,16 +1287,17 @@
       "textTransform": "uppercase",
       "tracking": -0.05
     },
+    "sidebarHeading4CenteredTextStyle": {
+      "fontName": "Gotham-Bold",
+      "fontSize": 16,
+      "lineHeight": 18,
+      "textAlignment": "center"
+    },
     "sidebarHeading4TextStyle": {
       "fontName": "AvenirNext-Bold",
       "fontSize": 24,
       "lineHeight": 28,
       "tracking": -0.01
-    },
-    "sidebarIntroTextStyle": {
-      "fontName": "Georgia-Italic",
-      "fontSize": 20,
-      "lineHeight": 26
     },
     "straplineTextStyle": {
       "fontName": "AvenirNext-Bold",
@@ -2483,42 +1318,20 @@
       "textAlignment": "center",
       "textColor": "#000"
     },
-    "youSaidQuoteTextStyle": {
-      "fontName": "GothamCondensed-LightItalic",
-      "fontSize": 22,
-      "lineHeight": 24,
-      "textAlignment": "center"
-    },
     "listTextStyle": {
       "fontSize": 17,
       "lineHeight": 21
-    },
-    "sidebarBodyCenteredTextStyle": {
-      "fontName": "AvenirNext-Medium",
-      "fontSize": 18,
-      "lineHeight": 26,
-      "textAlignment": "center",
-      "tracking": 0.02
-    },
-    "sidebarHeading2CenteredTextStyle": {
-      "fontName": "Georgia-Bold",
-      "fontSize": 45,
-      "lineHeight": 50,
-      "textAlignment": "center"
-    },
-    "sidebarHeading3CenteredTextStyle": {
-      "fontName": "AvenirNext-Bold",
-      "fontSize": 24,
-      "lineHeight": 28,
-      "textAlignment": "center",
-      "textTransform": "uppercase",
-      "tracking": -0.05
     },
     "sidebarHeadingCentered4TextStyle": {
       "fontName": "AvenirNext-Bold",
       "fontSize": 24,
       "lineHeight": 28,
       "textAlignment": "center"
+    },
+    "sidebarIntroTextStyle": {
+      "fontName": "Georgia-Italic",
+      "fontSize": 20,
+      "lineHeight": 26
     },
     "subsectionIntroTextStyle": {
       "fontName": "Georgia-Italic",

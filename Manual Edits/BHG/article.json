@@ -219,7 +219,7 @@
           "layout": "titleLayout",
           "textStyle": "titleTextStyle",
           "format": "html",
-          "text": "FROM THE GROUND UP"
+          "text": "From the Ground Up"
         },
         {
           "//": "==== DEFAULT HEADER: INTRO ===",
@@ -250,8 +250,8 @@
           "components": [
             {
               "role": "heading2",
-              "layout": "bodyLayout",
-              "textStyle": "heading2TextStyle",
+              "layout": "heading3Layout",
+              "textStyle": "recipeTitleTextStyle",
               "format": "html",
               "text": "Mushroom Beef Burgers"
             },
@@ -324,9 +324,9 @@
             },
             {
               "role": "body",
-              "layout": "bodyLayout",
+              "layout": "bodyNoMarginAboveLayout",
               "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
+              "textStyle": "recipeBodyTextStyle",
               "format": "html",
               "text": "<i>Serve these burgers on buns with your favorite toppings. We love the classics—lettuce, tomato, onion, mustard, and pickles.</i>"
             },
@@ -342,7 +342,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>1.</lede> Stir together mushrooms, onion, garlic, Italian seasoning, salt, and pepper in a large bowl. With moistened hands, add beef and gently mix just until evenly combined. Shape into eight ½-inch-thick patties."
+              "text": "<b>1.</b> Stir together mushrooms, onion, garlic, Italian seasoning, salt, and pepper in a large bowl. With moistened hands, add beef and gently mix just until evenly combined. Shape into eight ½-inch-thick patties."
             },
             {
               "role": "body",
@@ -350,7 +350,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>2.</lede> Preheat an outdoor grill to medium heat (325°F to 375°F). Lightly oil grate. Grill patties, covered, 5 to 7 minutes per side, or until an instant-read thermometer inserted into centers registers 160°F."
+              "text": "<b>2.</b> Preheat an outdoor grill to medium heat (325°F to 375°F). Lightly oil grate. Grill patties, covered, 5 to 7 minutes per side, or until an instant-read thermometer inserted into centers registers 160°F."
             },
             {
               "role": "body",
@@ -426,8 +426,8 @@
             },
             {
               "role": "heading2",
-              "layout": "bodyLayout",
-              "textStyle": "heading2TextStyle",
+              "layout": "heading3Layout",
+              "textStyle": "recipeTitleTextStyle",
               "format": "html",
               "text": "Lasagna Cupcakes"
             },
@@ -500,9 +500,9 @@
             },
             {
               "role": "body",
-              "layout": "bodyLayout",
+              "layout": "bodyNoMarginAboveLayout",
               "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
+              "textStyle": "recipeBodyTextStyle",
               "format": "html",
               "text": "<i>Give these “cupcakes” a pop of extra flavor with chopped fresh basil and crushed red pepper.</i>"
             },
@@ -518,7 +518,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>1.</lede> Preheat oven to 375°F. Coat twelve 3½-inch muffin cups with cooking spray, then press 1 wonton wrapper into each."
+              "text": "<b>1.</b> Preheat oven to 375°F. Coat twelve 3½-inch muffin cups with cooking spray, then press 1 wonton wrapper into each."
             },
             {
               "role": "body",
@@ -526,7 +526,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>2.</lede> Cook beef in a large skillet over medium-high heat, stirring to break up lumps, until browned, 5 to 7 minutes. Sprinkle with salt and black pepper; drain grease."
+              "text": "<b>2.</b> Cook beef in a large skillet over medium-high heat, stirring to break up lumps, until browned, 5 to 7 minutes. Sprinkle with salt and black pepper; drain grease."
             },
             {
               "role": "body",
@@ -534,7 +534,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>3.</lede> Stir together ¾ cup each Parmesan and mozzarella in a bowl. Spoon half the cheese mixture into muffin cups; top with half the beef and half the pasta sauce. Top muffin cups with remaining wonton wrappers, cheese mixture, beef, and sauce. Sprinkle with remaining Parmesan and mozzarella."
+              "text": "<b>3.</b> Stir together ¾ cup each Parmesan and mozzarella in a bowl. Spoon half the cheese mixture into muffin cups; top with half the beef and half the pasta sauce. Top muffin cups with remaining wonton wrappers, cheese mixture, beef, and sauce. Sprinkle with remaining Parmesan and mozzarella."
             },
             {
               "role": "body",
@@ -542,7 +542,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>4.</lede> Bake until edges are browned, 18 to 20 minutes. Let cool in pan 5 minutes, then run a knife around edges to loosen and remove cupcakes."
+              "text": "<b>4.</b> Bake until edges are browned, 18 to 20 minutes. Let cool in pan 5 minutes, then run a knife around edges to loosen and remove cupcakes."
             },
             {
               "role": "body",
@@ -659,8 +659,8 @@
             },
             {
               "role": "heading2",
-              "layout": "bodyLayout",
-              "textStyle": "heading2TextStyle",
+              "layout": "heading3Layout",
+              "textStyle": "recipeTitleTextStyle",
               "format": "html",
               "text": "Fire-Roasted Corn and Beef Skillet Pie"
             },
@@ -683,9 +683,9 @@
             },
             {
               "role": "body",
-              "layout": "bodyLayout",
+              "layout": "bodyNoMarginAboveLayout",
               "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
+              "textStyle": "recipeBodyTextStyle",
               "format": "html",
               "text": "<i>Have some pizza seasoning in your spice cabinet? Sprinkle it over the breadsticks before baking.</i>"
             },
@@ -701,7 +701,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>1.</lede> Preheat oven to 400°F. Cook ground beef, stirring and breaking up lumps, in a large cast-iron skillet until browned, about 10 minutes. Stir in corn and pasta sauce. Bring to a boil, then stir in cheese. Unroll breadsticks and loosely weave on top of filling."
+              "text": "<b>1.</b> Preheat oven to 400°F. Cook ground beef, stirring and breaking up lumps, in a large cast-iron skillet until browned, about 10 minutes. Stir in corn and pasta sauce. Bring to a boil, then stir in cheese. Unroll breadsticks and loosely weave on top of filling."
             },
             {
               "role": "body",
@@ -709,7 +709,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>2.</lede> Bake until golden brown and bubbly, 20 to 25 minutes. Let stand 10 minutes."
+              "text": "<b>2.</b> Bake until golden brown and bubbly, 20 to 25 minutes. Let stand 10 minutes."
             },
             {
               "role": "body",
@@ -764,8 +764,8 @@
             },
             {
               "role": "heading2",
-              "layout": "bodyLayout",
-              "textStyle": "heading2TextStyle",
+              "layout": "heading3Layout",
+              "textStyle": "recipeTitleTextStyle",
               "format": "html",
               "text": "Spicy Lamb Patties"
             },
@@ -838,9 +838,9 @@
             },
             {
               "role": "body",
-              "layout": "bodyLayout",
+              "layout": "bodyNoMarginAboveLayout",
               "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
+              "textStyle": "recipeBodyTextStyle",
               "format": "html",
               "text": "<i>Try tucking these spiced patties into pitas along with fresh toppings, such as cucumber, baby spinach, tomato, and/or yogurt.</i>"
             },
@@ -856,7 +856,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>1.</lede> Preheat an outdoor or stovetop grill to high (450°F to 650°F). Lightly oil grate."
+              "text": "<b>1.</b> Preheat an outdoor or stovetop grill to high (450°F to 650°F). Lightly oil grate."
             },
             {
               "role": "body",
@@ -864,7 +864,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>2.</lede> Stir all ingredients into a bowl. Form mixture into 4 patties (3¼ inches wide and ¾ inch thick)."
+              "text": "<b>2.</b> Stir all ingredients into a bowl. Form mixture into 4 patties (3¼ inches wide and ¾ inch thick)."
             },
             {
               "role": "body",
@@ -872,7 +872,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>3.</lede> Grill patties to preferred degree of doneness, about 5 minutes per side for medium."
+              "text": "<b>3.</b> Grill patties to preferred degree of doneness, about 5 minutes per side for medium."
             },
             {
               "role": "body",
@@ -926,8 +926,8 @@
             },
             {
               "role": "heading2",
-              "layout": "bodyLayout",
-              "textStyle": "heading2TextStyle",
+              "layout": "heading3Layout",
+              "textStyle": "recipeTitleTextStyle",
               "format": "html",
               "text": "Sausage-Egg Muffins"
             },
@@ -1000,9 +1000,9 @@
             },
             {
               "role": "body",
-              "layout": "bodyLayout",
+              "layout": "bodyNoMarginAboveLayout",
               "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
+              "textStyle": "recipeBodyTextStyle",
               "format": "html",
               "text": "<i>Round out your meal by serving these muffins with salsa and/or fresh fruit.</i>"
             },
@@ -1018,7 +1018,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>1.</lede> Preheat oven to 350°F. Lightly grease 12 muffin cups."
+              "text": "<b>1.</b> Preheat oven to 350°F. Lightly grease 12 muffin cups."
             },
             {
               "role": "body",
@@ -1026,7 +1026,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>2.</lede> Add sausage to a large, deep skillet over medium-high heat; cook, breaking up lumps with a wooden spoon, until evenly browned, about 5 minutes. Drain grease and transfer sausage to a large bowl. Stir in eggs, chiles, onion, garlic powder, salt, and black pepper until well combined. Spoon ¼ cup sausage mixture into each prepared muffin cup."
+              "text": "<b>2.</b> Add sausage to a large, deep skillet over medium-high heat; cook, breaking up lumps with a wooden spoon, until evenly browned, about 5 minutes. Drain grease and transfer sausage to a large bowl. Stir in eggs, chiles, onion, garlic powder, salt, and black pepper until well combined. Spoon ¼ cup sausage mixture into each prepared muffin cup."
             },
             {
               "role": "body",
@@ -1034,7 +1034,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>3.</lede> Bake until egg has set and a toothpick inserted into centers comes out clean, 15 to 20 minutes."
+              "text": "<b>3.</b> Bake until egg has set and a toothpick inserted into centers comes out clean, 15 to 20 minutes."
             },
             {
               "role": "body",
@@ -1093,8 +1093,8 @@
             },
             {
               "role": "heading2",
-              "layout": "bodyLayout",
-              "textStyle": "heading2TextStyle",
+              "layout": "heading3Layout",
+              "textStyle": "recipeTitleTextStyle",
               "format": "html",
               "text": "M’s Buffalo Chicken Meatballs"
             },
@@ -1167,9 +1167,9 @@
             },
             {
               "role": "body",
-              "layout": "bodyLayout",
+              "layout": "bodyNoMarginAboveLayout",
               "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
+              "textStyle": "recipeBodyTextStyle",
               "format": "html",
               "text": "<i>For a fresh finish, top these meatballs with chopped parsley or celery leaves.</i>"
             },
@@ -1185,7 +1185,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>1.</lede> Preheat oven to 450°F. Grease a large rimmed baking sheet."
+              "text": "<b>1.</b> Preheat oven to 450°F. Grease a large rimmed baking sheet."
             },
             {
               "role": "body",
@@ -1193,7 +1193,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>2.</lede> Heat hot sauce and butter in a saucepan over low heat, whisking until butter is melted. Let cool to room temperature."
+              "text": "<b>2.</b> Heat hot sauce and butter in a saucepan over low heat, whisking until butter is melted. Let cool to room temperature."
             },
             {
               "role": "body",
@@ -1201,7 +1201,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>3.</lede> Stir together hot sauce mixture, chicken, bread crumbs, and egg in a bowl until well combined. Shape into 1-inch balls; arrange on prepared sheet."
+              "text": "<b>3.</b> Stir together hot sauce mixture, chicken, bread crumbs, and egg in a bowl until well combined. Shape into 1-inch balls; arrange on prepared sheet."
             },
             {
               "role": "body",
@@ -1209,7 +1209,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>4.</lede> Bake about 15 minutes, or until an instant-read thermometer inserted into centers registers 165°F. Let cool on sheet 5 minutes. Transfer to a platter. Drizzle with additional hot sauce."
+              "text": "<b>4.</b> Bake about 15 minutes, or until an instant-read thermometer inserted into centers registers 165°F. Let cool on sheet 5 minutes. Transfer to a platter. Drizzle with additional hot sauce."
             },
             {
               "role": "body",
@@ -1268,8 +1268,8 @@
             },
             {
               "role": "heading2",
-              "layout": "bodyLayout",
-              "textStyle": "heading2TextStyle",
+              "layout": "heading3Layout",
+              "textStyle": "recipeTitleTextStyle",
               "format": "html",
               "text": "Healthy Turkey Loaf"
             },
@@ -1352,7 +1352,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>1.</lede> Preheat oven to 350°F."
+              "text": "<b>1.</b> Preheat oven to 350°F."
             },
             {
               "role": "body",
@@ -1360,7 +1360,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>2.</lede> Combine all ingredients in a large bowl with your hands until well blended. Press mixture into a lightly greased 4x8-inch loaf pan."
+              "text": "<b>2.</b> Combine all ingredients in a large bowl with your hands until well blended. Press mixture into a lightly greased 4x8-inch loaf pan."
             },
             {
               "role": "body",
@@ -1368,7 +1368,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>3.</lede> Bake about 25 minutes, or until an instant-read thermometer inserted into center registers 165°F. Serve with additional salsa."
+              "text": "<b>3.</b> Bake about 25 minutes, or until an instant-read thermometer inserted into center registers 165°F. Serve with additional salsa."
             },
             {
               "role": "body",
@@ -1865,10 +1865,28 @@
     "calloutStyle": {
       "border": {
         "all": {
-          "width": 4,
-          "color": "#FF7E19"
+          "width": 1,
+          "color": "#000"
         }
-      }
+      },
+      "backgroundColor": "#fff",
+      "conditional": [
+        {
+          "border": {
+            "all": {
+              "color": "red",
+              "width": 1
+            }
+          },
+          "backgroundColor": "#000",
+          "conditions": [
+            {
+              "preferredColorScheme": "dark",
+              "minSpecVersion": "1.14"
+            }
+          ]
+        }
+      ]
     },
     "calloutStyle2": {
       "border": {
@@ -1953,6 +1971,7 @@
     "ingredientsStyle": {
       "tableStyle": {
         "cells": {
+          "height": 22,
           "conditional": [
             {
               "horizontalAlignment": "right",
@@ -2017,7 +2036,16 @@
       "//": "UNUSED"
     },
     "pullQuoteStyle": {
-      "//": "UNUSED"
+      "border": {
+        "all": {
+          "width": 1,
+          "color": "#111"
+        },
+        "bottom": true,
+        "left": false,
+        "right": false,
+        "top": true
+      }
     },
     "reviewFiveStarsStyle": {
       "conditional": [
@@ -2109,15 +2137,20 @@
     "sidebarNoBackgroundStyle": {
       "border": {
         "all": {
-          "width": 2,
+          "width": 1,
           "color": "#000"
-        }
+        },
+        "bottom": false,
+        "left": true,
+        "right": false,
+        "top": false
       }
     },
     "sidebarStyle": {
+      "backgroundColor": "#f2f2f2",
       "conditional": [
         {
-          "backgroundColor": "#828282",
+          "backgroundColor": "#8a8a8a",
           "conditions": [
             {
               "preferredColorScheme": "dark",
@@ -2125,8 +2158,7 @@
             }
           ]
         }
-      ],
-      "backgroundColor": "#f2f2f2"
+      ]
     },
     "straplineStyle": {
       "//": "UNUSED"
@@ -2137,14 +2169,20 @@
     "youSaidImageStyle": {
       "backgroundColor": "#008080",
       "mask": {
-        "type": "corners",
-        "radius": "60cw"
+        "radius": "60cw",
+        "type": "corners"
+      }
+    },
+    "cornersStyle": {
+      "mask": {
+        "radius": 10,
+        "type": "corners"
       }
     }
   },
   "textStyles": {
     "creditTextStyle": {
-      "fontName": "Gotham-Book",
+      "fontName": "BentonSans-Book",
       "fontSize": 10,
       "textColor": "#8d8d8d",
       "tracking": 0.05
@@ -2154,7 +2192,8 @@
     },
     "default-tag-caption-heading": {
       "fontSize": 15,
-      "fontName": "Gotham-Black"
+      "fontName": "LibreFranklin-Bold",
+      "textTransform": "uppercase"
     },
     "default-tag-caption-i": {
       "fontName": "Gotham-Book"
@@ -2163,8 +2202,10 @@
       "fontName": "AppleColorEmoji"
     },
     "default-tag-lede": {
-      "fontName": "GothamNarrow-Bold",
-      "tracking": 0.02
+      "fontName": "LibreFranklin-Bold",
+      "textTransform": "uppercase",
+      "tracking": 0.04,
+      "fontSize": 15
     },
     "default-tag-m": {
       "fontName": "Gotham-Medium"
@@ -2173,14 +2214,12 @@
       "fontName": "Gotham-MediumItalic"
     },
     "default-tag-pullquote-attribution": {
-      "fontName": "GothamCondensed-Medium",
-      "fontSize": 18,
-      "textAlignment": "center",
-      "textTransform": "uppercase",
-      "tracking": 0.05
+      "fontName": "LibreFranklin-Medium",
+      "fontSize": 13,
+      "textTransform": "uppercase"
     },
     "default-tag-sidebar-lede": {
-      "fontName": "GothamNarrow-Bold"
+      "fontName": "LibreFranklin-Bold"
     },
     "default-tag-subsection": {
       "fontName": "Gotham-Light"
@@ -2190,53 +2229,52 @@
     },
     "subSectionTextStyle": {
       "//": "UNUSED"
+    },
+    "default-tag-body-quote": {
+      "fontName": "LibreFranklin-SemiBold"
     }
   },
   "componentTextStyles": {
     "//": {
-      "//": "================ ALL RECIPES OVERRIDES ================"
+      "//": "===================== FOOD AND WINE OVERRIDES ====================="
     },
     "attributeTextStyle": {
-      "fontName": "GothamNarrow-Book",
+      "fontName": "BentonSans-Book",
       "fontSize": 10,
-      "textTransform": "uppercase",
       "lineHeight": 12,
-      "tracking": 0.05
+      "tracking": 0.05,
+      "textTransform": "uppercase"
     },
     "authorTextStyle": {
-      "fontName": "Gotham-Light",
-      "tracking": 0.1
+      "fontName": "Acta-Book"
     },
     "bodyCenteredTextStyle": {
       "textAlignment": "center"
     },
     "bodyDropCapTextStyle": {
-      "tracking": 0.02,
+      "fontName": "Acta-Book",
       "dropCapStyle": {
-        "fontName": "GothamNarrow-ThinItalic",
+        "fontName": "Xreles-Headline",
         "numberOfLines": 4,
         "numberOfRaisedLines": 0,
         "numberOfCharacters": 1
       }
     },
     "bodyTextStyle": {
-      "tracking": 0.02
+      "fontName": "Acta-Book"
     },
     "calloutBodyTextStyle": {
-      "fontSize": 15,
-      "lineHeight": 19,
-      "textAlignment": "center",
-      "linkStyle": {
-        "fontName": "GothamNarrow-Bold",
-        "textColor": "#000",
-        "underline": true
-      }
+      "fontName": "LibreFranklin-Regular",
+      "fontSize": 16,
+      "lineHeight": 20,
+      "textAlignment": "center"
     },
     "calloutHeadingTextStyle": {
-      "fontName": "Harrietv2Display-Bold",
-      "fontSize": 28,
-      "lineHeight": 30,
-      "textAlignment": "center"
+      "fontName": "LibreFranklin-Bold",
+      "fontSize": 18,
+      "lineHeight": 20,
+      "textAlignment": "center",
+      "textTransform": "uppercase"
     },
     "captionAdTextStyle": {
       "//": "UNUSED"
@@ -2249,47 +2287,32 @@
       "lineHeight": 16
     },
     "captionTextStyle": {
-      "fontName": "Gotham-BookItalic",
-      "tracking": 0.02,
-      "linkStyle": {
-        "fontName": "GothamNarrow-Bold",
-        "textColor": "#000",
-        "underline": true
-      }
+      "fontName": "BentonSans-Regular"
     },
     "default": {
-      "fontName": "GothamNarrow-Book",
+      "fontName": "BentonSans-Black",
       "textColor": "#000",
       "linkStyle": {
-        "fontName": "GothamNarrow-Bold",
-        "textColor": "#000",
-        "underline": true
+        "textColor": "#366a9b"
       },
       "hyphenation": false
     },
     "default-author": {
-      "fontName": "Avenir-Book",
       "fontSize": 14,
-      "lineHeight": 16
+      "lineHeight": 17
     },
     "default-body": {
-      "fontSize": 16,
-      "lineHeight": 20,
+      "fontSize": 18,
+      "lineHeight": 24,
       "paragraphSpacingBefore": 12,
-      "paragraphSpacingAfter": 12,
-      "linkStyle": {
-        "fontName": "GothamNarrow-Bold",
-        "textColor": "#000",
-        "underline": true
-      }
+      "paragraphSpacingAfter": 12
     },
     "default-byline": {
       "//": "UNUSED"
     },
     "default-caption": {
-      "fontName": "Avenir-Book",
       "fontSize": 14,
-      "lineHeight": 16
+      "lineHeight": 17
     },
     "default-heading": {
       "fontSize": 16,
@@ -2300,114 +2323,92 @@
       "lineHeight": 42
     },
     "default-heading3": {
-      "fontSize": 32,
-      "lineHeight": 34
+      "fontSize": 20,
+      "lineHeight": 22
     },
     "default-heading4": {
-      "fontSize": 28,
-      "lineHeight": 30,
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minViewportWidth": 500
-            }
-          ],
-          "fontSize": 24,
-          "lineHeight": 26
-        }
-      ]
-    },
-    "default-heading5": {
-      "fontSize": 17,
-      "lineHeight": 19
-    },
-    "default-heading6": {
       "fontSize": 18,
       "lineHeight": 20
     },
+    "default-heading5": {
+      "fontSize": 18,
+      "lineHeight": 20
+    },
+    "default-heading6": {
+      "fontSize": 14,
+      "lineHeight": 16
+    },
     "default-intro": {
-      "fontName": "Avenir-Book",
-      "fontSize": 20,
-      "lineHeight": 24
+      "fontSize": 18,
+      "lineHeight": 22
     },
     "default-photographer": {
       "//": "UNUSED"
     },
     "default-pullquote": {
-      "fontSize": 44,
-      "lineHeight": 44,
+      "fontSize": 32,
+      "lineHeight": 40,
       "textAlignment": "center"
     },
     "default-title": {
-      "fontSize": 60,
-      "lineHeight": 59
+      "fontSize": 56,
+      "lineHeight": 58
     },
     "floatImageCaptionTextStyle": {
-      "fontName": "Gotham-BookItalic",
-      "tracking": 0.02
+      "fontName": "BentonSans-Regular"
     },
     "heading2CenteredTextStyle": {
       "textAlignment": "center"
     },
     "heading2TextStyle": {
-      "fontName": "GothamXNarrow-Ultra",
-      "tracking": 0.11,
-      "textTransform": "uppercase"
+      "fontName": "Acta-Bold"
     },
     "heading3CenteredTextStyle": {
       "textAlignment": "center"
     },
     "heading3TextStyle": {
-      "fontName": "Gotham-Black"
+      "//": "UNUSED"
     },
     "heading4CenteredTextStyle": {
       "textAlignment": "center"
     },
     "heading4TextStyle": {
-      "fontName": "GothamXNarrow-Ultra",
-      "tracking": 0.12,
-      "textTransform": "uppercase"
+      "fontName": "LibreFranklin-Bold",
+      "textTransform": "uppercase",
+      "tracking": 0.02,
+      "textColor": "#e71f3d"
     },
     "heading5CenteredTextStyle": {
       "fontName": "Gotham-Bold",
-      "tracking": 0.02,
+      "textAlignment": "center",
       "textTransform": "uppercase",
-      "textAlignment": "center"
+      "tracking": 0.02
     },
     "heading5TextStyle": {
-      "fontName": "Gotham-Bold",
-      "tracking": 0.02,
-      "textTransform": "uppercase"
+      "//": "UNUSED"
     },
     "heading6CenteredTextStyle": {
       "textAlignment": "center"
     },
     "heading6TextStyle": {
-      "fontName": "GothamXNarrow-Black",
-      "tracking": 0.04
+      "textTransform": "uppercase"
     },
     "ingredientsTextStyle": {
-      "fontName": "GothamNarrow-Book",
-      "lineHeight": 24
+      "fontName": "LibreFranklin-SemiBold",
+      "fontSize": 15,
+      "lineHeight": 19
     },
     "introTextStyle": {
-      "fontName": "Gotham-Book",
-      "tracking": 0.03
+      "fontName": "Acta-Book"
     },
     "pullQuoteTextStyle": {
-      "fontName": "GothamCondensed-LightItalic",
-      "textAlignment": "center"
+      "fontName": "ActaDeck-Light"
     },
     "recipeDetailsTextStyle": {
-      "fontName": "GothamNarrow-Book",
+      "fontName": "BentonSans-Book",
+      "textTransform": "uppercase",
       "fontSize": 14,
-      "lineHeight": 16,
-      "linkStyle": {
-        "fontName": "GothamNarrow-Bold",
-        "textColor": "#000",
-        "underline": true
-      }
+      "lineHeight": 16
     },
     "reviewsTextStyle": {
       "conditional": [
@@ -2431,41 +2432,49 @@
       "textTransform": "uppercase"
     },
     "sectionTextStyle": {
-      "fontName": "Gotham-Ultra",
-      "fontSize": 14,
-      "tracking": 0.1
+      "fontName": "Xreles-Headline",
+      "tracking": 0.05,
+      "textTransform": "uppercase",
+      "fontSize": 19,
+      "lineHeight": 21
     },
     "sidebarBodyTextStyle": {
-      "fontName": "GothamNarrow-Book"
+      "fontName": "LibreFranklin-Regular",
+      "fontSize": 16,
+      "lineHeight": 20
     },
     "sidebarHeading2TextStyle": {
-      "fontName": "Harrietv2Display-Bold",
-      "tracking": 0.02
+      "fontName": "Acta-Bold"
     },
     "sidebarHeading3TextStyle": {
-      "fontName": "GothamXNarrow-Bold",
-      "tracking": 0.09,
-      "fontSize": 28,
-      "lineHeight": 30,
-      "textTransform": "uppercase"
+      "fontName": "LibreFranklin-Bold",
+      "textTransform": "uppercase",
+      "fontSize": 17,
+      "lineHeight": 19
     },
     "sidebarHeading4TextStyle": {
-      "fontName": "GothamXNarrow-Bold",
+      "fontName": "BentonSansCond-Bold",
+      "textTransform": "uppercase",
       "tracking": 0.02,
-      "fontSize": 24,
-      "lineHeight": 26
+      "fontSize": 16,
+      "lineHeight": 18
     },
     "sidebarIntroTextStyle": {
-      "fontName": "GothamNarrow-Medium"
+      "fontName": "LibreFranklin-Regular",
+      "fontSize": 16,
+      "lineHeight": 20
     },
     "straplineTextStyle": {
-      "fontName": "Gotham-Ultra",
-      "tracking": 0.15
+      "fontName": "BentonSans-Book",
+      "textTransform": "uppercase",
+      "fontSize": 13,
+      "tracking": 0.07,
+      "underline": {
+        "color": "#e71f3d"
+      }
     },
     "titleTextStyle": {
-      "fontName": "GothamCondensed-Black",
-      "tracking": 0.03,
-      "textTransform": "uppercase"
+      "fontName": "ActaDeck-Bold"
     },
     "tocTextStyle": {
       "fontName": "AvenirNextCondensed-Medium",
@@ -2481,6 +2490,32 @@
       "fontSize": 22,
       "lineHeight": 24,
       "textAlignment": "center"
+    },
+    "sidebarHeading5TextStyle": {
+      "fontName": "BentonSansCond-Bold",
+      "textTransform": "uppercase",
+      "tracking": 0.02,
+      "fontSize": 14,
+      "lineHeight": 16
+    },
+    "recipeTitleTextStyle": {
+      "fontSize": 34,
+      "lineHeight": 36
+    },
+    "recipeBodyTextStyle": {
+      "fontName": "LibreFranklin-Regular",
+      "fontSize": 16,
+      "lineHeight": 20
+    },
+    "recipeNutritionInfoTextStyle": {
+      "fontName": "BentonSans-Regular",
+      "fontSize": 14,
+      "lineHeight": 16
+    },
+    "buyingDetailsTextStyle": {
+      "fontName": "LibreFranklin-Regular",
+      "fontSize": 14,
+      "lineHeight": 16
     }
   }
 }

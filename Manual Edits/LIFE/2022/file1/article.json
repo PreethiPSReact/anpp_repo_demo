@@ -1,7 +1,7 @@
 {
   "version": "1.9",
-  "identifier": "bhg_article_716-391-12-1",
-  "title": "Sun-Sational Prints",
+  "identifier": "bhg_article_716-391-14-1",
+  "title": "What a Sight!",
   "language": "en",
   "layout": {
     "columns": 20,
@@ -9,24 +9,21 @@
     "margin": 40,
     "width": 1024
   },
-  "subtitle": "Somewhere between science and magic, cyanotypes use the power of the sun to record graphic blue-and-white prints. Grab a kit and use it to memorialize a summer day.",
+  "subtitle": "Day or night, keep your binoculars within reach. They’re the basis for family hobbies that will give you a whole new perspective on your own backyard.",
   "metadata": {
     "authors": [
-      "Ella Field",
-      "Kelsey Hansen",
-      "Crafts",
-      "Kim Hutchison"
+      "Christina Poletto"
     ],
-    "dateCreated": "2022-06-09T17:50:38.906Z",
-    "dateModified": "2022-06-07T20:16:01+00:00",
-    "excerpt": "Developed in 1842 by John Herschel, cyanotypes are an early form of photography. They’re made by placing objects on light-reactive paper.",
+    "dateCreated": "2022-06-09T17:50:41.029Z",
+    "dateModified": "2022-06-07T20:21:27+00:00",
+    "excerpt": "Curious whether you’re staring down an Eastern bluebird or a blue jay? Your yard provides ample opportunities for a primer course in birding. (And FYI—bluebirds have a rusty chest; blue jays, gray.)",
     "generatorName": "ANTE Generic Template",
     "generatorVersion": "0.0.4.33-2022-06-09 18:32",
     "issue": {
       "identifier": "PLACEHOLDER_ID",
-      "tocByline": "By Ella Field"
+      "tocByline": "By Christina Poletto"
     },
-    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_716/storage/images/media2/images/p012-bhg0822-cyanotype-hero/591115-1-eng-US/p012-bhg0822-cyanotype-hero.png?q=100"
+    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_716/storage/images/media2/images/p014-bhg0822-family-adventures-badge/591136-1-eng-US/p014-bhg0822-family-adventures-badge.png?q=100"
   },
   "documentStyle": {
     "backgroundColor": "#eee"
@@ -89,7 +86,7 @@
                   "fillMode": "fit",
                   "horizontalAlignment": "left",
                   "type": "image",
-                  "URL": "https://public-assets.meredithcorp.io/2d7d28561add354e2d755cf160ffa77c/life-crafts_DM.jpg"
+                  "URL": "https://public-assets.meredithcorp.io/5598670521de10828dc0edf3fe6d9f80/life-decoding_DM.jpg"
                 }
               }
             ],
@@ -97,7 +94,7 @@
               "fillMode": "fit",
               "horizontalAlignment": "left",
               "type": "image",
-              "URL": "https://public-assets.meredithcorp.io/7ff9ff0c6caa435d0da091d31ab7500b/life-crafts.jpg"
+              "URL": "https://public-assets.meredithcorp.io/a1536c01fd4d33a52e9a33a0cf38e072/life-decoding.jpg"
             }
           }
         },
@@ -107,12 +104,55 @@
           "style": "dividerSectionHeadStyle"
         },
         {
+          "//": "======== IMAGE BLOCK - 487.0x344.0 ========",
+          "role": "image",
+          "layout": {
+            "horizontalContentAlignment": "center",
+            "margin": {
+              "bottom": 15
+            },
+            "maximumContentWidth": "50cw"
+          },
+          "conditional": {
+            "conditions": [
+              {
+                "minSpecVersion": "1.14",
+                "preferredColorScheme": "dark"
+              }
+            ],
+            "hidden": true
+          },
+          "URL": "https://cdn-assets.ziniopro.com/var/site_716/storage/images/media2/images/p014-bhg0822-family-adventures-badge/591136-1-eng-US/p014-bhg0822-family-adventures-badge.png?q=100"
+        },
+        {
+          "//": "======== IMAGE BLOCK - 487.0x344.0 ========",
+          "role": "image",
+          "layout": {
+            "horizontalContentAlignment": "center",
+            "margin": {
+              "bottom": 15
+            },
+            "maximumContentWidth": "50cw"
+          },
+          "conditional": {
+            "conditions": [
+              {
+                "minSpecVersion": "1.14",
+                "preferredColorScheme": "dark"
+              }
+            ],
+            "hidden": false
+          },
+          "hidden": true,
+          "URL": "https://public-assets.meredithcorp.io/f1119fb5170c7fc1a60bb62b3a655565/car-dm.png"
+        },
+        {
           "//": "==== DEFAULT HEADER: TITLE ===",
           "role": "title",
           "layout": "titleLayout",
           "textStyle": "titleTextStyle",
           "format": "html",
-          "text": "Sun-Sational Prints"
+          "text": "What a Sight!"
         },
         {
           "//": "==== DEFAULT HEADER: INTRO ===",
@@ -120,25 +160,33 @@
           "layout": "introLayout",
           "textStyle": "introTextStyle",
           "format": "html",
-          "text": "Somewhere between science and magic, cyanotypes use the power of the sun to record graphic blue-and-white prints. Grab a kit and use it to memorialize a summer day."
+          "text": "Day or night, keep your binoculars within reach. They’re the basis for family hobbies that will give you a whole new perspective on your own backyard."
         },
         {
           "role": "author",
           "layout": "authorLayout",
           "textStyle": "authorTextStyle",
           "format": "html",
-          "text": "By <b>Ella Field</b><br>Photos by <b>Kelsey Hansen</b><br>Crafts by <b>Kim Hutchison</b>"
+          "text": "By <b>Christina Poletto</b>"
         },
         {
           "//": "======== HERO IMAGE CONTAINER =======",
           "role": "container",
-          "layout": "heroImageLayout",
+          "layout": "fullBleedContainerLayout",
+          "style": "fullBleedContainerStyle",
           "components": [
             {
-              "//": "======== HERO IMAGE - H1366.0/W1502.0 * 100 = 90.9454061 ========",
-              "role": "photo",
+              "role": "image",
               "layout": "fullBleedPhotoLayout",
-              "URL": "https://public-assets.meredithcorp.io/be77ab24cc1d0990d4f55cf6f9d020f0/herop.png"
+              "URL": "https://cdn-assets.ziniopro.com/var/site_716/storage/images/media2/images/p014-bhg0822-binoculars/591129-1-eng-US/p014-bhg0822-binoculars.jpg"
+            },
+            {
+              "role": "caption",
+              "layout": "captionLayout",
+              "textStyle": "captionTextStyle",
+              "format": "html",
+              "text": "<caption-heading>EYES ON THE PRIZE</caption-heading><br />To avoid searching, focus on your subject while you slowly bring the binoculars up to your eyes.",
+              "style": "captionStyle"
             }
           ]
         },
@@ -148,12 +196,28 @@
           "layout": "bodyContainerLayout",
           "components": [
             {
-              "role": "heading3",
-              "layout": "heading3Layout",
-              "style": "heading3Style",
-              "textStyle": "heading3TextStyle",
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1105.0/W1367.0 * 100 = 80.8339429 ========",
+                  "role": "image",
+                  "layout": {
+                    "horizontalContentAlignment": "center",
+                    "maximumContentWidth": "45cw"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_716/storage/images/media2/images/star__bird/588984-1-eng-US/star__bird2.png?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "heading2Layout",
+              "style": "heading2Style",
+              "textStyle": "heading2TextStyle",
               "format": "html",
-              "text": "Get Started"
+              "text": "Daytime"
             },
             {
               "role": "body",
@@ -161,23 +225,14 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "Developed in 1842 by John Herschel, cyanotypes are an early form of photography. They’re made by placing objects on light-reactive paper."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>BUY IT:</lede><br>■ Cyanotype Store 8\"×10\" Cyanotype Paper, 12 sheets for $19; <a href=\"http://bhphotovideo.com\">bhphotovideo.com</a><br><br>■ Sunprint Refills and Kits, $4–$20; <a href=\"http://sunprints.org\">sunprints.org</a>"
+              "text": "Curious whether you’re staring down an Eastern bluebird or a blue jay? Your yard provides ample opportunities for a primer course in birding. (And FYI—bluebirds have a rusty chest; blue jays, gray.)"
             },
             {
               "role": "heading3",
               "layout": "heading3Layout",
-              "style": "heading3Style",
               "textStyle": "heading3TextStyle",
               "format": "html",
-              "text": "Pick a Subject"
+              "text": "Setup"
             },
             {
               "role": "body",
@@ -185,15 +240,14 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "Plants, shells, rocks, and pinecones are all good sun-print candidates. Only the shadows cast by objects will appear, so opacity, size, and shape are key. So is timing: If the sun is directly overhead, shadows will be shorter and better capture the object’s true outline."
+              "text": "Outfit your yard with bird feeders—ideally placed away from the house so you can slip outside to observe the birds. Minnesota wildlife photographer Lisa Townsend takes it a step further by stocking a special decoy feeding station with peanuts to entice crows and jays away from her songbird feeders. Add a water source too. Birds need to drink up, and a bath gives you another spot for observation."
             },
             {
               "role": "heading3",
               "layout": "heading3Layout",
-              "style": "heading3Style",
               "textStyle": "heading3TextStyle",
               "format": "html",
-              "text": "Compose"
+              "text": "Study Guide"
             },
             {
               "role": "body",
@@ -201,15 +255,58 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "Place cyanotype paper on a flat surface (like cardboard) and arrange your nature finds on top. If you can, top with a piece of glass or acrylic to flatten your work. The flatter your objects, the crisper the final image. Glass should be larger than paper to prevent unwanted shadows. Use clips or tape around the edges to secure your composition."
+              "text": "A field guide can help you identify winged visitors, habitats, and behaviors. (<italic>The Sibley Guide to Birds</italic> covers the continental U.S., $40; <a href=\"http://sibleyguides.com\">sibleyguides.com</a>.) You can also tap into the Merlin Bird ID app’s sound function, which listens to bird calls and suggests who’s singing. Once you get familiar, use the eBird app to note sightings and seek birds others have spotted and logged."
             },
             {
-              "role": "heading3",
-              "layout": "heading3Layout",
-              "style": "heading3Style",
-              "textStyle": "heading3TextStyle",
+              "//": "======== IMAGE BLOCK - 487.0x344.0 ========",
+              "role": "image",
+              "layout": {
+                "horizontalContentAlignment": "center",
+                "margin": {
+                  "bottom": 15
+                },
+                "maximumContentWidth": "60cw"
+              },
+              "conditional": {
+                "conditions": [
+                  {
+                    "minSpecVersion": "1.14",
+                    "preferredColorScheme": "dark"
+                  }
+                ],
+                "hidden": true
+              },
+              "URL": "https://cdn-assets.ziniopro.com/var/site_716/storage/images/media2/images/f0014-01110/588977-1-eng-US/f0014-012.png?q=100"
+            },
+            {
+              "//": "======== IMAGE BLOCK - 487.0x344.0 ========",
+              "role": "image",
+              "layout": {
+                "horizontalContentAlignment": "center",
+                "margin": {
+                  "bottom": 15
+                },
+                "maximumContentWidth": "60cw"
+              },
+              "conditional": {
+                "conditions": [
+                  {
+                    "minSpecVersion": "1.14",
+                    "preferredColorScheme": "dark"
+                  }
+                ],
+                "hidden": false
+              },
+              "hidden": true,
+              "URL": "https://public-assets.meredithcorp.io/e6bf446b0a18f60191006c1dc43d32fe/star-dm.png"
+            },
+            {
+              "role": "heading2",
+              "layout": "heading2Layout",
+              "style": "heading2Style",
+              "textStyle": "heading2TextStyle",
               "format": "html",
-              "text": "Print"
+              "text": "Nighttime"
             },
             {
               "role": "body",
@@ -217,12 +314,65 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "Expose the layout to the sun until paper looks bronze, about 3–5 minutes on a sunny day. Develop your print in a tub of water according to kit instructions. Lay flat to dry."
+              "text": "July and August boast a couple of supermoons (July 13 and August 12) and two meteor showers (July 28–29 and August 11–13). With a little practice, you’ll be able to spot constellations like Scorpius in July and Sagittarius in August."
+            },
+            {
+              "role": "heading3",
+              "layout": "heading3Layout",
+              "textStyle": "heading3TextStyle",
+              "format": "html",
+              "text": "Setup"
+            },
+            {
+              "role": "body",
+              "layout": "bodyNoMarginAboveLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "Telescopes are nice, but “binoculars are a great and inexpensive way to observe the night sky,” says Nancy McGuire, Western Colorado Astronomy Club president. She suggests a 7×50 pair for night viewing (tap <italic><a href='#sidebar'>here</a></italic>). Another essential tool is a red-light flashlight. “White light—from flashlights, phones, or headlights—ruins night vision. It takes about half an hour for your eyes to become dark adapted,” McGuire says. And pack a reclining lawn chair to save your neck; it lets you study the night sky in comfort, and it can be easily toted to extra-dark areas. (Research spots with low light pollution at <a href=\"http://darksky.org\">darksky.org</a>.)"
+            },
+            {
+              "role": "heading3",
+              "layout": "heading3Layout",
+              "textStyle": "heading3TextStyle",
+              "format": "html",
+              "text": "Study Guide"
+            },
+            {
+              "role": "body",
+              "layout": "bodyNoMarginAboveLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "Orient yourself with Polaris (the North Star at the tip of the Little Dipper handle). Its location over the North Pole means that as the Earth rotates, this star is pretty constant, even as the star patterns change each night. From there, use the Star Walk 2 app for an interactive sky map on your phone. Or pair your new red-light flashlight with a planisphere. “This adjustable ‘wheel’ shows constellations and deep-sky objects on any given date,” McGuire says."
+            },
+            {
+              "//": "====== CALLOUT ======",
+              "role": "container",
+              "layout": "calloutLayout",
+              "style": "calloutStyle",
+              "components": [
+                {
+                  "role": "heading",
+                  "layout": "calloutHeadingLayout",
+                  "textStyle": "calloutHeadingTextStyle",
+                  "format": "html",
+                  "text": "<bracket>[</bracket> Feeder Warning <bracket>]</bracket>"
+                },
+                {
+                  "role": "body",
+                  "layout": "calloutBodyLayout",
+                  "textStyle": "calloutBodyTextStyle",
+                  "format": "html",
+                  "text": "A flu spread among waterfowl and poultry this spring. Protect songbirds by keeping feeders and baths clean."
+                }
+              ]
             },
             {
               "role": "container",
               "layout": "sidebarLayout",
               "style": "sidebarStyle",
+              "identifier": "sidebar",
               "components": [
                 {
                   "role": "container",
@@ -241,96 +391,15 @@
                       "style": "heading2Style",
                       "textStyle": "sidebarHeading2TextStyle",
                       "format": "html",
-                      "text": "Sun-Print Secrets"
+                      "text": "<i>Good to Know</i> ’Nocs Talk"
                     },
                     {
                       "role": "body",
-                      "layout": "sidebarBodyNoMarginAboveLayout",
+                      "layout": "sidebarBodyLayout",
                       "style": "paragraphStyle",
                       "textStyle": "sidebarBodyTextStyle",
                       "format": "html",
-                      "text": "A few suggestions for making keepsake art."
-                    },
-                    {
-                      "//": "======== SINGLE BLOCK CONTAINER =======",
-                      "role": "container",
-                      "layout": "sidebarSingleBlockContainerLayout",
-                      "style": "photoContainerStyle",
-                      "components": [
-                        {
-                          "//": "======== IMAGE BLEED - H1707.0/W1366.0 * 100 = 124.9633968 ========",
-                          "role": "image",
-                          "layout": {
-                            "horizontalContentAlignment": "center",
-                            "maximumContentWidth": "70cw"
-                          },
-                          "URL": "https://cdn-assets.ziniopro.com/var/site_716/storage/images/media2/images/p012-bhg0822-cyanotype-how-to/591122-1-eng-US/p012-bhg0822-cyanotype-how-to.png?q=100"
-                        }
-                      ]
-                    },
-                    {
-                      "role": "heading3",
-                      "layout": "sidebarHeading3Layout",
-                      "style": "heading3Style",
-                      "textStyle": "sidebarHeading3TextStyle",
-                      "format": "html",
-                      "text": "1. Shade"
-                    },
-                    {
-                      "role": "body",
-                      "layout": "sidebarBodyNoMarginAboveLayout",
-                      "style": "paragraphStyle",
-                      "textStyle": "sidebarBodyTextStyle",
-                      "format": "html",
-                      "text": "Prep in a shady spot. As soon as the paper is in the light, it will start to expose."
-                    },
-                    {
-                      "role": "heading3",
-                      "layout": "sidebarHeading3Layout",
-                      "style": "heading3Style",
-                      "textStyle": "sidebarHeading3TextStyle",
-                      "format": "html",
-                      "text": "2. Glass"
-                    },
-                    {
-                      "role": "body",
-                      "layout": "sidebarBodyNoMarginAboveLayout",
-                      "style": "paragraphStyle",
-                      "textStyle": "sidebarBodyTextStyle",
-                      "format": "html",
-                      "text": "Use glass that isn’t UV-coated or the cyanotype won’t develop."
-                    },
-                    {
-                      "role": "heading3",
-                      "layout": "sidebarHeading3Layout",
-                      "style": "heading3Style",
-                      "textStyle": "sidebarHeading3TextStyle",
-                      "format": "html",
-                      "text": "3. Water"
-                    },
-                    {
-                      "role": "body",
-                      "layout": "sidebarBodyNoMarginAboveLayout",
-                      "style": "paragraphStyle",
-                      "textStyle": "sidebarBodyTextStyle",
-                      "format": "html",
-                      "text": "No water handy? Slip exposed paper back in the kit’s light-blocking bag to rinse later."
-                    },
-                    {
-                      "role": "heading3",
-                      "layout": "sidebarHeading3Layout",
-                      "style": "heading3Style",
-                      "textStyle": "sidebarHeading3TextStyle",
-                      "format": "html",
-                      "text": "4. Technique"
-                    },
-                    {
-                      "role": "body",
-                      "layout": "sidebarBodyNoMarginAboveLayout",
-                      "style": "paragraphStyle",
-                      "textStyle": "sidebarBodyTextStyle",
-                      "format": "html",
-                      "text": "Experiment with light angles, exposure times, subjects, and compositions. The process and surprise are part of the fun."
+                      "text": "How to pick your pair? Go by the numbers. The first is the strength; the second is the physical size. So for a 7×50 pair, “7” means everything will appear seven times closer; “50” is the diameter (in mm) of the lenses—the bigger the lens, the brighter the image. <sidebar-lede>OUR PICK:</sidebar-lede> Standard Issue Waterproof Binoculars in 10×25 <sidebar-italic>(top),</sidebar-italic> $95; <a href=\"https://www.nocsprovisions.com/\">nocsprovisions.com</a> They’re not too strong for birding but bright enough for stargazing—great for concerts too."
                     }
                   ]
                 },
@@ -1013,6 +1082,9 @@
       "fontSize": 15,
       "textTransform": "uppercase",
       "tracking": 0.15
+    },
+    "default-tag-sidebar-italic": {
+      "fontName": "Gotham-LightItalic"
     },
     "default-tag-sidebar-lede": {
       "fontName": "AvenirNext-Bold",

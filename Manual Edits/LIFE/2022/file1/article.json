@@ -1,7 +1,7 @@
 {
   "version": "1.9",
-  "identifier": "alr_article_899-131-12-1",
-  "title": "FROM THE GROUND UP",
+  "identifier": "alr_article_899-131-20-1",
+  "title": "TASTE IT, DON’T WASTE IT",
   "language": "en",
   "layout": {
     "columns": 20,
@@ -9,162 +9,42 @@
     "margin": 40,
     "width": 1024
   },
-  "subtitle": "<p><b><custom name=\"underline\">These recipes begin with a ground meat&mdash;beef, chicken, turkey, or pork&mdash;and then build into easy, speedy burgers, lasagna cupcakes, meatloaf, and more.</custom></b></p>",
+  "subtitle": "<p><b><custom name=\"underline\">You almost always end up with leftover ingredients (think: parsley, tomato paste, buttermilk) when cooking. These savvy ideas for using it all up will save you money and reduce food waste.</custom></b></p>",
   "metadata": {
-    "dateCreated": "2022-06-21T16:54:01.449Z",
-    "dateModified": "2022-06-21T15:09:12+00:00",
-    "excerpt": "HANDS-ON 20 MIN",
-    "generatorName": "All-Recipes -- Recipe",
+    "authors": [
+      "Karla Walsh"
+    ],
+    "dateCreated": "2022-06-21T16:53:50.401Z",
+    "dateModified": "2022-06-21T14:52:46+00:00",
+    "excerpt": "— Upgrade your eggs. Stir a handful of chopped parsley into the egg mixture for any omelet, scramble, frittata, or quiche.",
+    "generatorName": "ANTE Generic Template",
     "generatorVersion": "0.0.4.33-2022-06-09 18:32",
-    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p012-013-alt102382-mushroom-beef-burgers/199191-1-eng-GB/p012-013-alt102382-mushroom-beef-burgers.jpg?q=100"
+    "issue": {
+      "identifier": "June 16, 2022",
+      "tocByline": "By Karla Walsh"
+    },
+    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p020-alt102382-flat-leaf-parsley/199233-1-eng-GB/p020-alt102382-flat-leaf-parsley.jpg?q=100"
   },
   "missingData": [
     {
-      "//": "======== SINGLE BLOCK CONTAINER ========",
-      "role": "container",
-      "layout": "singleBlockContainerLayout",
-      "components": [
-        {
-          "//": "======== IMAGE BLOCK - H74.0/W421.0 * 100 = 17.5771971 ========",
-          "role": "photo",
-          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0013-0125/197521-1-eng-GB/f0013-012.jpg?q=100"
-        }
+      "possibleAuthors": [
+        "— Boost mashed spuds. Trade buttermilk for whole milk in your classic mashed potatoes recipe for creamy results.",
+        "— Brighten up hummus. Add ½ cup parsley leaves before processing hummus for green goddess dressing vibes.",
+        "— Build a brine. Quick-pickle the carrots to add a tangy element to cheese boards, hummus platters, and dip buffets.",
+        "— Extend its life. Fill a Mason jar with an inch or two of water, then trim the stems and store the parsley like a bouquet of flowers. Put a plastic bag loosely over the leafy ends and change the water each time you notice it browning. It should stay fresh for about 2 weeks.",
+        "— Extend its life. If you plan to bake or cook with buttermilk, you can freeze it for up to 3 months. Or start with powdered buttermilk, which can be used for 6 to 12 months after opening.",
+        "— Extend its life. Many brands like Cento, Amore, and Tuscanini now sell tomato paste in toothpaste-like tubes. While canned paste lasts only up to a week, that tube of tomato paste stored in your fridge will be good for up to 8 weeks after opening.",
+        "— Extend their life. Store extra baby carrots in a lid-topped container filled with enough water to cover the carrots; they should last around 3 weeks.",
+        "— Get saucy. Add a spoonful or two to store-bought marinara or meat sauce to pump up the flavor.",
+        "— Go against the grain. In a food processor, pulse baby carrots until they reach a rice-like consistency, then fold into regular rice, grain bowls, or even mac and cheese.",
+        "— Infuse your stews. Boost the umami in any tomato-based or beef-centric stews, soups, or chilies by incorporating a scoop of tomato paste.",
+        "— Make mini vegan dogs. The internet sensation of carrot hot dogs can go mini, too. Try the soy- and ginger-scented marinade at allrecipes.com/carrotdogs, then cook them on a grill pan until tender on the inside and golden on the outside.",
+        "— Perk up pesto. Swap parsley for basil for a twist on herb pesto. Toss with pasta, spoon over grilled meat or fish, or use as a dipping sauce for bread.",
+        "— Shake up a dressing. Shake together ⅓ cup olive oil, 2 Tbsp. vinegar, and 1 Tbsp. tomato paste with some salt, garlic, and herbs for a super vinaigrette.",
+        "— Slip it in a smoothie. Replace half the milk called for in your favorite smoothie recipe with buttermilk for a lovely tanginess.",
+        "— Upgrade a boxed brownie mix. Substitute an equal amount of buttermilk for the water called for in the instructions for richer, just-like-homemade flavor.",
+        "— Upgrade your eggs. Stir a handful of chopped parsley into the egg mixture for any omelet, scramble, frittata, or quiche."
       ]
-    },
-    {
-      "role": "body",
-      "layout": "bodyLayout",
-      "style": "paragraphStyle",
-      "textStyle": "bodyTextStyle",
-      "format": "html",
-      "text": "7 REVIEWS"
-    },
-    {
-      "//": "======== SINGLE BLOCK CONTAINER ========",
-      "role": "container",
-      "layout": "singleBlockContainerLayout",
-      "components": [
-        {
-          "//": "======== IMAGE BLOCK - H38.0/W211.0 * 100 = 18.0094787 ========",
-          "role": "photo",
-          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0014-0129/197493-1-eng-GB/f0014-012.jpg?q=100"
-        }
-      ]
-    },
-    {
-      "role": "body",
-      "layout": "bodyLayout",
-      "style": "paragraphStyle",
-      "textStyle": "bodyTextStyle",
-      "format": "html",
-      "text": "115 REVIEWS"
-    },
-    {
-      "//": "======== SINGLE BLOCK CONTAINER ========",
-      "role": "container",
-      "layout": "singleBlockContainerLayout",
-      "components": [
-        {
-          "//": "======== IMAGE BLOCK - H476.0/W394.0 * 100 = 120.8121827 ========",
-          "role": "photo",
-          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p014-alt102382-alr-badge/199177-1-eng-GB/p014-alt102382-alr-badge.png?q=100"
-        }
-      ]
-    },
-    {
-      "role": "heading3",
-      "layout": "heading3Layout",
-      "textStyle": "heading3TextStyle",
-      "format": "html",
-      "text": "<b>ALEXA-ENABLED!</b>"
-    },
-    {
-      "//": "======== SINGLE BLOCK CONTAINER ========",
-      "role": "container",
-      "layout": "singleBlockContainerLayout",
-      "components": [
-        {
-          "//": "======== IMAGE BLOCK - H74.0/W420.0 * 100 = 17.6190476 ========",
-          "role": "photo",
-          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0016-0139/197458-1-eng-GB/f0016-012.jpg?q=100"
-        }
-      ]
-    },
-    {
-      "role": "body",
-      "layout": "bodyLayout",
-      "style": "paragraphStyle",
-      "textStyle": "bodyTextStyle",
-      "format": "html",
-      "text": "72 REVIEWS"
-    },
-    {
-      "//": "======== SINGLE BLOCK CONTAINER ========",
-      "role": "container",
-      "layout": "singleBlockContainerLayout",
-      "components": [
-        {
-          "//": "======== IMAGE BLOCK - H74.0/W420.0 * 100 = 17.6190476 ========",
-          "role": "photo",
-          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0017-0129/197437-1-eng-GB/f0017-012.jpg?q=100"
-        }
-      ]
-    },
-    {
-      "role": "body",
-      "layout": "bodyLayout",
-      "style": "paragraphStyle",
-      "textStyle": "bodyTextStyle",
-      "format": "html",
-      "text": "184 REVIEWS"
-    },
-    {
-      "//": "======== SINGLE BLOCK CONTAINER ========",
-      "role": "container",
-      "layout": "singleBlockContainerLayout",
-      "components": [
-        {
-          "//": "======== IMAGE BLOCK - H74.0/W421.0 * 100 = 17.5771971 ========",
-          "role": "photo",
-          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0018-0145/197423-1-eng-GB/f0018-012.jpg?q=100"
-        }
-      ]
-    },
-    {
-      "role": "body",
-      "layout": "bodyLayout",
-      "style": "paragraphStyle",
-      "textStyle": "bodyTextStyle",
-      "format": "html",
-      "text": "51 REVIEWS"
-    },
-    {
-      "//": "======== SINGLE BLOCK CONTAINER ========",
-      "role": "container",
-      "layout": "singleBlockContainerLayout",
-      "components": [
-        {
-          "//": "======== IMAGE BLOCK - H74.0/W421.0 * 100 = 17.5771971 ========",
-          "role": "photo",
-          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0019-0123/197409-1-eng-GB/f0019-012.jpg?q=100"
-        }
-      ]
-    },
-    {
-      "role": "body",
-      "layout": "bodyLayout",
-      "style": "paragraphStyle",
-      "textStyle": "bodyTextStyle",
-      "format": "html",
-      "text": "518 REVIEWS"
-    },
-    {
-      "role": "body",
-      "layout": "bodyLayout",
-      "style": "paragraphStyle",
-      "textStyle": "bodyTextStyle",
-      "format": "html",
-      "text": "<b>PICK YOUR SALSA</b>&nbsp;With so many different salsa options on store shelves, you can give this meatloaf a different flavor each time you make it. Try chipotle salsa for a deep, smoky flavor. Go green by using salsa verde. Or add a fruity salsa, such as pineapple or peach salsa, for a sweet-savory twist.<span class=\"end-marker\"> ■</span>"
     }
   ],
   "documentStyle": {
@@ -219,7 +99,7 @@
           "layout": "titleLayout",
           "textStyle": "titleTextStyle",
           "format": "html",
-          "text": "From the Ground Up"
+          "text": "Taste It, Don’t Waste It"
         },
         {
           "//": "==== DEFAULT HEADER: INTRO ===",
@@ -227,7 +107,14 @@
           "layout": "introLayout",
           "textStyle": "introTextStyle",
           "format": "html",
-          "text": "These recipes begin with a ground meat&mdash;beef, chicken, turkey, or pork&mdash;and then build into easy, speedy burgers, lasagna cupcakes, meatloaf, and more."
+          "text": "You almost always end up with leftover ingredients (think: parsley, tomato paste, buttermilk) when cooking. These savvy ideas for using it all up will save you money and reduce food waste."
+        },
+        {
+          "role": "author",
+          "layout": "authorLayout",
+          "textStyle": "authorTextStyle",
+          "format": "html",
+          "text": "By Karla Walsh"
         },
         {
           "//": "======== HERO IMAGE CONTAINER =======",
@@ -235,92 +122,25 @@
           "layout": "heroImageLayout",
           "components": [
             {
-              "//": "======== HERO IMAGE - H1035.0/W1366.0 * 100 = 75.7686676 ========",
+              "//": "======== HERO IMAGE - H1362.0/W1366.0 * 100 = 99.7071742 ========",
               "role": "photo",
               "layout": "fullBleedPhotoLayout",
-              "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p012-013-alt102382-mushroom-beef-burgers/199191-1-eng-GB/p012-013-alt102382-mushroom-beef-burgers.jpg?q=100"
+              "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p020-alt102382-flat-leaf-parsley/199233-1-eng-GB/p020-alt102382-flat-leaf-parsley.jpg?q=100"
             }
           ]
         },
         {
-          "//": "======== BEGIN RECIPES BODY CONTAINER =======",
+          "//": "======== BODY CONTAINER =======",
           "role": "container",
           "layout": "bodyContainerLayout",
-          "style": "bodyContainerStyle",
           "components": [
             {
               "role": "heading2",
-              "layout": "bodyLayout",
+              "layout": "heading2Layout",
               "textStyle": "heading2TextStyle",
               "format": "html",
-              "text": "Mushroom Beef Burgers"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "recipeDetailsTextStyle",
-              "format": "html",
-              "text": "<lede>HANDS-ON</lede> 20 MIN <lede>TOTAL</lede> 20 MIN <lede>SERVES</lede> 8 <br><lede>SUBMITTED BY</lede> JUANITA S"
-            },
-            {
-              "//": "====== REVIEWS ======",
-              "role": "container",
-              "layout": "bodyLayout",
-              "contentDisplay": {
-                "type": "horizontal_stack"
-              },
-              "components": [
-                {
-                  "role": "image",
-                  "layout": "starsImageLayout",
-                  "conditional": [
-                    {
-                      "conditions": [
-                        {
-                          "minSpecVersion": "1.14",
-                          "preferredColorScheme": "dark"
-                        }
-                      ],
-                      "hidden": true
-                    }
-                  ],
-                  "hidden": false,
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common022/86031-1-eng-GB/common022.jpg"
-                },
-                {
-                  "role": "image",
-                  "layout": "starsImageLayout",
-                  "conditional": [
-                    {
-                      "conditions": [
-                        {
-                          "minSpecVersion": "1.14",
-                          "preferredColorScheme": "dark"
-                        }
-                      ],
-                      "hidden": false
-                    }
-                  ],
-                  "hidden": true,
-                  "URL": "https://public-assets.meredithcorp.io/ba3bbeb190fc45d4b5bb1d08c8fd2a5c/fiveDM.png"
-                },
-                {
-                  "role": "container",
-                  "layout": "smallSpacerLayout"
-                },
-                {
-                  "role": "body",
-                  "layout": {
-                    "padding": {
-                      "top": 0
-                    }
-                  },
-                  "textStyle": "reviewsTextStyle",
-                  "format": "html",
-                  "text": "7 REVIEWS"
-                }
-              ]
+              "text": "Flat-Leaf Parsley",
+              "style": "heading2Style"
             },
             {
               "role": "body",
@@ -328,13 +148,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<i>Serve these burgers on buns with your favorite toppings. We love the classics—lettuce, tomato, onion, mustard, and pickles.</i>"
-            },
-            {
-              "role": "htmltable",
-              "layout": "ingredientsLayout",
-              "style": "ingredientsStyle",
-              "html": "<table><tr><td>3</td><td>cups finely chopped mushrooms (8 oz.)</td></tr><tr><td>1</td><td>cup finely chopped onion</td></tr><tr><td>3</td><td>cloves garlic, minced</td></tr><tr><td>1</td><td>tsp. Italian seasoning</td></tr><tr><td>1</td><td>tsp. salt</td></tr><tr><td>½</td><td>tsp. black pepper</td></tr><tr><td>2</td><td>lb. 85%-lean ground beef</td></tr></table>"
+              "text": "<lede>—</lede>&nbsp;<bold>Upgrade your eggs.</bold> Stir a handful of chopped parsley into the egg mixture for any omelet, scramble, frittata, or quiche."
             },
             {
               "role": "body",
@@ -342,7 +156,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>1.</lede> Stir together mushrooms, onion, garlic, Italian seasoning, salt, and pepper in a large bowl. With moistened hands, add beef and gently mix just until evenly combined. Shape into eight ½-inch-thick patties."
+              "text": "<lede>—</lede>&nbsp;<bold>Perk up pesto.</bold> Swap parsley for basil for a twist on herb pesto. Toss with pasta, spoon over grilled meat or fish, or use as a dipping sauce for bread."
             },
             {
               "role": "body",
@@ -350,7 +164,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>2.</lede> Preheat an outdoor grill to medium heat (325°F to 375°F). Lightly oil grate. Grill patties, covered, 5 to 7 minutes per side, or until an instant-read thermometer inserted into centers registers 160°F."
+              "text": "<lede>—</lede>&nbsp;<bold>Brighten up hummus.</bold> Add ½ cup parsley leaves before processing hummus for green goddess dressing vibes."
             },
             {
               "role": "body",
@@ -358,58 +172,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede><a href=\"https://www.allrecipes.com/recipe/258947/mushroom-beef-burgers/\">armagazine.com/mushroom-beef-burgers</a></i></lede>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b><i>HIDDEN GEM</i></b> | <b><i>QUICK</i></b>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "attributeTextStyle",
-              "format": "html",
-              "text": "PER BURGER (WITH BUN, WITHOUT TOPPINGS): 402 CAL; 22G FAT (9G SAT); 26G PRO; 25G CARB (2G FIBER, 5G SUGARS); 576MG SODIUM"
-            },
-            {
-              "//": "======= YOU SAID CONTAINER ======",
-              "role": "container",
-              "layout": "youSaidContainerLayout",
-              "components": [
-                {
-                  "role": "pullquote",
-                  "textStyle": "youSaidQuoteTextStyle",
-                  "format": "html",
-                  "text": "“This recipe makes burgers that are juicy and very tasty. I cooked them in an air fryer, and they were perfect.”<br><pullquote-attribution>– CASSIEGAYLE46</pullquote-attribution>"
-                }
-              ]
-            },
-            {
-              "//": "====== CALLOUT ======",
-              "role": "container",
-              "layout": "calloutLayout",
-              "style": "calloutStyle",
-              "components": [
-                {
-                  "role": "heading",
-                  "layout": "calloutHeadingLayout",
-                  "textStyle": "calloutHeadingTextStyle",
-                  "format": "html",
-                  "text": "Juicy Secret"
-                },
-                {
-                  "role": "body",
-                  "layout": "calloutBodyLayout",
-                  "textStyle": "calloutBodyTextStyle",
-                  "format": "html",
-                  "text": "Adding chopped mushrooms to the beef boosts flavor, sneaks in a veggie, and keeps these burgers big and juicy."
-                }
-              ]
+              "text": "<lede>—</lede>&nbsp;<bold>Extend its life.</bold> Fill a Mason jar with an inch or two of water, then trim the stems and store the parsley like a bouquet of flowers. Put a plastic bag loosely over the leafy ends and change the water each time you notice it browning. It should stay fresh for about 2 weeks."
             },
             {
               "//": "======== FULL BLEED CONTAINER ========",
@@ -417,1015 +180,201 @@
               "layout": "fullBleedContainerLayout",
               "components": [
                 {
-                  "//": "======== IMAGE BLEED - H1516.0/W1366.0 * 100 = 110.9809663 ========",
+                  "//": "======== IMAGE BLEED - H1327.0/W1366.0 * 100 = 97.1449488 ========",
                   "role": "photo",
                   "layout": "fullBleedPhotoLayout",
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p014-alt102382-lasagna-cups/199184-1-eng-GB/p014-alt102382-lasagna-cups.jpg?q=100"
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p021-alt102382-buttermilk-mngo-smoothie/199226-1-eng-GB/p021-alt102382-buttermilk-mngo-smoothie.jpg?q=100"
                 }
               ]
             },
             {
               "role": "heading2",
-              "layout": "bodyLayout",
+              "layout": "heading2Layout",
               "textStyle": "heading2TextStyle",
               "format": "html",
-              "text": "Lasagna Cupcakes"
+              "text": "Buttermilk",
+              "style": "heading2Style"
             },
             {
               "role": "body",
               "layout": "bodyLayout",
               "style": "paragraphStyle",
-              "textStyle": "recipeDetailsTextStyle",
+              "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>HANDS-ON</lede> 15 MIN <lede>TOTAL</lede> 40 MIN <lede>SERVES</lede> 6 <br><lede>SUBMITTED BY</lede> KIMBERLEY PIPER"
+              "text": "<lede>—</lede>&nbsp;<bold>Slip it in a smoothie.</bold> Replace half the milk called for in your favorite smoothie recipe with buttermilk for a lovely tanginess."
             },
             {
-              "//": "====== REVIEWS ======",
-              "role": "container",
+              "role": "body",
               "layout": "bodyLayout",
-              "contentDisplay": {
-                "type": "horizontal_stack"
-              },
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>—</lede>&nbsp;<bold>Upgrade a boxed brownie mix.</bold> Substitute an equal amount of buttermilk for the water called for in the instructions for richer, just-like-homemade flavor."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>—</lede>&nbsp;<bold>Boost mashed spuds.</bold> Trade buttermilk for whole milk in your classic mashed potatoes recipe for creamy results."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>—</lede>&nbsp;<bold>Extend its life.</bold>&nbsp;If you plan to bake or cook with buttermilk, you can freeze it for up to 3 months. Or start with powdered buttermilk, which can be used for 6 to 12 months after opening."
+            },
+            {
+              "role": "heading2",
+              "layout": "heading2Layout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Bagged Mini Carrots",
+              "style": "heading2Style"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>—</lede>&nbsp;<bold>Build a brine.</bold> Quick-pickle the carrots to add a tangy element to cheese boards, hummus platters, and dip buffets."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>—</lede>&nbsp;<bold>Make mini vegan dogs.</bold> The internet sensation of carrot hot dogs can go mini, too. Try the soy- and ginger-scented marinade at <i><a href=\"http://allrecipes.com/carrotdogs\">allrecipes.com/carrotdogs</a></i>, then cook them on a grill pan until tender on the inside and golden on the outside."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>—</lede>&nbsp;<bold>Go against the grain.</bold> In a food processor, pulse baby carrots until they reach a rice-like consistency, then fold into regular rice, grain bowls, or even mac and cheese."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>—</lede>&nbsp;<bold>Extend their life.</bold> Store extra baby carrots in a lid-topped container filled with enough water to cover the carrots; they should last around 3 weeks."
+            },
+            {
+              "role": "heading2",
+              "layout": "heading2Layout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Canned Tomato&nbsp;Paste",
+              "style": "heading2Style"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>—</lede>&nbsp;<bold>Get saucy.</bold> Add a spoonful or two to store-bought marinara or meat sauce to pump up the flavor."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>—</lede>&nbsp;<bold>Shake up a dressing.</bold> Shake together ⅓ cup olive oil, 2 Tbsp. vinegar, and 1 Tbsp. tomato paste with some salt, garlic, and herbs for a super vinaigrette."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>—</lede>&nbsp;<bold>Infuse your stews.</bold> Boost the umami in any tomato-based or beef-centric stews, soups, or chilies by incorporating a scoop of tomato paste."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>—</lede>&nbsp;<bold>Extend its life.</bold> Many brands like Cento, Amore, and Tuscanini now sell tomato paste in toothpaste-like tubes. While canned paste lasts only up to a week, that tube of tomato paste stored in your fridge will be good for up to 8 weeks after opening."
+            },
+            {
+              "role": "container",
+              "layout": "sidebarLayout",
+              "style": "sidebarStyle",
               "components": [
                 {
-                  "role": "image",
-                  "layout": "starsImageLayout",
-                  "conditional": [
-                    {
-                      "conditions": [
-                        {
-                          "minSpecVersion": "1.14",
-                          "preferredColorScheme": "dark"
-                        }
-                      ],
-                      "hidden": true
-                    }
-                  ],
-                  "hidden": false,
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common0166/108858-1-eng-GB/common012.jpg?q=100"
-                },
-                {
-                  "role": "image",
-                  "layout": "starsImageLayout",
-                  "conditional": [
-                    {
-                      "conditions": [
-                        {
-                          "minSpecVersion": "1.14",
-                          "preferredColorScheme": "dark"
-                        }
-                      ],
-                      "hidden": false
-                    }
-                  ],
-                  "hidden": true,
-                  "URL": "https://public-assets.meredithcorp.io/8700c3d249629b59c38e0b147c58947c/fourDM.png"
-                },
-                {
+                  "//": "======== BODY CONTAINER =======",
                   "role": "container",
-                  "layout": "smallSpacerLayout"
-                },
-                {
-                  "role": "body",
-                  "layout": {
-                    "padding": {
-                      "top": 0
-                    }
-                  },
-                  "textStyle": "reviewsTextStyle",
-                  "format": "html",
-                  "text": "115 REVIEWS"
-                }
-              ]
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<i>Give these “cupcakes” a pop of extra flavor with chopped fresh basil and crushed red pepper.</i>"
-            },
-            {
-              "role": "htmltable",
-              "layout": "ingredientsLayout",
-              "style": "ingredientsStyle",
-              "html": "<table><tr><td>24</td><td>wonton wrappers</td></tr><tr><td>6</td><td>oz. ground beef</td></tr><tr><td>¼</td><td>tsp. salt</td></tr><tr><td>¼</td><td>tsp. black pepper</td></tr><tr><td>1¼</td><td>cups grated Parmesan cheese (5 oz.)</td></tr><tr><td>1½</td><td>cups shredded mozzarella cheese (6 oz.)</td></tr><tr><td>1</td><td>cup pasta sauce</td></tr></table>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>1.</lede> Preheat oven to 375°F. Coat twelve 3½-inch muffin cups with cooking spray, then press 1 wonton wrapper into each."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>2.</lede> Cook beef in a large skillet over medium-high heat, stirring to break up lumps, until browned, 5 to 7 minutes. Sprinkle with salt and black pepper; drain grease."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>3.</lede> Stir together ¾ cup each Parmesan and mozzarella in a bowl. Spoon half the cheese mixture into muffin cups; top with half the beef and half the pasta sauce. Top muffin cups with remaining wonton wrappers, cheese mixture, beef, and sauce. Sprinkle with remaining Parmesan and mozzarella."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>4.</lede> Bake until edges are browned, 18 to 20 minutes. Let cool in pan 5 minutes, then run a knife around edges to loosen and remove cupcakes."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede><a href=\"https://www.allrecipes.com/recipe/241564/lasagna-cupcakes/\">armagazine.com/lasagna-cupcakes</a></lede>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "attributeTextStyle",
-              "format": "html",
-              "text": "PER SERVING (2 CUPCAKES): 355 CAL; 16G FAT (8G SAT); 24G PRO; 26G CARB (1G FIBER, 3G SUGARS); 990MG SODIUM"
-            },
-            {
-              "//": "======= YOU SAID CONTAINER ======",
-              "role": "container",
-              "layout": "youSaidContainerLayout",
-              "components": [
-                {
-                  "role": "container",
-                  "layout": {
-                    "margin": {
-                      "bottom": 10
-                    }
-                  },
-                  "contentDisplay": {
-                    "alignment": "center",
-                    "distribution": "narrow",
-                    "maximumWidth": 80,
-                    "type": "collection"
-                  },
+                  "layout": "bodyContainerLayout",
+                  "style": "bodyContainerStyle",
                   "components": [
                     {
-                      "role": "image",
-                      "style": {
-                        "backgroundColor": "#008080",
-                        "mask": {
-                          "radius": 80,
-                          "type": "corners"
-                        }
-                      },
-                      "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/carolportno_032/197500-1-eng-GB/carolportno_0322.jpg?q=100"
+                      "role": "heading2",
+                      "layout": "sidebarHeading2Layout",
+                      "style": "heading2Style",
+                      "textStyle": "sidebarHeading2TextStyle",
+                      "format": "html",
+                      "text": "Food Waste-Fighting Tips"
+                    },
+                    {
+                      "role": "heading3",
+                      "layout": "sidebarHeading3Layout",
+                      "style": "heading3Style",
+                      "textStyle": "sidebarHeading3TextStyle",
+                      "format": "html",
+                      "text": "Think Root to Stem"
+                    },
+                    {
+                      "role": "body",
+                      "layout": "sidebarBodyLayout",
+                      "style": "paragraphStyle",
+                      "textStyle": "sidebarBodyTextStyle",
+                      "format": "html",
+                      "text": "Vegetable peels and trimmings can star in stocks, while leafy green tops are terrific in pestos and salads."
+                    },
+                    {
+                      "role": "heading3",
+                      "layout": "sidebarHeading3Layout",
+                      "style": "heading3Style",
+                      "textStyle": "sidebarHeading3TextStyle",
+                      "format": "html",
+                      "text": "Plan It"
+                    },
+                    {
+                      "role": "body",
+                      "layout": "sidebarBodyLayout",
+                      "style": "paragraphStyle",
+                      "textStyle": "sidebarBodyTextStyle",
+                      "format": "html",
+                      "text": "When picking meals for the week, notice which recipes call for only part of a product—say, two large carrots from a bunch. Select another recipe for the day before or after that can use that same ingredient."
+                    },
+                    {
+                      "role": "heading3",
+                      "layout": "sidebarHeading3Layout",
+                      "style": "heading3Style",
+                      "textStyle": "sidebarHeading3TextStyle",
+                      "format": "html",
+                      "text": "Freeze!"
+                    },
+                    {
+                      "role": "body",
+                      "layout": "sidebarBodyLayout",
+                      "style": "paragraphStyle",
+                      "textStyle": "sidebarBodyTextStyle",
+                      "format": "html",
+                      "text": "Extend the life of hard cheeses (like Parmesan), extra bread, or overripe bananas by popping them in the freezer. A Parmesan rind amplifies the umami in soups and sauces; thawed and toasted bread works great for sandwiches, croutons, or stuffing; and frozen bananas are the secret ingredient in the creamiest homemade smoothies."
                     }
                   ]
-                },
-                {
-                  "role": "pullquote",
-                  "textStyle": "youSaidQuoteTextStyle",
-                  "format": "html",
-                  "text": "“I made these vegetarian by using spinach, zucchini, yellow squash, and onions. They tasted even better two days later.”<br><pullquote-attribution>– CAROL PORTNOY CENNAMO</pullquote-attribution>"
-                }
-              ]
-            },
-            {
-              "//": "======= YOU SAID CONTAINER ======",
-              "role": "container",
-              "layout": "youSaidContainerLayout",
-              "components": [
-                {
-                  "//": "======= YOU SAID HEADING ======",
-                  "role": "heading5",
-                  "layout": "heading5Layout",
-                  "style": "heading5Style",
-                  "textStyle": "heading5CenteredTextStyle",
-                  "format": "html",
-                  "text": "Alexa-enabled!"
-                },
-                {
-                  "role": "image",
-                  "layout": {
-                    "//": "IPAD CONDITION STYLING",
-                    "conditional": [
-                      {
-                        "//": "PHONE CONDITION STYLING",
-                        "conditions": [
-                          {
-                            "maxViewportWidth": 415
-                          }
-                        ],
-                        "maximumContentWidth": "20cw",
-                        "minimumWidth": "20cw"
-                      }
-                    ],
-                    "maximumContentWidth": "10cw",
-                    "minimumWidth": "10cw"
-                  },
-                  "URL": "https://public-assets.meredithcorp.io/52a9945feae3786d54921b3bcdb7b230/ALR0920-p51-badge.png"
-                },
-                {
-                  "role": "pullquote",
-                  "layout": "bodySmallMarginAboveLayout",
-                  "textStyle": "youSaidQuoteTextStyle",
-                  "format": "html",
-                  "text": "“Just say, “Alexa, ask Allrecipes for Lasagna Cupcakes.” She’ll guide you through the recipe step-by-step—all hands-free!”"
-                }
-              ]
-            },
-            {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "fullBleedContainerLayout",
-              "components": [
-                {
-                  "//": "======== IMAGE BLEED - H1585.0/W1366.0 * 100 = 116.0322108 ========",
-                  "role": "photo",
-                  "layout": "fullBleedPhotoLayout",
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p015-alt102382-fire-roasted-corn-beef-skillet-pie/199198-1-eng-GB/p015-alt102382-fire-roasted-corn-beef-skillet-pie.jpg?q=100"
-                }
-              ]
-            },
-            {
-              "role": "heading2",
-              "layout": "bodyLayout",
-              "textStyle": "heading2TextStyle",
-              "format": "html",
-              "text": "Fire-Roasted Corn and Beef Skillet Pie"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "recipeDetailsTextStyle",
-              "format": "html",
-              "text": "<lede>HANDS-ON</lede> 15 MIN <lede>TOTAL</lede> 45 MIN <lede>SERVES</lede> 6 <br><lede>SUBMITTED BY</lede> EATANDRUN"
-            },
-            {
-              "//": "***** NEW RECIPE LINK *****",
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "recipeDetailsTextStyle",
-              "format": "html",
-              "text": "<a href=\"https://www.allrecipes.com/recipe/8388138/fire-roasted-corn-and-beef-skillet-pie/\">NEW RECIPE GO ONLINE TO RATE &amp; REVIEW</a>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<i>Have some pizza seasoning in your spice cabinet? Sprinkle it over the breadsticks before baking.</i>"
-            },
-            {
-              "role": "htmltable",
-              "layout": "ingredientsLayout",
-              "style": "ingredientsStyle",
-              "html": "<table><tr><td>1</td><td>lb. ground beef</td></tr><tr><td>2</td><td>cups frozen fire-roasted corn</td></tr><tr><td>24</td><td>oz. jar red pasta sauce</td></tr><tr><td>¾</td><td>cup shredded pepper Jack cheese</td></tr><tr><td>1</td><td>(11-oz.) pkg. refrigerated breadsticks</td></tr></table>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>1.</lede> Preheat oven to 400°F. Cook ground beef, stirring and breaking up lumps, in a large cast-iron skillet until browned, about 10 minutes. Stir in corn and pasta sauce. Bring to a boil, then stir in cheese. Unroll breadsticks and loosely weave on top of filling."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>2.</lede> Bake until golden brown and bubbly, 20 to 25 minutes. Let stand 10 minutes."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede><a href=\"https://www.allrecipes.com/recipe/8388138/fire-roasted-corn-and-beef-skillet-pie/\">armagazine.com/fire-roasted-corn-and-beef-skillet-pie</a></lede>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "attributeTextStyle",
-              "format": "html",
-              "text": "PER SERVING: 435 CAL; 18G FAT (7G SAT); 24G PRO; 43G CARB (4G FIBER, 11G SUGARS); 1,015MG SODIUM"
-            },
-            {
-              "//": "====== CALLOUT ======",
-              "role": "container",
-              "layout": "calloutLayout",
-              "style": "calloutStyle",
-              "components": [
-                {
-                  "role": "heading",
-                  "layout": "calloutHeadingLayout",
-                  "textStyle": "calloutHeadingTextStyle",
-                  "format": "html",
-                  "text": "Get More Recipes"
-                },
-                {
-                  "role": "body",
-                  "layout": "calloutBodyLayout",
-                  "textStyle": "calloutBodyTextStyle",
-                  "format": "html",
-                  "text": "Tap <a href=\"http://tqr.bz/iTT\">here</a> to see 19 fast, family-friendly ground beef dinners. No app download needed!"
-                }
-              ]
-            },
-            {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "fullBleedContainerLayout",
-              "components": [
-                {
-                  "//": "======== IMAGE BLEED - H1890.0/W1366.0 * 100 = 138.3601757 ========",
-                  "role": "photo",
-                  "layout": "fullBleedPhotoLayout",
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p016-alt102382-spicy-lamb-patties/199212-1-eng-GB/p016-alt102382-spicy-lamb-patties.jpg?q=100"
-                }
-              ]
-            },
-            {
-              "role": "heading2",
-              "layout": "bodyLayout",
-              "textStyle": "heading2TextStyle",
-              "format": "html",
-              "text": "Spicy Lamb Patties"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "recipeDetailsTextStyle",
-              "format": "html",
-              "text": "<lede>HANDS-ON</lede> 25 MIN <lede>TOTAL</lede> 25 MIN <lede>SERVES</lede> 4 <br><lede>SUBMITTED BY</lede> CHEYENNIGANS"
-            },
-            {
-              "//": "====== REVIEWS ======",
-              "role": "container",
-              "layout": "bodyLayout",
-              "contentDisplay": {
-                "type": "horizontal_stack"
-              },
-              "components": [
-                {
-                  "role": "image",
-                  "layout": "starsImageLayout",
-                  "conditional": [
-                    {
-                      "conditions": [
-                        {
-                          "minSpecVersion": "1.14",
-                          "preferredColorScheme": "dark"
-                        }
-                      ],
-                      "hidden": true
-                    }
-                  ],
-                  "hidden": false,
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common0166/108858-1-eng-GB/common012.jpg?q=100"
-                },
-                {
-                  "role": "image",
-                  "layout": "starsImageLayout",
-                  "conditional": [
-                    {
-                      "conditions": [
-                        {
-                          "minSpecVersion": "1.14",
-                          "preferredColorScheme": "dark"
-                        }
-                      ],
-                      "hidden": false
-                    }
-                  ],
-                  "hidden": true,
-                  "URL": "https://public-assets.meredithcorp.io/8700c3d249629b59c38e0b147c58947c/fourDM.png"
-                },
-                {
-                  "role": "container",
-                  "layout": "smallSpacerLayout"
-                },
-                {
-                  "role": "body",
-                  "layout": {
-                    "padding": {
-                      "top": 0
-                    }
-                  },
-                  "textStyle": "reviewsTextStyle",
-                  "format": "html",
-                  "text": "72 REVIEWS"
-                }
-              ]
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<i>Try tucking these spiced patties into pitas along with fresh toppings, such as cucumber, baby spinach, tomato, and/or yogurt.</i>"
-            },
-            {
-              "role": "htmltable",
-              "layout": "ingredientsLayout",
-              "style": "ingredientsStyle",
-              "html": "<table><tr><td>1</td><td>lb. ground lamb</td></tr><tr><td>⅓</td><td>cup minced green onion</td></tr><tr><td>4</td><td>cloves garlic, minced</td></tr><tr><td>1</td><td>Tbsp. curry powder</td></tr><tr><td>1</td><td>tsp. cumin</td></tr><tr><td>¼</td><td>tsp. crushed red pepper</td></tr><tr><td>½</td><td>tsp. salt</td></tr><tr><td>½</td><td>tsp. black pepper</td></tr></table>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>1.</lede> Preheat an outdoor or stovetop grill to high (450°F to 650°F). Lightly oil grate."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>2.</lede> Stir all ingredients into a bowl. Form mixture into 4 patties (3¼ inches wide and ¾ inch thick)."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>3.</lede> Grill patties to preferred degree of doneness, about 5 minutes per side for medium."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede><a href=\"https://www.allrecipes.com/recipe/84364/spicy-lamb-patties/\">armagazine.com/spicy-lamb-patties</a></lede>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b><i>QUICK</i></b>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "attributeTextStyle",
-              "format": "html",
-              "text": "PER PATTY: 287 CAL; 22G FAT (9G SAT); 20G PRO; 3G CARB (1G FIBER, 0G SUGARS); 362MG SODIUM"
-            },
-            {
-              "//": "======= YOU SAID CONTAINER ======",
-              "role": "container",
-              "layout": "youSaidContainerLayout",
-              "components": [
-                {
-                  "role": "pullquote",
-                  "textStyle": "youSaidQuoteTextStyle",
-                  "format": "html",
-                  "text": "“Remember to check the heat level of the curry powder. There is mild, medium, and hot. If you’re new to curry, start with mild.”<br><pullquote-attribution>– LAURAELLEN225</pullquote-attribution>"
-                }
-              ]
-            },
-            {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "fullBleedContainerLayout",
-              "components": [
-                {
-                  "//": "======== IMAGE BLEED - H2107.0/W1366.0 * 100 = 154.2459736 ========",
-                  "role": "photo",
-                  "layout": "fullBleedPhotoLayout",
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p017-alt102382-sausage-egg-muffins/199205-1-eng-GB/p017-alt102382-sausage-egg-muffins.jpg?q=100"
-                }
-              ]
-            },
-            {
-              "role": "heading2",
-              "layout": "bodyLayout",
-              "textStyle": "heading2TextStyle",
-              "format": "html",
-              "text": "Sausage-Egg Muffins"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "recipeDetailsTextStyle",
-              "format": "html",
-              "text": "<lede>HANDS-ON</lede> 20 MIN <lede>TOTAL</lede> 40 MIN <lede>MAKES</lede> 12<br><lede>SUBMITTED BY</lede> SMILEYBLAKE"
-            },
-            {
-              "//": "====== REVIEWS ======",
-              "role": "container",
-              "layout": "bodyLayout",
-              "contentDisplay": {
-                "type": "horizontal_stack"
-              },
-              "components": [
-                {
-                  "role": "image",
-                  "layout": "starsImageLayout",
-                  "conditional": [
-                    {
-                      "conditions": [
-                        {
-                          "minSpecVersion": "1.14",
-                          "preferredColorScheme": "dark"
-                        }
-                      ],
-                      "hidden": true
-                    }
-                  ],
-                  "hidden": false,
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common0166/108858-1-eng-GB/common012.jpg?q=100"
-                },
-                {
-                  "role": "image",
-                  "layout": "starsImageLayout",
-                  "conditional": [
-                    {
-                      "conditions": [
-                        {
-                          "minSpecVersion": "1.14",
-                          "preferredColorScheme": "dark"
-                        }
-                      ],
-                      "hidden": false
-                    }
-                  ],
-                  "hidden": true,
-                  "URL": "https://public-assets.meredithcorp.io/8700c3d249629b59c38e0b147c58947c/fourDM.png"
-                },
-                {
-                  "role": "container",
-                  "layout": "smallSpacerLayout"
-                },
-                {
-                  "role": "body",
-                  "layout": {
-                    "padding": {
-                      "top": 0
-                    }
-                  },
-                  "textStyle": "reviewsTextStyle",
-                  "format": "html",
-                  "text": "184 REVIEWS"
-                }
-              ]
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<i>Round out your meal by serving these muffins with salsa and/or fresh fruit.</i>"
-            },
-            {
-              "role": "htmltable",
-              "layout": "ingredientsLayout",
-              "style": "ingredientsStyle",
-              "html": "<table><tr><td>½</td><td>lb. ground pork sausage</td></tr><tr><td>12</td><td>eggs, beaten</td></tr><tr><td>½</td><td>(4-oz.) can chopped green chile peppers, drained</td></tr><tr><td>¾</td><td>cup chopped onion</td></tr><tr><td>1</td><td>tsp. garlic powder</td></tr><tr><td>¼</td><td>tsp. salt</td></tr><tr><td>⅛</td><td>tsp. black pepper</td></tr></table>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>1.</lede> Preheat oven to 350°F. Lightly grease 12 muffin cups."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>2.</lede> Add sausage to a large, deep skillet over medium-high heat; cook, breaking up lumps with a wooden spoon, until evenly browned, about 5 minutes. Drain grease and transfer sausage to a large bowl. Stir in eggs, chiles, onion, garlic powder, salt, and black pepper until well combined. Spoon ¼ cup sausage mixture into each prepared muffin cup."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>3.</lede> Bake until egg has set and a toothpick inserted into centers comes out clean, 15 to 20 minutes."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede><a href=\"https://www.allrecipes.com/recipe/21602/sausage-egg-muffins/\">armagazine.com/sausage-egg-muffins</a></lede>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "attributeTextStyle",
-              "format": "html",
-              "text": "PER MUFFIN: 132 CAL; 9G FAT (3G SAT); 9G PRO; 2G CARB (0G FIBER, 1G SUGARS); 278MG SODIUM"
-            },
-            {
-              "//": "======= YOU SAID CONTAINER ======",
-              "role": "container",
-              "layout": "youSaidContainerLayout",
-              "components": [
-                {
-                  "role": "pullquote",
-                  "textStyle": "youSaidQuoteTextStyle",
-                  "format": "html",
-                  "text": "“I added about 2 Tbsp. salsa and a splash of hot sauce instead of the chile peppers. These would probably be even better with some cheese sprinkled on top.”<br><pullquote-attribution>– BEANIE76</pullquote-attribution>"
-                }
-              ]
-            },
-            {
-              "//": "======= YOU SAID CONTAINER ======",
-              "role": "container",
-              "layout": "youSaidContainerLayout",
-              "components": [
-                {
-                  "role": "pullquote",
-                  "textStyle": "youSaidQuoteTextStyle",
-                  "format": "html",
-                  "text": "“So much fun! I made these in a mini muffin pan so they were easier to eat and made for a fast breakfast on the run.”<br><pullquote-attribution>– LAURA</pullquote-attribution>"
-                }
-              ]
-            },
-            {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "fullBleedContainerLayout",
-              "components": [
-                {
-                  "//": "======== IMAGE BLEED - H1334.0/W1366.0 * 100 = 97.6573939 ========",
-                  "role": "photo",
-                  "layout": "fullBleedPhotoLayout",
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p018-alt102382-ms-buffalo-chicken-meatballs/199240-1-eng-GB/p018-alt102382-ms-buffalo-chicken-meatballs.jpg?q=100"
-                }
-              ]
-            },
-            {
-              "role": "heading2",
-              "layout": "bodyLayout",
-              "textStyle": "heading2TextStyle",
-              "format": "html",
-              "text": "M’s Buffalo Chicken Meatballs"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "recipeDetailsTextStyle",
-              "format": "html",
-              "text": "<lede>HANDS-ON</lede> 25 MIN <lede>TOTAL</lede> 45 MIN <lede>SERVES</lede> 10 <br><lede>SUBMITTED BY</lede> MMARONIC"
-            },
-            {
-              "//": "====== REVIEWS ======",
-              "role": "container",
-              "layout": "bodyLayout",
-              "contentDisplay": {
-                "type": "horizontal_stack"
-              },
-              "components": [
-                {
-                  "role": "image",
-                  "layout": "starsImageLayout",
-                  "conditional": [
-                    {
-                      "conditions": [
-                        {
-                          "minSpecVersion": "1.14",
-                          "preferredColorScheme": "dark"
-                        }
-                      ],
-                      "hidden": true
-                    }
-                  ],
-                  "hidden": false,
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common0166/108858-1-eng-GB/common012.jpg?q=100"
-                },
-                {
-                  "role": "image",
-                  "layout": "starsImageLayout",
-                  "conditional": [
-                    {
-                      "conditions": [
-                        {
-                          "minSpecVersion": "1.14",
-                          "preferredColorScheme": "dark"
-                        }
-                      ],
-                      "hidden": false
-                    }
-                  ],
-                  "hidden": true,
-                  "URL": "https://public-assets.meredithcorp.io/8700c3d249629b59c38e0b147c58947c/fourDM.png"
-                },
-                {
-                  "role": "container",
-                  "layout": "smallSpacerLayout"
-                },
-                {
-                  "role": "body",
-                  "layout": {
-                    "padding": {
-                      "top": 0
-                    }
-                  },
-                  "textStyle": "reviewsTextStyle",
-                  "format": "html",
-                  "text": "51 REVIEWS"
-                }
-              ]
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<i>For a fresh finish, top these meatballs with chopped parsley or celery leaves.</i>"
-            },
-            {
-              "role": "htmltable",
-              "layout": "ingredientsLayout",
-              "style": "ingredientsStyle",
-              "html": "<table><tr><td>6</td><td>Tbsp. hot pepper sauce (such as Frank’s RedHot), plus more for serving</td></tr><tr><td>¼</td><td>cup butter</td></tr><tr><td>1</td><td>lb. ground chicken</td></tr><tr><td>¾</td><td>cup dried bread crumbs</td></tr><tr><td>1</td><td>egg, lightly beaten</td></tr></table>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>1.</lede> Preheat oven to 450°F. Grease a large rimmed baking sheet."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>2.</lede> Heat hot sauce and butter in a saucepan over low heat, whisking until butter is melted. Let cool to room temperature."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>3.</lede> Stir together hot sauce mixture, chicken, bread crumbs, and egg in a bowl until well combined. Shape into 1-inch balls; arrange on prepared sheet."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>4.</lede> Bake about 15 minutes, or until an instant-read thermometer inserted into centers registers 165°F. Let cool on sheet 5 minutes. Transfer to a platter. Drizzle with additional hot sauce."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede><a href=\"https://www.allrecipes.com/recipe/238020/buffalo-meatballs/\">armagazine.com/ms-buffalo-chicken-meatballs</a></lede>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "attributeTextStyle",
-              "format": "html",
-              "text": "PER SERVING (4 MEATBALLS): 145 CAL; 9G FAT (4G SAT); 10G PRO; 6G CARB (0G FIBER, 1G SUGARS); 475MG SODIUM"
-            },
-            {
-              "//": "======= YOU SAID CONTAINER ======",
-              "role": "container",
-              "layout": "youSaidContainerLayout",
-              "components": [
-                {
-                  "role": "pullquote",
-                  "textStyle": "youSaidQuoteTextStyle",
-                  "format": "html",
-                  "text": "“These were a great way to scratch the itch for chicken wings without having all the fat and calories. I used ground turkey breast and panko bread crumbs.”<br><pullquote-attribution>– KOOLKITTY</pullquote-attribution>"
-                }
-              ]
-            },
-            {
-              "//": "======= YOU SAID CONTAINER ======",
-              "role": "container",
-              "layout": "youSaidContainerLayout",
-              "components": [
-                {
-                  "role": "pullquote",
-                  "textStyle": "youSaidQuoteTextStyle",
-                  "format": "html",
-                  "text": "“I tucked a little cheddar inside each meatball. And I added melted butter and hot sauce at the end instead of plain hot sauce. Huge hit!”<br><pullquote-attribution>– SCARVIN</pullquote-attribution>"
-                }
-              ]
-            },
-            {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "fullBleedContainerLayout",
-              "components": [
-                {
-                  "//": "======== IMAGE BLEED - H2010.0/W1366.0 * 100 = 147.1449488 ========",
-                  "role": "photo",
-                  "layout": "fullBleedPhotoLayout",
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p019-alt102382-healthy-turkey-loaf/199219-1-eng-GB/p019-alt102382-healthy-turkey-loaf.jpg?q=100"
-                }
-              ]
-            },
-            {
-              "role": "heading2",
-              "layout": "bodyLayout",
-              "textStyle": "heading2TextStyle",
-              "format": "html",
-              "text": "Healthy Turkey Loaf"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "recipeDetailsTextStyle",
-              "format": "html",
-              "text": "<lede>HANDS-ON</lede> 15 MIN <lede>TOTAL</lede> 40 MIN <lede>SERVES</lede> 6 <br><lede>SUBMITTED BY</lede> SUSAN E. MURPHY"
-            },
-            {
-              "//": "====== REVIEWS ======",
-              "role": "container",
-              "layout": "bodyLayout",
-              "contentDisplay": {
-                "type": "horizontal_stack"
-              },
-              "components": [
-                {
-                  "role": "image",
-                  "layout": "starsImageLayout",
-                  "conditional": [
-                    {
-                      "conditions": [
-                        {
-                          "minSpecVersion": "1.14",
-                          "preferredColorScheme": "dark"
-                        }
-                      ],
-                      "hidden": true
-                    }
-                  ],
-                  "hidden": false,
-                  "URL": "https://public-assets.meredithcorp.io/4cadea6bc3bbdd6b0bdfab5abedfb66f/fourstars.jpg"
-                },
-                {
-                  "role": "image",
-                  "layout": "starsImageLayout",
-                  "conditional": [
-                    {
-                      "conditions": [
-                        {
-                          "minSpecVersion": "1.14",
-                          "preferredColorScheme": "dark"
-                        }
-                      ],
-                      "hidden": false
-                    }
-                  ],
-                  "hidden": true,
-                  "URL": "https://public-assets.meredithcorp.io/8e401d3520fc3b0bec1ecdf6f118edf3/fourstarsDM.png"
-                },
-                {
-                  "role": "container",
-                  "layout": "smallSpacerLayout"
-                },
-                {
-                  "role": "body",
-                  "layout": {
-                    "padding": {
-                      "top": 0
-                    }
-                  },
-                  "textStyle": "reviewsTextStyle",
-                  "format": "html",
-                  "text": "518 REVIEWS"
-                }
-              ]
-            },
-            {
-              "role": "htmltable",
-              "layout": "ingredientsLayout",
-              "style": "ingredientsStyle",
-              "html": "<table><tr><td>1</td><td>lb. ground turkey <i>[Use 93% lean ground turkey, not ground turkey breast, which dries out quickly.]</i></td></tr><tr><td>1</td><td>egg</td></tr><tr><td>½</td><td>cup salsa, plus more for serving</td></tr><tr><td>½</td><td>cup chopped red and/or yellow bell pepper</td></tr><tr><td>½</td><td>cup dried bread crumbs</td></tr><tr><td>¼</td><td>cup chopped onion (optional)</td></tr><tr><td>1</td><td>tsp. black or lemon pepper</td></tr><tr><td>½</td><td>tsp. salt</td></tr></table>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>1.</lede> Preheat oven to 350°F."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>2.</lede> Combine all ingredients in a large bowl with your hands until well blended. Press mixture into a lightly greased 4x8-inch loaf pan."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>3.</lede> Bake about 25 minutes, or until an instant-read thermometer inserted into center registers 165°F. Serve with additional salsa."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede><a href=\"https://www.allrecipes.com/recipe/25418/healthy-turkey-loaf/\">armagazine.com/healthy-turkey-loaf</a></lede>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<b><i>HIDDEN GEM</i></b> | <b><i>QUICK</i></b> | <b><i>GLUTEN-FREE</i></b>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "attributeTextStyle",
-              "format": "html",
-              "text": "PER 4.8-OZ. SERVING: 203 CAL; 9G FAT (2G SAT); 19G PRO; 10G CARB (1G FIBER, 1G SUGARS); 481MG SODIUM"
-            },
-            {
-              "//": "======= YOU SAID CONTAINER ======",
-              "role": "container",
-              "layout": "youSaidContainerLayout",
-              "components": [
-                {
-                  "role": "pullquote",
-                  "textStyle": "youSaidQuoteTextStyle",
-                  "format": "html",
-                  "text": "“I tried this with some light barbecue sauce poured on the top, and wow—that was good!”<br><pullquote-attribution>– CINDY LINEBERRY</pullquote-attribution>"
-                }
-              ]
-            },
-            {
-              "//": "====== CALLOUT ======",
-              "role": "container",
-              "layout": "calloutLayout",
-              "style": "calloutStyle",
-              "components": [
-                {
-                  "role": "heading",
-                  "layout": "calloutHeadingLayout",
-                  "textStyle": "calloutHeadingTextStyle",
-                  "format": "html",
-                  "text": "Pick Your Salsa"
-                },
-                {
-                  "role": "body",
-                  "layout": "calloutBodyLayout",
-                  "textStyle": "calloutBodyTextStyle",
-                  "format": "html",
-                  "text": "With so many different salsa options on store shelves, you can give this meatloaf a different flavor each time you make it. Try chipotle salsa for a deep, smoky flavor. Go green by using salsa verde. Or add a fruity salsa, such as pineapple or peach salsa, for a sweet-savory twist."
                 }
               ]
             }
@@ -1498,14 +447,6 @@
         "top": 2
       }
     },
-    "bodySmallMarginAboveLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
-      "margin": {
-        "bottom": 10,
-        "top": 10
-      }
-    },
     "bottomPhotoDividerLayout": {
       "//": "UNUSED"
     },
@@ -1539,6 +480,14 @@
     },
     "captionLayout": {
       "margin": 8
+    },
+    "collectionLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
     },
     "darkModePaddingLayout": {
       "conditional": [
@@ -1680,10 +629,7 @@
       }
     },
     "ingredientsLayout": {
-      "margin": {
-        "bottom": 10,
-        "top": 10
-      }
+      "margin": 10
     },
     "introLayout": {
       "columnSpan": 18,
@@ -1695,6 +641,9 @@
     "noMarginLayout": {
       "columnSpan": 18,
       "columnStart": 1
+    },
+    "productImageStandardLayout": {
+      "minimumHeight": 280
     },
     "pullQuoteLayout": {
       "columnSpan": 16,

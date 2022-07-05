@@ -1,0 +1,1485 @@
+{
+  "version": "1.9",
+  "identifier": "coastalliving_article_889-125-36-1",
+  "title": "Malibu Redo",
+  "language": "en",
+  "layout": {
+    "columns": 23,
+    "gutter": 20,
+    "margin": 62,
+    "width": 1024
+  },
+  "subtitle": "Designer Nathan Turner revived a Malibu beach house with his signature layered look, marrying color, texture, and just enough pattern for an aesthetic that’s both modern and gracious",
+  "metadata": {
+    "authors": [
+      "By Paige Porter Fischer"
+    ],
+    "dateCreated": "2022-05-20T16:37:13.151Z",
+    "dateModified": "2022-05-20T14:16:54+00:00",
+    "excerpt": "“LOCATION, LOCATION, LOCATION.”",
+    "generatorName": "ANTE Generic Template",
+    "generatorVersion": "0.0.4.32-2022-04-15 19:20",
+    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/20210310_nt_109/130188-1-eng-GB/20210310_nt_1092.jpg?q=100"
+  },
+  "documentStyle": {
+    "backgroundColor": "#eee"
+  },
+  "components": [
+    {
+      "role": "container",
+      "layout": {
+        "conditional": [
+          {
+            "conditions": [
+              {
+                "platform": "ios"
+              }
+            ],
+            "ignoreViewportPadding": true
+          },
+          {
+            "conditions": [
+              {
+                "maxViewportWidth": 1366,
+                "minViewportWidth": 1112
+              }
+            ],
+            "ignoreDocumentMargin": "none",
+            "ignoreViewportPadding": "none"
+          }
+        ],
+        "ignoreDocumentMargin": true
+      },
+      "style": {
+        "backgroundColor": "#fff"
+      },
+      "components": [
+        {
+          "//": "==== DEFAULT HEADER: SECTION ===",
+          "role": "heading",
+          "layout": "sectionLayout",
+          "textStyle": "sectionTextStyle",
+          "format": "html",
+          "text": "Homes"
+        },
+        {
+          "//": "==== DEFAULT HEADER: TITLE ===",
+          "role": "title",
+          "layout": "titleLayout",
+          "textStyle": "titleTextStyle",
+          "format": "html",
+          "text": "Malibu Redo"
+        },
+        {
+          "//": "==== DEFAULT HEADER: INTRO ===",
+          "role": "intro",
+          "layout": "introLayout",
+          "textStyle": "introTextStyle",
+          "format": "html",
+          "text": "Designer Nathan Turner revived a Malibu beach house with his signature layered look, marrying color, texture, and just enough pattern for an aesthetic that’s both modern and gracious"
+        },
+        {
+          "role": "author",
+          "layout": "authorLayout",
+          "textStyle": "authorTextStyle",
+          "format": "html",
+          "text": "By Paige Porter Fischer<br>Photographs by Victoria Pearson"
+        },
+        {
+          "//": "======== HERO IMAGE CONTAINER =======",
+          "role": "container",
+          "layout": "heroImageLayout",
+          "identifier": "hero2",
+          "components": [
+            {
+              "//": "======== HERO IMAGE - H1477.0/W1367.0 * 100 = 108.0468178 ========",
+              "role": "photo",
+              "layout": "fullBleedPhotoLayout",
+              "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/20210310_nt_109/130188-1-eng-GB/20210310_nt_1092.jpg?q=100"
+            }
+          ]
+        },
+        {
+          "//": "======== BODY CONTAINER =======",
+          "role": "container",
+          "layout": "bodyContainerLayout",
+          "components": [
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>“LOCATION, LOCATION, LOCATION.”</lede>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "That real estate chestnut rang especially true for designer Nathan Turner when he first laid eyes on his client’s oceanside house in Malibu, California. “This particular piece of property is absolutely stunning, on a very quiet beach,” he says. “But boy, was the house itself awful—as in, awful nightmare of the ’90s. The only thing the place had going for it was the location.”"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "Thankfully, Turner was up for the challenge of transforming the structure into a home that was worthy of its setting. “I called the original house the Barbie Dreamhouse because it was quite vertical, with so many levels. But strangely enough, a sloped roof essentially cut off the view from half of the home,” he says. “I couldn’t fathom not opening up all the spaces to the ocean. I mean, why on earth would anyone want a house on the beach that didn’t come with an ocean view? We decided to let the light come in.”"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "That decision meant a complete gut and remodel, which included removing the sloping roof—and the whole front of the house, as seen from the beach—to create an entirely new facade. Turner wanted a happy marriage between the home’s interiors and exteriors. “The client favors modern, so we were after a clean, contemporary look, but anyone who knows me knows I don’t do cold, minimalist modern,” says Turner. “I believe there’s a way to have a modern look that’s still warm and welcoming. I mean, we’re at the beach. It shouldn’t feel austere. It needed to feel relaxed and welcoming for the daytime and cozy and inviting for all the foggy, cool nights we get in California.”"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "Once the house was opened to the view—including a wall of double-height windows in the great room that extends up to the kitchen and dining spaces above it—Turner went to work gathering the right ingredients for the interiors. Thankfully, his client wasn’t shy about using color, so he picked a palette of blue to mimic the variegated colors of the Pacific and carried the shades throughout the house. He infused natural textures—seagrass, wicker, rattan, and caning—for added warmth. And he carefully and methodically layered pattern to deliver personality."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "“This is my clients’ vacation house, and I kept coming back to them and saying, ‘Look, vacation houses are meant to be fun. You don’t stay forever. You come to have a good time, so let’s push the envelope a little bit and make it super fun, inviting, and a little out of the ordinary.’ I wanted those who walked through the doors here to think to themselves, ‘Now <i>this</i> is going to be a really fun stay.’ ”"
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "identifier": "hero",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H3255.0/W2397.0 * 100 = 135.7947434 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/20210310_nt_102/130181-1-eng-GB/20210310_nt_1022.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading4",
+              "layout": "heading4Layout2",
+              "textStyle": "heading4TextStyle",
+              "format": "html",
+              "text": "<color1>A Brilliant Outlook"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "Patio and living room become one when a double-height wall of glass slides open. “It might be one of the biggest retractable glass walls I’ve ever done,” says designer Nathan Turner, who chose an oceanic palette for the seamless setting. The custom sofa (in Ralph Lauren Turkana Rug Stripe) vibes with the thin stripes in the area rug by Elizabeth Eakins. “I don’t consider stripes to be a pattern,” Turner says. “I mix them all the time and play with scale.” The dramatic, two-tier woven light fixture by Fisher Weisman gives everyone reason to look up."
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1837.0/W1367.0 * 100 = 134.3818581 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/20210310_nt_108/130174-1-eng-GB/20210310_nt_1082.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading4",
+              "layout": "heading4Layout",
+              "textStyle": "heading4TextStyle",
+              "format": "html",
+              "text": "<color1>Turning a Corner Artfully"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "The architects designed a midcentury-style built-in credenza for a dead zone behind the sofa, giving the homeowners some storage and a place for artful display. “It really rounds out the room,” says Turner. “The art was the very last missing piece of the puzzle that I needed to find. I needed great height to fill the space, and when I saw this piece, I knew it was coming here with me.”"
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1684.0/W1367.0 * 100 = 123.189466 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/20210310_nt_107/130167-1-eng-GB/20210310_nt_1072.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading4",
+              "layout": "heading4Layout",
+              "textStyle": "heading4TextStyle",
+              "format": "html",
+              "text": "<color1>Shape Shift"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "The home’s original turret (<a href='#hero2'>top</a>) got a face-lift when Turner and the architects reinvented it as a circular bar with custom floating brass shelves—a feat for the metal worker to fashion. Turner dressed the scene with Arrmet barstools in a show-stopping blue leather."
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H2207.0/W2056.0 * 100 = 107.344358 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/20210310_nt_105/130160-1-eng-GB/20210310_nt_1052.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading4",
+              "layout": "heading4Layout",
+              "textStyle": "heading4TextStyle",
+              "format": "html",
+              "text": "<color1>Kitchen Drama"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "“The family loves to cook, so we knew we wanted a range that had a ‘wow’ factor,” says Turner. “Once we chose it, we played off its rivet details to fashion a brass hood with rivets to complement the range.” Turner designed all the cabinetry—painted Farrow &amp; Ball Stiffkey Blue—to hide other appliances. The designer found the slab of marble and immediately fell for its movement and lines, which complement the brass accents in the kitchen. “We loved the stone so much we decided to go big and do a waterfall with an integrated sink.” Nickey Kehoe “T” counter stools cozy up to the island, where two large pendants with antique burnished brass balance the drama of the stone."
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1731.0/W1367.0 * 100 = 126.6276518 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/20210310_nt_106/130153-1-eng-GB/20210310_nt_1062.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading4",
+              "layout": "heading4Layout",
+              "textStyle": "heading4TextStyle",
+              "format": "html",
+              "text": "<color1>Gracious Gather"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "The dining table—a Parsons-style farmhouse table that Turner bought new and sanded down and refinished to “age it”—is perched above the great room. Turner wanted the space to feel connected to the living area below, so he removed an old, heavy iron railing and replaced it with thick glass for a sense of transparency. The clasps are brass, in keeping with the hardware in the kitchen nearby. The dining chairs by Palecek wear seagrass backs, adding texture and a relaxed sensibility to the space."
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1822.0/W1367.0 * 100 = 133.2845647 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/20210310_nt_099/130146-1-eng-GB/20210310_nt_0992.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading4",
+              "layout": "heading4Layout",
+              "textStyle": "heading4TextStyle",
+              "format": "html",
+              "text": "<color1>Ultimate Hello Moment"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "Turner’s own wallpaper for Wallshoppe cloaks the walls in one of the house’s guest rooms (four shown, above and below). “I wanted to have fun with the guest room, to make it a super inviting and fun space to walk into,” he says. Turner reupholstered a bed from CB2 with a fun stripe and brought in the rattan bedside table for texture."
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "identifier": "room",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1787.0/W2496.0 * 100 = 71.5945513 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/20210310_nt_098/130139-1-eng-GB/20210310_nt_0982.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading4",
+              "layout": "heading4Layout",
+              "textStyle": "heading4TextStyle",
+              "format": "html",
+              "text": "<color1>The Warm Welcome of Art"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "Another guest room features a large, woven canopy bed amid a montage of eclectic art. “I love a mix of pieces that deliver a gallery-like feel, because a space that has the feeling of things being collected immediately feels more relaxed,” says Turner. He chose the classic Carleton V Gatsby print for the sofa and the shams because the print “immediately makes me feel like I’m at the beach.” He warmed the space with wood elements, including a teak side table and natural oak desk."
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "identifier": "shown",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1463.0/W2159.0 * 100 = 67.7628532 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/20210310_nt_100/130132-1-eng-GB/20210310_nt_1002.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading4",
+              "layout": "heading4Layout",
+              "textStyle": "heading4TextStyle",
+              "format": "html",
+              "text": "<color1>Bright, Colorful Energy"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "This guest room is all about texture: the cane bed in white by Serena &amp; Lily, the custom white nightstands with cork tops, and the canvas linen wallpaper. An upholstered bench adds playful pattern, while bold orange-and-white stripe fabric pops in sync with the modern acrylic painting."
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1610.0/W1367.0 * 100 = 117.7761522 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/20210310_nt_097/130125-1-eng-GB/20210310_nt_0972.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading4",
+              "layout": "heading4Layout",
+              "textStyle": "heading4TextStyle",
+              "format": "html",
+              "text": "<color1>Cozying Up a Lofted Space"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "Turner made this guest room’s vaulted ceiling feel less distant by hanging a large, woven pendant by Palecek closer to the platform bed, which boasts a similar weave by the same company. Like the guest room <a href='#room'>here</a>, Turner’s gallery-like curation relaxes the vibe, here on canvas linen wallpaper in blue by Phillip Jeffries. “I upholstered the settee in a Lulu DK fabric that reminded me of sea glass, which I thought was fun for this space,” says Turner."
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1779.0/W1367.0 * 100 = 130.1389905 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/20210310_nt_104/130118-1-eng-GB/20210310_nt_1042.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading4",
+              "layout": "heading4Layout",
+              "textStyle": "heading4TextStyle",
+              "format": "html",
+              "text": "<color1>Stone Stunner"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "“I’m in the stone yards on the regular, and I’m not often blown away,” says Turner. “But this slab blew my mind. It’s a seafoam marble that bleeds more green than blue. We clad the entire primary bath in it, and it’s stunning.” A textural sheer allows light to filter in over the freestanding tub, and a rug from Lulu and Georgia softens the space. The counter stool is upholstered in the same pale blue fabric as the sofa in the <a href='#sofa'>primary bedroom</a>."
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H2090.0/W1562.0 * 100 = 133.8028169 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/20210310_nt_103/130111-1-eng-GB/20210310_nt_1032.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading4",
+              "layout": "heading4Layout",
+              "textStyle": "heading4TextStyle",
+              "format": "html",
+              "text": "<color1>An Irresistible Perch"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "“I love the way the wallpaper almost blends into the horizon, and you can’t tell where the wallpaper ends and the ocean begins,” says Turner of the primary bedroom’s turret space. He chose two Milo Baughman swivel chairs and thin vertical stripes on the drapery to complement the pattern on the wall. “We fashioned the home office on the other side of the room, but my client always ends up sitting here. Who can blame her?”"
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "identifier": "sofa",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1298.0/W1781.0 * 100 = 72.8804043 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/20210310_nt_096/130104-1-eng-GB/20210310_nt_0962.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading4",
+              "layout": "heading4Layout",
+              "textStyle": "heading4TextStyle",
+              "format": "html",
+              "text": "<color1>The Dream Aquatic"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "In the primary bedroom, Turner created an oasis for his clients, cloaking the walls in a Phillip Jeffries Fade Sea Spray hemp wallpaper that mimics the waves of the ocean. “My client knew she wanted a Lucite bed, and I found this one with brass fixtures and knew it was perfect,” he says. The upholstered linen headboard softens the space. Spherical pendants deliver drama beside the bed, while a curvaceous sofa adds just enough playful pattern."
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1602.0/W2395.0 * 100 = 66.8893528 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/20210310_nt_101/130097-1-eng-GB/20210310_nt_1012.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading4",
+              "layout": "heading4Layout",
+              "textStyle": "heading4TextStyle",
+              "format": "html",
+              "text": "<color1>Peak Pleasures"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "For the roof deck four stories up, Turner went big with a massive Japanese soaking tub commanding sweeping views: “I wanted to create a place that felt like a destination.” With a kitchen, bath, lounge, and bar, the space is big enough for the whole family and friends, he says. “Day and night, it’s amazing.”"
+            }
+          ]
+        },
+        {
+          "role": "container",
+          "layout": "bodyContainerLayout",
+          "conditional": [
+            {
+              "conditions": [
+                {
+                  "viewLocation": "article"
+                }
+              ],
+              "hidden": false
+            }
+          ],
+          "hidden": true,
+          "components": [
+            {
+              "role": "container",
+              "layout": "dividerLayout",
+              "style": "dividerSectionHeadStyle"
+            },
+            {
+              "//": "=== VISIT TOC LINK, ONLY VISIBLE IF USER IS IN ARTICLE VIEW ===",
+              "role": "body",
+              "layout": "bodyLayout",
+              "textStyle": "tocTextStyle",
+              "format": "html",
+              "text": "<a href='https://apple.news/Atu42odFLEeyNtj96zSKRvQ'>Tap here</a> to see more from this issue of <i>Coastal Living</i>"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "componentLayouts": {
+    "attributeLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": 15
+    },
+    "authorLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 5
+      }
+    },
+    "blockContainerLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "bodyContainerLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": 10
+    },
+    "bodyLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 10,
+        "top": 2
+      }
+    },
+    "bodySmallMarginAboveLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 10,
+        "top": 10
+      }
+    },
+    "bottomPhotoDividerLayout": {
+      "//": "UNUSED"
+    },
+    "calloutBodyLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 5
+      }
+    },
+    "calloutHeadingLayout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "calloutLayout": {
+      "columnSpan": 16,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "padding": {
+        "bottom": 10,
+        "left": 20,
+        "right": 20,
+        "top": 10
+      }
+    },
+    "captionAdLayout": {
+      "//": "UNUSED"
+    },
+    "captionLayout": {
+      "margin": 8
+    },
+    "collectionLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "darkModePaddingLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "padding": 10
+        }
+      ]
+    },
+    "dividerCollectionLayout": {
+      "//": "UNUSED"
+    },
+    "dividerLayout": {
+      "margin": {
+        "bottom": 20,
+        "top": 10
+      }
+    },
+    "dividerStandardLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "minimumHeight": 1
+    },
+    "dividerTocLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 15,
+        "top": 20
+      },
+      "minimumHeight": 10
+    },
+    "floatContainerLayout": {
+      "columnSpan": 4,
+      "columnStart": 1,
+      "conditional": [
+        {
+          "columnSpan": 4,
+          "columnStart": 0,
+          "conditions": [
+            {
+              "maxViewportWidth": 415
+            }
+          ]
+        }
+      ]
+    },
+    "fullBleedContainerLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "fullBleedDividerLayout": {
+      "//": "UNUSED"
+    },
+    "fullBleedLayout": {
+      "ignoreDocumentMargin": true
+    },
+    "fullBleedPhotoLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 700
+            }
+          ],
+          "ignoreDocumentMargin": false
+        }
+      ],
+      "ignoreDocumentMargin": true
+    },
+    "galleryPhotoLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "heading2Layout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading3Layout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading4Layout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading4Layout2": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "top": 0
+      }
+    },
+    "heading5Layout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading6Layout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heroImageLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 15
+      }
+    },
+    "heroImageTallLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 10,
+        "top": 15
+      }
+    },
+    "ingredientsLayout": {
+      "margin": 10
+    },
+    "ingredientsNoMarginAboveLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 0
+      }
+    },
+    "introLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 10
+      }
+    },
+    "noMarginLayout": {
+      "columnSpan": 19,
+      "columnStart": 2
+    },
+    "productImageStandardLayout": {
+      "minimumHeight": 280
+    },
+    "pullQuoteBodyLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 0,
+        "top": 5
+      }
+    },
+    "pullQuoteLayout": {
+      "columnSpan": 20,
+      "columnStart": 0,
+      "margin": {
+        "bottom": 15,
+        "top": 15
+      }
+    },
+    "sectionLayout": {
+      "margin": {
+        "bottom": "20",
+        "top": 5
+      }
+    },
+    "sidebarBodyLayout": {
+      "margin": {
+        "bottom": 10
+      }
+    },
+    "sidebarDividerLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "minimumHeight": 1
+    },
+    "sidebarFloatContainerLayout": {
+      "columnSpan": 4,
+      "columnStart": 0
+    },
+    "sidebarHeading2Layout": {
+      "margin": {
+        "top": 20
+      }
+    },
+    "sidebarHeading3Layout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "sidebarHeading4Layout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "sidebarIntroLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 5
+      }
+    },
+    "sidebarLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": 20,
+      "padding": {
+        "bottom": 10,
+        "left": 20,
+        "right": 20
+      }
+    },
+    "sidebarSingleBlockContainerLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "sidebarSmallMarginAboveLayout": {
+      "margin": {
+        "top": 2
+      }
+    },
+    "singleBlockContainerLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "smallMarginAboveLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "top": 2
+      }
+    },
+    "smallSpacerLayout": {
+      "maximumWidth": 5,
+      "minimumWidth": 5
+    },
+    "spacerLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "starsImageLayout": {
+      "margin": {
+        "top": 2
+      },
+      "maximumWidth": 100
+    },
+    "straplineLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "top": 10
+      }
+    },
+    "titleLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "top": 5
+      }
+    },
+    "topPhotoDividerLayout": {
+      "//": "UNUSED"
+    },
+    "youSaidContainerLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "youSaidImageLayout": {
+      "horizontalContentAlignment": "center",
+      "margin": {
+        "bottom": 10
+      }
+    }
+  },
+  "componentStyles": {
+    "attributeStyle": {
+      "//": "UNUSED"
+    },
+    "authorStyle": {
+      "//": "UNUSED"
+    },
+    "bodyContainerStyle": {
+      "//": "UNUSED"
+    },
+    "calloutStyle": {
+      "border": {
+        "all": {
+          "color": "#009A5A",
+          "width": 4
+        }
+      },
+      "conditional": [
+        {
+          "border": {
+            "all": {
+              "color": "#009A5A",
+              "width": 4
+            }
+          },
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "captionAdStyle": {
+      "//": "UNUSED"
+    },
+    "darkModeBackgroundStyle": {
+      "conditional": [
+        {
+          "backgroundColor": "#FFF",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "dividerSectionHeadStyle": {
+      "border": {
+        "all": {
+          "color": "#ececec",
+          "width": 1
+        },
+        "bottom": true,
+        "left": false,
+        "right": false,
+        "top": true
+      },
+      "conditional": [
+        {
+          "border": {
+            "all": {
+              "color": "#666666",
+              "width": 1
+            },
+            "bottom": true,
+            "left": false,
+            "right": false,
+            "top": true
+          },
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "dividerStandardStyle": {
+      "backgroundColor": "#000"
+    },
+    "dividerTocStyle": {
+      "//": "UNUSED"
+    },
+    "fullBleedContainerStyle": {
+      "//": "UNUSED"
+    },
+    "heading2Style": {
+      "//": "UNUSED"
+    },
+    "heading3Style": {
+      "//": "UNUSED"
+    },
+    "heading4Style": {
+      "//": "UNUSED"
+    },
+    "heading5Style": {
+      "//": "UNUSED"
+    },
+    "heading6Style": {
+      "//": "UNUSED"
+    },
+    "ingredientsStyle": {
+      "tableStyle": {
+        "cells": {
+          "conditional": [
+            {
+              "horizontalAlignment": "right",
+              "padding": {
+                "right": 5
+              },
+              "selectors": [
+                {
+                  "columnIndex": 0
+                }
+              ],
+              "width": 10
+            },
+            {
+              "horizontalAlignment": "left",
+              "padding": {
+                "left": 5
+              },
+              "selectors": [
+                {
+                  "columnIndex": 1
+                }
+              ],
+              "width": 75
+            }
+          ],
+          "textStyle": "ingredientsTextStyle",
+          "verticalAlignment": "top"
+        },
+        "columns": {
+          "conditional": [
+            {
+              "selectors": [
+                {
+                  "columnIndex": 0
+                }
+              ],
+              "width": 10
+            },
+            {
+              "selectors": [
+                {
+                  "columnIndex": 1
+                }
+              ],
+              "width": 45
+            }
+          ]
+        }
+      }
+    },
+    "introStyle": {
+      "//": "UNUSED"
+    },
+    "paragraphDropCapStyle": {
+      "//": "UNUSED"
+    },
+    "paragraphStyle": {
+      "//": "UNUSED"
+    },
+    "photoContainerStyle": {
+      "//": "UNUSED"
+    },
+    "pullQuoteStyle": {
+      "//": "UNUSED"
+    },
+    "sectionStyle": {
+      "//": "UNUSED"
+    },
+    "sidebarNoBackgroundStyle": {
+      "border": {
+        "all": {
+          "color": "#000",
+          "width": 2
+        }
+      }
+    },
+    "sidebarStyle": {
+      "backgroundColor": "#f2f2f2"
+    },
+    "straplineStyle": {
+      "//": "UNUSED"
+    },
+    "titleStyle": {
+      "//": "UNUSED"
+    },
+    "youSaidImageStyle": {
+      "backgroundColor": "#008080",
+      "mask": {
+        "radius": "60cw",
+        "type": "corners"
+      }
+    }
+  },
+  "textStyles": {
+    "creditTextStyle": {
+      "fontName": "Gotham-Book",
+      "fontSize": 10,
+      "textColor": "#8d8d8d",
+      "tracking": 0.05
+    },
+    "default-tag-caption-heading": {
+      "fontName": "Gotham-Medium",
+      "fontSize": 15
+    },
+    "default-tag-caption-i": {
+      "fontName": "Gotham-Book"
+    },
+    "default-tag-color1": {
+      "textColor": "#0066b2"
+    },
+    "default-tag-emoji": {
+      "fontName": "AppleColorEmoji"
+    },
+    "default-tag-lede": {
+      "fontName": "GothamNarrow-Bold",
+      "textColor": "#0066b2",
+      "tracking": 0.02
+    },
+    "default-tag-pullquote-attribution": {
+      "fontName": "ChronicleDisplay-Roman",
+      "fontSize": 16,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.05
+    },
+    "default-tag-sidebar-lede": {
+      "fontName": "Gotham-Bold",
+      "textDecoration": "uppercase"
+    },
+    "default-tag-subsection": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "textColor": "#009A5A"
+        }
+      ],
+      "fontName": "Gotham-Medium",
+      "fontSize": 16,
+      "textColor": "#009A5A",
+      "textTransform": "uppercase",
+      "tracking": 0.1
+    },
+    "endMarkerTextStyle": {
+      "//": "UNUSED"
+    },
+    "subSectionTextStyle": {
+      "//": "UNUSED"
+    }
+  },
+  "componentTextStyles": {
+    "//": {
+      "//": "================ ALL RECIPES OVERRIDES ================"
+    },
+    "attributeTextStyle": {
+      "fontName": "GothamNarrow-Book",
+      "fontSize": 10,
+      "lineHeight": 12,
+      "textTransform": "uppercase",
+      "tracking": 0.05
+    },
+    "authorTextStyle": {
+      "fontName": "ChronicleDisplay-Bold",
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.1
+    },
+    "bodyCenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "bodyDropCapTextStyle": {
+      "dropCapStyle": {
+        "fontName": "ChronicleDisplay-Light",
+        "numberOfCharacters": 1,
+        "numberOfLines": 5,
+        "numberOfRaisedLines": 0,
+        "padding": 5,
+        "textColor": "#000f"
+      },
+      "fontName": "ChronicleDisplay-Roman"
+    },
+    "bodyTextStyle": {
+      "tracking": 0.02
+    },
+    "calloutBodyTextStyle": {
+      "fontName": "Gotham-Book",
+      "fontSize": 15,
+      "lineHeight": 19,
+      "textAlignment": "center"
+    },
+    "calloutHeadingTextStyle": {
+      "fontName": "ChronicleDisplay-Bold",
+      "fontSize": 28,
+      "lineHeight": 30,
+      "textAlignment": "center"
+    },
+    "captionAdTextStyle": {
+      "//": "UNUSED"
+    },
+    "captionCenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "captionEmbeddedTextStyle": {
+      "fontName": "HelveticaNeue",
+      "lineHeight": 16
+    },
+    "captionTextStyle": {
+      "fontName": "Gotham-Book",
+      "tracking": 0.02
+    },
+    "default": {
+      "fontName": "ChronicleDisplay-Roman",
+      "hyphenation": false,
+      "linkStyle": {
+        "fontName": "ChronicleDisplay-Bold",
+        "textColor": "#000",
+        "underline": true
+      },
+      "textColor": "#000"
+    },
+    "default-author": {
+      "fontName": "Avenir-Book",
+      "fontSize": 14,
+      "lineHeight": 16
+    },
+    "default-body": {
+      "fontSize": 16,
+      "lineHeight": 20,
+      "paragraphSpacingAfter": 12,
+      "paragraphSpacingBefore": 12
+    },
+    "default-byline": {
+      "//": "UNUSED"
+    },
+    "default-caption": {
+      "fontName": "Avenir-Book",
+      "fontSize": 14,
+      "lineHeight": 16
+    },
+    "default-heading": {
+      "fontSize": 16,
+      "lineHeight": 16
+    },
+    "default-heading2": {
+      "fontSize": 42,
+      "lineHeight": 44
+    },
+    "default-heading3": {
+      "fontSize": 32,
+      "lineHeight": 34
+    },
+    "default-heading4": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 500
+            }
+          ],
+          "fontSize": 24,
+          "lineHeight": 26
+        }
+      ],
+      "fontSize": 26,
+      "lineHeight": 28
+    },
+    "default-heading5": {
+      "fontSize": 19,
+      "lineHeight": 21
+    },
+    "default-heading6": {
+      "fontSize": 17,
+      "lineHeight": 19
+    },
+    "default-intro": {
+      "fontName": "Avenir-Book",
+      "fontSize": 20,
+      "lineHeight": 24
+    },
+    "default-photographer": {
+      "//": "UNUSED"
+    },
+    "default-pullquote": {
+      "fontSize": 44,
+      "lineHeight": 44,
+      "textAlignment": "center"
+    },
+    "default-title": {
+      "fontSize": 66,
+      "lineHeight": 59
+    },
+    "floatImageCaptionTextStyle": {
+      "fontName": "Gotham-BookItalic",
+      "tracking": 0.02
+    },
+    "heading2CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading2TextStyle": {
+      "fontName": "ChronicleDisplay-Bold",
+      "textTransform": "uppercase",
+      "tracking": 0.03
+    },
+    "heading3CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading3TextStyle": {
+      "fontName": "Gotham-Bold",
+      "textTransform": "uppercase",
+      "tracking": 0.03
+    },
+    "heading4CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading4TextStyle": {
+      "fontName": "ChronicleDisplay-Bold",
+      "textTransform": "uppercase",
+      "tracking": 0.03
+    },
+    "heading5CenteredTextStyle": {
+      "fontName": "GothamNarrow-Bold",
+      "textAlignment": "center",
+      "textTransform": "uppercase"
+    },
+    "heading5TextStyle": {
+      "fontName": "GothamNarrow-Bold",
+      "textTransform": "uppercase"
+    },
+    "heading6CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading6TextStyle": {
+      "fontName": "GothamNarrow-Bold",
+      "textTransform": "uppercase"
+    },
+    "ingredientsTextStyle": {
+      "fontName": "GothamNarrow-Book",
+      "lineHeight": 24
+    },
+    "introTextStyle": {
+      "fontName": "Gotham-Book",
+      "textAlignment": "center",
+      "tracking": 0.03
+    },
+    "pullQuoteTextStyle": {
+      "fontName": "ChronicleDisplay-Bold",
+      "fontSize": 25,
+      "lineHeight": 35,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.03
+    },
+    "recipeDetailsTextStyle": {
+      "fontName": "GothamNarrow-Book",
+      "fontSize": 14,
+      "lineHeight": 16
+    },
+    "reviewsTextStyle": {
+      "fontName": "GothamNarrow-Black"
+    },
+    "savedTextStyle": {
+      "fontName": "GothamNarrow-Book",
+      "fontSize": 16,
+      "lineHeight": 18,
+      "textTransform": "uppercase"
+    },
+    "sectionTextStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 415
+            }
+          ],
+          "lineHeight": 32
+        }
+      ],
+      "fontName": "ChronicleDisplay-Semi",
+      "fontSize": 20,
+      "lineHeight": 20,
+      "textAlignment": "center",
+      "tracking": 0.02
+    },
+    "sidebarBodyTextStyle": {
+      "fontName": "Gotham-Book"
+    },
+    "sidebarHeading2TextStyle": {
+      "fontName": "ChronicleDisplay-Bold",
+      "fontSize": 32,
+      "lineHeight": 38,
+      "textColor": "#009A5A",
+      "textTransform": "uppercase",
+      "tracking": 0.03
+    },
+    "sidebarHeading3TextStyle": {
+      "fontName": "Gotham-Bold",
+      "fontSize": 28,
+      "lineHeight": 30,
+      "textTransform": "uppercase",
+      "tracking": 0.03
+    },
+    "sidebarHeading4TextStyle": {
+      "fontName": "Gotham-Bold",
+      "fontSize": 24,
+      "lineHeight": 26,
+      "tracking": 0.03
+    },
+    "sidebarIntroTextStyle": {
+      "fontName": "Gotham-Medium"
+    },
+    "straplineTextStyle": {
+      "fontName": "Gotham-Ultra",
+      "tracking": 0.15
+    },
+    "titleTextStyle": {
+      "fontName": "ChronicleDisplay-Bold",
+      "textAlignment": "center",
+      "textColor": "#0066b2",
+      "textTransform": "uppercase",
+      "tracking": 0.03
+    },
+    "tocTextStyle": {
+      "fontName": "AvenirNextCondensed-Medium",
+      "fontSize": 16,
+      "linkStyle": {
+        "underline": true
+      },
+      "textAlignment": "center",
+      "textColor": "#000"
+    }
+  }
+}

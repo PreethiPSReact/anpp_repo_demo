@@ -1,7 +1,7 @@
 {
   "version": "1.9",
-  "identifier": "bhg_article_716-391-14-1",
-  "title": "What a Sight!",
+  "identifier": "alr_article_899-131-76-1",
+  "title": "BONUS SIDES",
   "language": "en",
   "layout": {
     "columns": 20,
@@ -9,21 +9,14 @@
     "margin": 40,
     "width": 1024
   },
-  "subtitle": "Day or night, keep your binoculars within reach. They’re the basis for family hobbies that will give you a whole new perspective on your own backyard.",
+  "subtitle": "<p><b><custom name=\"underline\">Mix and match these simple sides with recipes in this issue or with your own favorites.</custom></b></p>",
   "metadata": {
-    "authors": [
-      "Christina Poletto"
-    ],
-    "dateCreated": "2022-06-09T17:50:41.029Z",
-    "dateModified": "2022-06-07T20:21:27+00:00",
-    "excerpt": "Curious whether you’re staring down an Eastern bluebird or a blue jay? Your yard provides ample opportunities for a primer course in birding. (And FYI—bluebirds have a rusty chest; blue jays, gray.)",
+    "dateCreated": "2022-06-21T16:54:41.036Z",
+    "dateModified": "2022-06-21T16:31:46+00:00",
+    "excerpt": "Microwave a 12-oz. pkg. frozen broccoli florets according to package directions; drain well. Heat 2 Tbsp. olive oil in a large skillet over medium-high heat. Stir in ¼ tsp. crushed red pepper; cook 1 minute. Add broccoli, ½ tsp. salt, and ⅛ tsp. black pepper; cook, stirring, until broccoli just begins to brown, about 3 minutes. Toss with ⅓ cup finely grated Parmesan cheese. Serves 4.",
     "generatorName": "ANTE Generic Template",
     "generatorVersion": "0.0.4.33-2022-06-09 18:32",
-    "issue": {
-      "identifier": "PLACEHOLDER_ID",
-      "tocByline": "By Christina Poletto"
-    },
-    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_716/storage/images/media2/images/p014-bhg0822-family-adventures-badge/591136-1-eng-US/p014-bhg0822-family-adventures-badge.png?q=100"
+    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/mid_7008252_017/198797-1-eng-GB/mid_7008252_0172.jpg?q=100"
   },
   "documentStyle": {
     "backgroundColor": "#eee"
@@ -59,44 +52,12 @@
       },
       "components": [
         {
-          "role": "container",
-          "layout": {
-            "conditional": [
-              {
-                "conditions": [
-                  {
-                    "minViewportWidth": 415
-                  }
-                ],
-                "minimumHeight": "10cw"
-              }
-            ],
-            "minimumHeight": "14cw"
-          },
-          "style": {
-            "conditional": [
-              {
-                "conditions": [
-                  {
-                    "minSpecVersion": "1.14",
-                    "preferredColorScheme": "dark"
-                  }
-                ],
-                "fill": {
-                  "fillMode": "fit",
-                  "horizontalAlignment": "left",
-                  "type": "image",
-                  "URL": "https://public-assets.meredithcorp.io/5598670521de10828dc0edf3fe6d9f80/life-decoding_DM.jpg"
-                }
-              }
-            ],
-            "fill": {
-              "fillMode": "fit",
-              "horizontalAlignment": "left",
-              "type": "image",
-              "URL": "https://public-assets.meredithcorp.io/a1536c01fd4d33a52e9a33a0cf38e072/life-decoding.jpg"
-            }
-          }
+          "//": "==== DEFAULT HEADER: SECTION ===",
+          "role": "heading",
+          "layout": "sectionLayout",
+          "textStyle": "sectionTextStyle",
+          "format": "html",
+          "text": "5-INGREDIENT RECIPES"
         },
         {
           "role": "container",
@@ -104,55 +65,12 @@
           "style": "dividerSectionHeadStyle"
         },
         {
-          "//": "======== IMAGE BLOCK - 487.0x344.0 ========",
-          "role": "image",
-          "layout": {
-            "horizontalContentAlignment": "center",
-            "margin": {
-              "bottom": 15
-            },
-            "maximumContentWidth": "50cw"
-          },
-          "conditional": {
-            "conditions": [
-              {
-                "minSpecVersion": "1.14",
-                "preferredColorScheme": "dark"
-              }
-            ],
-            "hidden": true
-          },
-          "URL": "https://cdn-assets.ziniopro.com/var/site_716/storage/images/media2/images/p014-bhg0822-family-adventures-badge/591136-1-eng-US/p014-bhg0822-family-adventures-badge.png?q=100"
-        },
-        {
-          "//": "======== IMAGE BLOCK - 487.0x344.0 ========",
-          "role": "image",
-          "layout": {
-            "horizontalContentAlignment": "center",
-            "margin": {
-              "bottom": 15
-            },
-            "maximumContentWidth": "50cw"
-          },
-          "conditional": {
-            "conditions": [
-              {
-                "minSpecVersion": "1.14",
-                "preferredColorScheme": "dark"
-              }
-            ],
-            "hidden": false
-          },
-          "hidden": true,
-          "URL": "https://public-assets.meredithcorp.io/f1119fb5170c7fc1a60bb62b3a655565/car-dm.png"
-        },
-        {
           "//": "==== DEFAULT HEADER: TITLE ===",
           "role": "title",
           "layout": "titleLayout",
           "textStyle": "titleTextStyle",
           "format": "html",
-          "text": "What a Sight!"
+          "text": "Bonus Sides"
         },
         {
           "//": "==== DEFAULT HEADER: INTRO ===",
@@ -160,33 +78,18 @@
           "layout": "introLayout",
           "textStyle": "introTextStyle",
           "format": "html",
-          "text": "Day or night, keep your binoculars within reach. They’re the basis for family hobbies that will give you a whole new perspective on your own backyard."
-        },
-        {
-          "role": "author",
-          "layout": "authorLayout",
-          "textStyle": "authorTextStyle",
-          "format": "html",
-          "text": "By <b>Christina Poletto</b>"
+          "text": "Mix and match these simple sides with recipes in this issue or with your own favorites."
         },
         {
           "//": "======== HERO IMAGE CONTAINER =======",
           "role": "container",
-          "layout": "fullBleedContainerLayout",
-          "style": "fullBleedContainerStyle",
+          "layout": "heroImageLayout",
           "components": [
             {
-              "role": "image",
+              "//": "======== HERO IMAGE - H2295.0/W2094.0 * 100 = 109.5988539 ========",
+              "role": "photo",
               "layout": "fullBleedPhotoLayout",
-              "URL": "https://cdn-assets.ziniopro.com/var/site_716/storage/images/media2/images/p014-bhg0822-binoculars/591129-1-eng-US/p014-bhg0822-binoculars.jpg"
-            },
-            {
-              "role": "caption",
-              "layout": "captionLayout",
-              "textStyle": "captionTextStyle",
-              "format": "html",
-              "text": "<caption-heading>EYES ON THE PRIZE</caption-heading><br />To avoid searching, focus on your subject while you slowly bring the binoculars up to your eyes.",
-              "style": "captionStyle"
+              "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/mid_7008252_017/198797-1-eng-GB/mid_7008252_0172.jpg?q=100"
             }
           ]
         },
@@ -196,219 +99,339 @@
           "layout": "bodyContainerLayout",
           "components": [
             {
+              "role": "heading2",
+              "layout": "heading2Layout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Sautéed Broccoli and Parmesan",
+              "style": "heading2Style"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "Microwave a 12-oz. pkg. <bold>frozen broccoli florets</bold> according to package directions; drain well. Heat 2 Tbsp. <bold>olive oil</bold> in a large skillet over medium-high heat. Stir in ¼ tsp. <bold>crushed red pepper</bold>; cook 1 minute. Add broccoli, ½ tsp. <bold>salt</bold>, and ⅛ tsp. <bold>black pepper</bold>; cook, stirring, until broccoli just begins to brown, about 3 minutes. Toss with ⅓ cup finely grated <bold>Parmesan cheese</bold>. Serves 4."
+            },
+            {
               "//": "======== FULL BLEED CONTAINER ========",
               "role": "container",
               "layout": "fullBleedContainerLayout",
               "components": [
                 {
-                  "//": "======== IMAGE BLEED - H1105.0/W1367.0 * 100 = 80.8339429 ========",
-                  "role": "image",
-                  "layout": {
-                    "horizontalContentAlignment": "center",
-                    "maximumContentWidth": "45cw"
-                  },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_716/storage/images/media2/images/star__bird/588984-1-eng-US/star__bird2.png?q=100"
+                  "//": "======== IMAGE BLEED - H2123.0/W1367.0 * 100 = 155.3035845 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/7002261_al__020/198790-1-eng-GB/7002261_al__0202.jpg?q=100"
                 }
               ]
             },
             {
               "role": "heading2",
               "layout": "heading2Layout",
-              "style": "heading2Style",
               "textStyle": "heading2TextStyle",
               "format": "html",
-              "text": "Daytime"
+              "text": "Strawberry Spinach Salad",
+              "style": "heading2Style"
             },
             {
               "role": "body",
-              "layout": "bodyNoMarginAboveLayout",
+              "layout": "bodyLayout",
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "Curious whether you’re staring down an Eastern bluebird or a blue jay? Your yard provides ample opportunities for a primer course in birding. (And FYI—bluebirds have a rusty chest; blue jays, gray.)"
+              "text": "Toss together 12 oz. <bold>baby spinach</bold>, 2¼ cups sliced <bold>fresh strawberries</bold>, 1 cup sliced <bold>red onion</bold>, 1 cup sliced <bold>mushrooms</bold>, and your favorite <bold>balsamic vinaigrette</bold>. If desired, sprinkle with ½ cup chopped toasted walnuts. Serves 8."
             },
             {
-              "role": "heading3",
-              "layout": "heading3Layout",
-              "textStyle": "heading3TextStyle",
-              "format": "html",
-              "text": "Setup"
-            },
-            {
-              "role": "body",
-              "layout": "bodyNoMarginAboveLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "Outfit your yard with bird feeders—ideally placed away from the house so you can slip outside to observe the birds. Minnesota wildlife photographer Lisa Townsend takes it a step further by stocking a special decoy feeding station with peanuts to entice crows and jays away from her songbird feeders. Add a water source too. Birds need to drink up, and a bath gives you another spot for observation."
-            },
-            {
-              "role": "heading3",
-              "layout": "heading3Layout",
-              "textStyle": "heading3TextStyle",
-              "format": "html",
-              "text": "Study Guide"
-            },
-            {
-              "role": "body",
-              "layout": "bodyNoMarginAboveLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "A field guide can help you identify winged visitors, habitats, and behaviors. (<italic>The Sibley Guide to Birds</italic> covers the continental U.S., $40; <a href=\"http://sibleyguides.com\">sibleyguides.com</a>.) You can also tap into the Merlin Bird ID app’s sound function, which listens to bird calls and suggests who’s singing. Once you get familiar, use the eBird app to note sightings and seek birds others have spotted and logged."
-            },
-            {
-              "//": "======== IMAGE BLOCK - 487.0x344.0 ========",
-              "role": "image",
-              "layout": {
-                "horizontalContentAlignment": "center",
-                "margin": {
-                  "bottom": 15
-                },
-                "maximumContentWidth": "60cw"
-              },
-              "conditional": {
-                "conditions": [
-                  {
-                    "minSpecVersion": "1.14",
-                    "preferredColorScheme": "dark"
-                  }
-                ],
-                "hidden": true
-              },
-              "URL": "https://cdn-assets.ziniopro.com/var/site_716/storage/images/media2/images/f0014-01110/588977-1-eng-US/f0014-012.png?q=100"
-            },
-            {
-              "//": "======== IMAGE BLOCK - 487.0x344.0 ========",
-              "role": "image",
-              "layout": {
-                "horizontalContentAlignment": "center",
-                "margin": {
-                  "bottom": 15
-                },
-                "maximumContentWidth": "60cw"
-              },
-              "conditional": {
-                "conditions": [
-                  {
-                    "minSpecVersion": "1.14",
-                    "preferredColorScheme": "dark"
-                  }
-                ],
-                "hidden": false
-              },
-              "hidden": true,
-              "URL": "https://public-assets.meredithcorp.io/e6bf446b0a18f60191006c1dc43d32fe/star-dm.png"
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H2150.0/W1367.0 * 100 = 157.2787125 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/mid_m700434_0182/198783-1-eng-GB/mid_m700434_0182.png?q=100"
+                }
+              ]
             },
             {
               "role": "heading2",
               "layout": "heading2Layout",
-              "style": "heading2Style",
               "textStyle": "heading2TextStyle",
               "format": "html",
-              "text": "Nighttime"
+              "text": "Air Fryer Brussels Sprouts With Maple-Mustard Mayo",
+              "style": "heading2Style"
             },
             {
               "role": "body",
-              "layout": "bodyNoMarginAboveLayout",
+              "layout": "bodyLayout",
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "July and August boast a couple of supermoons (July 13 and August 12) and two meteor showers (July 28–29 and August 11–13). With a little practice, you’ll be able to spot constellations like Scorpius in July and Sagittarius in August."
+              "text": "Whisk together 1 Tbsp. <bold>pure maple syrup</bold>, 1 Tbsp. <bold>olive oil</bold>, and ¼ tsp. each <bold>kosher salt</bold> and <bold>black pepper</bold> in a large bowl. Add 1 lb. trimmed and halved <bold>Brussels sprouts</bold>; toss to coat. Working in batches as needed, arrange sprouts in a single layer in an air fryer basket. (Don’t overcrowd.) Cook at 400°F for 4 minutes; shake basket. Cook until sprouts are deep golden brown and tender, 4 to 6 minutes more. Meanwhile, whisk together ⅓ cup <bold>mayonnaise</bold>, 1 Tbsp. <bold>maple syrup</bold>, and 1 Tbsp. <bold>coarse mustard</bold> in a small bowl. Toss sprouts in some of the sauce mixture and/or serve as a dipping sauce. Serves 4."
             },
             {
-              "role": "heading3",
-              "layout": "heading3Layout",
-              "textStyle": "heading3TextStyle",
-              "format": "html",
-              "text": "Setup"
-            },
-            {
-              "role": "body",
-              "layout": "bodyNoMarginAboveLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "Telescopes are nice, but “binoculars are a great and inexpensive way to observe the night sky,” says Nancy McGuire, Western Colorado Astronomy Club president. She suggests a 7×50 pair for night viewing (tap <italic><a href='#sidebar'>here</a></italic>). Another essential tool is a red-light flashlight. “White light—from flashlights, phones, or headlights—ruins night vision. It takes about half an hour for your eyes to become dark adapted,” McGuire says. And pack a reclining lawn chair to save your neck; it lets you study the night sky in comfort, and it can be easily toted to extra-dark areas. (Research spots with low light pollution at <a href=\"http://darksky.org\">darksky.org</a>.)"
-            },
-            {
-              "role": "heading3",
-              "layout": "heading3Layout",
-              "textStyle": "heading3TextStyle",
-              "format": "html",
-              "text": "Study Guide"
-            },
-            {
-              "role": "body",
-              "layout": "bodyNoMarginAboveLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "Orient yourself with Polaris (the North Star at the tip of the Little Dipper handle). Its location over the North Pole means that as the Earth rotates, this star is pretty constant, even as the star patterns change each night. From there, use the Star Walk 2 app for an interactive sky map on your phone. Or pair your new red-light flashlight with a planisphere. “This adjustable ‘wheel’ shows constellations and deep-sky objects on any given date,” McGuire says."
-            },
-            {
-              "//": "====== CALLOUT ======",
+              "//": "======== FULL BLEED CONTAINER ========",
               "role": "container",
-              "layout": "calloutLayout",
-              "style": "calloutStyle",
+              "layout": "fullBleedContainerLayout",
               "components": [
                 {
-                  "role": "heading",
-                  "layout": "calloutHeadingLayout",
-                  "textStyle": "calloutHeadingTextStyle",
-                  "format": "html",
-                  "text": "<bracket>[</bracket> Feeder Warning <bracket>]</bracket>"
-                },
-                {
-                  "role": "body",
-                  "layout": "calloutBodyLayout",
-                  "textStyle": "calloutBodyTextStyle",
-                  "format": "html",
-                  "text": "A flu spread among waterfowl and poultry this spring. Protect songbirds by keeping feeders and baths clean."
+                  "//": "======== IMAGE BLEED - H1216.0/W1216.0 * 100 = 100.0 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0077-0130/198776-1-eng-GB/f0077-012.jpg?q=100"
                 }
               ]
             },
             {
+              "role": "heading2",
+              "layout": "heading2Layout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Lemon Honey-Glazed Carrots",
+              "style": "heading2Style"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "Bring 3 cups multicolor&nbsp;<bold>baby carrots</bold>&nbsp;and enough water to cover to a boil in a saucepan. Reduce heat to medium-high; simmer, stirring occasionally, until carrots are tender, about 10 minutes. Drain. Melt ¼ cup&nbsp;<bold>butter</bold>&nbsp;in a 10-inch skillet over medium heat; stir in 2 Tbsp.&nbsp;<bold>honey</bold>, 1 Tbsp.&nbsp;<bold>lemon juice</bold>, and ⅛ tsp.&nbsp;<bold>ground ginger</bold>. Increase heat to medium-high; stir in carrots until well coated. Cook, stirring occasionally, until thickened, about 5 minutes. Sprinkle with&nbsp;<bold>black pepper</bold>. Serves 4."
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
               "role": "container",
-              "layout": "sidebarLayout",
-              "style": "sidebarStyle",
-              "identifier": "sidebar",
+              "layout": "fullBleedContainerLayout",
               "components": [
                 {
-                  "role": "container",
-                  "layout": "dividerDoubleLayout",
-                  "style": "dividerDoubleStyle"
-                },
-                {
-                  "//": "======== BODY CONTAINER =======",
-                  "role": "container",
-                  "layout": "bodyContainerLayout",
-                  "style": "bodyContainerStyle",
-                  "components": [
-                    {
-                      "role": "heading2",
-                      "layout": "sidebarHeading2Layout",
-                      "style": "heading2Style",
-                      "textStyle": "sidebarHeading2TextStyle",
-                      "format": "html",
-                      "text": "<i>Good to Know</i> ’Nocs Talk"
-                    },
-                    {
-                      "role": "body",
-                      "layout": "sidebarBodyLayout",
-                      "style": "paragraphStyle",
-                      "textStyle": "sidebarBodyTextStyle",
-                      "format": "html",
-                      "text": "How to pick your pair? Go by the numbers. The first is the strength; the second is the physical size. So for a 7×50 pair, “7” means everything will appear seven times closer; “50” is the diameter (in mm) of the lenses—the bigger the lens, the brighter the image. <sidebar-lede>OUR PICK:</sidebar-lede> Standard Issue Waterproof Binoculars in 10×25 <sidebar-italic>(top),</sidebar-italic> $95; <a href=\"https://www.nocsprovisions.com/\">nocsprovisions.com</a> They’re not too strong for birding but bright enough for stargazing—great for concerts too."
-                    }
-                  ]
-                },
-                {
-                  "role": "container",
-                  "layout": "dividerDoubleLayout",
-                  "style": "dividerDoubleStyle"
+                  "//": "======== IMAGE BLEED - H1623.0/W1367.0 * 100 = 118.7271397 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/bm_0100123/198769-1-eng-GB/bm_0100122.jpg?q=100"
                 }
               ]
+            },
+            {
+              "role": "heading2",
+              "layout": "heading2Layout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Easy Skillet Snow Peas",
+              "style": "heading2Style"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "Melt 1 Tbsp. <bold>butter</bold> in a large skillet over medium heat. Add 1 Tbsp. minced <bold>green onion</bold>; cook until fragrant and softened, about 1 minute. Add 12 oz. <bold>fresh snow peas</bold> or snap peas; cook on medium-high heat, stirring, about 3 minutes. Add 2 Tbsp. <bold>water</bold>, cover, and cook until crisp-tender, about 3 minutes more. Season with <bold>salt</bold> and <bold>black pepper</bold>. Serves 4."
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1623.0/W1367.0 * 100 = 118.7271397 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/instantpotm_023/198762-1-eng-GB/instantpotm_0232.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "heading2Layout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Instant Pot Mashed Sweet Potatoes",
+              "style": "heading2Style"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "Stir together 3 lb. <bold>sweet potatoes</bold>, peeled and chopped into 2-inch pieces; ½ cup each <bold>unsweetened coconut milk</bold> and <bold>vegetable broth</bold>; 4 peeled <bold>cloves garlic</bold>; and 1 tsp. each <bold>salt</bold> and <bold>black pepper</bold> in an electric multicooker. Close and lock lid. Set on High Pressure to cook 8 minutes. Quick-release pressure and transfer pot insert to a trivet. Mash mixture with a potato masher. Season to taste with additional salt and pepper. Serves 6."
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1311.0/W1111.0 * 100 = 118.0018002 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/cd_31514/198755-1-eng-GB/cd_31512.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "heading2Layout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Air Fryer Roasted Vegetables",
+              "style": "heading2Style"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "Preheat an air fryer to 360°F. Toss together 3 cups coarsely chopped <bold>vegetables</bold>—such as zucchini, bell peppers, carrots, and sweet potatoes—with 2 tsp. <bold>vegetable oil</bold> and ¼ tsp. each <bold>salt</bold> and <bold>black pepper</bold> in a bowl. If desired, add a little <bold>Italian seasoning</bold> or <bold>smoked paprika</bold>. Arrange vegetables in fryer basket; cook, turning halfway through, until tender, about 10 minutes. (Firm vegetables may need to cook another 5 minutes.) Serve with your favorite dipping sauce. Serves 4."
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1608.0/W1365.0 * 100 = 117.8021978 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/mid_7008252_022/198748-1-eng-GB/mid_7008252_0222.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "heading2Layout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Asparagus Parmesan",
+              "style": "heading2Style"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "Preheat oven to 425°F. Line a 10x15-inch rimmed baking sheet with foil. Spread 2 lb. <bold>asparagus spears</bold>, bottoms trimmed, on foil. Drizzle with ⅓ cup <bold>corn oil</bold>; toss to coat. Sprinkle with ¼ cup <bold>Parmesan cheese</bold>, 2 minced <bold>cloves garlic</bold>, 1 tsp. <bold>salt</bold>, and ½ tsp. <bold>black pepper</bold>. Toss again, then arrange asparagus in a single layer. Roast until just tender, 12 to 15 minutes. Sprinkle with 1 Tbsp. <bold>fresh lemon juice.</bold> Serves 8."
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1623.0/W1367.0 * 100 = 118.7271397 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/mi_7008252__021/198741-1-eng-GB/mi_7008252__0212.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "heading2Layout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Herb Butter Biscuits",
+              "style": "heading2Style"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "Preheat oven to 400°F. Stir together ⅓ cup melted <bold>butter</bold>, 2 Tbsp. chopped <bold>fresh basil</bold>, 1 Tbsp. chopped <bold>fresh rosemary</bold>, and 1 tsp. <bold>Dijon mustard</bold>, in a bowl. Dip <bold>refrigerated biscuits</bold> (1 can) into mixture, then arrange on a greased, foil-lined baking sheet. Bake until golden brown, 15 to 20 minutes. Sprinkle with shredded <bold>cheddar cheese</bold> in last 5 minutes of baking. Makes about 10."
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1255.0/W1057.0 * 100 = 118.7322611 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/passano_arl_024/198734-1-eng-GB/passano_arl_0242.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "heading2Layout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Baby Beet Salad",
+              "style": "heading2Style"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "Preheat oven to 400°F. Trim tops off 2 lb. assorted <bold>baby beets.</bold> Gently wash and arrange beets in a single layer in a baking pan. Drizzle with 1 Tbsp. <bold>olive oil</bold> and toss to coat. Baked, covered, until beets are tender, about 40 minutes. Let cool 30 minutes. Peel and halve beets lengthwise; gently toss with your favorite <bold>vinaigrette</bold>. Arrange 5 cups loosely packed <bold>baby lettuces</bold> on a serving platter. Top with beets, ⅔ cup crumbled <bold>Gorgonzola cheese</bold>, and</bold> ⅔ cup toasted, coarsely chopped <bold>walnuts</bold>. Serves 6."
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1552.0/W1366.0 * 100 = 113.6163982 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p079-alt102382-roasted-garlic-cauliflower/199681-1-eng-GB/p079-alt102382-roasted-garlic-cauliflower.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "heading2Layout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Roasted Garlic Cauliflower",
+              "style": "heading2Style"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "Preheat oven to 450°F. Grease a shallow roasting pan. Stir together 3 Tbsp. <bold>olive oil</bold> and 2 Tbsp. minced <bold>garlic cloves</bold> in a large bowl. Add florets from 1 large head <bold>cauliflower</bold> (about 2¾ lb.) and toss to coat. Transfer to prepared roasting pan and season with ¼ tsp. <bold>salt</bold> and ⅛ tsp. <bold>black pepper</bold>. Roast cauliflower, stirring halfway through, until tender, about 25 minutes. Turn on broiler. Sprinkle with ⅓ cup grated <bold>Parmesan cheese</bold> and broil until golden brown, 3 to 5 minutes. Sprinkle with 1 Tbsp. chopped <bold>fresh parsley</bold>. Serves 6."
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H2188.0/W2070.0 * 100 = 105.7004831 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/mid_7008252_019/198720-1-eng-GB/mid_7008252_0192.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "heading2Layout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Green Beans With Cherry Tomatoes",
+              "style": "heading2Style"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "Put 1½ lb. trimmed <bold>green beans</bold> in a steamer basket set over ½ cup boiling water in a skillet. Steam, covered, until tender, 10 to 12 minutes. Drain. (If desired, cut beansinto 2-inch pieces; steam 7 to 8 minutes.) Melt ¼ cup <bold>butter</bold> in skillet over medium heat. Add 2 cups halved <bold>cherry tomatoes</bold>, 2 minced <bold>cloves garlic</bold>, and ½ tsp. each <bold>salt</bold> and <bold>black pepper</bold>. Cook, stirring occasionally, until tomatoes just start to soften, about 3 minutes. Add beans and 1½ tsp. chopped <bold>fresh basil</bold>; toss gently to mix. Serves 6."
             }
           ]
         },
@@ -438,7 +461,7 @@
               "layout": "bodyLayout",
               "textStyle": "tocTextStyle",
               "format": "html",
-              "text": "<a href='https://apple.news/AfZaggdYaEeyyQA0KhVcEZw'>Tap here</a> to see more from this issue of <i>Better Homes &amp; Gardens</i>"
+              "text": "<a href='https://apple.news/AeWTaQfGQEeyRKiYivkxSbA'>Tap here</a> to see more from this issue of <i>Allrecipes</i>"
             }
           ]
         }
@@ -458,32 +481,6 @@
         "bottom": 5
       }
     },
-    "bhgInsiderBodyLayout": {
-      "margin": {
-        "bottom": 10,
-        "top": 4
-      }
-    },
-    "bhgInsiderLayout": {
-      "columnSpan": 12,
-      "columnStart": 4,
-      "margin": 20
-    },
-    "bhgInsiderLogoLayout": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minViewportWidth": 500
-            }
-          ],
-          "maximumContentWidth": 150
-        }
-      ],
-      "horizontalContentAlignment": "center",
-      "maximumContentWidth": 125,
-      "URL": "https://public-assets-dev.meredithcorp.io/bde8400037db8a452dc4b69b34672272/bhg_Insider.jpg"
-    },
     "blockContainerLayout": {
       "columnSpan": 18,
       "columnStart": 1,
@@ -500,13 +497,9 @@
     "bodyLayout": {
       "columnSpan": 18,
       "columnStart": 1,
-      "margin": 10
-    },
-    "bodyNoMarginAboveLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
       "margin": {
-        "bottom": 10
+        "bottom": 10,
+        "top": 2
       }
     },
     "bottomPhotoDividerLayout": {
@@ -514,7 +507,8 @@
     },
     "calloutBodyLayout": {
       "margin": {
-        "bottom": 10
+        "bottom": 10,
+        "top": 5
       }
     },
     "calloutHeadingLayout": {
@@ -525,25 +519,21 @@
     "calloutLayout": {
       "columnSpan": 16,
       "columnStart": 2,
-      "margin": 20
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "padding": {
+        "bottom": 10,
+        "left": 20,
+        "right": 20,
+        "top": 10
+      }
     },
     "captionAdLayout": {
       "//": "UNUSED"
     },
     "captionLayout": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minViewportWidth": 415
-            }
-          ],
-          "padding": {
-            "left": 20,
-            "right": 20
-          }
-        }
-      ],
       "margin": 8
     },
     "collectionLayout": {
@@ -570,12 +560,12 @@
     "dividerCollectionLayout": {
       "//": "UNUSED"
     },
-    "dividerDoubleLayout": {
-      "minimumHeight": 8
-    },
     "dividerLayout": {
       "ignoreDocumentMargin": true,
-      "margin": 10
+      "margin": {
+        "bottom": 20,
+        "top": 10
+      }
     },
     "dividerStandardLayout": {
       "columnSpan": 18,
@@ -584,7 +574,7 @@
         "bottom": 10,
         "top": 20
       },
-      "minimumHeight": 2
+      "minimumHeight": 1
     },
     "dividerTocLayout": {
       "columnSpan": 18,
@@ -596,7 +586,7 @@
       "minimumHeight": 10
     },
     "floatContainerLayout": {
-      "columnSpan": 6,
+      "columnSpan": 4,
       "columnStart": 1,
       "conditional": [
         {
@@ -647,7 +637,7 @@
       "columnSpan": 18,
       "columnStart": 1,
       "margin": {
-        "top": 20
+        "top": 10
       }
     },
     "heading3Layout": {
@@ -681,7 +671,7 @@
     "heroImageLayout": {
       "ignoreDocumentMargin": true,
       "margin": {
-        "bottom": 10,
+        "bottom": 0,
         "top": 15
       }
     },
@@ -694,16 +684,13 @@
       }
     },
     "ingredientsLayout": {
-      "margin": {
-        "bottom": 5,
-        "top": 5
-      }
+      "margin": 10
     },
     "introLayout": {
       "columnSpan": 18,
       "columnStart": 1,
       "margin": {
-        "bottom": 8
+        "bottom": 10
       }
     },
     "noMarginLayout": {
@@ -716,7 +703,18 @@
     "pullQuoteLayout": {
       "columnSpan": 16,
       "columnStart": 2,
-      "margin": 20
+      "margin": {
+        "bottom": 25,
+        "top": 15
+      }
+    },
+    "reviewLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "padding": {
+        "left": 85,
+        "top": 2
+      }
     },
     "sectionLayout": {
       "margin": {
@@ -724,9 +722,6 @@
       }
     },
     "sidebarBodyLayout": {
-      "margin": 10
-    },
-    "sidebarBodyNoMarginAboveLayout": {
       "margin": {
         "bottom": 10
       }
@@ -736,26 +731,15 @@
         "bottom": 10,
         "top": 20
       },
-      "minimumHeight": 2
+      "minimumHeight": 1
     },
     "sidebarFloatContainerLayout": {
-      "columnSpan": 6,
-      "columnStart": 0,
-      "conditional": [
-        {
-          "columnSpan": 4,
-          "columnStart": 0,
-          "conditions": [
-            {
-              "maxViewportWidth": 415
-            }
-          ]
-        }
-      ]
+      "columnSpan": 4,
+      "columnStart": 0
     },
     "sidebarHeading2Layout": {
       "margin": {
-        "top": 10
+        "top": 20
       }
     },
     "sidebarHeading3Layout": {
@@ -768,13 +752,20 @@
         "top": 10
       }
     },
+    "sidebarIntroLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 5
+      }
+    },
     "sidebarLayout": {
       "columnSpan": 18,
       "columnStart": 1,
       "margin": 20,
       "padding": {
         "bottom": 10,
-        "top": 10
+        "left": 20,
+        "right": 20
       }
     },
     "sidebarSingleBlockContainerLayout": {
@@ -803,6 +794,10 @@
         "top": 2
       }
     },
+    "smallSpacerLayout": {
+      "maximumWidth": 5,
+      "minimumWidth": 5
+    },
     "spacerLayout": {
       "columnSpan": 18,
       "columnStart": 1,
@@ -810,6 +805,12 @@
         "bottom": 10,
         "top": 20
       }
+    },
+    "starsImageLayout": {
+      "margin": {
+        "top": 2
+      },
+      "maximumWidth": 100
     },
     "straplineLayout": {
       "columnSpan": 18,
@@ -822,11 +823,37 @@
       "columnSpan": 18,
       "columnStart": 1,
       "margin": {
-        "top": 10
+        "top": 3
       }
     },
     "topPhotoDividerLayout": {
       "//": "UNUSED"
+    },
+    "youSaidContainerLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 500
+            }
+          ],
+          "padding": {
+            "left": "20cw",
+            "right": "20cw"
+          }
+        }
+      ],
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "youSaidImageLayout": {
+      "horizontalContentAlignment": "center",
+      "margin": {
+        "bottom": 10
+      },
+      "maximumContentWidth": 110
     }
   },
   "componentStyles": {
@@ -847,6 +874,14 @@
         }
       }
     },
+    "calloutStyle2": {
+      "border": {
+        "all": {
+          "color": "#feaa26",
+          "width": 4
+        }
+      }
+    },
     "captionAdStyle": {
       "//": "UNUSED"
     },
@@ -862,18 +897,6 @@
           ]
         }
       ]
-    },
-    "dividerDoubleStyle": {
-      "border": {
-        "all": {
-          "color": "#222",
-          "width": 1
-        },
-        "bottom": true,
-        "left": false,
-        "right": false,
-        "top": true
-      }
     },
     "dividerSectionHeadStyle": {
       "border": {
@@ -1000,8 +1023,100 @@
     "pullQuoteStyle": {
       "//": "UNUSED"
     },
+    "reviewFiveStarsStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "horizontalAlignment": "left",
+            "repeat": "none",
+            "type": "repeatable_image",
+            "URL": "https://public-assets.meredithcorp.io/ba3bbeb190fc45d4b5bb1d08c8fd2a5c/fiveDM.png",
+            "verticalAlignment": "top",
+            "width": 80
+          }
+        }
+      ],
+      "fill": {
+        "horizontalAlignment": "left",
+        "repeat": "none",
+        "type": "repeatable_image",
+        "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common022/86031-1-eng-GB/common022.jpg",
+        "verticalAlignment": "top",
+        "width": 80
+      }
+    },
+    "reviewFourHalfStarsStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "horizontalAlignment": "left",
+            "repeat": "none",
+            "type": "repeatable_image",
+            "URL": "https://public-assets.meredithcorp.io/8700c3d249629b59c38e0b147c58947c/fourDM.png",
+            "verticalAlignment": "top",
+            "width": 80
+          }
+        }
+      ],
+      "fill": {
+        "horizontalAlignment": "left",
+        "repeat": "none",
+        "type": "repeatable_image",
+        "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common0166/108858-1-eng-GB/common012.jpg?q=100",
+        "verticalAlignment": "top",
+        "width": 80
+      }
+    },
+    "reviewFourStarsStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "horizontalAlignment": "left",
+            "repeat": "none",
+            "type": "repeatable_image",
+            "URL": "https://public-assets.meredithcorp.io/8e401d3520fc3b0bec1ecdf6f118edf3/fourstarsDM.png",
+            "verticalAlignment": "top",
+            "width": 80
+          }
+        }
+      ],
+      "fill": {
+        "horizontalAlignment": "left",
+        "repeat": "none",
+        "type": "repeatable_image",
+        "URL": "https://public-assets.meredithcorp.io/4cadea6bc3bbdd6b0bdfab5abedfb66f/fourstars.jpg",
+        "verticalAlignment": "top",
+        "width": 80
+      }
+    },
     "sectionStyle": {
       "//": "UNUSED"
+    },
+    "sidebarNoBackgroundStyle": {
+      "border": {
+        "all": {
+          "color": "#f2f2f2",
+          "width": 2
+        }
+      }
     },
     "sidebarStyle": {
       "backgroundColor": "#f2f2f2",
@@ -1023,6 +1138,13 @@
     "titleStyle": {
       "//": "UNUSED"
     },
+    "youSaidImageStyle": {
+      "backgroundColor": "#008080",
+      "mask": {
+        "radius": "60cw",
+        "type": "corners"
+      }
+    },
     "captionStyle": {
       "border": {
         "all": {
@@ -1034,14 +1156,6 @@
         "right": false,
         "top": false
       }
-    },
-    "sidebarNoBackgroundStyle": {
-      "border": {
-        "all": {
-          "color": "#f2f2f2",
-          "width": 2
-        }
-      }
     }
   },
   "textStyles": {
@@ -1052,12 +1166,8 @@
       "textTransform": "uppercase",
       "tracking": 0.1
     },
-    "default-tag-bracket": {
-      "fontSize": 30,
-      "textColor": "#ED096F"
-    },
-    "default-tag-caption-bold": {
-      "fontName": "Gotham-Bold"
+    "default-tag-bold": {
+      "fontName": "GothamNarrow-Bold"
     },
     "default-tag-caption-heading": {
       "fontName": "AvenirNext-Bold",
@@ -1065,11 +1175,11 @@
       "textTransform": "uppercase",
       "tracking": 0.05
     },
+    "default-tag-caption-i": {
+      "fontName": "Gotham-Book"
+    },
     "default-tag-emoji": {
       "fontName": "AppleColorEmoji"
-    },
-    "default-tag-italic": {
-      "fontName": "SurveyorText-LightItalic"
     },
     "default-tag-lede": {
       "fontName": "AvenirNext-Bold"
@@ -1077,14 +1187,14 @@
     "default-tag-m": {
       "fontName": "Gotham-Medium"
     },
+    "default-tag-mi": {
+      "fontName": "Gotham-MediumItalic"
+    },
     "default-tag-pullquote-attribution": {
       "fontName": "Georgia-Bold",
       "fontSize": 15,
       "textTransform": "uppercase",
       "tracking": 0.15
-    },
-    "default-tag-sidebar-italic": {
-      "fontName": "Gotham-LightItalic"
     },
     "default-tag-sidebar-lede": {
       "fontName": "AvenirNext-Bold",
@@ -1092,11 +1202,8 @@
       "textTransform": "uppercase",
       "tracking": 0.05
     },
-    "default-tag-title-italic": {
-      "fontName": "HTFDidot-M42MediumItalic"
-    },
-    "default-tag-twenty-five": {
-      "fontName": "Didot-Bold"
+    "default-tag-subsection": {
+      "fontName": "Gotham-Light"
     },
     "endMarkerTextStyle": {
       "//": "UNUSED"
@@ -1125,12 +1232,6 @@
       "textAlignment": "center",
       "textTransform": "uppercase",
       "tracking": 0.05
-    },
-    "bhgInsiderBodyTextStyle": {
-      "fontName": "Gotham-Medium",
-      "fontSize": 16,
-      "lineHeight": 22,
-      "textAlignment": "center"
     },
     "bodyCenteredTextStyle": {
       "fontName": "Georgia",
@@ -1273,7 +1374,10 @@
       "tracking": -0.01
     },
     "heading5CenteredTextStyle": {
-      "textAlignment": "center"
+      "fontName": "Gotham-Bold",
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.02
     },
     "heading5TextStyle": {
       "fontName": "Georgia-BoldItalic"
@@ -1286,9 +1390,8 @@
       "tracking": 0.05
     },
     "ingredientsTextStyle": {
-      "fontName": "Gotham-Medium",
-      "fontSize": 15,
-      "lineHeight": 19
+      "fontName": "GothamNarrow-Book",
+      "lineHeight": 24
     },
     "introTextStyle": {
       "fontName": "Georgia-Italic",
@@ -1298,20 +1401,36 @@
       "fontName": "Georgia",
       "textAlignment": "center"
     },
-    "recipeBodyTextStyle": {
-      "fontName": "Gotham-Light",
-      "fontSize": 16,
-      "lineHeight": 20
-    },
     "recipeDetailsTextStyle": {
-      "fontName": "Gotham-Light",
-      "fontSize": 15,
-      "lineHeight": 17
-    },
-    "recipeNutritionInfoTextStyle": {
-      "fontName": "Gotham-Light",
+      "fontName": "GothamNarrow-Book",
       "fontSize": 14,
-      "lineHeight": 16
+      "lineHeight": 16,
+      "linkStyle": {
+        "fontName": "GothamNarrow-Bold",
+        "textColor": "#000",
+        "underline": true
+      }
+    },
+    "reviewsTextStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "textColor": "#fff"
+        }
+      ],
+      "fontName": "GothamNarrow-Black",
+      "textColor": "#000"
+    },
+    "savedTextStyle": {
+      "fontName": "GothamNarrow-Book",
+      "fontSize": 16,
+      "lineHeight": 18,
+      "textTransform": "uppercase"
     },
     "sectionTextStyle": {
       "fontName": "AvenirNext-Regular",
@@ -1320,37 +1439,16 @@
       "textTransform": "uppercase",
       "tracking": 0.05
     },
-    "sidebarBodyCenteredTextStyle": {
-      "fontName": "AvenirNext-Medium",
-      "fontSize": 18,
-      "lineHeight": 26,
-      "textAlignment": "center",
-      "tracking": 0.02
-    },
     "sidebarBodyTextStyle": {
       "fontName": "AvenirNext-Medium",
       "fontSize": 18,
       "lineHeight": 26,
       "tracking": 0.02
     },
-    "sidebarHeading2CenteredTextStyle": {
-      "fontName": "Georgia-Bold",
-      "fontSize": 45,
-      "lineHeight": 50,
-      "textAlignment": "center"
-    },
     "sidebarHeading2TextStyle": {
       "fontName": "Georgia-Bold",
       "fontSize": 45,
       "lineHeight": 50
-    },
-    "sidebarHeading3CenteredTextStyle": {
-      "fontName": "AvenirNext-Bold",
-      "fontSize": 24,
-      "lineHeight": 28,
-      "textAlignment": "center",
-      "textTransform": "uppercase",
-      "tracking": -0.05
     },
     "sidebarHeading3TextStyle": {
       "fontName": "AvenirNext-Bold",
@@ -1359,17 +1457,16 @@
       "textTransform": "uppercase",
       "tracking": -0.05
     },
-    "sidebarHeading4CenteredTextStyle": {
-      "fontName": "Gotham-Bold",
-      "fontSize": 16,
-      "lineHeight": 18,
-      "textAlignment": "center"
-    },
     "sidebarHeading4TextStyle": {
       "fontName": "AvenirNext-Bold",
       "fontSize": 24,
       "lineHeight": 28,
       "tracking": -0.01
+    },
+    "sidebarIntroTextStyle": {
+      "fontName": "Georgia-Italic",
+      "fontSize": 20,
+      "lineHeight": 26
     },
     "straplineTextStyle": {
       "fontName": "AvenirNext-Bold",
@@ -1390,20 +1487,42 @@
       "textAlignment": "center",
       "textColor": "#000"
     },
+    "youSaidQuoteTextStyle": {
+      "fontName": "GothamCondensed-LightItalic",
+      "fontSize": 22,
+      "lineHeight": 24,
+      "textAlignment": "center"
+    },
     "listTextStyle": {
       "fontSize": 17,
       "lineHeight": 21
+    },
+    "sidebarBodyCenteredTextStyle": {
+      "fontName": "AvenirNext-Medium",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "textAlignment": "center",
+      "tracking": 0.02
+    },
+    "sidebarHeading2CenteredTextStyle": {
+      "fontName": "Georgia-Bold",
+      "fontSize": 45,
+      "lineHeight": 50,
+      "textAlignment": "center"
+    },
+    "sidebarHeading3CenteredTextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "fontSize": 24,
+      "lineHeight": 28,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": -0.05
     },
     "sidebarHeadingCentered4TextStyle": {
       "fontName": "AvenirNext-Bold",
       "fontSize": 24,
       "lineHeight": 28,
       "textAlignment": "center"
-    },
-    "sidebarIntroTextStyle": {
-      "fontName": "Georgia-Italic",
-      "fontSize": 20,
-      "lineHeight": 26
     },
     "subsectionIntroTextStyle": {
       "fontName": "Georgia-Italic",

@@ -1,0 +1,2637 @@
+{
+  "version": "1.9",
+  "identifier": "fortune_article_866-209-44-1",
+  "title": "CEOs Say: Fasten Your Seat Belts",
+  "language": "en",
+  "layout": {
+    "columns": 20,
+    "gutter": 20,
+    "margin": 40,
+    "width": 1024
+  },
+  "subtitle": "After a blockbuster 2021, business leaders brace for tougher times.",
+  "metadata": {
+    "authors": [
+      "By Alan Murray"
+    ],
+    "dateCreated": "2022-05-26T18:07:10.472Z",
+    "dateModified": "2022-05-26T15:39:55+00:00",
+    "excerpt": "▸ AT THIS TIME LAST YEAR, the Fortune 500 CEOs we surveyed were breathing a collective sigh of relief as profits and revenues came roaring back from the ravages of the pandemic. This spring, that roar sounds uncomfortably loud, as companies cope with soaring inflation and the growing likelihood that sky-high prices and labor shortages will help tip the economy into recession. CEOs say they’re working hard on the labor side of that equation, scrambling to stem employee attrition by staying flexible about how and where people work. Climate change and geopolitical instability, meanwhile, loom ever larger, pressuring leaders to either speak up or hunker down.",
+    "generatorName": "ANTE Generic Template",
+    "generatorVersion": "0.0.4.32-2022-04-15 19:20",
+    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_866/storage/images/media2/images/p044-for0722-cloudy-illustration-hero/244600-1-eng-US/p044-for0722-cloudy-illustration-hero.png?q=100"
+  },
+  "documentStyle": {
+    "backgroundColor": "#eee"
+  },
+  "components": [
+    {
+      "role": "container",
+      "layout": {
+        "conditional": [
+          {
+            "conditions": [
+              {
+                "platform": "ios"
+              }
+            ],
+            "ignoreViewportPadding": true
+          },
+          {
+            "conditions": [
+              {
+                "maxViewportWidth": 1366,
+                "minViewportWidth": 1112
+              }
+            ],
+            "ignoreDocumentMargin": "none",
+            "ignoreViewportPadding": "none"
+          }
+        ],
+        "ignoreDocumentMargin": true
+      },
+      "style": {
+        "backgroundColor": "#fff"
+      },
+      "components": [
+        {
+          "//": "==== FORTUNE COMMON SECTION HEADING ====",
+          "role": "heading",
+          "layout": "sectionLayout",
+          "textStyle": "sectionTextStyle",
+          "format": "html",
+          "text": "Fortune <subsection>The Brief</subsection>"
+        },
+        {
+          "role": "divider",
+          "layout": "topDividerLayout",
+          "stroke": {
+            "color": "#59595b",
+            "width": 1
+          }
+        },
+        {
+          "role": "heading",
+          "layout": "straplineLayout",
+          "textStyle": "straplineTextStyle",
+          "format": "html",
+          "text": "&nbsp;CEO Survey&nbsp;"
+        },
+        {
+          "role": "title",
+          "layout": "titleLayout",
+          "textStyle": "titleTextStyle",
+          "format": "html",
+          "text": "CEOs Say: Fasten Your Seat Belts"
+        },
+        {
+          "role": "intro",
+          "layout": "introLayout",
+          "textStyle": "introTextStyle",
+          "format": "html",
+          "text": "After a blockbuster 2021, business leaders brace for tougher times."
+        },
+        {
+          "role": "author",
+          "layout": "authorLayout",
+          "textStyle": "authorTextStyle",
+          "format": "html",
+          "text": "By Alan Murray"
+        },
+        {
+          "//": "======== BODY CONTAINER =======",
+          "role": "container",
+          "layout": "bodyContainerLayout",
+          "components": [
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>AT THIS TIME LAST YEAR,</lede> the Fortune 500 CEOs we surveyed were breathing a collective sigh of relief as profits and revenues came roaring back from the ravages of the pandemic. This spring, that roar sounds uncomfortably loud, as companies cope with soaring inflation and the growing likelihood that sky-high prices and labor shortages will help tip the economy into recession. CEOs say they’re working hard on the labor side of that equation, scrambling to stem employee attrition by staying flexible about how and where people work. Climate change and geopolitical instability, meanwhile, loom ever larger, pressuring leaders to either speak up or hunker down."
+            },
+            {
+              "//": "======== SINGLE BLOCK CONTAINER =======",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "style": "photoContainerStyle",
+              "components": [
+                {
+                  "role": "image",
+                  "layout": {
+                    "horizontalContentAlignment": "left",
+                    "maximumContentWidth": "10cw"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_866/storage/images/media2/images/p044-for0722-cloudy-illustration/244453-1-eng-US/p044-for0722-cloudy-illustration.png?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "noMarginLayout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Cloudy Future"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<ledes>WHEN CEOs EXPECT THE NEXT RECESSION TO BEGIN</ledes>"
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLOCK - 487.0x344.0 ========",
+                  "role": "image",
+                  "layout": {
+                    "horizontalContentAlignment": "left",
+                    "margin": {
+                      "bottom": 15
+                    }
+                  },
+                  "conditional": {
+                    "conditions": [
+                      {
+                        "minSpecVersion": "1.14",
+                        "preferredColorScheme": "dark"
+                      }
+                    ],
+                    "hidden": true
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_866/storage/images/media2/images/p044-for0722-cloudy-future-graph-lm/244432-1-eng-US/p044-for0722-cloudy-future-graph-lm.png?q=100"
+                },
+                {
+                  "//": "======== IMAGE BLOCK - 487.0x344.0 ========",
+                  "role": "image",
+                  "layout": {
+                    "horizontalContentAlignment": "left",
+                    "margin": {
+                      "bottom": 15
+                    }
+                  },
+                  "conditional": {
+                    "conditions": [
+                      {
+                        "minSpecVersion": "1.14",
+                        "preferredColorScheme": "dark"
+                      }
+                    ],
+                    "hidden": false
+                  },
+                  "hidden": true,
+                  "URL": "https://public-assets.meredithcorp.io/9bae53f746f5c6ca4972ef69cb785085/p044-FOR0722-cloudy-future-graph-DM.png"
+                }
+              ]
+            },
+            {
+              "role": "container",
+              "layout": "numbersContainerLayout",
+              "style": "numbersContainerStyle",
+              "components": [
+                {
+                  "role": "heading",
+                  "layout": "numbersHeadingLayout",
+                  "textStyle": "numbersTextStyle",
+                  "format": "html",
+                  "text": "5.2%"
+                },
+                {
+                  "role": "body",
+                  "layout": "sidebarBodyNoMarginAboveLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "numbersBodyTextStyle",
+                  "format": "html",
+                  "text": "Expected Rate of Inflation in 2023"
+                },
+                {
+                  "role": "heading",
+                  "layout": "numbersHeadingLayout",
+                  "textStyle": "numbersTextStyle",
+                  "format": "html",
+                  "text": "69%"
+                },
+                {
+                  "role": "body",
+                  "layout": "sidebarBodyNoMarginAboveLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "numbersBodyTextStyle",
+                  "format": "html",
+                  "text": "Companies Experiencing High Rates of Attrition Among Employees"
+                }
+              ]
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<ledes>WHAT CEOs SEE AS THE TOP THREATS TO THEIR BUSINESS</ledes>"
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLOCK - 487.0x344.0 ========",
+                  "role": "image",
+                  "layout": {
+                    "horizontalContentAlignment": "left",
+                    "margin": {
+                      "bottom": 15
+                    }
+                  },
+                  "conditional": {
+                    "conditions": [
+                      {
+                        "minSpecVersion": "1.14",
+                        "preferredColorScheme": "dark"
+                      }
+                    ],
+                    "hidden": true
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_866/storage/images/media2/images/p044-for0722-top-threats-graph-lm/244537-1-eng-US/p044-for0722-top-threats-graph-lm.png?q=100"
+                },
+                {
+                  "//": "======== IMAGE BLOCK - 487.0x344.0 ========",
+                  "role": "image",
+                  "layout": {
+                    "horizontalContentAlignment": "left",
+                    "margin": {
+                      "bottom": 15
+                    }
+                  },
+                  "conditional": {
+                    "conditions": [
+                      {
+                        "minSpecVersion": "1.14",
+                        "preferredColorScheme": "dark"
+                      }
+                    ],
+                    "hidden": false
+                  },
+                  "hidden": true,
+                  "URL": "https://public-assets.meredithcorp.io/14f5d0aef9884303fadf7f425f5d2a48/p044-FOR0722-top-threats-graph-DM.png"
+                }
+              ]
+            },
+            {
+              "role": "container",
+              "layout": "dividerStandardLayout",
+              "style": "dividerStandardStyle"
+            },
+            {
+              "//": "======== SINGLE BLOCK CONTAINER =======",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "style": "photoContainerStyle",
+              "components": [
+                {
+                  "role": "image",
+                  "layout": {
+                    "horizontalContentAlignment": "left",
+                    "maximumContentWidth": "10cw"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_866/storage/images/media2/images/p044-for0722-office-illustration/244516-1-eng-US/p044-for0722-office-illustration.png?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "noMarginLayout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Back to the Office"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>INTENDED RETURN-TO-WORK POLICY FOR THE COMING YEAR</lede>"
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLOCK - 487.0x344.0 ========",
+                  "role": "image",
+                  "layout": {
+                    "horizontalContentAlignment": "left",
+                    "margin": {
+                      "bottom": 15
+                    },
+                    "maximumContentWidth": "100cw"
+                  },
+                  "conditional": {
+                    "conditions": [
+                      {
+                        "minSpecVersion": "1.14",
+                        "preferredColorScheme": "dark"
+                      }
+                    ],
+                    "hidden": true
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_866/storage/images/media2/images/p044-for0722-back-to-office-graph-lm/244586-1-eng-US/p044-for0722-back-to-office-graph-lm.png?q=100"
+                },
+                {
+                  "//": "======== IMAGE BLOCK - 487.0x344.0 ========",
+                  "role": "image",
+                  "layout": {
+                    "horizontalContentAlignment": "left",
+                    "margin": {
+                      "bottom": 15
+                    },
+                    "maximumContentWidth": "100cw"
+                  },
+                  "conditional": {
+                    "conditions": [
+                      {
+                        "minSpecVersion": "1.14",
+                        "preferredColorScheme": "dark"
+                      }
+                    ],
+                    "hidden": false
+                  },
+                  "hidden": true,
+                  "URL": "https://public-assets.meredithcorp.io/aac86384121078451dcc1ee954c2d4b0/p044-FOR0722-back-to-office-graph-DM.png"
+                }
+              ]
+            },
+            {
+              "role": "container",
+              "layout": "dividerStandardLayout",
+              "style": "dividerStandardStyle"
+            },
+            {
+              "//": "======== SINGLE BLOCK CONTAINER =======",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "style": "photoContainerStyle",
+              "components": [
+                {
+                  "role": "image",
+                  "layout": {
+                    "horizontalContentAlignment": "left",
+                    "maximumContentWidth": "10cw"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_866/storage/images/media2/images/p044-for0722-controversy-illustration/244460-1-eng-US/p044-for0722-controversy-illustration.png?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "noMarginLayout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Coping With Controversy"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<ledes>SHOULD CEOs TAKE POSITIONS ON SOCIAL AND POLITICAL ISSUES?</ledes>"
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLOCK - 487.0x344.0 ========",
+                  "role": "image",
+                  "layout": {
+                    "horizontalContentAlignment": "left",
+                    "margin": {
+                      "bottom": 15
+                    },
+                    "maximumContentWidth": "100cw"
+                  },
+                  "conditional": {
+                    "conditions": [
+                      {
+                        "minSpecVersion": "1.14",
+                        "preferredColorScheme": "dark"
+                      }
+                    ],
+                    "hidden": true
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_866/storage/images/media2/images/p044-for0722-ceos-social-issues-graph-lm/244572-1-eng-US/p044-for0722-ceos-social-issues-graph-lm.png?q=100"
+                },
+                {
+                  "//": "======== IMAGE BLOCK - 487.0x344.0 ========",
+                  "role": "image",
+                  "layout": {
+                    "horizontalContentAlignment": "left",
+                    "margin": {
+                      "bottom": 15
+                    },
+                    "maximumContentWidth": "100cw"
+                  },
+                  "conditional": {
+                    "conditions": [
+                      {
+                        "minSpecVersion": "1.14",
+                        "preferredColorScheme": "dark"
+                      }
+                    ],
+                    "hidden": false
+                  },
+                  "hidden": true,
+                  "URL": "https://public-assets.meredithcorp.io/699d425c09ccb488d793791fe16d27f1/p044-FOR0722-ceos-social-issues-graph-DM.png"
+                }
+              ]
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>THE NEXT MOVE FOR COMPANIES INVOLVED WITH CHINA</lede>"
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLOCK - 487.0x344.0 ========",
+                  "role": "image",
+                  "layout": {
+                    "horizontalContentAlignment": "left",
+                    "margin": {
+                      "bottom": 15
+                    },
+                    "maximumContentWidth": "100cw"
+                  },
+                  "conditional": {
+                    "conditions": [
+                      {
+                        "minSpecVersion": "1.14",
+                        "preferredColorScheme": "dark"
+                      }
+                    ],
+                    "hidden": true
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_866/storage/images/media2/images/p044-for0722-next-move-graph-lm/244509-1-eng-US/p044-for0722-next-move-graph-lm.png?q=100"
+                },
+                {
+                  "//": "======== IMAGE BLOCK - 487.0x344.0 ========",
+                  "role": "image",
+                  "layout": {
+                    "horizontalContentAlignment": "left",
+                    "margin": {
+                      "bottom": 15
+                    },
+                    "maximumContentWidth": "100cw"
+                  },
+                  "conditional": {
+                    "conditions": [
+                      {
+                        "minSpecVersion": "1.14",
+                        "preferredColorScheme": "dark"
+                      }
+                    ],
+                    "hidden": false
+                  },
+                  "hidden": true,
+                  "URL": "https://public-assets.meredithcorp.io/f5ae1881cb2349f5fd69fa8ca426bd69/p044-FOR0722-next-move-graph-DM.png"
+                }
+              ]
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>COMPANIES’ RESPONSE TO RUSSIA’S INVASION OF UKRAINE</lede>"
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLOCK - 487.0x344.0 ========",
+                  "role": "image",
+                  "layout": {
+                    "horizontalContentAlignment": "left",
+                    "margin": {
+                      "bottom": 15
+                    },
+                    "maximumContentWidth": "100cw"
+                  },
+                  "conditional": {
+                    "conditions": [
+                      {
+                        "minSpecVersion": "1.14",
+                        "preferredColorScheme": "dark"
+                      }
+                    ],
+                    "hidden": true
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_866/storage/images/media2/images/p044-for0722-companies-response-graph-lm/244467-1-eng-US/p044-for0722-companies-response-graph-lm.png?q=100"
+                },
+                {
+                  "//": "======== IMAGE BLOCK - 487.0x344.0 ========",
+                  "role": "image",
+                  "layout": {
+                    "horizontalContentAlignment": "left",
+                    "margin": {
+                      "bottom": 15
+                    },
+                    "maximumContentWidth": "100cw"
+                  },
+                  "conditional": {
+                    "conditions": [
+                      {
+                        "minSpecVersion": "1.14",
+                        "preferredColorScheme": "dark"
+                      }
+                    ],
+                    "hidden": false
+                  },
+                  "hidden": true,
+                  "URL": "https://public-assets.meredithcorp.io/0d22a44e182df5fb9660d3102786777e/p044-FOR0722-companies-response-graph-DM.png"
+                }
+              ]
+            },
+            {
+              "role": "container",
+              "layout": "dividerStandardLayout",
+              "style": "dividerStandardStyle"
+            },
+            {
+              "//": "======== SINGLE BLOCK CONTAINER =======",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "style": "photoContainerStyle",
+              "components": [
+                {
+                  "role": "image",
+                  "layout": {
+                    "horizontalContentAlignment": "left",
+                    "maximumContentWidth": "10cw"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_866/storage/images/media2/images/p044-for0722-door-illustration2/244551-1-eng-US/p044-for0722-door-illustration.png?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "noMarginLayout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "The Great Resignation"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>TACTICS USED TO MITIGATE IT</lede>"
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLOCK - 487.0x344.0 ========",
+                  "role": "image",
+                  "layout": {
+                    "horizontalContentAlignment": "left",
+                    "margin": {
+                      "bottom": 15
+                    },
+                    "maximumContentWidth": "100cw"
+                  },
+                  "conditional": {
+                    "conditions": [
+                      {
+                        "minSpecVersion": "1.14",
+                        "preferredColorScheme": "dark"
+                      }
+                    ],
+                    "hidden": true
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_866/storage/images/media2/images/p044-for0722-great-resignation-graph-lm2/244544-1-eng-US/p044-for0722-great-resignation-graph-lm.png?q=100"
+                },
+                {
+                  "//": "======== IMAGE BLOCK - 487.0x344.0 ========",
+                  "role": "image",
+                  "layout": {
+                    "horizontalContentAlignment": "left",
+                    "margin": {
+                      "bottom": 15
+                    },
+                    "maximumContentWidth": "100cw"
+                  },
+                  "conditional": {
+                    "conditions": [
+                      {
+                        "minSpecVersion": "1.14",
+                        "preferredColorScheme": "dark"
+                      }
+                    ],
+                    "hidden": false
+                  },
+                  "hidden": true,
+                  "URL": "https://public-assets.meredithcorp.io/6dbf630cb408c091c136bd1d403bb856/p044-FOR0722-great-resignation-graph-DM.png"
+                }
+              ]
+            },
+            {
+              "role": "container",
+              "layout": "dividerStandardLayout",
+              "style": "dividerStandardStyle"
+            },
+            {
+              "//": "======== SINGLE BLOCK CONTAINER =======",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "style": "photoContainerStyle",
+              "components": [
+                {
+                  "role": "image",
+                  "layout": {
+                    "horizontalContentAlignment": "left",
+                    "maximumContentWidth": "10cw"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_866/storage/images/media2/images/p044-for0722-heart-illustration/244488-1-eng-US/p044-for0722-heart-illustration.png?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "noMarginLayout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "<color>Returns Versus Respect</color>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede><underline>MOST ADMIRED FORTUNE 500 CEOs</underline></lede>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyNoMarginAboveLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>NO. 1: <color>JAMIE DIMON</red></color>"
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1784.0/W1366.0 * 100 = 130.6002928 ========",
+                  "role": "image",
+                  "layout": {
+                    "maximumContentWidth": "40cw"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_866/storage/images/media2/images/p044-for0722-jamie-dimon-illustration/244495-1-eng-US/p044-for0722-jamie-dimon-illustration.png?q=100"
+                }
+              ]
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>NO. 2: <color>SATYA NADELLA</color></lede>"
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1784.0/W1366.0 * 100 = 130.6002928 ========",
+                  "role": "image",
+                  "layout": {
+                    "maximumContentWidth": "40cw"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_866/storage/images/media2/images/p044-for0722-satya-nadella-illustration/244523-1-eng-US/p044-for0722-satya-nadella-illustration.png?q=100"
+                }
+              ]
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>NO. 3: <color>TIM COOK<color></lede>"
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1784.0/W1366.0 * 100 = 130.6002928 ========",
+                  "role": "image",
+                  "layout": {
+                    "maximumContentWidth": "40cw"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_866/storage/images/media2/images/p044-for0722-tim-cook-illustration/244530-1-eng-US/p044-for0722-tim-cook-illustration.png?q=100"
+                }
+              ]
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede><underline>CEOs’ TOP STOCK PICKS</underline></lede>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyNoMarginAboveLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>NO. 1 <color>APPLE</color></lede>"
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1784.0/W1366.0 * 100 = 130.6002928 ========",
+                  "role": "image",
+                  "layout": {
+                    "maximumContentWidth": "40cw"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_866/storage/images/media2/images/p044-for0722-apple-logo/244592-1-eng-US/p044-for0722-apple-logo.png?q=100"
+                }
+              ]
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>NO.2 <color>MICROSOFT</color><lede>"
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1784.0/W1366.0 * 100 = 130.6002928 ========",
+                  "role": "image",
+                  "layout": {
+                    "maximumContentWidth": "40cw"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_866/storage/images/media2/images/p044-for0722-microsoft-logo/244502-1-eng-US/p044-for0722-microsoft-logo.png?q=100"
+                }
+              ]
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>NO. 3 <color>AMAZON</color></lede>"
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1784.0/W1366.0 * 100 = 130.6002928 ========",
+                  "role": "image",
+                  "layout": {
+                    "maximumContentWidth": "40cw"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_866/storage/images/media2/images/p044-for0722-amazon-logo/244577-1-eng-US/p044-for0722-amazon-logo.png?q=100"
+                }
+              ]
+            },
+            {
+              "role": "container",
+              "layout": "dividerStandardLayout",
+              "style": "dividerStandardStyle"
+            },
+            {
+              "//": "======== SINGLE BLOCK CONTAINER =======",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "style": "photoContainerStyle",
+              "components": [
+                {
+                  "role": "image",
+                  "layout": {
+                    "horizontalContentAlignment": "left",
+                    "maximumContentWidth": "10cw"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_866/storage/images/media2/images/p044-for0722-green-transition-illustration/244481-1-eng-US/p044-for0722-green-transition-illustration.png?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading3",
+              "layout": "noMarginLayout",
+              "textStyle": "heading3TextStyle",
+              "format": "html",
+              "text": "The Green Transition"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>TOP RISKS IN THE TRANSITION TO A LOW-CARBON ECONOMY OVER THE NEXT DECADE*</lede>"
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLOCK - 487.0x344.0 ========",
+                  "role": "photo",
+                  "layout": {
+                    "horizontalContentAlignment": "left",
+                    "margin": {
+                      "bottom": 15
+                    },
+                    "maximumContentWidth": "100cw"
+                  },
+                  "conditional": {
+                    "conditions": [
+                      {
+                        "minSpecVersion": "1.14",
+                        "preferredColorScheme": "dark"
+                      }
+                    ],
+                    "hidden": true
+                  },
+                  "URL": "https://public-assets.meredithcorp.io/6911d382ed700ee07b7691346af67991/p044-for0722-green-transition-graph-lm.png"
+                },
+                {
+                  "//": "======== IMAGE BLOCK - 487.0x344.0 ========",
+                  "role": "photo",
+                  "layout": {
+                    "horizontalContentAlignment": "left",
+                    "margin": {
+                      "bottom": 15
+                    },
+                    "maximumContentWidth": "100cw"
+                  },
+                  "conditional": {
+                    "conditions": [
+                      {
+                        "minSpecVersion": "1.14",
+                        "preferredColorScheme": "dark"
+                      }
+                    ],
+                    "hidden": false
+                  },
+                  "hidden": true,
+                  "URL": "https://public-assets.meredithcorp.io/ff1186f4777efc47470079d060b5c855/p044-FOR0722-green-transition-graph-DM.png"
+                }
+              ]
+            },
+            {
+              "role": "body",
+              "layout": "attributeLayout",
+              "textStyle": "sourceTextStyle",
+              "format": "html",
+              "text": "poll conducted May 2–16<br>* question provided by Zurich North America insurance"
+            }
+          ]
+        },
+        {
+          "role": "container",
+          "layout": "bodyContainerLayout",
+          "conditional": [
+            {
+              "conditions": [
+                {
+                  "viewLocation": "article"
+                }
+              ],
+              "hidden": false
+            }
+          ],
+          "hidden": true,
+          "components": [
+            {
+              "role": "container",
+              "layout": "dividerLayout",
+              "style": "dividerSectionHeadStyle"
+            },
+            {
+              "//": "=== VISIT TOC LINK, ONLY VISIBLE IF USER IS IN ARTICLE VIEW ===",
+              "role": "body",
+              "layout": "bodyLayout",
+              "textStyle": "tocTextStyle",
+              "format": "html",
+              "text": "<a href='https://apple.news/Ae4H0s5PTS7CgrYNFNT5RLg'>Tap here</a> to see more from this issue of <i>FORTUNE</i>"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "componentLayouts": {
+    "attributeLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 15
+    },
+    "authorLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 5
+      }
+    },
+    "blockContainerLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "bodyAltContainerLayout": {
+      "ignoreViewportPadding": true,
+      "margin": 10
+    },
+    "bodyContainerLayout": {
+      "ignoreDocumentMargin": "both",
+      "ignoreViewportPadding": "both",
+      "margin": 10
+    },
+    "bodyLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 7
+    },
+    "bodyNoMarginAboveLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 7
+      }
+    },
+    "bottomPhotoDividerLayout": {
+      "//": "UNUSED"
+    },
+    "buttonContainerLayout": {
+      "conditional": [
+        {
+          "//": "===== IPAD CONDITIONAL =====",
+          "conditions": [
+            {
+              "minViewportWidth": 700
+            }
+          ],
+          "padding": {
+            "bottom": 0,
+            "left": 0,
+            "right": "80cw",
+            "top": 5
+          }
+        }
+      ],
+      "padding": {
+        "bottom": 0,
+        "left": 0,
+        "right": "65cw",
+        "top": 0
+      }
+    },
+    "buttonLayout": {
+      "padding": 7
+    },
+    "calloutBodyLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 5
+      }
+    },
+    "calloutHeadingLayout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "calloutLayout": {
+      "columnSpan": 16,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "padding": {
+        "bottom": 10,
+        "left": 20,
+        "right": 20,
+        "top": 10
+      }
+    },
+    "captionAdLayout": {
+      "//": "UNUSED"
+    },
+    "captionLayout": {
+      "margin": 8
+    },
+    "captionUserInstructionLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "top": 8
+      },
+      "padding": {
+        "left": 20,
+        "top": 5
+      }
+    },
+    "collectionLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "darkModePaddingLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "padding": 10
+        }
+      ]
+    },
+    "dividerCollectionLayout": {
+      "//": "UNUSED"
+    },
+    "dividerLayout": {
+      "ignoreDocumentMargin": "both",
+      "ignoreViewportPadding": "both",
+      "margin": 10
+    },
+    "dividerStandardLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "minimumHeight": 1
+    },
+    "dividerTocLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 15,
+        "top": 20
+      },
+      "minimumHeight": 10
+    },
+    "firstDropCapImageLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 500
+            }
+          ],
+          "horizontalContentAlignment": "left",
+          "maximumContentWidth": 375
+        }
+      ],
+      "margin": {
+        "bottom": 5,
+        "top": 10
+      }
+    },
+    "floatContainerLayout": {
+      "columnSpan": 4,
+      "columnStart": 1,
+      "conditional": [
+        {
+          "columnSpan": 4,
+          "columnStart": 0,
+          "conditions": [
+            {
+              "maxViewportWidth": 415
+            }
+          ]
+        }
+      ],
+      "maximumContentWidth": 200
+    },
+    "fullBleedContainerLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "fullBleedDividerLayout": {
+      "//": "UNUSED"
+    },
+    "fullBleedLayout": {
+      "ignoreDocumentMargin": true
+    },
+    "fullBleedPhotoLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 700
+            }
+          ],
+          "ignoreDocumentMargin": false
+        }
+      ],
+      "ignoreDocumentMargin": true
+    },
+    "galleryPhotoLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "heading2Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 20
+      }
+    },
+    "heading3Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading4Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading5Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading6Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heroImageLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 15
+      }
+    },
+    "heroImageTallLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 15
+      }
+    },
+    "introLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 3,
+        "top": 3
+      }
+    },
+    "jobTitleLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 3,
+        "top": 0
+      }
+    },
+    "noMarginLayout": {
+      "columnSpan": 18,
+      "columnStart": 1
+    },
+    "numbersContainerLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "padding": {
+        "bottom": 10
+      }
+    },
+    "numbersHeadingLayout": {
+      "margin": {
+        "bottom": 0,
+        "left": 0,
+        "right": 0,
+        "top": 5
+      }
+    },
+    "productImageStandardLayout": {
+      "minimumHeight": 280
+    },
+    "pullQuoteLayout": {
+      "columnSpan": 16,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 10,
+        "left": 20,
+        "right": 20,
+        "top": 10
+      },
+      "padding": {
+        "bottom": 10,
+        "top": 10
+      }
+    },
+    "pullQuoteLayout2": {
+      "columnSpan": 16,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 10,
+        "left": 20,
+        "right": 20,
+        "top": 10
+      },
+      "padding": {
+        "bottom": 10,
+        "top": 10
+      }
+    },
+    "questionLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 0,
+        "left": 7,
+        "right": 7,
+        "top": 7
+      }
+    },
+    "sectionLayout": {
+      "margin": {
+        "top": 5
+      }
+    },
+    "sidebarBodyContainerLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 0,
+        "left": 0,
+        "right": 0,
+        "top": 0
+      },
+      "padding": {
+        "bottom": 10,
+        "left": 0,
+        "right": 0,
+        "top": 0
+      }
+    },
+    "sidebarBodyLayout": {
+      "margin": 10
+    },
+    "sidebarBodyNoMarginAboveLayout": {
+      "margin": {
+        "bottom": 10
+      }
+    },
+    "sidebarBodyNoMarginLayout": {
+      "margin": {
+        "bottom": 0,
+        "top": 0
+      }
+    },
+    "sidebarDividerLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "minimumHeight": 1
+    },
+    "sidebarFloatContainerLayout": {
+      "columnSpan": 4,
+      "columnStart": 0
+    },
+    "sidebarHeading2Layout": {
+      "margin": {
+        "top": 20
+      }
+    },
+    "sidebarHeading3Layout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "sidebarHeading4Layout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "sidebarHeadingNoMarginAboveLayout": {
+      "margin": {
+        "top": 0
+      }
+    },
+    "sidebarHedLayout": {
+      "margin": 0
+    },
+    "sidebarIntroLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 5
+      }
+    },
+    "sidebarLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "padding": {
+        "bottom": 10
+      }
+    },
+    "sidebarSingleBlockContainerLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "sidebarSmallMarginAboveLayout": {
+      "margin": {
+        "top": 2
+      }
+    },
+    "sidebarStatLayout": {
+      "columnSpan": 18,
+      "columnStart": 0,
+      "margin": {
+        "bottom": 10,
+        "top": 10
+      }
+    },
+    "sidebarStraplineLayout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "singleBlockContainerLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "smallMarginAboveLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 2
+      }
+    },
+    "spacerLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "straplineLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "subtitleLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 0
+      }
+    },
+    "titleLayout": {
+      "columnSpan": 18,
+      "columnStart": 1
+    },
+    "topDividerLayout": {
+      "ignoreDocumentMargin": "both",
+      "ignoreViewportPadding": "both",
+      "margin": {
+        "bottom": 20,
+        "top": 7
+      }
+    },
+    "topPhotoDividerLayout": {
+      "//": "UNUSED"
+    }
+  },
+  "componentStyles": {
+    "attributeStyle": {
+      "//": "UNUSED"
+    },
+    "authorStyle": {
+      "//": "UNUSED"
+    },
+    "bodyContainerStyle": {
+      "//": "UNUSED"
+    },
+    "buttonStyle": {
+      "border": {
+        "all": {
+          "color": "#db3832",
+          "possibleColors": {
+            "blue": "#4289ab",
+            "gold": "#847336",
+            "grey": "#59595b",
+            "red": "#db3832",
+            "seafoamGreen": "#94b9b6",
+            "yellow": "#fdb913"
+          },
+          "width": 2
+        }
+      },
+      "conditional": [
+        {
+          "border": {
+            "all": {
+              "color": "lightpink",
+              "possibleColors": {
+                "blue": "#4289ab",
+                "gold": "#847336",
+                "grey": "#59595b",
+                "red": "#db3832",
+                "seafoamGreen": "#94b9b6",
+                "yellow": "#fdb913"
+              },
+              "width": 2
+            }
+          },
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "calloutStyle": {
+      "border": {
+        "all": {
+          "color": "#db3832",
+          "possibleColors": {
+            "blue": "#4289ab",
+            "gold": "#847336",
+            "grey": "#59595b",
+            "red": "#db3832",
+            "seafoamGreen": "#94b9b6",
+            "yellow": "#fdb913"
+          },
+          "width": 5
+        }
+      },
+      "conditional": [
+        {
+          "border": {
+            "all": {
+              "color": "lightpink",
+              "possibleColors": {
+                "blue": "#4289ab",
+                "gold": "#847336",
+                "grey": "#59595b",
+                "red": "#db3832",
+                "seafoamGreen": "#94b9b6",
+                "yellow": "#fdb913"
+              },
+              "width": 5
+            }
+          },
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "captionAdStyle": {
+      "//": "UNUSED"
+    },
+    "captionUserInstructionStyle": {
+      "border": {
+        "all": {
+          "color": "#ececec",
+          "width": 1
+        },
+        "bottom": false,
+        "left": false,
+        "right": false
+      }
+    },
+    "darkModeBackgroundStyle": {
+      "conditional": [
+        {
+          "backgroundColor": "#FFF",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "darkModeBorderStyle": {
+      "border": {
+        "all": {
+          "color": "#db3832",
+          "width": 2
+        }
+      },
+      "conditional": [
+        {
+          "backgroundColor": "#fff",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "dividerSectionHeadStyle": {
+      "border": {
+        "all": {
+          "color": "#59595b",
+          "width": 1
+        },
+        "bottom": true,
+        "left": false,
+        "right": false,
+        "top": false
+      },
+      "conditional": [
+        {
+          "border": {
+            "all": {
+              "color": "#666666",
+              "width": 1
+            },
+            "bottom": true,
+            "left": false,
+            "right": false,
+            "top": false
+          },
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "dividerStandardStyle": {
+      "backgroundColor": "#000"
+    },
+    "dividerTocStyle": {
+      "//": "UNUSED"
+    },
+    "fullBleedContainerStyle": {
+      "//": "UNUSED"
+    },
+    "heading2Style": {
+      "//": "UNUSED"
+    },
+    "heading3Style": {
+      "//": "UNUSED"
+    },
+    "heading4Style": {
+      "//": "UNUSED"
+    },
+    "heading5Style": {
+      "//": "UNUSED"
+    },
+    "heading6Style": {
+      "//": "UNUSED"
+    },
+    "introStyle": {
+      "//": "UNUSED"
+    },
+    "numbersContainerStyle": {
+      "border": {
+        "all": {
+          "color": "gainsboro",
+          "width": 20
+        },
+        "left": false,
+        "right": false,
+        "top": false
+      }
+    },
+    "paragraphDropCapStyle": {
+      "//": "UNUSED"
+    },
+    "paragraphStyle": {
+      "//": "UNUSED"
+    },
+    "photoContainerStyle": {
+      "//": "UNUSED"
+    },
+    "pullQuoteStyle": {
+      "//": "UNUSED"
+    },
+    "sectionStyle": {
+      "//": "UNUSED"
+    },
+    "sidebarContainerStyle": {
+      "border": {
+        "all": {
+          "color": "#db3832",
+          "possibleColors": {
+            "blue": "#4289ab",
+            "gold": "#847336",
+            "grey": "#59595b",
+            "red": "#db3832",
+            "seafoamGreen": "#94b9b6",
+            "yellow": "#fdb913"
+          },
+          "width": 5
+        },
+        "left": false,
+        "right": false
+      },
+      "conditional": [
+        {
+          "border": {
+            "all": {
+              "color": "lightpink",
+              "possibleColors": {
+                "blue": "#4289ab",
+                "gold": "#847336",
+                "grey": "#59595b",
+                "red": "#db3832",
+                "seafoamGreen": "#94b9b6",
+                "yellow": "#fdb913"
+              },
+              "width": 5
+            },
+            "left": false,
+            "right": false
+          },
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "sidebarStyle": {
+      "border": {
+        "all": {
+          "color": "#db3832",
+          "possibleColors": {
+            "blue": "#4289ab",
+            "gold": "#847336",
+            "grey": "#59595b",
+            "red": "#db3832",
+            "seafoamGreen": "#94b9b6",
+            "yellow": "#fdb913"
+          },
+          "width": 5
+        },
+        "left": false,
+        "right": false
+      },
+      "conditional": [
+        {
+          "border": {
+            "all": {
+              "color": "lightpink",
+              "possibleColors": {
+                "blue": "#4289ab",
+                "gold": "#847336",
+                "grey": "#59595b",
+                "red": "#db3832",
+                "seafoamGreen": "#94b9b6",
+                "yellow": "#fdb913"
+              },
+              "width": 5
+            },
+            "left": false,
+            "right": false
+          },
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "statStyle": {
+      "border": {
+        "all": {
+          "color": "#000",
+          "width": 2
+        }
+      }
+    },
+    "straplineStyle": {
+      "//": "UNUSED"
+    },
+    "titleStyle": {
+      "//": "UNUSED"
+    }
+  },
+  "textStyles": {
+    "creditTextStyle": {
+      "//": "UNUSED"
+    },
+    "default-tag-author": {
+      "fontName": "Barlow-Bold",
+      "fontSize": 14,
+      "textColor": "#000",
+      "textTransform": "uppercase"
+    },
+    "default-tag-caption-credit": {
+      "fontName": "BarlowSemiCondensed-Medium",
+      "fontSize": 12,
+      "textTransform": "uppercase",
+      "tracking": 0.05
+    },
+    "default-tag-caption-heading": {
+      "fontName": "Barlow-ExtraBold",
+      "textTransform": "uppercase"
+    },
+    "default-tag-color": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "textColor": "#db3832"
+        }
+      ],
+      "possibleColors": {
+        "blue": "#4289ab",
+        "gold": "#847336",
+        "grey": "#59595b",
+        "red": "#db3832",
+        "seafoamGreen": "#94b9b6",
+        "yellow": "#fdb913"
+      },
+      "textColor": "#db3832"
+    },
+    "default-tag-emoji": {
+      "fontName": "AppleColorEmoji"
+    },
+    "default-tag-lede": {
+      "fontName": "Barlow-ExtraBold",
+      "tracking": 0.1
+    },
+    "default-tag-ledes": {
+      "fontName": "Barlow-ExtraBold",
+      "textTransform": "smallcaps",
+      "tracking": 0.1
+    },
+    "default-tag-pullquote-attribution": {
+      "fontName": "Barlow-Medium",
+      "fontSize": 16,
+      "textColor": "#000",
+      "textTransform": "capitalize"
+    },
+    "default-tag-sidebar-lede": {
+      "fontName": "Barlow-Black",
+      "textColor": "#000"
+    },
+    "default-tag-subsection": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "textColor": "#db3832"
+        }
+      ],
+      "fontName": "BarlowCondensed-ExtraBold",
+      "possibleColors": {
+        "blue": "#4289ab",
+        "gold": "#847336",
+        "grey": "#59595b",
+        "red": "#db3832",
+        "seafoamGreen": "#94b9b6",
+        "yellow": "#fdb913"
+      },
+      "textColor": "#db3832",
+      "textTransform": "uppercase",
+      "tracking": 0.16
+    },
+    "default-tag-underline": {
+      "underline": true
+    },
+    "defaut-tag-italic": {
+      "fontName": "Palatino-Italic"
+    },
+    "endMarkerTextStyle": {
+      "//": "UNUSED"
+    },
+    "subSectionTextStyle": {
+      "//": "UNUSED"
+    }
+  },
+  "componentTextStyles": {
+    "//": {
+      "//": "================ FORTUNE OVERRIDES ================"
+    },
+    "attributeTextStyle": {
+      "fontName": "RobotoMono-Regular",
+      "fontSize": 10,
+      "lineHeight": 12,
+      "textTransform": "uppercase",
+      "tracking": 0.05
+    },
+    "authorTextStyle": {
+      "fontName": "Barlow-Bold",
+      "fontSize": 14,
+      "textTransform": "uppercase"
+    },
+    "bodyCenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "bodyDropCapSansTextStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "dropCapStyle": {
+            "fontName": "BarlowCondensed-Bold",
+            "numberOfCharacters": 1,
+            "numberOfLines": 4,
+            "numberOfRaisedLines": 0,
+            "padding": 0,
+            "textColor": "#fff"
+          },
+          "linkStyle": {
+            "possibleColors": {
+              "blue": "#4289ab",
+              "gold": "#847336",
+              "grey": "#59595b",
+              "red": "#db3832",
+              "seafoamGreen": "#94b9b6",
+              "yellow": "#fdb913"
+            },
+            "textColor": "lightpink",
+            "underline": true
+          }
+        }
+      ],
+      "dropCapStyle": {
+        "fontName": "BarlowCondensed-Bold",
+        "numberOfCharacters": 1,
+        "numberOfLines": 4,
+        "numberOfRaisedLines": 0,
+        "padding": 0,
+        "textColor": "#000"
+      },
+      "fontName": "Palatino-Roman",
+      "linkStyle": {
+        "possibleColors": {
+          "blue": "#4289ab",
+          "gold": "#847336",
+          "grey": "#59595b",
+          "red": "#db3832",
+          "seafoamGreen": "#94b9b6",
+          "yellow": "#fdb913"
+        },
+        "textColor": "#db3832",
+        "underline": true
+      }
+    },
+    "bodyDropCapSerifTextStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "dropCapStyle": {
+            "fontName": "BodoniSvtyTwoOSITCTT-Bold",
+            "numberOfCharacters": 1,
+            "numberOfLines": 4,
+            "numberOfRaisedLines": 0,
+            "padding": 0,
+            "textColor": "#fff"
+          },
+          "linkStyle": {
+            "possibleColors": {
+              "blue": "#4289ab",
+              "gold": "#847336",
+              "grey": "#59595b",
+              "red": "#db3832",
+              "seafoamGreen": "#94b9b6",
+              "yellow": "#fdb913"
+            },
+            "textColor": "lightpink",
+            "underline": true
+          }
+        }
+      ],
+      "dropCapStyle": {
+        "fontName": "BodoniSvtyTwoOSITCTT-Bold",
+        "numberOfCharacters": 1,
+        "numberOfLines": 4,
+        "numberOfRaisedLines": 0,
+        "padding": 0,
+        "textColor": "#000"
+      },
+      "fontName": "Palatino-Roman",
+      "linkStyle": {
+        "possibleColors": {
+          "blue": "#4289ab",
+          "gold": "#847336",
+          "grey": "#59595b",
+          "red": "#db3832",
+          "seafoamGreen": "#94b9b6",
+          "yellow": "#fdb913"
+        },
+        "textColor": "#db3832",
+        "underline": true
+      }
+    },
+    "bodyDropCapTextStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "dropCapStyle": {
+            "fontName": "BarlowCondensed-Bold",
+            "numberOfCharacters": 1,
+            "numberOfLines": 4,
+            "numberOfRaisedLines": 0,
+            "padding": 0,
+            "textColor": "#fff"
+          },
+          "linkStyle": {
+            "textColor": "lightpink",
+            "underline": true
+          }
+        }
+      ],
+      "dropCapStyle": {
+        "fontName": "BarlowCondensed-Bold",
+        "numberOfCharacters": 1,
+        "numberOfLines": 4,
+        "numberOfRaisedLines": 0,
+        "padding": 0,
+        "textColor": "#000"
+      },
+      "fontName": "Palatino-Roman",
+      "linkStyle": {
+        "textColor": "#db3832",
+        "underline": true
+      }
+    },
+    "bodyTextStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "linkStyle": {
+            "possibleColors": {
+              "blue": "#4289ab",
+              "gold": "#847336",
+              "grey": "#59595b",
+              "red": "#db3832",
+              "seafoamGreen": "#94b9b6",
+              "yellow": "#fdb913"
+            },
+            "textColor": "lightpink",
+            "underline": true
+          }
+        }
+      ],
+      "fontName": "Palatino-Roman",
+      "linkStyle": {
+        "possibleColors": {
+          "blue": "#4289ab",
+          "gold": "#847336",
+          "grey": "#59595b",
+          "red": "#db3832",
+          "seafoamGreen": "#94b9b6",
+          "yellow": "#fdb913"
+        },
+        "textColor": "#db3832",
+        "underline": true
+      }
+    },
+    "calloutBodyTextStyle": {
+      "fontName": "Barlow-Regular",
+      "fontSize": 16,
+      "lineHeight": 20,
+      "textAlignment": "center"
+    },
+    "calloutHeadingTextStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "textColor": "lightpink"
+        }
+      ],
+      "fontName": "BarlowSemiCondensed-Bold",
+      "fontSize": 19,
+      "lineHeight": 21,
+      "possibleColors": {
+        "blue": "#4289ab",
+        "gold": "#847336",
+        "grey": "#59595b",
+        "red": "#db3832",
+        "seafoamGreen": "#94b9b6",
+        "yellow": "#fdb913"
+      },
+      "textAlignment": "center",
+      "textColor": "lightpink",
+      "textTransform": "uppercase"
+    },
+    "captionAdTextStyle": {
+      "//": "UNUSED"
+    },
+    "captionCenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "captionEmbeddedTextStyle": {
+      "fontName": "HelveticaNeue",
+      "lineHeight": 16
+    },
+    "captionTextStyle": {
+      "fontName": "Barlow-Bold",
+      "textColor": "#59595b",
+      "tracking": 0.02
+    },
+    "captionUserInstructionTextStyle": {
+      "fontName": "BarlowSemiCondensed-LightItalic"
+    },
+    "categoryTextStyle": {
+      "fontName": "Palatino-Bold",
+      "lineHeight": 25,
+      "textTransform": "uppercase",
+      "tracking": 0.07,
+      "underline": {
+        "color": "#000"
+      }
+    },
+    "default": {
+      "fontName": "Barlow-Black",
+      "hyphenation": false,
+      "linkStyle": {
+        "textColor": "#366a9b"
+      },
+      "textColor": "#000"
+    },
+    "default-author": {
+      "fontName": "Barlow-Medium",
+      "fontSize": 15,
+      "lineHeight": 19
+    },
+    "default-body": {
+      "fontSize": 16,
+      "lineHeight": 20,
+      "paragraphSpacingAfter": 12,
+      "paragraphSpacingBefore": 12
+    },
+    "default-byline": {
+      "//": "UNUSED"
+    },
+    "default-caption": {
+      "fontName": "Avenir-Book",
+      "fontSize": 14,
+      "lineHeight": 16
+    },
+    "default-heading": {
+      "fontSize": 16,
+      "lineHeight": 16
+    },
+    "default-heading2": {
+      "fontSize": 35,
+      "lineHeight": 40
+    },
+    "default-heading3": {
+      "fontSize": 24,
+      "lineHeight": 26
+    },
+    "default-heading4": {
+      "fontSize": 20,
+      "lineHeight": 22
+    },
+    "default-heading5": {
+      "fontSize": 18,
+      "lineHeight": 20
+    },
+    "default-heading6": {
+      "fontSize": 18,
+      "lineHeight": 20
+    },
+    "default-intro": {
+      "fontName": "Barlow-Medium",
+      "fontSize": 20,
+      "lineHeight": 22
+    },
+    "default-photographer": {
+      "//": "UNUSED"
+    },
+    "default-pullquote": {
+      "fontSize": 32,
+      "lineHeight": 35
+    },
+    "default-title": {
+      "fontName": "Barlow-ExtraBold",
+      "fontSize": 60,
+      "lineHeight": 56
+    },
+    "floatImageCaptionTextStyle": {
+      "fontName": "Barlow-Bold",
+      "textColor": "#59595b",
+      "tracking": 0.02
+    },
+    "heading2CenteredTextStyle": {
+      "textAlignment": "center",
+      "textTransform": "uppercase"
+    },
+    "heading2TextStyle": {
+      "textTransform": "uppercase"
+    },
+    "heading3CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading3TextStyle": {
+      "fontName": "Barlow-Black",
+      "textTransform": "uppercase"
+    },
+    "heading4CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading4TextStyle": {
+      "fontName": "Barlow-Bold"
+    },
+    "heading5CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading5TextStyle": {
+      "fontName": "Barlow-Bold"
+    },
+    "heading6CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading6TextStyle": {
+      "fontName": "Barlow-Bold",
+      "textTransform": "uppercase"
+    },
+    "introTextStyle": {
+      "//": "THE BRIEF and MINI FEATURE",
+      "fontName": "Barlow-Medium",
+      "textColor": "#59595b"
+    },
+    "introTextStyle3": {
+      "//": "THE BIG IDEA",
+      "fontName": "BodoniSvtyTwoOSITCTT-Book",
+      "fontSize": 20,
+      "lineHeight": 24,
+      "tracking": 0.02
+    },
+    "jobTitleTextStyle": {
+      "fontName": "Didot",
+      "fontSize": 20,
+      "lineHeight": 24,
+      "textTransform": "uppercase",
+      "tracking": 0.02
+    },
+    "numbersBodyTextStyle": {
+      "fontName": "Barlow-Bold",
+      "fontSize": 18,
+      "lineHeight": 18
+    },
+    "numbersStraplineTextStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "textColor": "lightpink"
+        }
+      ],
+      "fontName": "BarlowCondensed-Bold",
+      "fontSize": 18,
+      "lineHeight": 18,
+      "possibleColors": {
+        "blue": "#4289ab",
+        "gold": "#847336",
+        "grey": "#59595b",
+        "red": "#db3832",
+        "seafoamGreen": "#94b9b6",
+        "yellow": "#fdb913"
+      },
+      "textAlignment": "center",
+      "textColor": "lightpink",
+      "textTransform": "uppercase",
+      "tracking": 0.01
+    },
+    "numbersTextStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "textColor": "#db3832"
+        }
+      ],
+      "fontName": "BarlowCondensed-Black",
+      "fontSize": 85,
+      "lineHeight": 60,
+      "possibleColors": {
+        "blue": "#4289ab",
+        "gold": "#847336",
+        "grey": "#59595b",
+        "red": "#db3832",
+        "seafoamGreen": "#94b9b6",
+        "yellow": "#fdb913"
+      },
+      "textColor": "#db3832",
+      "textTransform": "uppercase"
+    },
+    "pullQuoteSansTextStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "textColor": "lightpink"
+        }
+      ],
+      "fontName": "Barlow-Black",
+      "fontSize": 32,
+      "lineHeight": 34,
+      "possibleColors": {
+        "blue": "#4289ab",
+        "gold": "#847336",
+        "grey": "#59595b",
+        "red": "#db3832",
+        "seafoamGreen": "#94b9b6",
+        "yellow": "#fdb913"
+      },
+      "textColor": "lightpink"
+    },
+    "pullQuoteSerifTextStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "textColor": "lightpink"
+        }
+      ],
+      "fontName": "BodoniSvtyTwoOSITCTT-Bold",
+      "fontSize": 40,
+      "lineHeight": 40,
+      "possibleColors": {
+        "blue": "#4289ab",
+        "gold": "#847336",
+        "grey": "#59595b",
+        "red": "#db3832",
+        "seafoamGreen": "#94b9b6",
+        "yellow": "#fdb913"
+      },
+      "textColor": "lightpink"
+    },
+    "pullQuoteTextStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "textColor": "lightpink"
+        }
+      ],
+      "fontName": "Barlow-Black",
+      "fontSize": 32,
+      "lineHeight": 34,
+      "possibleColors": {
+        "blue": "#4289ab",
+        "gold": "#847336",
+        "grey": "#59595b",
+        "red": "#db3832",
+        "seafoamGreen": "#94b9b6",
+        "yellow": "#fdb913"
+      },
+      "textColor": "lightpink"
+    },
+    "questionTextStyle": {
+      "fontName": "Barlow-Bold",
+      "lineHeight": 20
+    },
+    "sectionTextStyle": {
+      "fontName": "BarlowCondensed-Light",
+      "textTransform": "uppercase",
+      "tracking": 0.14
+    },
+    "sidebarBodyTextStyle": {
+      "fontName": "Barlow-Bold",
+      "textColor": "#000"
+    },
+    "sidebarHeading2TextStyle": {
+      "fontName": "BarlowCondensed-Medium",
+      "fontSize": 38,
+      "lineHeight": 40,
+      "textTransform": "uppercase"
+    },
+    "sidebarHeading3TextStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "textColor": "lightpink"
+        }
+      ],
+      "fontSize": 19,
+      "lineHeight": 21,
+      "possibleColors": {
+        "blue": "#4289ab",
+        "gold": "#847336",
+        "grey": "#59595b",
+        "red": "#db3832",
+        "seafoamGreen": "#94b9b6",
+        "yellow": "#fdb913"
+      },
+      "textColor": "lightpink",
+      "textTransform": "uppercase"
+    },
+    "sidebarHeading4TextStyle": {
+      "fontName": "Barlow-Black",
+      "fontSize": 18,
+      "lineHeight": 20,
+      "textColor": "#000"
+    },
+    "sidebarHedTextStyle": {
+      "//": "THE CONVERSATION",
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "textColor": "lightpink"
+        }
+      ],
+      "fontName": "BarlowSemiCondensed-Medium",
+      "fontSize": 38,
+      "lineHeight": 40,
+      "possibleColors": {
+        "blue": "#4289ab",
+        "gold": "#847336",
+        "grey": "#59595b",
+        "red": "#db3832",
+        "seafoamGreen": "#94b9b6",
+        "yellow": "#fdb913"
+      },
+      "textColor": "lightpink",
+      "textTransform": "uppercase",
+      "tracking": 0.06
+    },
+    "sidebarIntroTextStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "textColor": "lightpink"
+        }
+      ],
+      "fontName": "Barlow-Bold",
+      "possibleColors": {
+        "blue": "#4289ab",
+        "gold": "#847336",
+        "grey": "#59595b",
+        "red": "#db3832",
+        "seafoamGreen": "#94b9b6",
+        "yellow": "#fdb913"
+      },
+      "textColor": "lightpink"
+    },
+    "sidebarStatTextStyle": {
+      "fontName": "BarlowCondensed-Black",
+      "fontSize": 55,
+      "lineHeight": 60,
+      "textColor": "#db3832",
+      "textTransform": "uppercase"
+    },
+    "sourceTextStyle": {
+      "fontName": "RobotoMono-Regular",
+      "fontSize": 10,
+      "lineHeight": 12,
+      "textTransform": "uppercase",
+      "tracking": 0.05
+    },
+    "straplineTextStyle": {
+      "//": "THE BRIEF",
+      "backgroundColor": "#db3832",
+      "conditional": [
+        {
+          "backgroundColor": "#db3832",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ],
+      "fontName": "Barlow-Medium",
+      "fontSize": 18,
+      "lineHeight": 22,
+      "possibleColors": {
+        "blue": "#4289ab",
+        "gold": "#847336",
+        "grey": "#59595b",
+        "red": "#db3832",
+        "seafoamGreen": "#94b9b6",
+        "yellow": "#fdb913"
+      },
+      "textColor": "#fff",
+      "textTransform": "uppercase",
+      "tracking": 0.08
+    },
+    "subtitleTextStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "textColor": "lightpink"
+        }
+      ],
+      "fontName": "Barlow-ExtraBold",
+      "fontSize": 53,
+      "lineHeight": 53,
+      "possibleColors": {
+        "blue": "#4289ab",
+        "gold": "#847336",
+        "grey": "#59595b",
+        "red": "#db3832",
+        "seafoamGreen": "#94b9b6",
+        "yellow": "#fdb913"
+      },
+      "textColor": "lightpink"
+    },
+    "titleFeaturedTextStyle": {
+      "fontName": "BarlowSemiCondensed-Bold",
+      "fontSize": 60,
+      "lineHeight": 65,
+      "textColor": "#000000",
+      "textTransform": "uppercase"
+    },
+    "titleSansTextStyle": {
+      "fontName": "Barlow-ExtraBold",
+      "tracking": -0.02
+    },
+    "titleSerifTextStyle": {
+      "fontName": "Didot-Bold",
+      "fontSize": 60,
+      "lineHeight": 65,
+      "textColor": "#000000"
+    },
+    "titleTextStyle": {
+      "fontName": "Barlow-ExtraBold",
+      "tracking": -0.02
+    },
+    "tocTextStyle": {
+      "fontName": "AvenirNextCondensed-Medium",
+      "fontSize": 16,
+      "linkStyle": {
+        "underline": true
+      },
+      "textAlignment": "center",
+      "textColor": "#000"
+    }
+  }
+}

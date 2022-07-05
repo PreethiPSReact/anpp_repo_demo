@@ -1,7 +1,7 @@
 {
   "version": "1.9",
-  "identifier": "coastalliving_article_889-125-14-1",
-  "title": "Santa Monica’s Dream House",
+  "identifier": "coastalliving_article_889-125-18-1",
+  "title": "What’s in Your Beach Bag?",
   "language": "en",
   "layout": {
     "columns": 23,
@@ -9,16 +9,17 @@
     "margin": 62,
     "width": 1024
   },
+  "subtitle": "Fashion and housewares designer Heidi Merrick shares her beach day essentials",
   "metadata": {
     "authors": [
-      "By Tracey Minkin"
+      "By Patricia Shannon"
     ],
-    "dateCreated": "2022-05-20T16:36:54.846Z",
-    "dateModified": "2022-05-19T14:40:36+00:00",
-    "excerpt": "One could buy a dream beach house in Southern California. But on the other hand, if one were savvy, one would simply book a dream stay at Oceana Santa Monica, LXR Hotels & Resorts. In a leafy neighborhood just close enough to the thrumming downtown (and steps from palm-shaded Palisades Park and the beach beyond), a $30-million-plus redo of the former Oceana Beach Club Hotel layers opulent guest house style—from velvet sofas and leather-tufted porch swings to four-poster beds—in 70 suites, many with ocean views. Credit the sure hand of New York City designer Anna Busta and lush botanical surrounds (including a glorious ivy facade) from Hamptons landscape architects Perry Guillot for the forever beach house magic. Imagine, though, the added verve of experiences like Fit Escapes wellness retreats and bespoke shopping trips with L.A. stylist Elyse Walker, plus three in-house restaurants for guests only, a full spa, beach cruisers, and a dreamy, tile-surrounded pool encircled by olive trees and sprawling daybeds. That Santa Monica beach house dream just got beautifully real. Rates start at $764; hoteloceanasantamonica.com.",
+    "dateCreated": "2022-05-20T16:37:04.726Z",
+    "dateModified": "2022-05-18T20:47:52+00:00",
+    "excerpt": "There’s no such thing as time off for Heidi Merrick, but she’s not complaining. Her father, renowned surfboard shaper Al Merrick, taught her early on the importance of loving one’s craft while still making time to soak it all in. “My dad was very good at what he did and had high standards for himself, but he still took time to go fishing, so to speak,” she says. “I think the example of having a life’s work and living a full life has influenced how I work and how I live.” And for Merrick, that life (and her eponymous fashion and housewares lines) is tied to the beach. “There’s an earthiness and refined simplicity that is inherent to beach people,” she says. While the brand is based in Los Angeles, Merrick’s beach house on the road to Ojai is where she, husband Johnny Johnston, and their two children spend much of their time. “I just love seeing the ocean, and I like the people who live near it,” she says, “people who understand that nature is bigger than we are.”",
     "generatorName": "ANTE Generic Template",
     "generatorVersion": "0.0.4.32-2022-04-15 19:20",
-    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/suite-signa_135/129690-1-eng-GB/suite-signa_1352.jpg?q=100"
+    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/heidi/129777-1-eng-GB/heidi2.png?q=100"
   },
   "documentStyle": {
     "backgroundColor": "#eee"
@@ -59,7 +60,7 @@
           "layout": "sectionLayout",
           "textStyle": "sectionTextStyle",
           "format": "html",
-          "text": "Currents <subsection>HOTEL CRUSH</subsection>"
+          "text": "Currents <subsection>Style</subsection>"
         },
         {
           "//": "==== DEFAULT HEADER: TITLE ===",
@@ -67,14 +68,22 @@
           "layout": "titleLayout",
           "textStyle": "titleTextStyle",
           "format": "html",
-          "text": "Santa Monica’s Dream House"
+          "text": "What’s in Your Beach Bag?"
+        },
+        {
+          "//": "==== DEFAULT HEADER: INTRO ===",
+          "role": "intro",
+          "layout": "introLayout",
+          "textStyle": "introTextStyle",
+          "format": "html",
+          "text": "Fashion and housewares designer Heidi Merrick shares her beach day essentials"
         },
         {
           "role": "author",
           "layout": "authorLayout",
           "textStyle": "authorTextStyle",
           "format": "html",
-          "text": "Byyyyyy Tracey Minkin"
+          "text": "By Patricia Shannon"
         },
         {
           "//": "======== HERO IMAGE CONTAINER =======",
@@ -82,22 +91,10 @@
           "layout": "heroImageLayout",
           "components": [
             {
-              "//": "======== HERO IMAGE - H1126.0/W1367.0 * 100 = 82.3701536 ========",
+              "//": "======== HERO IMAGE - H1014.0/W820.0 * 100 = 123.6585366 ========",
               "role": "photo",
               "layout": "fullBleedPhotoLayout",
-              "caption": {
-                "format": "html",
-                "text": "Peak beach life: Oceana Santa Monica’s Presidential Beach House suite.",
-                "textStyle": "captionEmbeddedTextStyle"
-              },
-              "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/suite-signa_135/129690-1-eng-GB/suite-signa_1352.jpg?q=100"
-            },
-            {
-              "role": "caption",
-              "layout": "captionLayout",
-              "textStyle": "captionTextStyle",
-              "format": "html",
-              "text": "Peak beach life: Oceana Santa Monica’s Presidential Beach House suite."
+              "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/heidi/129777-1-eng-GB/heidi2.png?q=100"
             }
           ]
         },
@@ -112,85 +109,425 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "One could buy a dream beach house in Southern California. But on the other hand, if one were savvy, one would simply book a dream stay at <bold>Oceana Santa Monica, LXR Hotels &amp; Resorts.</bold> In a leafy neighborhood just close enough to the thrumming downtown (and steps from palm-shaded Palisades Park and the beach beyond), a $30-million-plus redo of the former Oceana Beach Club Hotel layers opulent guest house style—from velvet sofas and leather-tufted porch swings to four-poster beds—in 70 suites, many with ocean views. Credit the sure hand of New York City designer Anna Busta and lush botanical surrounds (including a glorious ivy facade) from Hamptons landscape architects Perry Guillot for the forever beach house magic. Imagine, though, the added verve of experiences like Fit Escapes wellness retreats and bespoke shopping trips with L.A. stylist Elyse Walker, plus three in-house restaurants for guests only, a full spa, beach cruisers, and a dreamy, tile-surrounded pool encircled by olive trees and sprawling daybeds. That Santa Monica beach house dream just got beautifully real. Rates start at $764; <a href=\"http://hoteloceanasantamonica.com\">hoteloceanasantamonica.com</a>."
+              "text": "There’s no such thing as time off for Heidi Merrick, but she’s not complaining. Her father, renowned surfboard shaper Al Merrick, taught her early on the importance of loving one’s craft while still making time to soak it all in. “My dad was very good at what he did and had high standards for himself, but he still took time to go fishing, so to speak,” she says. “I think the example of having a life’s work and living a full life has influenced how I work and how I live.” And for Merrick, that life (and her eponymous fashion and housewares lines) is tied to the beach. “There’s an earthiness and refined simplicity that is inherent to beach people,” she says. While the brand is based in Los Angeles, Merrick’s beach house on the road to Ojai is where she, husband Johnny Johnston, and their two children spend much of their time. “I just love seeing the ocean, and I like the people who live near it,” she says, “people who understand that nature is bigger than we are.”"
             },
             {
-              "//": "======== FULL BLEED CONTAINER ========",
               "role": "container",
-              "layout": "fullBleedContainerLayout",
+              "layout": "pullQuoteLayout",
               "components": [
                 {
-                  "//": "======== IMAGE BLEED - H1950.0/W1367.0 * 100 = 142.6481346 ========",
-                  "role": "photo",
-                  "layout": "fullBleedPhotoLayout",
-                  "caption": {
-                    "format": "html",
-                    "text": "Bright welcome on Ocean Avenue.",
-                    "textStyle": "captionEmbeddedTextStyle"
-                  },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/ohsm1-lobby_133/129683-1-eng-GB/ohsm1-lobby_1332.jpg?q=100"
-                },
-                {
-                  "role": "caption",
-                  "layout": "captionLayout",
-                  "textStyle": "captionTextStyle",
-                  "format": "html",
-                  "text": "Bright welcome on Ocean Avenue."
-                }
-              ]
-            },
-            {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "fullBleedContainerLayout",
-              "components": [
-                {
-                  "//": "======== IMAGE BLEED - H987.0/W1410.0 * 100 = 70.0 ========",
-                  "role": "photo",
-                  "layout": "fullBleedPhotoLayout",
-                  "caption": {
-                    "format": "html",
-                    "text": "Daybeds and pool.",
-                    "textStyle": "captionEmbeddedTextStyle"
-                  },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/ohsm1-pool-_134/129676-1-eng-GB/ohsm1-pool-_1342.jpg?q=100"
-                },
-                {
-                  "role": "caption",
-                  "layout": "captionLayout",
-                  "textStyle": "captionTextStyle",
-                  "format": "html",
-                  "text": "Daybeds and pool."
-                }
-              ]
-            },
-            {
-              "//": "======== SIDEBAR =======",
-              "role": "container",
-              "layout": "sidebarLayout",
-              "style": "sidebarNoBackgroundStyle",
-              "components": [
-                {
-                  "//": "======== SIDEBAR BODY CONTAINER =======",
                   "role": "container",
-                  "layout": "bodyContainerLayout",
+                  "layout": "singleBlockContainerLayout",
+                  "style": "photoContainerStyle",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": true
+                    }
+                  ],
                   "components": [
                     {
-                      "role": "heading2",
-                      "layout": "sidebarHeading2Layout",
-                      "textStyle": "sidebarHeading2TextStyle",
-                      "format": "html",
-                      "text": "The Shopping Edit"
-                    },
-                    {
-                      "role": "body",
-                      "layout": "sidebarBodyNoMarginAboveLayout",
-                      "style": "paragraphStyle",
-                      "textStyle": "sidebarBodyTextStyle",
-                      "format": "html",
-                      "text": "An L.A. institution since 1948, <m1>Brentwood Country Mart</m1> is anything but quaint or outdated (and worth the trip to the eastern edge of Santa Monica). Instead, the board-and-batten barn-red marketplace is home to the fizziest home, fashion, and lifestyle brands going, including <m1>TURPAN</m1> for housewares, <m1>Poppy Store</m1> for children’s (and women’s) styles, <m1>DIESEL</m1> for books, and <m1>Goop</m1> for, well, all things Goop. For the one outfit (you’ll know the one), head straight to Montana Avenue for <m1>Jill Roberts</m1> and <m1>Savannah Santa Monica.</m1> Finally, plan your getaway around the first and fourth Sundays of the month, when the <m1>Santa Monica Airport Antique &amp; Vintage</m1> open-air marketplace sprawls beneath tidy white tents at the actual airport. Remember: You can always ship."
+                      "role": "image",
+                      "layout": {
+                        "maximumContentWidth": "7cw"
+                      },
+                      "URL": "https://public-assets.meredithcorp.io/369daac52b3e1104ffd3162ae000dfe3/topQuote.png"
                     }
                   ]
+                },
+                {
+                  "role": "container",
+                  "layout": "singleBlockContainerLayout",
+                  "style": "photoContainerStyle",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": false
+                    }
+                  ],
+                  "hidden": true,
+                  "components": [
+                    {
+                      "role": "image",
+                      "layout": {
+                        "maximumContentWidth": "7cw"
+                      },
+                      "URL": "https://public-assets.meredithcorp.io/9ef250b467391a6f9f29406d482b60cd/topQuote_DM.png"
+                    }
+                  ]
+                },
+                {
+                  "role": "pullquote",
+                  "layout": "pullQuoteBodyLayout",
+                  "style": "pullQuoteStyle",
+                  "textStyle": "pullQuoteTextStyle",
+                  "format": "html",
+                  "text": "There’s an earthiness and refined simplicity that is inherent to beach people<br><pullquote-attribution>—Heidi Merrick</pullquote-attribution>"
+                },
+                {
+                  "role": "container",
+                  "layout": "singleBlockContainerLayout",
+                  "style": "photoContainerStyle",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": true
+                    }
+                  ],
+                  "components": [
+                    {
+                      "role": "image",
+                      "layout": {
+                        "maximumContentWidth": "7cw"
+                      },
+                      "URL": "https://public-assets.meredithcorp.io/8f32dc42cf9d467a4db59867ae2f2886/bottomQuote.png"
+                    }
+                  ]
+                },
+                {
+                  "role": "container",
+                  "layout": "singleBlockContainerLayout",
+                  "style": "photoContainerStyle",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": false
+                    }
+                  ],
+                  "hidden": true,
+                  "components": [
+                    {
+                      "role": "image",
+                      "layout": {
+                        "maximumContentWidth": "7cw"
+                      },
+                      "URL": "https://public-assets.meredithcorp.io/e9c2845e7992b958807d1c03d050fb53/bottomQuote_DM.png"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "//": "======== SINGLE BLOCK CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLOCK - H1066.0/W519.0 * 100 = 205.3949904 ========",
+                  "role": "image",
+                  "layout": {
+                    "//": "IPAD CONDITION STYLING",
+                    "conditional": [
+                      {
+                        "//": "PHONE CONDITION STYLING",
+                        "conditions": [
+                          {
+                            "maxViewportWidth": 415
+                          }
+                        ],
+                        "horizontalContentAlignment": "center",
+                        "maximumContentWidth": "52cw",
+                        "minimumWidth": "52cw"
+                      }
+                    ],
+                    "horizontalContentAlignment": "center",
+                    "maximumContentWidth": "47cw",
+                    "minimumWidth": "47cw"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/drinkyourfl_113/129770-1-eng-GB/drinkyourfl_1132.png?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Apiary Drink Your Flowers 6% ABV Hard Jun Kombucha,</caption-heading><br><a href=\"http://drinkapiary.com\">drinkapiary.com</a> for retailers"
+                }
+              ]
+            },
+            {
+              "//": "======== SINGLE BLOCK CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLOCK - H1066.0/W519.0 * 100 = 205.3949904 ========",
+                  "role": "image",
+                  "layout": {
+                    "//": "IPAD CONDITION STYLING",
+                    "conditional": [
+                      {
+                        "//": "PHONE CONDITION STYLING",
+                        "conditions": [
+                          {
+                            "maxViewportWidth": 415
+                          }
+                        ],
+                        "horizontalContentAlignment": "center",
+                        "maximumContentWidth": "52cw",
+                        "minimumWidth": "52cw"
+                      }
+                    ],
+                    "horizontalContentAlignment": "center",
+                    "maximumContentWidth": "47cw",
+                    "minimumWidth": "47cw"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/p018-bzo102397-heidi-vincent-swim-suit/131372-1-eng-GB/p018-bzo102397-heidi-vincent-swim-suit.png?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Heidi Merrick Vicent Top,</caption-heading><br>$77, and <caption-heading>Bottom,</caption-heading> $95, both in Black <a href=\"http://heidimerrick.com\">heidimerrick.com</a>"
+                }
+              ]
+            },
+            {
+              "//": "======== SINGLE BLOCK CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLOCK - H1066.0/W519.0 * 100 = 205.3949904 ========",
+                  "role": "image",
+                  "layout": {
+                    "//": "IPAD CONDITION STYLING",
+                    "conditional": [
+                      {
+                        "//": "PHONE CONDITION STYLING",
+                        "conditions": [
+                          {
+                            "maxViewportWidth": 415
+                          }
+                        ],
+                        "horizontalContentAlignment": "center",
+                        "maximumContentWidth": "52cw",
+                        "minimumWidth": "52cw"
+                      }
+                    ],
+                    "horizontalContentAlignment": "center",
+                    "maximumContentWidth": "42cw",
+                    "minimumWidth": "42cw"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/p018-bzo102397-body-oil/131379-1-eng-GB/p018-bzo102397-body-oil.png?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Kjaer Weis Body Oil,</caption-heading><br>$125 <a href=\"http://kjaerweis.com\">kjaerweis.com</a>"
+                }
+              ]
+            },
+            {
+              "//": "======== SINGLE BLOCK CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLOCK - H1066.0/W519.0 * 100 = 205.3949904 ========",
+                  "role": "image",
+                  "layout": {
+                    "//": "IPAD CONDITION STYLING",
+                    "conditional": [
+                      {
+                        "//": "PHONE CONDITION STYLING",
+                        "conditions": [
+                          {
+                            "maxViewportWidth": 415
+                          }
+                        ],
+                        "horizontalContentAlignment": "center",
+                        "maximumContentWidth": "52cw",
+                        "minimumWidth": "52cw"
+                      }
+                    ],
+                    "horizontalContentAlignment": "center",
+                    "maximumContentWidth": "50cw",
+                    "minimumWidth": "50cw"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/heidi-srf-h_114/129749-1-eng-GB/heidi-srf-h_1142.png?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Heidi Merrick SRF Dad Hat,</caption-heading><br>$49 <a href=\"http://heidimerrick.com\">heidimerrick.com</a>"
+                }
+              ]
+            },
+            {
+              "//": "======== SINGLE BLOCK CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLOCK - H1066.0/W519.0 * 100 = 205.3949904 ========",
+                  "role": "image",
+                  "layout": {
+                    "//": "IPAD CONDITION STYLING",
+                    "conditional": [
+                      {
+                        "//": "PHONE CONDITION STYLING",
+                        "conditions": [
+                          {
+                            "maxViewportWidth": 415
+                          }
+                        ],
+                        "horizontalContentAlignment": "center",
+                        "maximumContentWidth": "52cw",
+                        "minimumWidth": "52cw"
+                      }
+                    ],
+                    "horizontalContentAlignment": "center",
+                    "maximumContentWidth": "42cw",
+                    "minimumWidth": "42cw"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/eastofeden/129742-1-eng-GB/eastofeden2.png?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading><caption-italic>East of Eden</caption-italic> by John Steinbeck,</caption-heading><br>Price varies <a href=\"http://bookshop.org\">bookshop.org</a>"
+                }
+              ]
+            },
+            {
+              "//": "======== SINGLE BLOCK CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLOCK - H1066.0/W519.0 * 100 = 205.3949904 ========",
+                  "role": "image",
+                  "layout": {
+                    "//": "IPAD CONDITION STYLING",
+                    "conditional": [
+                      {
+                        "//": "PHONE CONDITION STYLING",
+                        "conditions": [
+                          {
+                            "maxViewportWidth": 415
+                          }
+                        ],
+                        "horizontalContentAlignment": "center",
+                        "maximumContentWidth": "80cw",
+                        "minimumWidth": "80cw"
+                      }
+                    ],
+                    "horizontalContentAlignment": "center",
+                    "maximumContentWidth": "70cw",
+                    "minimumWidth": "70cw"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/p018-bzo102397-sunscreen-primer/131365-1-eng-GB/p018-bzo102397-sunscreen-primer.png?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Chantecaille Ultra Sun Protection Sunscreen Broad Spectrum SPF 45 Primer,</caption-heading><br>$96 <a href=\"http://chantecaille.com\">chantecaille.com</a>"
+                }
+              ]
+            },
+            {
+              "//": "======== SINGLE BLOCK CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLOCK - H1066.0/W519.0 * 100 = 205.3949904 ========",
+                  "role": "image",
+                  "layout": {
+                    "//": "IPAD CONDITION STYLING",
+                    "conditional": [
+                      {
+                        "//": "PHONE CONDITION STYLING",
+                        "conditions": [
+                          {
+                            "maxViewportWidth": 415
+                          }
+                        ],
+                        "horizontalContentAlignment": "center",
+                        "maximumContentWidth": "57cw",
+                        "minimumWidth": "57cw"
+                      }
+                    ],
+                    "horizontalContentAlignment": "center",
+                    "maximumContentWidth": "55cw",
+                    "minimumWidth": "55cw"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/heidi-santa_115/129728-1-eng-GB/heidi-santa_1152.png?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Heidi Merrick Santa Barbara Frame Sunglasses</caption-heading><br>In Tortoise, $155 <a href=\"http://heidimerrick.com\">heidimerrick.com</a>"
+                }
+              ]
+            },
+            {
+              "//": "======== SINGLE BLOCK CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLOCK - H1066.0/W519.0 * 100 = 205.3949904 ========",
+                  "role": "image",
+                  "layout": {
+                    "//": "IPAD CONDITION STYLING",
+                    "conditional": [
+                      {
+                        "//": "PHONE CONDITION STYLING",
+                        "conditions": [
+                          {
+                            "maxViewportWidth": 415
+                          }
+                        ],
+                        "horizontalContentAlignment": "center",
+                        "maximumContentWidth": "70cw",
+                        "minimumWidth": "70cw"
+                      }
+                    ],
+                    "horizontalContentAlignment": "center",
+                    "maximumContentWidth": "65cw",
+                    "minimumWidth": "65cw"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/black-graph_117/129721-1-eng-GB/black-graph_1172.png?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Staedtler Mars Lumograph Black Drawing Pencils,</caption-heading><br>$11 for a set of six <a href=\"http://dickblick.com\">dickblick.com</a>"
                 }
               ]
             },
@@ -199,7 +536,7 @@
               "layout": "attributeLayout",
               "textStyle": "attributeTextStyle",
               "format": "html",
-              "text": "COURTESY OCEANA SANTA MONICA, LXR HOTELS &amp; RESORTS"
+              "text": "COURTESY MANUFACTURERS; PORTRAIT: COURTESY HEIDI MERRICK"
             }
           ]
         },
@@ -922,16 +1259,15 @@
       "textColor": "#8d8d8d",
       "tracking": 0.05
     },
-    "default-tag-bold": {
-      "fontName": "GothamNarrow-Bold",
-      "tracking": 0.02
-    },
     "default-tag-caption-heading": {
       "fontName": "GrifoS-Bold",
       "textTransform": "uppercase"
     },
     "default-tag-caption-i": {
       "fontName": "Gotham-Book"
+    },
+    "default-tag-caption-italic": {
+      "fontName": "Gotham-MediumItalic"
     },
     "default-tag-emoji": {
       "fontName": "AppleColorEmoji"
@@ -941,9 +1277,6 @@
       "fontSize": 16,
       "tracking": 0.1,
       "textTransform": "uppercase"
-    },
-    "default-tag-m1": {
-      "fontName": "Gotham-Bold"
     },
     "default-tag-pullquote-attribution": {
       "fontSize": 15
@@ -960,12 +1293,12 @@
               "preferredColorScheme": "dark"
             }
           ],
-          "textColor": "#9a94c9"
+          "textColor": "#9A94C9"
         }
       ],
       "fontName": "Gotham-Medium",
       "fontSize": 16,
-      "textColor": "#9a94c9",
+      "textColor": "#9A94C9",
       "textTransform": "uppercase",
       "tracking": 0.1
     },

@@ -1,7 +1,7 @@
 {
   "version": "1.9",
-  "identifier": "alr_article_899-131-20-1",
-  "title": "TASTE IT, DON’T WASTE IT",
+  "identifier": "bhg_article_716-391-14-1",
+  "title": "What a Sight!",
   "language": "en",
   "layout": {
     "columns": 20,
@@ -9,44 +9,22 @@
     "margin": 40,
     "width": 1024
   },
-  "subtitle": "<p><b><custom name=\"underline\">You almost always end up with leftover ingredients (think: parsley, tomato paste, buttermilk) when cooking. These savvy ideas for using it all up will save you money and reduce food waste.</custom></b></p>",
+  "subtitle": "Day or night, keep your binoculars within reach. They’re the basis for family hobbies that will give you a whole new perspective on your own backyard.",
   "metadata": {
     "authors": [
-      "Karla Walsh"
+      "Christina Poletto"
     ],
-    "dateCreated": "2022-06-21T16:53:50.401Z",
-    "dateModified": "2022-06-21T14:52:46+00:00",
-    "excerpt": "— Upgrade your eggs. Stir a handful of chopped parsley into the egg mixture for any omelet, scramble, frittata, or quiche.",
+    "dateCreated": "2022-06-09T17:50:41.029Z",
+    "dateModified": "2022-06-07T20:21:27+00:00",
+    "excerpt": "Curious whether you’re staring down an Eastern bluebird or a blue jay? Your yard provides ample opportunities for a primer course in birding. (And FYI—bluebirds have a rusty chest; blue jays, gray.)",
     "generatorName": "ANTE Generic Template",
     "generatorVersion": "0.0.4.33-2022-06-09 18:32",
     "issue": {
-      "identifier": "June 16, 2022",
-      "tocByline": "By Karla Walsh"
+      "identifier": "PLACEHOLDER_ID",
+      "tocByline": "By Christina Poletto"
     },
-    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p020-alt102382-flat-leaf-parsley/199233-1-eng-GB/p020-alt102382-flat-leaf-parsley.jpg?q=100"
+    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_716/storage/images/media2/images/p014-bhg0822-family-adventures-badge/591136-1-eng-US/p014-bhg0822-family-adventures-badge.png?q=100"
   },
-  "missingData": [
-    {
-      "possibleAuthors": [
-        "— Boost mashed spuds. Trade buttermilk for whole milk in your classic mashed potatoes recipe for creamy results.",
-        "— Brighten up hummus. Add ½ cup parsley leaves before processing hummus for green goddess dressing vibes.",
-        "— Build a brine. Quick-pickle the carrots to add a tangy element to cheese boards, hummus platters, and dip buffets.",
-        "— Extend its life. Fill a Mason jar with an inch or two of water, then trim the stems and store the parsley like a bouquet of flowers. Put a plastic bag loosely over the leafy ends and change the water each time you notice it browning. It should stay fresh for about 2 weeks.",
-        "— Extend its life. If you plan to bake or cook with buttermilk, you can freeze it for up to 3 months. Or start with powdered buttermilk, which can be used for 6 to 12 months after opening.",
-        "— Extend its life. Many brands like Cento, Amore, and Tuscanini now sell tomato paste in toothpaste-like tubes. While canned paste lasts only up to a week, that tube of tomato paste stored in your fridge will be good for up to 8 weeks after opening.",
-        "— Extend their life. Store extra baby carrots in a lid-topped container filled with enough water to cover the carrots; they should last around 3 weeks.",
-        "— Get saucy. Add a spoonful or two to store-bought marinara or meat sauce to pump up the flavor.",
-        "— Go against the grain. In a food processor, pulse baby carrots until they reach a rice-like consistency, then fold into regular rice, grain bowls, or even mac and cheese.",
-        "— Infuse your stews. Boost the umami in any tomato-based or beef-centric stews, soups, or chilies by incorporating a scoop of tomato paste.",
-        "— Make mini vegan dogs. The internet sensation of carrot hot dogs can go mini, too. Try the soy- and ginger-scented marinade at allrecipes.com/carrotdogs, then cook them on a grill pan until tender on the inside and golden on the outside.",
-        "— Perk up pesto. Swap parsley for basil for a twist on herb pesto. Toss with pasta, spoon over grilled meat or fish, or use as a dipping sauce for bread.",
-        "— Shake up a dressing. Shake together ⅓ cup olive oil, 2 Tbsp. vinegar, and 1 Tbsp. tomato paste with some salt, garlic, and herbs for a super vinaigrette.",
-        "— Slip it in a smoothie. Replace half the milk called for in your favorite smoothie recipe with buttermilk for a lovely tanginess.",
-        "— Upgrade a boxed brownie mix. Substitute an equal amount of buttermilk for the water called for in the instructions for richer, just-like-homemade flavor.",
-        "— Upgrade your eggs. Stir a handful of chopped parsley into the egg mixture for any omelet, scramble, frittata, or quiche."
-      ]
-    }
-  ],
   "documentStyle": {
     "backgroundColor": "#eee"
   },
@@ -81,12 +59,44 @@
       },
       "components": [
         {
-          "//": "==== DEFAULT HEADER: SECTION ===",
-          "role": "heading",
-          "layout": "sectionLayout",
-          "textStyle": "sectionTextStyle",
-          "format": "html",
-          "text": "5-INGREDIENT RECIPES"
+          "role": "container",
+          "layout": {
+            "conditional": [
+              {
+                "conditions": [
+                  {
+                    "minViewportWidth": 415
+                  }
+                ],
+                "minimumHeight": "10cw"
+              }
+            ],
+            "minimumHeight": "14cw"
+          },
+          "style": {
+            "conditional": [
+              {
+                "conditions": [
+                  {
+                    "minSpecVersion": "1.14",
+                    "preferredColorScheme": "dark"
+                  }
+                ],
+                "fill": {
+                  "fillMode": "fit",
+                  "horizontalAlignment": "left",
+                  "type": "image",
+                  "URL": "https://public-assets.meredithcorp.io/5598670521de10828dc0edf3fe6d9f80/life-decoding_DM.jpg"
+                }
+              }
+            ],
+            "fill": {
+              "fillMode": "fit",
+              "horizontalAlignment": "left",
+              "type": "image",
+              "URL": "https://public-assets.meredithcorp.io/a1536c01fd4d33a52e9a33a0cf38e072/life-decoding.jpg"
+            }
+          }
         },
         {
           "role": "container",
@@ -94,12 +104,55 @@
           "style": "dividerSectionHeadStyle"
         },
         {
+          "//": "======== IMAGE BLOCK - 487.0x344.0 ========",
+          "role": "image",
+          "layout": {
+            "horizontalContentAlignment": "center",
+            "margin": {
+              "bottom": 15
+            },
+            "maximumContentWidth": "50cw"
+          },
+          "conditional": {
+            "conditions": [
+              {
+                "minSpecVersion": "1.14",
+                "preferredColorScheme": "dark"
+              }
+            ],
+            "hidden": true
+          },
+          "URL": "https://cdn-assets.ziniopro.com/var/site_716/storage/images/media2/images/p014-bhg0822-family-adventures-badge/591136-1-eng-US/p014-bhg0822-family-adventures-badge.png?q=100"
+        },
+        {
+          "//": "======== IMAGE BLOCK - 487.0x344.0 ========",
+          "role": "image",
+          "layout": {
+            "horizontalContentAlignment": "center",
+            "margin": {
+              "bottom": 15
+            },
+            "maximumContentWidth": "50cw"
+          },
+          "conditional": {
+            "conditions": [
+              {
+                "minSpecVersion": "1.14",
+                "preferredColorScheme": "dark"
+              }
+            ],
+            "hidden": false
+          },
+          "hidden": true,
+          "URL": "https://public-assets.meredithcorp.io/f1119fb5170c7fc1a60bb62b3a655565/car-dm.png"
+        },
+        {
           "//": "==== DEFAULT HEADER: TITLE ===",
           "role": "title",
           "layout": "titleLayout",
           "textStyle": "titleTextStyle",
           "format": "html",
-          "text": "Taste It, Don’t Waste It"
+          "text": "What a Sight!"
         },
         {
           "//": "==== DEFAULT HEADER: INTRO ===",
@@ -107,25 +160,33 @@
           "layout": "introLayout",
           "textStyle": "introTextStyle",
           "format": "html",
-          "text": "You almost always end up with leftover ingredients (think: parsley, tomato paste, buttermilk) when cooking. These savvy ideas for using it all up will save you money and reduce food waste."
+          "text": "Day or night, keep your binoculars within reach. They’re the basis for family hobbies that will give you a whole new perspective on your own backyard."
         },
         {
           "role": "author",
           "layout": "authorLayout",
           "textStyle": "authorTextStyle",
           "format": "html",
-          "text": "By Karla Walsh"
+          "text": "By <b>Christina Poletto</b>"
         },
         {
           "//": "======== HERO IMAGE CONTAINER =======",
           "role": "container",
-          "layout": "heroImageLayout",
+          "layout": "fullBleedContainerLayout",
+          "style": "fullBleedContainerStyle",
           "components": [
             {
-              "//": "======== HERO IMAGE - H1362.0/W1366.0 * 100 = 99.7071742 ========",
-              "role": "photo",
+              "role": "image",
               "layout": "fullBleedPhotoLayout",
-              "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p020-alt102382-flat-leaf-parsley/199233-1-eng-GB/p020-alt102382-flat-leaf-parsley.jpg?q=100"
+              "URL": "https://cdn-assets.ziniopro.com/var/site_716/storage/images/media2/images/p014-bhg0822-binoculars/591129-1-eng-US/p014-bhg0822-binoculars.jpg"
+            },
+            {
+              "role": "caption",
+              "layout": "captionLayout",
+              "textStyle": "captionTextStyle",
+              "format": "html",
+              "text": "<caption-heading>EYES ON THE PRIZE</caption-heading><br />To avoid searching, focus on your subject while you slowly bring the binoculars up to your eyes.",
+              "style": "captionStyle"
             }
           ]
         },
@@ -135,183 +196,189 @@
           "layout": "bodyContainerLayout",
           "components": [
             {
-              "role": "heading2",
-              "layout": "heading2Layout",
-              "textStyle": "heading2TextStyle",
-              "format": "html",
-              "text": "Flat-Leaf Parsley",
-              "style": "heading2Style"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>—</lede>&nbsp;<bold>Upgrade your eggs.</bold> Stir a handful of chopped parsley into the egg mixture for any omelet, scramble, frittata, or quiche."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>—</lede>&nbsp;<bold>Perk up pesto.</bold> Swap parsley for basil for a twist on herb pesto. Toss with pasta, spoon over grilled meat or fish, or use as a dipping sauce for bread."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>—</lede>&nbsp;<bold>Brighten up hummus.</bold> Add ½ cup parsley leaves before processing hummus for green goddess dressing vibes."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>—</lede>&nbsp;<bold>Extend its life.</bold> Fill a Mason jar with an inch or two of water, then trim the stems and store the parsley like a bouquet of flowers. Put a plastic bag loosely over the leafy ends and change the water each time you notice it browning. It should stay fresh for about 2 weeks."
-            },
-            {
               "//": "======== FULL BLEED CONTAINER ========",
               "role": "container",
               "layout": "fullBleedContainerLayout",
               "components": [
                 {
-                  "//": "======== IMAGE BLEED - H1327.0/W1366.0 * 100 = 97.1449488 ========",
-                  "role": "photo",
-                  "layout": "fullBleedPhotoLayout",
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p021-alt102382-buttermilk-mngo-smoothie/199226-1-eng-GB/p021-alt102382-buttermilk-mngo-smoothie.jpg?q=100"
+                  "//": "======== IMAGE BLEED - H1105.0/W1367.0 * 100 = 80.8339429 ========",
+                  "role": "image",
+                  "layout": {
+                    "horizontalContentAlignment": "center",
+                    "maximumContentWidth": "45cw"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_716/storage/images/media2/images/star__bird/588984-1-eng-US/star__bird2.png?q=100"
                 }
               ]
             },
             {
               "role": "heading2",
               "layout": "heading2Layout",
+              "style": "heading2Style",
               "textStyle": "heading2TextStyle",
               "format": "html",
-              "text": "Buttermilk",
-              "style": "heading2Style"
+              "text": "Daytime"
             },
             {
               "role": "body",
-              "layout": "bodyLayout",
+              "layout": "bodyNoMarginAboveLayout",
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>—</lede>&nbsp;<bold>Slip it in a smoothie.</bold> Replace half the milk called for in your favorite smoothie recipe with buttermilk for a lovely tanginess."
+              "text": "Curious whether you’re staring down an Eastern bluebird or a blue jay? Your yard provides ample opportunities for a primer course in birding. (And FYI—bluebirds have a rusty chest; blue jays, gray.)"
+            },
+            {
+              "role": "heading3",
+              "layout": "heading3Layout",
+              "textStyle": "heading3TextStyle",
+              "format": "html",
+              "text": "Setup"
             },
             {
               "role": "body",
-              "layout": "bodyLayout",
+              "layout": "bodyNoMarginAboveLayout",
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>—</lede>&nbsp;<bold>Upgrade a boxed brownie mix.</bold> Substitute an equal amount of buttermilk for the water called for in the instructions for richer, just-like-homemade flavor."
+              "text": "Outfit your yard with bird feeders—ideally placed away from the house so you can slip outside to observe the birds. Minnesota wildlife photographer Lisa Townsend takes it a step further by stocking a special decoy feeding station with peanuts to entice crows and jays away from her songbird feeders. Add a water source too. Birds need to drink up, and a bath gives you another spot for observation."
+            },
+            {
+              "role": "heading3",
+              "layout": "heading3Layout",
+              "textStyle": "heading3TextStyle",
+              "format": "html",
+              "text": "Study Guide"
             },
             {
               "role": "body",
-              "layout": "bodyLayout",
+              "layout": "bodyNoMarginAboveLayout",
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>—</lede>&nbsp;<bold>Boost mashed spuds.</bold> Trade buttermilk for whole milk in your classic mashed potatoes recipe for creamy results."
+              "text": "A field guide can help you identify winged visitors, habitats, and behaviors. (<italic>The Sibley Guide to Birds</italic> covers the continental U.S., $40; <a href=\"http://sibleyguides.com\">sibleyguides.com</a>.) You can also tap into the Merlin Bird ID app’s sound function, which listens to bird calls and suggests who’s singing. Once you get familiar, use the eBird app to note sightings and seek birds others have spotted and logged."
             },
             {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>—</lede>&nbsp;<bold>Extend its life.</bold>&nbsp;If you plan to bake or cook with buttermilk, you can freeze it for up to 3 months. Or start with powdered buttermilk, which can be used for 6 to 12 months after opening."
+              "//": "======== IMAGE BLOCK - 487.0x344.0 ========",
+              "role": "image",
+              "layout": {
+                "horizontalContentAlignment": "center",
+                "margin": {
+                  "bottom": 15
+                },
+                "maximumContentWidth": "60cw"
+              },
+              "conditional": {
+                "conditions": [
+                  {
+                    "minSpecVersion": "1.14",
+                    "preferredColorScheme": "dark"
+                  }
+                ],
+                "hidden": true
+              },
+              "URL": "https://cdn-assets.ziniopro.com/var/site_716/storage/images/media2/images/f0014-01110/588977-1-eng-US/f0014-012.png?q=100"
+            },
+            {
+              "//": "======== IMAGE BLOCK - 487.0x344.0 ========",
+              "role": "image",
+              "layout": {
+                "horizontalContentAlignment": "center",
+                "margin": {
+                  "bottom": 15
+                },
+                "maximumContentWidth": "60cw"
+              },
+              "conditional": {
+                "conditions": [
+                  {
+                    "minSpecVersion": "1.14",
+                    "preferredColorScheme": "dark"
+                  }
+                ],
+                "hidden": false
+              },
+              "hidden": true,
+              "URL": "https://public-assets.meredithcorp.io/e6bf446b0a18f60191006c1dc43d32fe/star-dm.png"
             },
             {
               "role": "heading2",
               "layout": "heading2Layout",
+              "style": "heading2Style",
               "textStyle": "heading2TextStyle",
               "format": "html",
-              "text": "Bagged Mini Carrots",
-              "style": "heading2Style"
+              "text": "Nighttime"
             },
             {
               "role": "body",
-              "layout": "bodyLayout",
+              "layout": "bodyNoMarginAboveLayout",
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>—</lede>&nbsp;<bold>Build a brine.</bold> Quick-pickle the carrots to add a tangy element to cheese boards, hummus platters, and dip buffets."
+              "text": "July and August boast a couple of supermoons (July 13 and August 12) and two meteor showers (July 28–29 and August 11–13). With a little practice, you’ll be able to spot constellations like Scorpius in July and Sagittarius in August."
+            },
+            {
+              "role": "heading3",
+              "layout": "heading3Layout",
+              "textStyle": "heading3TextStyle",
+              "format": "html",
+              "text": "Setup"
             },
             {
               "role": "body",
-              "layout": "bodyLayout",
+              "layout": "bodyNoMarginAboveLayout",
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>—</lede>&nbsp;<bold>Make mini vegan dogs.</bold> The internet sensation of carrot hot dogs can go mini, too. Try the soy- and ginger-scented marinade at <i><a href=\"http://allrecipes.com/carrotdogs\">allrecipes.com/carrotdogs</a></i>, then cook them on a grill pan until tender on the inside and golden on the outside."
+              "text": "Telescopes are nice, but “binoculars are a great and inexpensive way to observe the night sky,” says Nancy McGuire, Western Colorado Astronomy Club president. She suggests a 7×50 pair for night viewing (tap <italic><a href='#sidebar'>here</a></italic>). Another essential tool is a red-light flashlight. “White light—from flashlights, phones, or headlights—ruins night vision. It takes about half an hour for your eyes to become dark adapted,” McGuire says. And pack a reclining lawn chair to save your neck; it lets you study the night sky in comfort, and it can be easily toted to extra-dark areas. (Research spots with low light pollution at <a href=\"http://darksky.org\">darksky.org</a>.)"
+            },
+            {
+              "role": "heading3",
+              "layout": "heading3Layout",
+              "textStyle": "heading3TextStyle",
+              "format": "html",
+              "text": "Study Guide"
             },
             {
               "role": "body",
-              "layout": "bodyLayout",
+              "layout": "bodyNoMarginAboveLayout",
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>—</lede>&nbsp;<bold>Go against the grain.</bold> In a food processor, pulse baby carrots until they reach a rice-like consistency, then fold into regular rice, grain bowls, or even mac and cheese."
+              "text": "Orient yourself with Polaris (the North Star at the tip of the Little Dipper handle). Its location over the North Pole means that as the Earth rotates, this star is pretty constant, even as the star patterns change each night. From there, use the Star Walk 2 app for an interactive sky map on your phone. Or pair your new red-light flashlight with a planisphere. “This adjustable ‘wheel’ shows constellations and deep-sky objects on any given date,” McGuire says."
             },
             {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>—</lede>&nbsp;<bold>Extend their life.</bold> Store extra baby carrots in a lid-topped container filled with enough water to cover the carrots; they should last around 3 weeks."
-            },
-            {
-              "role": "heading2",
-              "layout": "heading2Layout",
-              "textStyle": "heading2TextStyle",
-              "format": "html",
-              "text": "Canned Tomato&nbsp;Paste",
-              "style": "heading2Style"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>—</lede>&nbsp;<bold>Get saucy.</bold> Add a spoonful or two to store-bought marinara or meat sauce to pump up the flavor."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>—</lede>&nbsp;<bold>Shake up a dressing.</bold> Shake together ⅓ cup olive oil, 2 Tbsp. vinegar, and 1 Tbsp. tomato paste with some salt, garlic, and herbs for a super vinaigrette."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>—</lede>&nbsp;<bold>Infuse your stews.</bold> Boost the umami in any tomato-based or beef-centric stews, soups, or chilies by incorporating a scoop of tomato paste."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>—</lede>&nbsp;<bold>Extend its life.</bold> Many brands like Cento, Amore, and Tuscanini now sell tomato paste in toothpaste-like tubes. While canned paste lasts only up to a week, that tube of tomato paste stored in your fridge will be good for up to 8 weeks after opening."
+              "//": "====== CALLOUT ======",
+              "role": "container",
+              "layout": "calloutLayout",
+              "style": "calloutStyle",
+              "components": [
+                {
+                  "role": "heading",
+                  "layout": "calloutHeadingLayout",
+                  "textStyle": "calloutHeadingTextStyle",
+                  "format": "html",
+                  "text": "<bracket>[</bracket> Feeder Warning <bracket>]</bracket>"
+                },
+                {
+                  "role": "body",
+                  "layout": "calloutBodyLayout",
+                  "textStyle": "calloutBodyTextStyle",
+                  "format": "html",
+                  "text": "A flu spread among waterfowl and poultry this spring. Protect songbirds by keeping feeders and baths clean."
+                }
+              ]
             },
             {
               "role": "container",
               "layout": "sidebarLayout",
               "style": "sidebarStyle",
+              "identifier": "sidebar",
               "components": [
+                {
+                  "role": "container",
+                  "layout": "dividerDoubleLayout",
+                  "style": "dividerDoubleStyle"
+                },
                 {
                   "//": "======== BODY CONTAINER =======",
                   "role": "container",
@@ -324,15 +391,7 @@
                       "style": "heading2Style",
                       "textStyle": "sidebarHeading2TextStyle",
                       "format": "html",
-                      "text": "Food Waste-Fighting Tips"
-                    },
-                    {
-                      "role": "heading3",
-                      "layout": "sidebarHeading3Layout",
-                      "style": "heading3Style",
-                      "textStyle": "sidebarHeading3TextStyle",
-                      "format": "html",
-                      "text": "Think Root to Stem"
+                      "text": "<i>Good to Know</i> ’Nocs Talk"
                     },
                     {
                       "role": "body",
@@ -340,41 +399,14 @@
                       "style": "paragraphStyle",
                       "textStyle": "sidebarBodyTextStyle",
                       "format": "html",
-                      "text": "Vegetable peels and trimmings can star in stocks, while leafy green tops are terrific in pestos and salads."
-                    },
-                    {
-                      "role": "heading3",
-                      "layout": "sidebarHeading3Layout",
-                      "style": "heading3Style",
-                      "textStyle": "sidebarHeading3TextStyle",
-                      "format": "html",
-                      "text": "Plan It"
-                    },
-                    {
-                      "role": "body",
-                      "layout": "sidebarBodyLayout",
-                      "style": "paragraphStyle",
-                      "textStyle": "sidebarBodyTextStyle",
-                      "format": "html",
-                      "text": "When picking meals for the week, notice which recipes call for only part of a product—say, two large carrots from a bunch. Select another recipe for the day before or after that can use that same ingredient."
-                    },
-                    {
-                      "role": "heading3",
-                      "layout": "sidebarHeading3Layout",
-                      "style": "heading3Style",
-                      "textStyle": "sidebarHeading3TextStyle",
-                      "format": "html",
-                      "text": "Freeze!"
-                    },
-                    {
-                      "role": "body",
-                      "layout": "sidebarBodyLayout",
-                      "style": "paragraphStyle",
-                      "textStyle": "sidebarBodyTextStyle",
-                      "format": "html",
-                      "text": "Extend the life of hard cheeses (like Parmesan), extra bread, or overripe bananas by popping them in the freezer. A Parmesan rind amplifies the umami in soups and sauces; thawed and toasted bread works great for sandwiches, croutons, or stuffing; and frozen bananas are the secret ingredient in the creamiest homemade smoothies."
+                      "text": "How to pick your pair? Go by the numbers. The first is the strength; the second is the physical size. So for a 7×50 pair, “7” means everything will appear seven times closer; “50” is the diameter (in mm) of the lenses—the bigger the lens, the brighter the image. <sidebar-lede>OUR PICK:</sidebar-lede> Standard Issue Waterproof Binoculars in 10×25 <sidebar-italic>(top),</sidebar-italic> $95; <a href=\"https://www.nocsprovisions.com/\">nocsprovisions.com</a> They’re not too strong for birding but bright enough for stargazing—great for concerts too."
                     }
                   ]
+                },
+                {
+                  "role": "container",
+                  "layout": "dividerDoubleLayout",
+                  "style": "dividerDoubleStyle"
                 }
               ]
             }
@@ -406,7 +438,7 @@
               "layout": "bodyLayout",
               "textStyle": "tocTextStyle",
               "format": "html",
-              "text": "<a href='https://apple.news/AeWTaQfGQEeyRKiYivkxSbA'>Tap here</a> to see more from this issue of <i>Allrecipes</i>"
+              "text": "<a href='https://apple.news/AfZaggdYaEeyyQA0KhVcEZw'>Tap here</a> to see more from this issue of <i>Better Homes &amp; Gardens</i>"
             }
           ]
         }
@@ -426,6 +458,32 @@
         "bottom": 5
       }
     },
+    "bhgInsiderBodyLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 4
+      }
+    },
+    "bhgInsiderLayout": {
+      "columnSpan": 12,
+      "columnStart": 4,
+      "margin": 20
+    },
+    "bhgInsiderLogoLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 500
+            }
+          ],
+          "maximumContentWidth": 150
+        }
+      ],
+      "horizontalContentAlignment": "center",
+      "maximumContentWidth": 125,
+      "URL": "https://public-assets-dev.meredithcorp.io/bde8400037db8a452dc4b69b34672272/bhg_Insider.jpg"
+    },
     "blockContainerLayout": {
       "columnSpan": 18,
       "columnStart": 1,
@@ -442,9 +500,13 @@
     "bodyLayout": {
       "columnSpan": 18,
       "columnStart": 1,
+      "margin": 10
+    },
+    "bodyNoMarginAboveLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
-        "bottom": 10,
-        "top": 2
+        "bottom": 10
       }
     },
     "bottomPhotoDividerLayout": {
@@ -452,8 +514,7 @@
     },
     "calloutBodyLayout": {
       "margin": {
-        "bottom": 10,
-        "top": 5
+        "bottom": 10
       }
     },
     "calloutHeadingLayout": {
@@ -464,21 +525,25 @@
     "calloutLayout": {
       "columnSpan": 16,
       "columnStart": 2,
-      "margin": {
-        "bottom": 10,
-        "top": 20
-      },
-      "padding": {
-        "bottom": 10,
-        "left": 20,
-        "right": 20,
-        "top": 10
-      }
+      "margin": 20
     },
     "captionAdLayout": {
       "//": "UNUSED"
     },
     "captionLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 415
+            }
+          ],
+          "padding": {
+            "left": 20,
+            "right": 20
+          }
+        }
+      ],
       "margin": 8
     },
     "collectionLayout": {
@@ -505,12 +570,12 @@
     "dividerCollectionLayout": {
       "//": "UNUSED"
     },
+    "dividerDoubleLayout": {
+      "minimumHeight": 8
+    },
     "dividerLayout": {
       "ignoreDocumentMargin": true,
-      "margin": {
-        "bottom": 20,
-        "top": 10
-      }
+      "margin": 10
     },
     "dividerStandardLayout": {
       "columnSpan": 18,
@@ -519,7 +584,7 @@
         "bottom": 10,
         "top": 20
       },
-      "minimumHeight": 1
+      "minimumHeight": 2
     },
     "dividerTocLayout": {
       "columnSpan": 18,
@@ -531,7 +596,7 @@
       "minimumHeight": 10
     },
     "floatContainerLayout": {
-      "columnSpan": 4,
+      "columnSpan": 6,
       "columnStart": 1,
       "conditional": [
         {
@@ -582,7 +647,7 @@
       "columnSpan": 18,
       "columnStart": 1,
       "margin": {
-        "top": 10
+        "top": 20
       }
     },
     "heading3Layout": {
@@ -629,13 +694,16 @@
       }
     },
     "ingredientsLayout": {
-      "margin": 10
+      "margin": {
+        "bottom": 5,
+        "top": 5
+      }
     },
     "introLayout": {
       "columnSpan": 18,
       "columnStart": 1,
       "margin": {
-        "bottom": 10
+        "bottom": 8
       }
     },
     "noMarginLayout": {
@@ -648,18 +716,7 @@
     "pullQuoteLayout": {
       "columnSpan": 16,
       "columnStart": 2,
-      "margin": {
-        "bottom": 25,
-        "top": 15
-      }
-    },
-    "reviewLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
-      "padding": {
-        "left": 85,
-        "top": 2
-      }
+      "margin": 20
     },
     "sectionLayout": {
       "margin": {
@@ -667,6 +724,9 @@
       }
     },
     "sidebarBodyLayout": {
+      "margin": 10
+    },
+    "sidebarBodyNoMarginAboveLayout": {
       "margin": {
         "bottom": 10
       }
@@ -676,15 +736,26 @@
         "bottom": 10,
         "top": 20
       },
-      "minimumHeight": 1
+      "minimumHeight": 2
     },
     "sidebarFloatContainerLayout": {
-      "columnSpan": 4,
-      "columnStart": 0
+      "columnSpan": 6,
+      "columnStart": 0,
+      "conditional": [
+        {
+          "columnSpan": 4,
+          "columnStart": 0,
+          "conditions": [
+            {
+              "maxViewportWidth": 415
+            }
+          ]
+        }
+      ]
     },
     "sidebarHeading2Layout": {
       "margin": {
-        "top": 20
+        "top": 10
       }
     },
     "sidebarHeading3Layout": {
@@ -697,20 +768,13 @@
         "top": 10
       }
     },
-    "sidebarIntroLayout": {
-      "margin": {
-        "bottom": 10,
-        "top": 5
-      }
-    },
     "sidebarLayout": {
       "columnSpan": 18,
       "columnStart": 1,
       "margin": 20,
       "padding": {
         "bottom": 10,
-        "left": 20,
-        "right": 20
+        "top": 10
       }
     },
     "sidebarSingleBlockContainerLayout": {
@@ -739,10 +803,6 @@
         "top": 2
       }
     },
-    "smallSpacerLayout": {
-      "maximumWidth": 5,
-      "minimumWidth": 5
-    },
     "spacerLayout": {
       "columnSpan": 18,
       "columnStart": 1,
@@ -750,12 +810,6 @@
         "bottom": 10,
         "top": 20
       }
-    },
-    "starsImageLayout": {
-      "margin": {
-        "top": 2
-      },
-      "maximumWidth": 100
     },
     "straplineLayout": {
       "columnSpan": 18,
@@ -768,37 +822,11 @@
       "columnSpan": 18,
       "columnStart": 1,
       "margin": {
-        "top": 5
+        "top": 10
       }
     },
     "topPhotoDividerLayout": {
       "//": "UNUSED"
-    },
-    "youSaidContainerLayout": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minViewportWidth": 500
-            }
-          ],
-          "padding": {
-            "left": "20cw",
-            "right": "20cw"
-          }
-        }
-      ],
-      "margin": {
-        "bottom": 10,
-        "top": 20
-      }
-    },
-    "youSaidImageLayout": {
-      "horizontalContentAlignment": "center",
-      "margin": {
-        "bottom": 10
-      },
-      "maximumContentWidth": 110
     }
   },
   "componentStyles": {
@@ -819,14 +847,6 @@
         }
       }
     },
-    "calloutStyle2": {
-      "border": {
-        "all": {
-          "color": "#feaa26",
-          "width": 4
-        }
-      }
-    },
     "captionAdStyle": {
       "//": "UNUSED"
     },
@@ -842,6 +862,18 @@
           ]
         }
       ]
+    },
+    "dividerDoubleStyle": {
+      "border": {
+        "all": {
+          "color": "#222",
+          "width": 1
+        },
+        "bottom": true,
+        "left": false,
+        "right": false,
+        "top": true
+      }
     },
     "dividerSectionHeadStyle": {
       "border": {
@@ -968,100 +1000,8 @@
     "pullQuoteStyle": {
       "//": "UNUSED"
     },
-    "reviewFiveStarsStyle": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minSpecVersion": "1.14",
-              "preferredColorScheme": "dark"
-            }
-          ],
-          "fill": {
-            "horizontalAlignment": "left",
-            "repeat": "none",
-            "type": "repeatable_image",
-            "URL": "https://public-assets.meredithcorp.io/ba3bbeb190fc45d4b5bb1d08c8fd2a5c/fiveDM.png",
-            "verticalAlignment": "top",
-            "width": 80
-          }
-        }
-      ],
-      "fill": {
-        "horizontalAlignment": "left",
-        "repeat": "none",
-        "type": "repeatable_image",
-        "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common022/86031-1-eng-GB/common022.jpg",
-        "verticalAlignment": "top",
-        "width": 80
-      }
-    },
-    "reviewFourHalfStarsStyle": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minSpecVersion": "1.14",
-              "preferredColorScheme": "dark"
-            }
-          ],
-          "fill": {
-            "horizontalAlignment": "left",
-            "repeat": "none",
-            "type": "repeatable_image",
-            "URL": "https://public-assets.meredithcorp.io/8700c3d249629b59c38e0b147c58947c/fourDM.png",
-            "verticalAlignment": "top",
-            "width": 80
-          }
-        }
-      ],
-      "fill": {
-        "horizontalAlignment": "left",
-        "repeat": "none",
-        "type": "repeatable_image",
-        "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common0166/108858-1-eng-GB/common012.jpg?q=100",
-        "verticalAlignment": "top",
-        "width": 80
-      }
-    },
-    "reviewFourStarsStyle": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minSpecVersion": "1.14",
-              "preferredColorScheme": "dark"
-            }
-          ],
-          "fill": {
-            "horizontalAlignment": "left",
-            "repeat": "none",
-            "type": "repeatable_image",
-            "URL": "https://public-assets.meredithcorp.io/8e401d3520fc3b0bec1ecdf6f118edf3/fourstarsDM.png",
-            "verticalAlignment": "top",
-            "width": 80
-          }
-        }
-      ],
-      "fill": {
-        "horizontalAlignment": "left",
-        "repeat": "none",
-        "type": "repeatable_image",
-        "URL": "https://public-assets.meredithcorp.io/4cadea6bc3bbdd6b0bdfab5abedfb66f/fourstars.jpg",
-        "verticalAlignment": "top",
-        "width": 80
-      }
-    },
     "sectionStyle": {
       "//": "UNUSED"
-    },
-    "sidebarNoBackgroundStyle": {
-      "border": {
-        "all": {
-          "color": "#f2f2f2",
-          "width": 2
-        }
-      }
     },
     "sidebarStyle": {
       "backgroundColor": "#f2f2f2",
@@ -1083,13 +1023,6 @@
     "titleStyle": {
       "//": "UNUSED"
     },
-    "youSaidImageStyle": {
-      "backgroundColor": "#008080",
-      "mask": {
-        "radius": "60cw",
-        "type": "corners"
-      }
-    },
     "captionStyle": {
       "border": {
         "all": {
@@ -1101,6 +1034,14 @@
         "right": false,
         "top": false
       }
+    },
+    "sidebarNoBackgroundStyle": {
+      "border": {
+        "all": {
+          "color": "#f2f2f2",
+          "width": 2
+        }
+      }
     }
   },
   "textStyles": {
@@ -1111,8 +1052,12 @@
       "textTransform": "uppercase",
       "tracking": 0.1
     },
-    "default-tag-bold": {
-      "fontName": "GothamNarrow-Bold"
+    "default-tag-bracket": {
+      "fontSize": 30,
+      "textColor": "#ED096F"
+    },
+    "default-tag-caption-bold": {
+      "fontName": "Gotham-Bold"
     },
     "default-tag-caption-heading": {
       "fontName": "AvenirNext-Bold",
@@ -1120,11 +1065,11 @@
       "textTransform": "uppercase",
       "tracking": 0.05
     },
-    "default-tag-caption-i": {
-      "fontName": "Gotham-Book"
-    },
     "default-tag-emoji": {
       "fontName": "AppleColorEmoji"
+    },
+    "default-tag-italic": {
+      "fontName": "SurveyorText-LightItalic"
     },
     "default-tag-lede": {
       "fontName": "AvenirNext-Bold"
@@ -1132,14 +1077,14 @@
     "default-tag-m": {
       "fontName": "Gotham-Medium"
     },
-    "default-tag-mi": {
-      "fontName": "Gotham-MediumItalic"
-    },
     "default-tag-pullquote-attribution": {
       "fontName": "Georgia-Bold",
       "fontSize": 15,
       "textTransform": "uppercase",
       "tracking": 0.15
+    },
+    "default-tag-sidebar-italic": {
+      "fontName": "Gotham-LightItalic"
     },
     "default-tag-sidebar-lede": {
       "fontName": "AvenirNext-Bold",
@@ -1147,8 +1092,11 @@
       "textTransform": "uppercase",
       "tracking": 0.05
     },
-    "default-tag-subsection": {
-      "fontName": "Gotham-Light"
+    "default-tag-title-italic": {
+      "fontName": "HTFDidot-M42MediumItalic"
+    },
+    "default-tag-twenty-five": {
+      "fontName": "Didot-Bold"
     },
     "endMarkerTextStyle": {
       "//": "UNUSED"
@@ -1177,6 +1125,12 @@
       "textAlignment": "center",
       "textTransform": "uppercase",
       "tracking": 0.05
+    },
+    "bhgInsiderBodyTextStyle": {
+      "fontName": "Gotham-Medium",
+      "fontSize": 16,
+      "lineHeight": 22,
+      "textAlignment": "center"
     },
     "bodyCenteredTextStyle": {
       "fontName": "Georgia",
@@ -1319,10 +1273,7 @@
       "tracking": -0.01
     },
     "heading5CenteredTextStyle": {
-      "fontName": "Gotham-Bold",
-      "textAlignment": "center",
-      "textTransform": "uppercase",
-      "tracking": 0.02
+      "textAlignment": "center"
     },
     "heading5TextStyle": {
       "fontName": "Georgia-BoldItalic"
@@ -1335,8 +1286,9 @@
       "tracking": 0.05
     },
     "ingredientsTextStyle": {
-      "fontName": "GothamNarrow-Book",
-      "lineHeight": 24
+      "fontName": "Gotham-Medium",
+      "fontSize": 15,
+      "lineHeight": 19
     },
     "introTextStyle": {
       "fontName": "Georgia-Italic",
@@ -1346,36 +1298,20 @@
       "fontName": "Georgia",
       "textAlignment": "center"
     },
-    "recipeDetailsTextStyle": {
-      "fontName": "GothamNarrow-Book",
-      "fontSize": 14,
-      "lineHeight": 16,
-      "linkStyle": {
-        "fontName": "GothamNarrow-Bold",
-        "textColor": "#000",
-        "underline": true
-      }
-    },
-    "reviewsTextStyle": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minSpecVersion": "1.14",
-              "preferredColorScheme": "dark"
-            }
-          ],
-          "textColor": "#fff"
-        }
-      ],
-      "fontName": "GothamNarrow-Black",
-      "textColor": "#000"
-    },
-    "savedTextStyle": {
-      "fontName": "GothamNarrow-Book",
+    "recipeBodyTextStyle": {
+      "fontName": "Gotham-Light",
       "fontSize": 16,
-      "lineHeight": 18,
-      "textTransform": "uppercase"
+      "lineHeight": 20
+    },
+    "recipeDetailsTextStyle": {
+      "fontName": "Gotham-Light",
+      "fontSize": 15,
+      "lineHeight": 17
+    },
+    "recipeNutritionInfoTextStyle": {
+      "fontName": "Gotham-Light",
+      "fontSize": 14,
+      "lineHeight": 16
     },
     "sectionTextStyle": {
       "fontName": "AvenirNext-Regular",
@@ -1384,16 +1320,37 @@
       "textTransform": "uppercase",
       "tracking": 0.05
     },
+    "sidebarBodyCenteredTextStyle": {
+      "fontName": "AvenirNext-Medium",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "textAlignment": "center",
+      "tracking": 0.02
+    },
     "sidebarBodyTextStyle": {
       "fontName": "AvenirNext-Medium",
       "fontSize": 18,
       "lineHeight": 26,
       "tracking": 0.02
     },
+    "sidebarHeading2CenteredTextStyle": {
+      "fontName": "Georgia-Bold",
+      "fontSize": 45,
+      "lineHeight": 50,
+      "textAlignment": "center"
+    },
     "sidebarHeading2TextStyle": {
       "fontName": "Georgia-Bold",
       "fontSize": 45,
       "lineHeight": 50
+    },
+    "sidebarHeading3CenteredTextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "fontSize": 24,
+      "lineHeight": 28,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": -0.05
     },
     "sidebarHeading3TextStyle": {
       "fontName": "AvenirNext-Bold",
@@ -1402,16 +1359,17 @@
       "textTransform": "uppercase",
       "tracking": -0.05
     },
+    "sidebarHeading4CenteredTextStyle": {
+      "fontName": "Gotham-Bold",
+      "fontSize": 16,
+      "lineHeight": 18,
+      "textAlignment": "center"
+    },
     "sidebarHeading4TextStyle": {
       "fontName": "AvenirNext-Bold",
       "fontSize": 24,
       "lineHeight": 28,
       "tracking": -0.01
-    },
-    "sidebarIntroTextStyle": {
-      "fontName": "Georgia-Italic",
-      "fontSize": 20,
-      "lineHeight": 26
     },
     "straplineTextStyle": {
       "fontName": "AvenirNext-Bold",
@@ -1432,42 +1390,20 @@
       "textAlignment": "center",
       "textColor": "#000"
     },
-    "youSaidQuoteTextStyle": {
-      "fontName": "GothamCondensed-LightItalic",
-      "fontSize": 22,
-      "lineHeight": 24,
-      "textAlignment": "center"
-    },
     "listTextStyle": {
       "fontSize": 17,
       "lineHeight": 21
-    },
-    "sidebarBodyCenteredTextStyle": {
-      "fontName": "AvenirNext-Medium",
-      "fontSize": 18,
-      "lineHeight": 26,
-      "textAlignment": "center",
-      "tracking": 0.02
-    },
-    "sidebarHeading2CenteredTextStyle": {
-      "fontName": "Georgia-Bold",
-      "fontSize": 45,
-      "lineHeight": 50,
-      "textAlignment": "center"
-    },
-    "sidebarHeading3CenteredTextStyle": {
-      "fontName": "AvenirNext-Bold",
-      "fontSize": 24,
-      "lineHeight": 28,
-      "textAlignment": "center",
-      "textTransform": "uppercase",
-      "tracking": -0.05
     },
     "sidebarHeadingCentered4TextStyle": {
       "fontName": "AvenirNext-Bold",
       "fontSize": 24,
       "lineHeight": 28,
       "textAlignment": "center"
+    },
+    "sidebarIntroTextStyle": {
+      "fontName": "Georgia-Italic",
+      "fontSize": 20,
+      "lineHeight": 26
     },
     "subsectionIntroTextStyle": {
       "fontName": "Georgia-Italic",

@@ -1,7 +1,7 @@
 {
   "version": "1.9",
-  "identifier": "alr_article_899-131-3-1",
-  "title": "FROM THE EDITORS",
+  "identifier": "alr_article_899-131-12-1",
+  "title": "FROM THE GROUND UP",
   "language": "en",
   "layout": {
     "columns": 20,
@@ -9,32 +9,162 @@
     "margin": 40,
     "width": 1024
   },
+  "subtitle": "<p><b><custom name=\"underline\">These recipes begin with a ground meat&mdash;beef, chicken, turkey, or pork&mdash;and then build into easy, speedy burgers, lasagna cupcakes, meatloaf, and more.</custom></b></p>",
   "metadata": {
-    "dateCreated": "2022-06-21T16:53:49.673Z",
-    "dateModified": "2022-06-21T14:32:47+00:00",
-    "excerpt": "The dinnertime struggle is real.",
-    "generatorName": "ANTE Generic Template",
+    "dateCreated": "2022-06-21T16:54:01.449Z",
+    "dateModified": "2022-06-21T15:09:12+00:00",
+    "excerpt": "HANDS-ON 20 MIN",
+    "generatorName": "All-Recipes -- Recipe",
     "generatorVersion": "0.0.4.33-2022-06-09 18:32",
-    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/mid_7008224_053/197165-1-eng-GB/mid_7008224_0532.jpg?q=100"
+    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p012-013-alt102382-mushroom-beef-burgers/199191-1-eng-GB/p012-013-alt102382-mushroom-beef-burgers.jpg?q=100"
   },
   "missingData": [
     {
-      "possibleAuthors": [
-        "— All-purpose flour",
-        "— Apple cider vinegar",
-        "— Black pepper",
-        "— Crushed red pepper",
-        "— Dijon mustard",
-        "— Ketchup",
-        "— Less-sodium soy sauce",
-        "— Low-sodium chicken broth",
-        "— Mayonnaise",
-        "— Nonstick cooking spray",
-        "— Olive oil",
-        "— Salt",
-        "— Vegetable oil",
-        "— White and brown sugar"
+      "//": "======== SINGLE BLOCK CONTAINER ========",
+      "role": "container",
+      "layout": "singleBlockContainerLayout",
+      "components": [
+        {
+          "//": "======== IMAGE BLOCK - H74.0/W421.0 * 100 = 17.5771971 ========",
+          "role": "photo",
+          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0013-0125/197521-1-eng-GB/f0013-012.jpg?q=100"
+        }
       ]
+    },
+    {
+      "role": "body",
+      "layout": "bodyLayout",
+      "style": "paragraphStyle",
+      "textStyle": "bodyTextStyle",
+      "format": "html",
+      "text": "7 REVIEWS"
+    },
+    {
+      "//": "======== SINGLE BLOCK CONTAINER ========",
+      "role": "container",
+      "layout": "singleBlockContainerLayout",
+      "components": [
+        {
+          "//": "======== IMAGE BLOCK - H38.0/W211.0 * 100 = 18.0094787 ========",
+          "role": "photo",
+          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0014-0129/197493-1-eng-GB/f0014-012.jpg?q=100"
+        }
+      ]
+    },
+    {
+      "role": "body",
+      "layout": "bodyLayout",
+      "style": "paragraphStyle",
+      "textStyle": "bodyTextStyle",
+      "format": "html",
+      "text": "115 REVIEWS"
+    },
+    {
+      "//": "======== SINGLE BLOCK CONTAINER ========",
+      "role": "container",
+      "layout": "singleBlockContainerLayout",
+      "components": [
+        {
+          "//": "======== IMAGE BLOCK - H476.0/W394.0 * 100 = 120.8121827 ========",
+          "role": "photo",
+          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p014-alt102382-alr-badge/199177-1-eng-GB/p014-alt102382-alr-badge.png?q=100"
+        }
+      ]
+    },
+    {
+      "role": "heading3",
+      "layout": "heading3Layout",
+      "textStyle": "heading3TextStyle",
+      "format": "html",
+      "text": "<b>ALEXA-ENABLED!</b>"
+    },
+    {
+      "//": "======== SINGLE BLOCK CONTAINER ========",
+      "role": "container",
+      "layout": "singleBlockContainerLayout",
+      "components": [
+        {
+          "//": "======== IMAGE BLOCK - H74.0/W420.0 * 100 = 17.6190476 ========",
+          "role": "photo",
+          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0016-0139/197458-1-eng-GB/f0016-012.jpg?q=100"
+        }
+      ]
+    },
+    {
+      "role": "body",
+      "layout": "bodyLayout",
+      "style": "paragraphStyle",
+      "textStyle": "bodyTextStyle",
+      "format": "html",
+      "text": "72 REVIEWS"
+    },
+    {
+      "//": "======== SINGLE BLOCK CONTAINER ========",
+      "role": "container",
+      "layout": "singleBlockContainerLayout",
+      "components": [
+        {
+          "//": "======== IMAGE BLOCK - H74.0/W420.0 * 100 = 17.6190476 ========",
+          "role": "photo",
+          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0017-0129/197437-1-eng-GB/f0017-012.jpg?q=100"
+        }
+      ]
+    },
+    {
+      "role": "body",
+      "layout": "bodyLayout",
+      "style": "paragraphStyle",
+      "textStyle": "bodyTextStyle",
+      "format": "html",
+      "text": "184 REVIEWS"
+    },
+    {
+      "//": "======== SINGLE BLOCK CONTAINER ========",
+      "role": "container",
+      "layout": "singleBlockContainerLayout",
+      "components": [
+        {
+          "//": "======== IMAGE BLOCK - H74.0/W421.0 * 100 = 17.5771971 ========",
+          "role": "photo",
+          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0018-0145/197423-1-eng-GB/f0018-012.jpg?q=100"
+        }
+      ]
+    },
+    {
+      "role": "body",
+      "layout": "bodyLayout",
+      "style": "paragraphStyle",
+      "textStyle": "bodyTextStyle",
+      "format": "html",
+      "text": "51 REVIEWS"
+    },
+    {
+      "//": "======== SINGLE BLOCK CONTAINER ========",
+      "role": "container",
+      "layout": "singleBlockContainerLayout",
+      "components": [
+        {
+          "//": "======== IMAGE BLOCK - H74.0/W421.0 * 100 = 17.5771971 ========",
+          "role": "photo",
+          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0019-0123/197409-1-eng-GB/f0019-012.jpg?q=100"
+        }
+      ]
+    },
+    {
+      "role": "body",
+      "layout": "bodyLayout",
+      "style": "paragraphStyle",
+      "textStyle": "bodyTextStyle",
+      "format": "html",
+      "text": "518 REVIEWS"
+    },
+    {
+      "role": "body",
+      "layout": "bodyLayout",
+      "style": "paragraphStyle",
+      "textStyle": "bodyTextStyle",
+      "format": "html",
+      "text": "<b>PICK YOUR SALSA</b>&nbsp;With so many different salsa options on store shelves, you can give this meatloaf a different flavor each time you make it. Try chipotle salsa for a deep, smoky flavor. Go green by using salsa verde. Or add a fruity salsa, such as pineapple or peach salsa, for a sweet-savory twist.<span class=\"end-marker\"> ■</span>"
     }
   ],
   "documentStyle": {
@@ -89,136 +219,173 @@
           "layout": "titleLayout",
           "textStyle": "titleTextStyle",
           "format": "html",
-          "text": "<i>From the</i> Editors"
+          "text": "FROM THE GROUND UP"
         },
         {
+          "//": "==== DEFAULT HEADER: INTRO ===",
+          "role": "intro",
+          "layout": "introLayout",
+          "textStyle": "introTextStyle",
+          "format": "html",
+          "text": "These recipes begin with a ground meat&mdash;beef, chicken, turkey, or pork&mdash;and then build into easy, speedy burgers, lasagna cupcakes, meatloaf, and more."
+        },
+        {
+          "//": "======== HERO IMAGE CONTAINER =======",
           "role": "container",
-          "layout": "fullBleedContainerLayout",
-          "animation": {
-            "initialAlpha": 0.05,
-            "type": "fade_in",
-            "userControllable": true
-          },
+          "layout": "heroImageLayout",
           "components": [
             {
-              "role": "mosaic",
+              "//": "======== HERO IMAGE - H1035.0/W1366.0 * 100 = 75.7686676 ========",
+              "role": "photo",
               "layout": "fullBleedPhotoLayout",
-              "items": [
-                {
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/mid_7008248_029/197158-1-eng-GB/mid_7008248_0292.jpg?q=100"
-                },
-                {
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/mid_7008217_001/197151-1-eng-GB/mid_7008217_0012.jpg?q=100"
-                },
-                {
-                  "//": "======== HERO IMAGE - H1004.0/W1367.0 * 100 = 73.4455011 ========",
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/mid_7008224_053/197165-1-eng-GB/mid_7008224_0532.jpg?q=100"
-                }
-              ]
+              "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p012-013-alt102382-mushroom-beef-burgers/199191-1-eng-GB/p012-013-alt102382-mushroom-beef-burgers.jpg?q=100"
             }
           ]
         },
         {
-          "//": "======== BODY CONTAINER =======",
+          "//": "======== BEGIN RECIPES BODY CONTAINER =======",
           "role": "container",
           "layout": "bodyContainerLayout",
+          "style": "bodyContainerStyle",
           "components": [
             {
-              "role": "heading6",
-              "layout": "heading6Layout",
-              "textStyle": "heading6TextStyle",
+              "role": "heading2",
+              "layout": "bodyLayout",
+              "textStyle": "heading2TextStyle",
               "format": "html",
-              "text": "The dinnertime struggle is real."
-            },
-            {
-              "role": "body",
-              "layout": "bodyNoMarginAboveLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "But not to worry—we have you covered! In this special edition of <i>Allrecipes</i> magazine, learn secrets from fellow home cooks and our test kitchen experts to minimize the time spent in the kitchen, all while maximizing flavors and ease. Each recipe calls for just 5 ingredients—plus a few on-hand staples (above)—so you can cook up dinners your family will love on even your busiest days."
-            },
-            {
-              "role": "heading6",
-              "layout": "heading6Layout1",
-              "textStyle": "heading6TextStyle",
-              "format": "html",
-              "text": "Here are a few of the amazing five-and-done recipes you’ll find inside:"
-            },
-            {
-              "role": "body",
-              "layout": "bodyNoMarginAboveLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<a href=\"https://apple.news/Aijh934gwS9GBEdg-Nh6hVg\">JACOB’S EASY GRILLED SALMON</a>"
+              "text": "Mushroom Beef Burgers"
             },
             {
               "role": "body",
               "layout": "bodyLayout",
               "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
+              "textStyle": "recipeDetailsTextStyle",
               "format": "html",
-              "text": "<a href=\"https://apple.news/AQQ00SmikQGuIOBRHzL3HTQ\">RADISH TOP SOUP</a>"
+              "text": "<lede>HANDS-ON</lede> 20 MIN <lede>TOTAL</lede> 20 MIN <lede>SERVES</lede> 8 <br><lede>SUBMITTED BY</lede> JUANITA S"
             },
             {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<a href=\"https://apple.news/AkQj008gkSjKxDjAPSKzcUw\">SLOW COOKER BUFFALO CHICKEN LETTUCE WRAPS</a>"
-            },
-            {
-              "role": "heading4",
-              "layout": "heading4Layout",
-              "textStyle": "heading4TextStyle",
-              "format": "html",
-              "text": "Happy Cooking!"
-            },
-            {
-              "role": "caption",
-              "layout": "captionLayout2",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<nm>THE EDITORS</nm>"
-            },
-            {
+              "//": "====== REVIEWS ======",
               "role": "container",
-              "layout": "sidebarLayout",
-              "style": "sidebarNoBackgroundStyle",
+              "layout": "bodyLayout",
+              "contentDisplay": {
+                "type": "horizontal_stack"
+              },
               "components": [
                 {
-                  "//": "======== BODY CONTAINER =======",
-                  "role": "container",
-                  "layout": "bodyContainerLayout",
-                  "style": "bodyContainerStyle",
-                  "components": [
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
                     {
-                      "role": "heading3",
-                      "layout": "sidebarHeading3Layout",
-                      "style": "heading3Style",
-                      "textStyle": "sidebarHeading3TextStyle",
-                      "format": "html",
-                      "text": "Stock up That Pantry!"
-                    },
-                    {
-                      "role": "body",
-                      "layout": "sidebarIntroLayout",
-                      "style": "paragraphStyle",
-                      "textStyle": "sidebarIntroTextStyle",
-                      "format": "html",
-                      "text": "Keep these staples on hand in your cupboard and each recipe in this magazine will be a mere 5 ingredients away."
-                    },
-                    {
-                      "role": "body",
-                      "layout": "sidebarBodyLayout",
-                      "style": "paragraphStyle",
-                      "textStyle": "sidebarBodyTextStyle",
-                      "format": "html",
-                      "text": "— All-purpose flour<br>— Apple cider vinegar<br>— Black pepper<br>— Crushed red pepper<br>— Dijon mustard<br>— Ketchup<br>— Low-sodium chicken broth<br>— Less-sodium soy sauce<br>— Mayonnaise<br>— Nonstick cooking spray<br>— Olive oil<br>— Salt<br>— Vegetable oil<br>— White and brown sugar"
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": true
                     }
-                  ]
+                  ],
+                  "hidden": false,
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common022/86031-1-eng-GB/common022.jpg"
+                },
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": false
+                    }
+                  ],
+                  "hidden": true,
+                  "URL": "https://public-assets.meredithcorp.io/ba3bbeb190fc45d4b5bb1d08c8fd2a5c/fiveDM.png"
+                },
+                {
+                  "role": "container",
+                  "layout": "smallSpacerLayout"
+                },
+                {
+                  "role": "body",
+                  "layout": {
+                    "padding": {
+                      "top": 0
+                    }
+                  },
+                  "textStyle": "reviewsTextStyle",
+                  "format": "html",
+                  "text": "7 REVIEWS"
+                }
+              ]
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<i>Serve these burgers on buns with your favorite toppings. We love the classics—lettuce, tomato, onion, mustard, and pickles.</i>"
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td>3</td><td>cups finely chopped mushrooms (8 oz.)</td></tr><tr><td>1</td><td>cup finely chopped onion</td></tr><tr><td>3</td><td>cloves garlic, minced</td></tr><tr><td>1</td><td>tsp. Italian seasoning</td></tr><tr><td>1</td><td>tsp. salt</td></tr><tr><td>½</td><td>tsp. black pepper</td></tr><tr><td>2</td><td>lb. 85%-lean ground beef</td></tr></table>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>1.</lede> Stir together mushrooms, onion, garlic, Italian seasoning, salt, and pepper in a large bowl. With moistened hands, add beef and gently mix just until evenly combined. Shape into eight ½-inch-thick patties."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>2.</lede> Preheat an outdoor grill to medium heat (325°F to 375°F). Lightly oil grate. Grill patties, covered, 5 to 7 minutes per side, or until an instant-read thermometer inserted into centers registers 160°F."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede><a href=\"https://www.allrecipes.com/recipe/258947/mushroom-beef-burgers/\">armagazine.com/mushroom-beef-burgers</a></i></lede>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b><i>HIDDEN GEM</i></b> | <b><i>QUICK</i></b>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "attributeTextStyle",
+              "format": "html",
+              "text": "PER BURGER (WITH BUN, WITHOUT TOPPINGS): 402 CAL; 22G FAT (9G SAT); 26G PRO; 25G CARB (2G FIBER, 5G SUGARS); 576MG SODIUM"
+            },
+            {
+              "//": "======= YOU SAID CONTAINER ======",
+              "role": "container",
+              "layout": "youSaidContainerLayout",
+              "components": [
+                {
+                  "role": "pullquote",
+                  "textStyle": "youSaidQuoteTextStyle",
+                  "format": "html",
+                  "text": "“This recipe makes burgers that are juicy and very tasty. I cooked them in an air fryer, and they were perfect.”<br><pullquote-attribution>– CASSIEGAYLE46</pullquote-attribution>"
                 }
               ]
             },
@@ -233,24 +400,1034 @@
                   "layout": "calloutHeadingLayout",
                   "textStyle": "calloutHeadingTextStyle",
                   "format": "html",
-                  "text": "Finish With Fresh!"
+                  "text": "Juicy Secret"
                 },
                 {
                   "role": "body",
                   "layout": "calloutBodyLayout",
                   "textStyle": "calloutBodyTextStyle",
                   "format": "html",
-                  "text": "Fresh herbs, citrus, mixed greens, and other fresh ingredients go a long way to enhance the flavor and eye appeal of simple dishes. We recommend keeping some of these fresh finishes at the ready in your fridge to complete quick meals. Use the photos in this magazine as inspiration."
+                  "text": "Adding chopped mushrooms to the beef boosts flavor, sneaks in a veggie, and keeps these burgers big and juicy."
+                }
+              ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1516.0/W1366.0 * 100 = 110.9809663 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p014-alt102382-lasagna-cups/199184-1-eng-GB/p014-alt102382-lasagna-cups.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "bodyLayout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Lasagna Cupcakes"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "recipeDetailsTextStyle",
+              "format": "html",
+              "text": "<lede>HANDS-ON</lede> 15 MIN <lede>TOTAL</lede> 40 MIN <lede>SERVES</lede> 6 <br><lede>SUBMITTED BY</lede> KIMBERLEY PIPER"
+            },
+            {
+              "//": "====== REVIEWS ======",
+              "role": "container",
+              "layout": "bodyLayout",
+              "contentDisplay": {
+                "type": "horizontal_stack"
+              },
+              "components": [
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": true
+                    }
+                  ],
+                  "hidden": false,
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common0166/108858-1-eng-GB/common012.jpg?q=100"
+                },
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": false
+                    }
+                  ],
+                  "hidden": true,
+                  "URL": "https://public-assets.meredithcorp.io/8700c3d249629b59c38e0b147c58947c/fourDM.png"
+                },
+                {
+                  "role": "container",
+                  "layout": "smallSpacerLayout"
+                },
+                {
+                  "role": "body",
+                  "layout": {
+                    "padding": {
+                      "top": 0
+                    }
+                  },
+                  "textStyle": "reviewsTextStyle",
+                  "format": "html",
+                  "text": "115 REVIEWS"
                 }
               ]
             },
             {
               "role": "body",
-              "layout": "bodyBigMarginAboveLayout",
+              "layout": "bodyLayout",
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "FOLLOW US ON SOCIAL! <a href='https://www.instagram.com/allrecipes'>@allrecipes</a> <a href=\"https://www.instagram.com/allrecipes\">Instagram</a><a href=\"https://www.facebook.com/allrecipes\">Facebook</a><a href=\"https://www.twitter.com/allrecipes\">Twitter<i></a><a href=\"https://www.pinterest.com/allrecipes\">Pinterest<i></a> <a href=\"https://www.youtube.com/allrecipes\">YouTube<i></a> <br>LETTERS AND COMMENTS: <a href=\"mailto:feedback@armagazine.com\">feedback@armagazine.com</a><br>SUBSCRIPTION HELP: <a href=\"http://allrecipes.com/magaccount\">allrecipes.com/magaccount</a> or email us at <a href=\"mailto:alrcustserv@cdsfulfillment.com\">alrcustserv@cdsfulfillment.com</a> or call <a href=\"tel:800-837-9017\">800-837-9017</a>"
+              "text": "<i>Give these “cupcakes” a pop of extra flavor with chopped fresh basil and crushed red pepper.</i>"
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td>24</td><td>wonton wrappers</td></tr><tr><td>6</td><td>oz. ground beef</td></tr><tr><td>¼</td><td>tsp. salt</td></tr><tr><td>¼</td><td>tsp. black pepper</td></tr><tr><td>1¼</td><td>cups grated Parmesan cheese (5 oz.)</td></tr><tr><td>1½</td><td>cups shredded mozzarella cheese (6 oz.)</td></tr><tr><td>1</td><td>cup pasta sauce</td></tr></table>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>1.</lede> Preheat oven to 375°F. Coat twelve 3½-inch muffin cups with cooking spray, then press 1 wonton wrapper into each."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>2.</lede> Cook beef in a large skillet over medium-high heat, stirring to break up lumps, until browned, 5 to 7 minutes. Sprinkle with salt and black pepper; drain grease."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>3.</lede> Stir together ¾ cup each Parmesan and mozzarella in a bowl. Spoon half the cheese mixture into muffin cups; top with half the beef and half the pasta sauce. Top muffin cups with remaining wonton wrappers, cheese mixture, beef, and sauce. Sprinkle with remaining Parmesan and mozzarella."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>4.</lede> Bake until edges are browned, 18 to 20 minutes. Let cool in pan 5 minutes, then run a knife around edges to loosen and remove cupcakes."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede><a href=\"https://www.allrecipes.com/recipe/241564/lasagna-cupcakes/\">armagazine.com/lasagna-cupcakes</a></lede>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "attributeTextStyle",
+              "format": "html",
+              "text": "PER SERVING (2 CUPCAKES): 355 CAL; 16G FAT (8G SAT); 24G PRO; 26G CARB (1G FIBER, 3G SUGARS); 990MG SODIUM"
+            },
+            {
+              "//": "======= YOU SAID CONTAINER ======",
+              "role": "container",
+              "layout": "youSaidContainerLayout",
+              "components": [
+                {
+                  "role": "container",
+                  "layout": {
+                    "margin": {
+                      "bottom": 10
+                    }
+                  },
+                  "contentDisplay": {
+                    "alignment": "center",
+                    "distribution": "narrow",
+                    "maximumWidth": 80,
+                    "type": "collection"
+                  },
+                  "components": [
+                    {
+                      "role": "image",
+                      "style": {
+                        "backgroundColor": "#008080",
+                        "mask": {
+                          "radius": 80,
+                          "type": "corners"
+                        }
+                      },
+                      "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/carolportno_032/197500-1-eng-GB/carolportno_0322.jpg?q=100"
+                    }
+                  ]
+                },
+                {
+                  "role": "pullquote",
+                  "textStyle": "youSaidQuoteTextStyle",
+                  "format": "html",
+                  "text": "“I made these vegetarian by using spinach, zucchini, yellow squash, and onions. They tasted even better two days later.”<br><pullquote-attribution>– CAROL PORTNOY CENNAMO</pullquote-attribution>"
+                }
+              ]
+            },
+            {
+              "//": "======= YOU SAID CONTAINER ======",
+              "role": "container",
+              "layout": "youSaidContainerLayout",
+              "components": [
+                {
+                  "//": "======= YOU SAID HEADING ======",
+                  "role": "heading5",
+                  "layout": "heading5Layout",
+                  "style": "heading5Style",
+                  "textStyle": "heading5CenteredTextStyle",
+                  "format": "html",
+                  "text": "Alexa-enabled!"
+                },
+                {
+                  "role": "image",
+                  "layout": {
+                    "//": "IPAD CONDITION STYLING",
+                    "conditional": [
+                      {
+                        "//": "PHONE CONDITION STYLING",
+                        "conditions": [
+                          {
+                            "maxViewportWidth": 415
+                          }
+                        ],
+                        "maximumContentWidth": "20cw",
+                        "minimumWidth": "20cw"
+                      }
+                    ],
+                    "maximumContentWidth": "10cw",
+                    "minimumWidth": "10cw"
+                  },
+                  "URL": "https://public-assets.meredithcorp.io/52a9945feae3786d54921b3bcdb7b230/ALR0920-p51-badge.png"
+                },
+                {
+                  "role": "pullquote",
+                  "layout": "bodySmallMarginAboveLayout",
+                  "textStyle": "youSaidQuoteTextStyle",
+                  "format": "html",
+                  "text": "Just say, “Alexa, ask Allrecipes for Lasagna Cupcakes.” She’ll guide you through the recipe step-by-step—all hands-free!"
+                }
+              ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1585.0/W1366.0 * 100 = 116.0322108 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p015-alt102382-fire-roasted-corn-beef-skillet-pie/199198-1-eng-GB/p015-alt102382-fire-roasted-corn-beef-skillet-pie.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "bodyLayout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Fire-Roasted Corn and Beef Skillet Pie"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "recipeDetailsTextStyle",
+              "format": "html",
+              "text": "<lede>HANDS-ON</lede> 15 MIN <lede>TOTAL</lede> 45 MIN <lede>SERVES</lede> 6 <br><lede>SUBMITTED BY</lede> EATANDRUN"
+            },
+            {
+              "//": "***** NEW RECIPE LINK *****",
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "recipeDetailsTextStyle",
+              "format": "html",
+              "text": "<a href=\"https://www.allrecipes.com/recipe/8388138/fire-roasted-corn-and-beef-skillet-pie/\">NEW RECIPE GO ONLINE TO RATE &amp; REVIEW</a>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<i>Have some pizza seasoning in your spice cabinet? Sprinkle it over the breadsticks before baking.</i>"
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td>1</td><td>lb. ground beef</td></tr><tr><td>2</td><td>cups frozen fire-roasted corn</td></tr><tr><td>24</td><td>oz. jar red pasta sauce</td></tr><tr><td>¾</td><td>cup shredded pepper Jack cheese</td></tr><tr><td>1</td><td>(11-oz.) pkg. refrigerated breadsticks</td></tr></table>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>1.</lede> Preheat oven to 400°F. Cook ground beef, stirring and breaking up lumps, in a large cast-iron skillet until browned, about 10 minutes. Stir in corn and pasta sauce. Bring to a boil, then stir in cheese. Unroll breadsticks and loosely weave on top of filling."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>2.</lede> Bake until golden brown and bubbly, 20 to 25 minutes. Let stand 10 minutes."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede><a href=\"https://www.allrecipes.com/recipe/8388138/fire-roasted-corn-and-beef-skillet-pie/\">armagazine.com/fire-roasted-corn-and-beef-skillet-pie</a></lede>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "attributeTextStyle",
+              "format": "html",
+              "text": "PER SERVING: 435 CAL; 18G FAT (7G SAT); 24G PRO; 43G CARB (4G FIBER, 11G SUGARS); 1,015MG SODIUM"
+            },
+            {
+              "//": "====== CALLOUT ======",
+              "role": "container",
+              "layout": "calloutLayout",
+              "style": "calloutStyle",
+              "components": [
+                {
+                  "role": "heading",
+                  "layout": "calloutHeadingLayout",
+                  "textStyle": "calloutHeadingTextStyle",
+                  "format": "html",
+                  "text": "Get More Recipes"
+                },
+                {
+                  "role": "body",
+                  "layout": "calloutBodyLayout",
+                  "textStyle": "calloutBodyTextStyle",
+                  "format": "html",
+                  "text": "Tap <a href=\"http://tqr.bz/iTT\">here</a> to see 19 fast, family-friendly ground beef dinners. No app download needed!"
+                }
+              ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1890.0/W1366.0 * 100 = 138.3601757 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p016-alt102382-spicy-lamb-patties/199212-1-eng-GB/p016-alt102382-spicy-lamb-patties.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "bodyLayout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Spicy Lamb Patties"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "recipeDetailsTextStyle",
+              "format": "html",
+              "text": "<lede>HANDS-ON</lede> 25 MIN <lede>TOTAL</lede> 25 MIN <lede>SERVES</lede> 4 <br><lede>SUBMITTED BY</lede> CHEYENNIGANS"
+            },
+            {
+              "//": "====== REVIEWS ======",
+              "role": "container",
+              "layout": "bodyLayout",
+              "contentDisplay": {
+                "type": "horizontal_stack"
+              },
+              "components": [
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": true
+                    }
+                  ],
+                  "hidden": false,
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common0166/108858-1-eng-GB/common012.jpg?q=100"
+                },
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": false
+                    }
+                  ],
+                  "hidden": true,
+                  "URL": "https://public-assets.meredithcorp.io/8700c3d249629b59c38e0b147c58947c/fourDM.png"
+                },
+                {
+                  "role": "container",
+                  "layout": "smallSpacerLayout"
+                },
+                {
+                  "role": "body",
+                  "layout": {
+                    "padding": {
+                      "top": 0
+                    }
+                  },
+                  "textStyle": "reviewsTextStyle",
+                  "format": "html",
+                  "text": "72 REVIEWS"
+                }
+              ]
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<i>Try tucking these spiced patties into pitas along with fresh toppings, such as cucumber, baby spinach, tomato, and/or yogurt.</i>"
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td>1</td><td>lb. ground lamb</td></tr><tr><td>⅓</td><td>cup minced green onion</td></tr><tr><td>4</td><td>cloves garlic, minced</td></tr><tr><td>1</td><td>Tbsp. curry powder</td></tr><tr><td>1</td><td>tsp. cumin</td></tr><tr><td>¼</td><td>tsp. crushed red pepper</td></tr><tr><td>½</td><td>tsp. salt</td></tr><tr><td>½</td><td>tsp. black pepper</td></tr></table>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>1.</lede> Preheat an outdoor or stovetop grill to high (450°F to 650°F). Lightly oil grate."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>2.</lede> Stir all ingredients into a bowl. Form mixture into 4 patties (3¼ inches wide and ¾ inch thick)."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>3.</lede> Grill patties to preferred degree of doneness, about 5 minutes per side for medium."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede><a href=\"https://www.allrecipes.com/recipe/84364/spicy-lamb-patties/\">armagazine.com/spicy-lamb-patties</a></lede>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b><i>QUICK</i></b>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "attributeTextStyle",
+              "format": "html",
+              "text": "PER PATTY: 287 CAL; 22G FAT (9G SAT); 20G PRO; 3G CARB (1G FIBER, 0G SUGARS); 362MG SODIUM"
+            },
+            {
+              "//": "======= YOU SAID CONTAINER ======",
+              "role": "container",
+              "layout": "youSaidContainerLayout",
+              "components": [
+                {
+                  "role": "pullquote",
+                  "textStyle": "youSaidQuoteTextStyle",
+                  "format": "html",
+                  "text": "“Remember to check the heat level of the curry powder. There is mild, medium, and hot. If you’re new to curry, start with mild.”<br><pullquote-attribution>– LAURAELLEN225</pullquote-attribution>"
+                }
+              ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H2107.0/W1366.0 * 100 = 154.2459736 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p017-alt102382-sausage-egg-muffins/199205-1-eng-GB/p017-alt102382-sausage-egg-muffins.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "bodyLayout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Sausage-Egg Muffins"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "recipeDetailsTextStyle",
+              "format": "html",
+              "text": "<lede>HANDS-ON</lede> 20 MIN <lede>TOTAL</lede> 40 MIN <lede>MAKES</lede> 12<br><lede>SUBMITTED BY</lede> SMILEYBLAKE"
+            },
+            {
+              "//": "====== REVIEWS ======",
+              "role": "container",
+              "layout": "bodyLayout",
+              "contentDisplay": {
+                "type": "horizontal_stack"
+              },
+              "components": [
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": true
+                    }
+                  ],
+                  "hidden": false,
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common0166/108858-1-eng-GB/common012.jpg?q=100"
+                },
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": false
+                    }
+                  ],
+                  "hidden": true,
+                  "URL": "https://public-assets.meredithcorp.io/8700c3d249629b59c38e0b147c58947c/fourDM.png"
+                },
+                {
+                  "role": "container",
+                  "layout": "smallSpacerLayout"
+                },
+                {
+                  "role": "body",
+                  "layout": {
+                    "padding": {
+                      "top": 0
+                    }
+                  },
+                  "textStyle": "reviewsTextStyle",
+                  "format": "html",
+                  "text": "184 REVIEWS"
+                }
+              ]
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<i>Round out your meal by serving these muffins with salsa and/or fresh fruit.</i>"
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td>½</td><td>lb. ground pork sausage</td></tr><tr><td>12</td><td>eggs, beaten</td></tr><tr><td>½</td><td>(4-oz.) can chopped green chile peppers, drained</td></tr><tr><td>¾</td><td>cup chopped onion</td></tr><tr><td>1</td><td>tsp. garlic powder</td></tr><tr><td>¼</td><td>tsp. salt</td></tr><tr><td>⅛</td><td>tsp. black pepper</td></tr></table>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>1.</lede> Preheat oven to 350°F. Lightly grease 12 muffin cups."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>2.</lede> Add sausage to a large, deep skillet over medium-high heat; cook, breaking up lumps with a wooden spoon, until evenly browned, about 5 minutes. Drain grease and transfer sausage to a large bowl. Stir in eggs, chiles, onion, garlic powder, salt, and black pepper until well combined. Spoon ¼ cup sausage mixture into each prepared muffin cup."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>3.</lede> Bake until egg has set and a toothpick inserted into centers comes out clean, 15 to 20 minutes."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede><a href=\"https://www.allrecipes.com/recipe/21602/sausage-egg-muffins/\">armagazine.com/sausage-egg-muffins</a></lede>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "attributeTextStyle",
+              "format": "html",
+              "text": "PER MUFFIN: 132 CAL; 9G FAT (3G SAT); 9G PRO; 2G CARB (0G FIBER, 1G SUGARS); 278MG SODIUM"
+            },
+            {
+              "//": "======= YOU SAID CONTAINER ======",
+              "role": "container",
+              "layout": "youSaidContainerLayout",
+              "components": [
+                {
+                  "role": "pullquote",
+                  "textStyle": "youSaidQuoteTextStyle",
+                  "format": "html",
+                  "text": "“I added about 2 Tbsp. salsa and a splash of hot sauce instead of the chile peppers. These would probably be even better with some cheese sprinkled on top.”<br><pullquote-attribution>– BEANIE76</pullquote-attribution>"
+                }
+              ]
+            },
+            {
+              "//": "======= YOU SAID CONTAINER ======",
+              "role": "container",
+              "layout": "youSaidContainerLayout",
+              "components": [
+                {
+                  "role": "pullquote",
+                  "textStyle": "youSaidQuoteTextStyle",
+                  "format": "html",
+                  "text": "“So much fun! I made these in a mini muffin pan so they were easier to eat and made for a fast breakfast on the run.”<br><pullquote-attribution>– LAURA</pullquote-attribution>"
+                }
+              ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1334.0/W1366.0 * 100 = 97.6573939 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p018-alt102382-ms-buffalo-chicken-meatballs/199240-1-eng-GB/p018-alt102382-ms-buffalo-chicken-meatballs.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "bodyLayout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "M’s Buffalo Chicken Meatballs"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "recipeDetailsTextStyle",
+              "format": "html",
+              "text": "<lede>HANDS-ON</lede> 25 MIN <lede>TOTAL</lede> 45 MIN <lede>SERVES</lede> 10 <br><lede>SUBMITTED BY</lede> MMARONIC"
+            },
+            {
+              "//": "====== REVIEWS ======",
+              "role": "container",
+              "layout": "bodyLayout",
+              "contentDisplay": {
+                "type": "horizontal_stack"
+              },
+              "components": [
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": true
+                    }
+                  ],
+                  "hidden": false,
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common0166/108858-1-eng-GB/common012.jpg?q=100"
+                },
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": false
+                    }
+                  ],
+                  "hidden": true,
+                  "URL": "https://public-assets.meredithcorp.io/8700c3d249629b59c38e0b147c58947c/fourDM.png"
+                },
+                {
+                  "role": "container",
+                  "layout": "smallSpacerLayout"
+                },
+                {
+                  "role": "body",
+                  "layout": {
+                    "padding": {
+                      "top": 0
+                    }
+                  },
+                  "textStyle": "reviewsTextStyle",
+                  "format": "html",
+                  "text": "51 REVIEWS"
+                }
+              ]
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<i>For a fresh finish, top these meatballs with chopped parsley or celery leaves.</i>"
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td>6</td><td>Tbsp. hot pepper sauce (such as Frank’s RedHot), plus more for serving</td></tr><tr><td>¼</td><td>cup butter</td></tr><tr><td>1</td><td>lb. ground chicken</td></tr><tr><td>¾</td><td>cup dried bread crumbs</td></tr><tr><td>1</td><td>egg, lightly beaten</td></tr></table>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>1.</lede> Preheat oven to 450°F. Grease a large rimmed baking sheet."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>2.</lede> Heat hot sauce and butter in a saucepan over low heat, whisking until butter is melted. Let cool to room temperature."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>3.</lede> Stir together hot sauce mixture, chicken, bread crumbs, and egg in a bowl until well combined. Shape into 1-inch balls; arrange on prepared sheet."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>4.</lede> Bake about 15 minutes, or until an instant-read thermometer inserted into centers registers 165°F. Let cool on sheet 5 minutes. Transfer to a platter. Drizzle with additional hot sauce."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede><a href=\"https://www.allrecipes.com/recipe/238020/buffalo-meatballs/\">armagazine.com/ms-buffalo-chicken-meatballs</a></lede>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "attributeTextStyle",
+              "format": "html",
+              "text": "PER SERVING (4 MEATBALLS): 145 CAL; 9G FAT (4G SAT); 10G PRO; 6G CARB (0G FIBER, 1G SUGARS); 475MG SODIUM"
+            },
+            {
+              "//": "======= YOU SAID CONTAINER ======",
+              "role": "container",
+              "layout": "youSaidContainerLayout",
+              "components": [
+                {
+                  "role": "pullquote",
+                  "textStyle": "youSaidQuoteTextStyle",
+                  "format": "html",
+                  "text": "“These were a great way to scratch the itch for chicken wings without having all the fat and calories. I used ground turkey breast and panko bread crumbs.”<br><pullquote-attribution>– KOOLKITTY</pullquote-attribution>"
+                }
+              ]
+            },
+            {
+              "//": "======= YOU SAID CONTAINER ======",
+              "role": "container",
+              "layout": "youSaidContainerLayout",
+              "components": [
+                {
+                  "role": "pullquote",
+                  "textStyle": "youSaidQuoteTextStyle",
+                  "format": "html",
+                  "text": "“I tucked a little cheddar inside each meatball. And I added melted butter and hot sauce at the end instead of plain hot sauce. Huge hit!”<br><pullquote-attribution>– SCARVIN</pullquote-attribution>"
+                }
+              ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H2010.0/W1366.0 * 100 = 147.1449488 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p019-alt102382-healthy-turkey-loaf/199219-1-eng-GB/p019-alt102382-healthy-turkey-loaf.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "bodyLayout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Healthy Turkey Loaf"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "recipeDetailsTextStyle",
+              "format": "html",
+              "text": "<lede>HANDS-ON</lede> 15 MIN <lede>TOTAL</lede> 40 MIN <lede>SERVES</lede> 6 <br><lede>SUBMITTED BY</lede> SUSAN E. MURPHY"
+            },
+            {
+              "//": "====== REVIEWS ======",
+              "role": "container",
+              "layout": "bodyLayout",
+              "contentDisplay": {
+                "type": "horizontal_stack"
+              },
+              "components": [
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": true
+                    }
+                  ],
+                  "hidden": false,
+                  "URL": "https://public-assets.meredithcorp.io/4cadea6bc3bbdd6b0bdfab5abedfb66f/fourstars.jpg"
+                },
+                {
+                  "role": "image",
+                  "layout": "starsImageLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minSpecVersion": "1.14",
+                          "preferredColorScheme": "dark"
+                        }
+                      ],
+                      "hidden": false
+                    }
+                  ],
+                  "hidden": true,
+                  "URL": "https://public-assets.meredithcorp.io/8e401d3520fc3b0bec1ecdf6f118edf3/fourstarsDM.png"
+                },
+                {
+                  "role": "container",
+                  "layout": "smallSpacerLayout"
+                },
+                {
+                  "role": "body",
+                  "layout": {
+                    "padding": {
+                      "top": 0
+                    }
+                  },
+                  "textStyle": "reviewsTextStyle",
+                  "format": "html",
+                  "text": "518 REVIEWS"
+                }
+              ]
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td>1</td><td>lb. ground turkey <i>[Use 93% lean ground turkey, not ground turkey breast, which dries out quickly.]</i></td></tr><tr><td>1</td><td>egg</td></tr><tr><td>½</td><td>cup salsa, plus more for serving</td></tr><tr><td>½</td><td>cup chopped red and/or yellow bell pepper</td></tr><tr><td>½</td><td>cup dried bread crumbs</td></tr><tr><td>¼</td><td>cup chopped onion (optional)</td></tr><tr><td>1</td><td>tsp. black or lemon pepper</td></tr><tr><td>½</td><td>tsp. salt</td></tr></table>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>1.</lede> Preheat oven to 350°F."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>2.</lede> Combine all ingredients in a large bowl with your hands until well blended. Press mixture into a lightly greased 4x8-inch loaf pan."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>3.</lede> Bake about 25 minutes, or until an instant-read thermometer inserted into center registers 165°F. Serve with additional salsa."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede><a href=\"https://www.allrecipes.com/recipe/25418/healthy-turkey-loaf/\">armagazine.com/healthy-turkey-loaf</a></lede>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b><i>HIDDEN GEM</i></b> | <b><i>QUICK</i></b> | <b><i>GLUTEN-FREE</i></b>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "attributeTextStyle",
+              "format": "html",
+              "text": "PER 4.8-OZ. SERVING: 203 CAL; 9G FAT (2G SAT); 19G PRO; 10G CARB (1G FIBER, 1G SUGARS); 481MG SODIUM"
+            },
+            {
+              "//": "======= YOU SAID CONTAINER ======",
+              "role": "container",
+              "layout": "youSaidContainerLayout",
+              "components": [
+                {
+                  "role": "pullquote",
+                  "textStyle": "youSaidQuoteTextStyle",
+                  "format": "html",
+                  "text": "“I tried this with some light barbecue sauce poured on the top, and wow—that was good!”<br><pullquote-attribution>– CINDY LINEBERRY</pullquote-attribution>"
+                }
+              ]
+            },
+            {
+              "//": "====== CALLOUT ======",
+              "role": "container",
+              "layout": "calloutLayout",
+              "style": "calloutStyle",
+              "components": [
+                {
+                  "role": "heading",
+                  "layout": "calloutHeadingLayout",
+                  "textStyle": "calloutHeadingTextStyle",
+                  "format": "html",
+                  "text": "Pick Your Salsa"
+                },
+                {
+                  "role": "body",
+                  "layout": "calloutBodyLayout",
+                  "textStyle": "calloutBodyTextStyle",
+                  "format": "html",
+                  "text": "With so many different salsa options on store shelves, you can give this meatloaf a different flavor each time you make it. Try chipotle salsa for a deep, smoky flavor. Go green by using salsa verde. Or add a fruity salsa, such as pineapple or peach salsa, for a sweet-savory twist."
+                }
+              ]
             }
           ]
         },
@@ -309,14 +1486,6 @@
         "top": 20
       }
     },
-    "bodyBigMarginAboveLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
-      "margin": {
-        "bottom": 10,
-        "top": 12
-      }
-    },
     "bodyContainerLayout": {
       "ignoreDocumentMargin": true,
       "margin": 10
@@ -327,6 +1496,14 @@
       "margin": {
         "bottom": 10,
         "top": 2
+      }
+    },
+    "bodySmallMarginAboveLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 10
       }
     },
     "bottomPhotoDividerLayout": {
@@ -362,22 +1539,6 @@
     },
     "captionLayout": {
       "margin": 8
-    },
-    "captionLayout2": {
-      "columnSpan": 18,
-      "columnStart": 1,
-      "margin": {
-        "bottom": 8,
-        "top": 2
-      }
-    },
-    "collectionLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
-      "margin": {
-        "bottom": 10,
-        "top": 20
-      }
     },
     "darkModePaddingLayout": {
       "conditional": [
@@ -503,14 +1664,6 @@
         "top": 10
       }
     },
-    "heading6Layout1": {
-      "columnSpan": 18,
-      "columnStart": 1,
-      "margin": {
-        "bottom": 10,
-        "top": 10
-      }
-    },
     "heroImageLayout": {
       "ignoreDocumentMargin": true,
       "margin": {
@@ -527,7 +1680,10 @@
       }
     },
     "ingredientsLayout": {
-      "margin": 10
+      "margin": {
+        "bottom": 10,
+        "top": 10
+      }
     },
     "introLayout": {
       "columnSpan": 18,
@@ -539,9 +1695,6 @@
     "noMarginLayout": {
       "columnSpan": 18,
       "columnStart": 1
-    },
-    "productImageStandardLayout": {
-      "minimumHeight": 280
     },
     "pullQuoteLayout": {
       "columnSpan": 16,
@@ -712,8 +1865,8 @@
     "calloutStyle": {
       "border": {
         "all": {
-          "color": "#000",
-          "width": 3
+          "width": 4,
+          "color": "#000"
         }
       }
     },
@@ -774,28 +1927,7 @@
       ]
     },
     "dividerStandardStyle": {
-      "fill": {
-        "fillMode": "fit",
-        "type": "image",
-        "horizontalAlignment": "left",
-        "URL": "https://public-assets-dev.meredithcorp.io/c9ac08dffda87c9b20c0ffa6dc6a8cb5/slash.PNG"
-      },
-      "conditional": [
-        {
-          "fill": {
-            "fillMode": "fit",
-            "type": "image",
-            "horizontalAlignment": "left",
-            "URL": "https://public-assets.meredithcorp.io/2c69e97bf1ef728ebd2a0eac481691a8/slash-white.png"
-          },
-          "conditions": [
-            {
-              "preferredColorScheme": "dark",
-              "minSpecVersion": "1.14"
-            }
-          ]
-        }
-      ]
+      "backgroundColor": "#000"
     },
     "dividerTocStyle": {
       "//": "UNUSED"
@@ -844,7 +1976,7 @@
                   "columnIndex": 1
                 }
               ],
-              "width": 75
+              "width": 90
             }
           ],
           "textStyle": "ingredientsTextStyle",
@@ -858,7 +1990,7 @@
                   "columnIndex": 0
                 }
               ],
-              "width": 10
+              "width": 5
             },
             {
               "selectors": [
@@ -983,18 +2115,14 @@
       }
     },
     "sidebarStyle": {
-      "backgroundColor": "#f3f3f3",
-      "conditional": [
-        {
-          "backgroundColor": "#f3f3f3",
-          "conditions": [
-            {
-              "minSpecVersion": "1.14",
-              "preferredColorScheme": "dark"
-            }
-          ]
-        }
-      ]
+      "border": {
+        "all": {
+          "width": 2,
+          "color": "#000"
+        },
+        "left": false,
+        "right": false
+      }
     },
     "straplineStyle": {
       "//": "UNUSED"
@@ -1008,93 +2136,21 @@
         "radius": "60cw",
         "type": "corners"
       }
-    },
-    "dividerNewStyle": {
-      "fill": {
-        "fillMode": "fit",
-        "type": "image",
-        "horizontalAlignment": "left",
-        "URL": "https://public-assets-dev.meredithcorp.io/c9ac08dffda87c9b20c0ffa6dc6a8cb5/slash.PNG"
-      },
-      "conditional": [
-        {
-          "fill": {
-            "fillMode": "fit",
-            "type": "image",
-            "horizontalAlignment": "left",
-            "URL": "https://public-assets.meredithcorp.io/2c69e97bf1ef728ebd2a0eac481691a8/slash-white.png"
-          },
-          "conditions": [
-            {
-              "preferredColorScheme": "dark",
-              "minSpecVersion": "1.14"
-            }
-          ]
-        }
-      ]
-    },
-    "dividerStandardStyle2": {
-      "fill": {
-        "fillMode": "fit",
-        "type": "image",
-        "horizontalAlignment": "center",
-        "URL": "https://public-assets-dev.meredithcorp.io/c9ac08dffda87c9b20c0ffa6dc6a8cb5/slash.PNG"
-      },
-      "conditional": [
-        {
-          "fill": {
-            "fillMode": "fit",
-            "type": "image",
-            "horizontalAlignment": "center",
-            "URL": "https://public-assets.meredithcorp.io/2c69e97bf1ef728ebd2a0eac481691a8/slash-white.png"
-          },
-          "conditions": [
-            {
-              "preferredColorScheme": "dark",
-              "minSpecVersion": "1.14"
-            }
-          ]
-        }
-      ]
-    },
-    "logoStyle": {
-      "fill": {
-        "fillMode": "fit",
-        "type": "image",
-        "horizontalAlignment": "center",
-        "URL": "https://public-assets.meredithcorp.io/38f1c3a6bbd26fd0497651e248a4bcfe/logo.jpg"
-      },
-      "conditional": [
-        {
-          "fill": {
-            "fillMode": "fit",
-            "type": "image",
-            "horizontalAlignment": "center",
-            "URL": "https://public-assets.meredithcorp.io/17dc434c6a54105cf7e243c6833d700f/T&L_logo_DM.jpg"
-          },
-          "conditions": [
-            {
-              "preferredColorScheme": "dark",
-              "minSpecVersion": "1.14"
-            }
-          ]
-        }
-      ]
     }
   },
   "textStyles": {
     "creditTextStyle": {
-      "fontName": "Gotham-Book",
+      "fontName": "CaslonDoricApp-Regular",
       "fontSize": 10,
-      "textColor": "#8d8d8d",
-      "tracking": 0.05
+      "textColor": "#8d8d8d"
     },
     "default-tag-bold": {
       "fontName": "GothamNarrow-Bold"
     },
     "default-tag-caption-heading": {
-      "fontName": "GrifoS-Bold",
-      "textTransform": "uppercase"
+      "fontName": "CaslonDoricApp-Bold",
+      "fontSize": 15,
+      "tracking": 0.05
     },
     "default-tag-caption-i": {
       "fontName": "Gotham-Book"
@@ -1103,10 +2159,9 @@
       "fontName": "AppleColorEmoji"
     },
     "default-tag-lede": {
-      "fontName": "SharpGroteskBook18",
+      "fontName": "CaslonDoricApp-Bold",
       "fontSize": 16,
-      "tracking": 0.1,
-      "textTransform": "uppercase"
+      "tracking": 0.05
     },
     "default-tag-m": {
       "fontName": "Gotham-Medium"
@@ -1114,16 +2169,16 @@
     "default-tag-mi": {
       "fontName": "Gotham-MediumItalic"
     },
-    "default-tag-nm": {
-      "fontName": "GothamNarrow-Medium",
-      "fontSize": 17,
-      "lineHeight": 21
-    },
     "default-tag-pullquote-attribution": {
-      "fontSize": 15
+      "fontName": "GothamCondensed-Medium",
+      "fontSize": 18,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.05
     },
     "default-tag-sidebar-lede": {
-      "fontName": "SharpGroteskSmBold23"
+      "fontName": "CaslonDoricApp-Bold",
+      "fontSize": 16
     },
     "default-tag-subsection": {
       "fontName": "Gotham-Light"
@@ -1134,294 +2189,281 @@
     "subSectionTextStyle": {
       "//": "UNUSED"
     },
-    "default-tag-b-25": {
-      "fontName": "SharpGroteskBold25"
+    "default-tag-blue": {
+      "textColor": "#2BADEF"
     },
-    "default-tag-b-23": {
-      "fontName": "SharpGroteskSmBold23"
+    "default-tag-body-author": {
+      "fontSize": 14,
+      "fontName": "CaslonDoricApp-Regular"
     },
-    "default-tag-mi-20": {
-      "fontName": "SharpGroteskMediumItalic20"
+    "default-tag-caption-italic": {
+      "fontName": "CaslonDoricApp-RegularItalic"
     },
-    "default-tag-caption-regular": {
-      "fontName": "GrifoS-Medium"
+    "default-tag-coldopen-strapline": {
+      "fontName": "CaslonDoricApp-Medium",
+      "fontSize": 12,
+      "textAlignment": "center",
+      "tracking": 0.15
     },
-    "default-tag-uc": {
-      "textTransform": "uppercase"
+    "default-tag-coldopensmall": {
+      "fontName": "OriginalSansApp-Three",
+      "fontSize": 16,
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 415
+            }
+          ],
+          "fontSize": 25
+        }
+      ],
+      "textTransform": "uppercase",
+      "tracking": 0.15
     },
-    "default-tag-intro-name": {
-      "fontName": "GrifoS-Bold"
+    "default-tag-color": {
+      "textColor": "#F15A21"
     },
-    "default-tag-body-bold": {
-      "fontName": "SharpGroteskSmBold23",
-      "fontSize": 16
+    "default-tag-highlight": {
+      "backgroundColor": "#FEF203"
     },
-    "default-tag-sidebar-italic": {
-      "fontName": "SharpGroteskMediumItalic20"
+    "default-tag-introitalic": {
+      "fontName": "CaslonDoricApp-RegularNo2Italic"
+    },
+    "default-tag-introitalic-bold": {
+      "fontName": "CaslonDoricApp-BoldItalic"
+    },
+    "default-tag-red": {
+      "textColor": "#EE3124"
+    },
+    "default-tag-lede-alt": {
+      "fontName": "CaslonDoricApp-Bold",
+      "fontSize": 16,
+      "tracking": 0.05,
+      "textColor": "#F15921"
+    },
+    "default-tag-original-bold": {
+      "fontName": "OriginalSansApp-Four"
+    },
+    "default-tag-original-bolditalic": {
+      "fontName": "OriginalSansApp-FourItalic",
+      "tracking": 0.02
+    },
+    "default-tag-original-semibold": {
+      "fontName": "OriginalSansApp-Three"
+    },
+    "default-tag-original-semibolditalic": {
+      "fontName": "OriginalSansApp-ThreeItalic"
+    },
+    "default-tag-semibold-italic": {
+      "fontName": "CaslonDoricApp-SemiboldItalic"
+    },
+    "default-tag-sidebarintro-regular": {
+      "fontName": "CaslonDoricApp-Semibold"
     }
   },
   "componentTextStyles": {
     "//": {
-      "//": "================ ALL RECIPES OVERRIDES ================"
+      "//": "===================== ENTERTAINMENT WEEKLY OVERRIDES ====================="
     },
     "attributeTextStyle": {
-      "fontName": "Flama-Light",
+      "fontName": "CaslonDoricApp-Regular",
       "fontSize": 10,
-      "lineHeight": 12,
-      "tracking": 0.05,
-      "textTransform": "uppercase"
+      "textTransform": "uppercase",
+      "lineHeight": 12
     },
     "authorTextStyle": {
-      "fontName": "GrifoS-Bold"
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "linkStyle": {
+            "underline": {
+              "color": "#eee"
+            }
+          }
+        }
+      ],
+      "fontName": "CaslonDoricApp-SemiboldItalic",
+      "linkStyle": {
+        "underline": {
+          "color": "#999"
+        }
+      },
+      "tracking": 0.05
     },
     "bodyCenteredTextStyle": {
-      "fontName": "GrifoS-Regular",
       "textAlignment": "center"
     },
     "bodyDropCapTextStyle": {
+      "fontName": "FreightTextProBook-Regular",
       "dropCapStyle": {
-        "fontName": "Loggia-Regular",
-        "numberOfCharacters": 1,
-        "numberOfLines": 4
-      },
-      "fontName": "GrifoS-Regular"
+        "fontName": "CaslonDoricApp-Bold",
+        "numberOfLines": 3,
+        "numberOfRaisedLines": 0,
+        "numberOfCharacters": 1
+      }
     },
     "bodyTextStyle": {
-      "fontName": "GrifoS-Regular"
+      "fontName": "FreightTextProBook-Regular"
     },
     "calloutBodyTextStyle": {
+      "fontName": "CaslonDoricApp-Regular",
       "fontSize": 16,
       "lineHeight": 20,
       "textAlignment": "center"
     },
     "calloutHeadingTextStyle": {
-      "fontName": "SharpGroteskSmBold23",
-      "fontSize": 19,
-      "lineHeight": 21,
+      "fontName": "CaslonDoricApp-Bold",
+      "fontSize": 24,
+      "lineHeight": 26,
       "textAlignment": "center",
-      "textTransform": "uppercase"
+      "textColor": "#F15A21"
     },
     "captionAdTextStyle": {
       "//": "UNUSED"
     },
     "captionCenteredTextStyle": {
-      "linkStyle": {
-        "fontName": "GrifoS-Medium",
-        "textColor": "#366a9b"
-      },
-      "textAlignment": "center",
-      "fontName": "GrifoS-MediumItalic"
+      "textAlignment": "center"
     },
     "captionEmbeddedTextStyle": {
       "fontName": "HelveticaNeue",
       "lineHeight": 16
     },
     "captionTextStyle": {
-      "linkStyle": {
-        "fontName": "GrifoS-Medium",
-        "textColor": "#366a9b"
-      },
-      "fontName": "GrifoS-MediumItalic"
+      "fontName": "CaslonDoricApp-Regular",
+      "tracking": 0.05
     },
     "default": {
-      "fontName": "GrifoS-Regular",
-      "hyphenation": false,
+      "fontName": "CaslonDoricApp-Bold",
+      "textColor": "#000",
       "linkStyle": {
-        "textColor": "#366a9b"
+        "underline": true
       },
-      "textColor": "#221E1F"
+      "hyphenation": false
     },
     "default-author": {
-      "fontSize": 24,
-      "lineHeight": 26,
-      "tracking": -0.01
+      "fontSize": 14,
+      "lineHeight": 16
     },
     "default-body": {
       "fontSize": 18,
-      "lineHeight": 22,
-      "paragraphSpacingAfter": 12,
-      "paragraphSpacingBefore": 12
+      "lineHeight": 24,
+      "paragraphSpacingBefore": 12,
+      "paragraphSpacingAfter": 12
     },
     "default-byline": {
       "//": "UNUSED"
     },
     "default-caption": {
+      "fontName": "Avenir-Book",
       "fontSize": 14,
-      "lineHeight": 17
+      "lineHeight": 16
     },
     "default-heading": {
       "fontSize": 16,
       "lineHeight": 16
     },
     "default-heading2": {
-      "fontSize": 40,
-      "lineHeight": 42
+      "fontSize": 35,
+      "lineHeight": 37
     },
     "default-heading3": {
-      "fontSize": 32,
-      "lineHeight": 34
+      "fontSize": 21,
+      "lineHeight": 23
     },
     "default-heading4": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minViewportWidth": 500
-            }
-          ],
-          "fontSize": 24,
-          "lineHeight": 26
-        }
-      ],
-      "fontSize": 28,
-      "lineHeight": 30
+      "fontSize": 18,
+      "lineHeight": 24
     },
     "default-heading5": {
       "fontSize": 17,
       "lineHeight": 19
     },
     "default-heading6": {
-      "fontSize": 18,
-      "lineHeight": 20
+      "fontSize": 16,
+      "lineHeight": 18
     },
     "default-intro": {
-      "fontSize": 24,
-      "lineHeight": 26,
-      "tracking": -0.01
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 430
+            }
+          ],
+          "fontSize": 18,
+          "lineHeight": 24
+        }
+      ],
+      "fontSize": 16,
+      "lineHeight": 22
     },
     "default-photographer": {
       "//": "UNUSED"
     },
     "default-pullquote": {
-      "fontSize": 44,
-      "lineHeight": 44,
-      "textAlignment": "center"
+      "fontSize": 39,
+      "lineHeight": 39
     },
     "default-title": {
-      "fontSize": 60,
-      "lineHeight": 59
+      "fontSize": 45,
+      "lineHeight": 47
     },
     "floatImageCaptionTextStyle": {
-      "fontName": "GrifoS-Italic"
+      "fontName": "CaslonDoricApp-Regular",
+      "tracking": 0.05
     },
     "heading2CenteredTextStyle": {
-      "fontName": "SharpGroteskSmBold23",
-      "textAlignment": "center",
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minViewportWidth": 500
-            }
-          ],
-          "fontSize": 30,
-          "lineHeight": 32
-        }
-      ],
-      "fontSize": 38,
-      "lineHeight": 40
+      "textAlignment": "center"
     },
     "heading2TextStyle": {
-      "fontName": "SharpGroteskSmBold23",
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minViewportWidth": 500
-            }
-          ],
-          "fontSize": 30,
-          "lineHeight": 32
-        }
-      ],
-      "fontSize": 38,
-      "lineHeight": 40
+      "fontName": "CaslonDoricApp-Bold"
     },
     "heading3CenteredTextStyle": {
-      "fontName": "SharpGroteskMedium20",
-      "textAlignment": "center",
-      "textTransform": "uppercase",
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minViewportWidth": 500
-            }
-          ],
-          "fontSize": 26,
-          "lineHeight": 28
-        }
-      ],
-      "fontSize": 32,
-      "lineHeight": 34
+      "textAlignment": "center"
     },
     "heading3TextStyle": {
-      "fontName": "SharpGroteskMedium20",
-      "textTransform": "uppercase",
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minViewportWidth": 500
-            }
-          ],
-          "fontSize": 26,
-          "lineHeight": 28
-        }
-      ],
-      "fontSize": 32,
-      "lineHeight": 34
+      "fontName": "CaslonDoricApp-Bold",
+      "textTransform": "uppercase"
     },
     "heading4CenteredTextStyle": {
-      "fontName": "SharpGroteskSmBold23",
-      "fontSize": 21,
-      "textAlignment": "center",
-      "lineHeight": 23
+      "textAlignment": "center"
     },
     "heading4TextStyle": {
-      "fontName": "SharpGroteskSmBold23",
-      "fontSize": 21,
-      "lineHeight": 23
+      "fontName": "CaslonDoricApp-Bold"
     },
     "heading5CenteredTextStyle": {
-      "fontName": "SharpGroteskMedium20",
-      "fontSize": 18,
-      "textTransform": "uppercase",
-      "textAlignment": "center",
-      "lineHeight": 20
+      "textAlignment": "center"
     },
     "heading5TextStyle": {
-      "fontName": "SharpGroteskMedium20",
-      "fontSize": 18,
-      "textTransform": "uppercase",
-      "lineHeight": 20
+      "fontName": "CaslonDoricApp-Bold"
     },
     "heading6CenteredTextStyle": {
-      "fontName": "SharpGroteskSmBold23",
-      "fontSize": 16,
-      "textAlignment": "center",
-      "textTransform": "uppercase",
-      "lineHeight": 20
+      "fontName": "CaslonDoricApp-Bold",
+      "textAlignment": "center"
     },
     "heading6TextStyle": {
-      "fontName": "SharpGroteskSmBold23",
-      "fontSize": 16,
-      "textTransform": "uppercase",
-      "lineHeight": 20
+      "fontName": "CaslonDoricApp-Bold",
+      "textTransform": "uppercase"
     },
     "ingredientsTextStyle": {
-      "fontName": "GothamNarrow-Book",
-      "lineHeight": 24
+      "fontName": "CaslonDoricApp-MediumItalic"
     },
     "introTextStyle": {
-      "fontName": "GrifoS-Regular"
+      "fontName": "CaslonDoricApp-RegularNo2",
+      "tracking": 0.05
     },
     "pullQuoteTextStyle": {
-      "fontName": "SharpGroteskMedium20",
-      "fontSize": 26,
-      "textTransform": "uppercase",
+      "fontName": "CaslonDoricApp-Light",
       "textAlignment": "center",
-      "lineHeight": 30
+      "tracking": 0.05,
+      "fontSize": 39,
+      "lineHeight": 45
     },
     "recipeDetailsTextStyle": {
       "fontName": "GothamNarrow-Book",
@@ -1455,55 +2497,50 @@
       "textTransform": "uppercase"
     },
     "sectionTextStyle": {
-      "fontName": "Loggia-SemiBold",
-      "fontSize": 20,
-      "lineHeight": 24,
-      "textTransform": "uppercase",
-      "tracking": 0.2
-    },
-    "sidebarBodyTextStyle": {
-      "fontName": "SharpGroteskBook18",
-      "fontSize": 15,
-      "lineHeight": 20
-    },
-    "sidebarHeading2TextStyle": {
-      "fontName": "SharpGroteskMedium20",
-      "fontSize": 40,
-      "lineHeight": 47,
-      "textTransform": "uppercase",
+      "fontName": "CaslonDoricApp-Medium",
+      "fontSize": 14,
       "tracking": 0.03
     },
+    "sidebarBodyTextStyle": {
+      "fontName": "CaslonDoricApp-Medium",
+      "lineHeight": 22
+    },
+    "sidebarHeading2TextStyle": {
+      "fontName": "CaslonDoricApp-Bold",
+      "fontSize": 42,
+      "lineHeight": 44
+    },
     "sidebarHeading3TextStyle": {
-      "fontName": "SharpGroteskSmBold23",
-      "fontSize": 18,
-      "lineHeight": 20,
-      "textTransform": "uppercase",
-      "tracking": 0.01
-    },
-    "sidebarHeading4TextStyle": {
-      "fontName": "SharpGroteskMedium20",
-      "fontSize": 16,
-      "lineHeight": 18,
-      "underline": true
-    },
-    "sidebarIntroTextStyle": {
-      "fontName": "GothamNarrow-Medium"
-    },
-    "straplineTextStyle": {
-      "fontName": "SharpGroteskBook18",
-      "tracking": 0.1,
-      "fontSize": 15,
-      "lineHeight": 15,
+      "fontName": "CaslonDoricApp-Semibold",
+      "fontSize": 20,
+      "lineHeight": 22,
       "textTransform": "uppercase"
     },
+    "sidebarHeading4TextStyle": {
+      "fontName": "CaslonDoricApp-Semibold",
+      "fontSize": 18,
+      "lineHeight": 20
+    },
+    "sidebarIntroTextStyle": {
+      "fontName": "CaslonDoricApp-Regular",
+      "fontSize": 17,
+      "lineHeight": 21,
+      "tracking": 0.02
+    },
+    "straplineTextStyle": {
+      "fontName": "OriginalSansApp-Three",
+      "fontSize": 16,
+      "lineHeight": 18,
+      "tracking": 0.05
+    },
     "titleTextStyle": {
-      "//": "UNUSED"
+      "fontName": "OriginalSansApp-Four",
+      "tracking": 0.05
     },
     "tocTextStyle": {
       "fontName": "AvenirNextCondensed-Medium",
       "fontSize": 16,
       "linkStyle": {
-        "fontName": "AvenirNextCondensed-Medium",
         "underline": true
       },
       "textAlignment": "center",
@@ -1515,110 +2552,117 @@
       "lineHeight": 24,
       "textAlignment": "center"
     },
-    "authorCenteredTextStyle": {
-      "fontName": "GrifoS-Bold",
-      "textAlignment": "center"
-    },
-    "articleNameTextStyle": {
-      "fontName": "GrifoS-Regular",
-      "fontSize": 55,
-      "lineHeight": 57,
+    "coldOpenStraplineTextStyle": {
+      "fontName": "CaslonDoricApp-Medium",
+      "fontSize": 13,
       "textAlignment": "center",
-      "textTransform": "uppercase",
-      "underline": true
+      "tracking": 0
     },
-    "articleSubsectionTextStyle": {
-      "fontName": "SharpGroteskSmBold23",
-      "fontSize": 38,
-      "lineHeight": 40,
+    "coldOpenTitleTextStyle": {
+      "fontName": "OriginalSansApp-Four",
+      "fontSize": 80,
+      "lineHeight": 22,
       "textAlignment": "center",
-      "textTransform": "uppercase"
+      "tracking": 0.1,
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 430
+            }
+          ],
+          "fontSize": 100,
+          "lineHeight": 26
+        }
+      ]
     },
-    "straplineCenteredTextStyle": {
-      "fontName": "SharpGroteskBook18",
-      "fontSize": 15,
-      "lineHeight": 15,
+    "contentTextStyles": {
+      "fontName": "CaslonDoricApp-Regular",
+      "fontSize": 12,
+      "lineHeight": 20,
+      "tracking": 0.1,
       "textAlignment": "center",
-      "textTransform": "uppercase",
-      "tracking": 0.1
+      "linkStyle": {
+        "underline": {
+          "color": "#F15921"
+        }
+      }
     },
-    "introCenteredTextStyle": {
-      "fontName": "GrifoS-Regular",
-      "textAlignment": "center"
-    },
-    "titleDiscoveriesTextStyle": {
-      "fontName": "GrifoS-Light",
-      "fontSize": 68,
-      "lineHeight": 68
-    },
-    "titleExperiencesTextStyle": {
-      "fontName": "SharpGroteskMedium20",
-      "fontSize": 55,
-      "lineHeight": 55
-    },
-    "titleEditorsLetterTextStyle": {
-      "fontName": "Mr.BanksStencil-Bold",
-      "fontSize": 44,
-      "lineHeight": 50,
-      "textAlignment": "center"
-    },
-    "titleIntelligentTravelerTextStyle": {
-      "fontName": "Mr.BanksStencil-Bold",
-      "fontSize": 55,
-      "lineHeight": 55
-    },
-    "sidebarBodyCenteredTextStyle": {
-      "fontName": "SharpGroteskBook18",
-      "fontSize": 15,
+    "contentsTextStyle": {
+      "fontName": "AvenirNextCondensed-Bold",
       "textAlignment": "center",
+      "fontSize": 16,
       "lineHeight": 20
     },
-    "sidebarByTheNumbersTextStyle": {
-      "fontName": "Mr.BanksStencil-Bold",
-      "fontSize": 60,
-      "lineHeight": 65,
+    "slugTextStyle": {
+      "fontName": "CaslonDoricApp-Semibold",
+      "fontSize": 16,
+      "lineHeight": 18,
+      "textColor": "#EE3124"
+    },
+    "mediaBodyTextStyle": {
+      "fontName": "CaslonDoricApp-Regular",
+      "fontSize": 17
+    },
+    "pullQuoteAttributionTextStyle": {
+      "fontName": "CaslonDoricApp-Bold",
+      "fontSize": 14,
+      "lineHeight": 16,
+      "textTransform": "capitalize",
       "textAlignment": "center",
-      "textTransform": "uppercase",
-      "tracking": 0.03
+      "tracking": 0.05
+    },
+    "questionTextStyle": {
+      "fontName": "CaslonDoricApp-Bold"
+    },
+    "RRTextStyle": {
+      "fontName": "CaslonDoricApp-Regular",
+      "tracking": 0.05,
+      "fontSize": 14,
+      "lineHeight": 14
+    },
+    "sidebarIntroCenteredTextStyle": {
+      "fontName": "CaslonDoricApp-Regular",
+      "fontSize": 17,
+      "lineHeight": 21,
+      "textAlignment": "center",
+      "tracking": 0.02
+    },
+    "sidebarAuthorCenteredTextStyle": {
+      "fontName": "CaslonDoricApp-SemiboldItalic",
+      "fontSize": 17,
+      "lineHeight": 21,
+      "textAlignment": "center",
+      "tracking": 0.04
     },
     "sidebarAuthorTextStyle": {
-      "fontName": "SharpGroteskMedium20",
-      "fontSize": 16,
-      "lineHeight": 24,
-      "textAlignment": "left",
-      "textTransform": "uppercase",
-      "tracking": 0.1
+      "fontName": "CaslonDoricApp-SemiboldItalic",
+      "fontSize": 17,
+      "lineHeight": 21,
+      "tracking": 0.04
     },
-    "sidebarHeading2CenteredTextStyle": {
-      "fontName": "SharpGroteskMedium20",
-      "fontSize": 40,
-      "lineHeight": 47,
-      "textAlignment": "center",
-      "textTransform": "uppercase",
-      "tracking": 0.03
-    },
-    "sidebarHeading2TextStyleQuoteTitle": {
-      "fontName": "SharpGroteskSmBold23",
-      "fontSize": 25,
-      "lineHeight": 27,
-      "textTransform": "uppercase",
-      "tracking": 0.03,
+    "sidebarBodyCenteredTextStyle": {
+      "fontName": "CaslonDoricApp-MediumItalic",
+      "lineHeight": 22,
       "textAlignment": "center"
     },
-    "sidebarHeading3TextStyleQuoteLabel": {
-      "fontName": "SharpGroteskSmBold23",
-      "fontSize": 18,
-      "lineHeight": 20,
-      "textAlignment": "center",
-      "tracking": 0.01
+    "sidebarHeading2CenteredTextStyle": {
+      "fontName": "CaslonDoricApp-Bold",
+      "fontSize": 42,
+      "lineHeight": 44,
+      "textAlignment": "center"
     },
-    "locationSubHeaderTextStyle": {
-      "fontName": "AvenirNextCondensed-UltraLight",
-      "fontSize": 40,
-      "lineHeight": 42,
-      "textAlignment": "center",
-      "textTransform": "uppercase",
-      "textColor": "#111"
+    "sidebarHeading3CenteredTextStyle": {
+      "fontName": "CaslonDoricApp-Semibold",
+      "fontSize": 20,
+      "lineHeight": 22,
+      "textAlignment": "center"
+    },
+    "sidebarHeading5TextStyle": {
+      "fontName": "CaslonDoricApp-Semibold",
+      "fontSize": 18,
+      "lineHeight": 18,
+      "tracking": 0.05
     }
   }
 }

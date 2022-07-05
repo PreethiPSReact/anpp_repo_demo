@@ -1,7 +1,7 @@
 {
   "version": "1.9",
-  "identifier": "coastalliving_article_889-125-12-1",
-  "title": "Sitting Pretty",
+  "identifier": "coastalliving_article_889-125-14-1",
+  "title": "Santa Monica’s Dream House",
   "language": "en",
   "layout": {
     "columns": 23,
@@ -9,17 +9,16 @@
     "margin": 62,
     "width": 1024
   },
-  "subtitle": "No matter where you choose to lounge this summer, here are five combos for matching your beach chair and your bathing suit",
   "metadata": {
     "authors": [
-      "By Jessica Thuston"
+      "By Tracey Minkin"
     ],
-    "dateCreated": "2022-05-20T16:37:03.449Z",
-    "dateModified": "2022-05-18T20:18:03+00:00",
-    "excerpt": "■",
+    "dateCreated": "2022-05-20T16:36:54.846Z",
+    "dateModified": "2022-05-19T14:40:36+00:00",
+    "excerpt": "One could buy a dream beach house in Southern California. But on the other hand, if one were savvy, one would simply book a dream stay at Oceana Santa Monica, LXR Hotels & Resorts. In a leafy neighborhood just close enough to the thrumming downtown (and steps from palm-shaded Palisades Park and the beach beyond), a $30-million-plus redo of the former Oceana Beach Club Hotel layers opulent guest house style—from velvet sofas and leather-tufted porch swings to four-poster beds—in 70 suites, many with ocean views. Credit the sure hand of New York City designer Anna Busta and lush botanical surrounds (including a glorious ivy facade) from Hamptons landscape architects Perry Guillot for the forever beach house magic. Imagine, though, the added verve of experiences like Fit Escapes wellness retreats and bespoke shopping trips with L.A. stylist Elyse Walker, plus three in-house restaurants for guests only, a full spa, beach cruisers, and a dreamy, tile-surrounded pool encircled by olive trees and sprawling daybeds. That Santa Monica beach house dream just got beautifully real. Rates start at $764; hoteloceanasantamonica.com.",
     "generatorName": "ANTE Generic Template",
     "generatorVersion": "0.0.4.32-2022-04-15 19:20",
-    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/bpc-g-lau-s_126/129638-1-eng-GB/bpc-g-lau-s_1262.png?q=100"
+    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/suite-signa_135/129690-1-eng-GB/suite-signa_1352.jpg?q=100"
   },
   "documentStyle": {
     "backgroundColor": "#eee"
@@ -60,12 +59,7 @@
           "layout": "sectionLayout",
           "textStyle": "sectionTextStyle",
           "format": "html",
-          "text": "Currents Market Report"
-        },
-        {
-          "role": "container",
-          "layout": "dividerLayout",
-          "style": "dividerSectionHeadStyle"
+          "text": "Currents <subsection>HOTEL CRUSH</subsection>"
         },
         {
           "//": "==== DEFAULT HEADER: TITLE ===",
@@ -73,22 +67,14 @@
           "layout": "titleLayout",
           "textStyle": "titleTextStyle",
           "format": "html",
-          "text": "Sitting Pretty"
-        },
-        {
-          "//": "==== DEFAULT HEADER: INTRO ===",
-          "role": "intro",
-          "layout": "introLayout",
-          "textStyle": "introTextStyle",
-          "format": "html",
-          "text": "No matter where you choose to lounge this summer, here are five combos for matching your beach chair and your bathing suit"
+          "text": "Santa Monica’s Dream House"
         },
         {
           "role": "author",
           "layout": "authorLayout",
           "textStyle": "authorTextStyle",
           "format": "html",
-          "text": "By Jessica Thuston"
+          "text": "By Tracey Minkin"
         },
         {
           "//": "======== HERO IMAGE CONTAINER =======",
@@ -96,22 +82,22 @@
           "layout": "heroImageLayout",
           "components": [
             {
-              "//": "======== HERO IMAGE - H1435.0/W1367.0 * 100 = 104.9743965 ========",
+              "//": "======== HERO IMAGE - H1126.0/W1367.0 * 100 = 82.3701536 ========",
               "role": "photo",
               "layout": "fullBleedPhotoLayout",
               "caption": {
                 "format": "html",
-                "text": "<b>ROMANTIC SAINT-TROPEZ</b><br><b>CHAIR Business &amp; Pleasure The Sling Chair</b> in Lauren’s Navy Stripe, $249.",
+                "text": "Peak beach life: Oceana Santa Monica’s Presidential Beach House suite.",
                 "textStyle": "captionEmbeddedTextStyle"
               },
-              "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/bpc-g-lau-s_126/129638-1-eng-GB/bpc-g-lau-s_1262.png?q=100"
+              "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/suite-signa_135/129690-1-eng-GB/suite-signa_1352.jpg?q=100"
             },
             {
               "role": "caption",
               "layout": "captionLayout",
               "textStyle": "captionTextStyle",
               "format": "html",
-              "text": "<caption-heading>ROMANTIC SAINT-TROPEZ</caption-heading><br><b>CHAIR Business &amp; Pleasure The Sling Chair</b> in Lauren’s Navy Stripe, $249 <a href=\"http://businessandpleasureco.com\">businessandpleasureco.com</a>"
+              "text": "Peak beach life: Oceana Santa Monica’s Presidential Beach House suite."
             }
           ]
         },
@@ -121,27 +107,35 @@
           "layout": "bodyContainerLayout",
           "components": [
             {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "One could buy a dream beach house in Southern California. But on the other hand, if one were savvy, one would simply book a dream stay at <bold>Oceana Santa Monica, LXR Hotels &amp; Resorts.</bold> In a leafy neighborhood just close enough to the thrumming downtown (and steps from palm-shaded Palisades Park and the beach beyond), a $30-million-plus redo of the former Oceana Beach Club Hotel layers opulent guest house style—from velvet sofas and leather-tufted porch swings to four-poster beds—in 70 suites, many with ocean views. Credit the sure hand of New York City designer Anna Busta and lush botanical surrounds (including a glorious ivy facade) from Hamptons landscape architects Perry Guillot for the forever beach house magic. Imagine, though, the added verve of experiences like Fit Escapes wellness retreats and bespoke shopping trips with L.A. stylist Elyse Walker, plus three in-house restaurants for guests only, a full spa, beach cruisers, and a dreamy, tile-surrounded pool encircled by olive trees and sprawling daybeds. That Santa Monica beach house dream just got beautifully real. Rates start at $764; <a href=\"http://hoteloceanasantamonica.com\">hoteloceanasantamonica.com</a>."
+            },
+            {
               "//": "======== FULL BLEED CONTAINER ========",
               "role": "container",
               "layout": "fullBleedContainerLayout",
               "components": [
                 {
-                  "//": "======== IMAGE BLEED - H1722.0/W1367.0 * 100 = 125.9692758 ========",
+                  "//": "======== IMAGE BLEED - H1950.0/W1367.0 * 100 = 142.6481346 ========",
                   "role": "photo",
                   "layout": "fullBleedPhotoLayout",
                   "caption": {
                     "format": "html",
-                    "text": "<b>SUIT Vineyard Vines Anegada Floral Ruffle Bikini Top,</b><br>$78, and <b>High-Waisted Bikini Bottom,</b> $75.",
+                    "text": "Bright welcome on Ocean Avenue.",
                     "textStyle": "captionEmbeddedTextStyle"
                   },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/oceanreefbo_121/129645-1-eng-GB/oceanreefbo_1212.png?q=100"
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/ohsm1-lobby_133/129683-1-eng-GB/ohsm1-lobby_1332.jpg?q=100"
                 },
                 {
                   "role": "caption",
                   "layout": "captionLayout",
                   "textStyle": "captionTextStyle",
                   "format": "html",
-                  "text": "<caption-heading>SUIT Vineyard Vines Anegada Floral Ruffle Bikini Top,</caption-heading><br>$78, and <b>High-Waisted Bikini Bottom,</b> $75 <a href=\"http://tnuck.com\">tnuck.com</a>"
+                  "text": "Bright welcome on Ocean Avenue."
                 }
               ]
             },
@@ -151,199 +145,61 @@
               "layout": "fullBleedContainerLayout",
               "components": [
                 {
-                  "//": "======== IMAGE BLEED - H1398.0/W1367.0 * 100 = 102.2677396 ========",
+                  "//": "======== IMAGE BLEED - H987.0/W1410.0 * 100 = 70.0 ========",
                   "role": "photo",
                   "layout": "fullBleedPhotoLayout",
                   "caption": {
                     "format": "html",
-                    "text": "<b>WEST COAST SURF</b><br><b>CHAIR PARKIT Voyager Chair</b> in Slate, $225.",
+                    "text": "Daybeds and pool.",
                     "textStyle": "captionEmbeddedTextStyle"
                   },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/parkit-003__128/129631-1-eng-GB/parkit-003__1282.png?q=100"
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/ohsm1-pool-_134/129676-1-eng-GB/ohsm1-pool-_1342.jpg?q=100"
                 },
                 {
                   "role": "caption",
                   "layout": "captionLayout",
                   "textStyle": "captionTextStyle",
                   "format": "html",
-                  "text": "<caption-heading>WEST COAST SURF</caption-heading><br><b>CHAIR PARKIT Voyager Chair</b> in Slate, $225 <a href=\"http://parkitmovement.com\">parkitmovement.com</a>"
+                  "text": "Daybeds and pool."
                 }
               ]
             },
             {
-              "//": "======== FULL BLEED CONTAINER ========",
+              "//": "======== SIDEBAR =======",
               "role": "container",
-              "layout": "fullBleedContainerLayout",
+              "layout": "sidebarLayout",
+              "style": "sidebarNoBackgroundStyle",
               "components": [
                 {
-                  "//": "======== IMAGE BLEED - H2005.0/W1367.0 * 100 = 146.6715435 ========",
-                  "role": "photo",
-                  "layout": "fullBleedPhotoLayout",
-                  "caption": {
-                    "format": "html",
-                    "text": "<b>SUIT Trina Turk Breeze Paddle Suit,</b><br>$172.",
-                    "textStyle": "captionEmbeddedTextStyle"
-                  },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/trinaturk_b_131/129624-1-eng-GB/trinaturk_b_1312.png?q=100"
-                },
-                {
-                  "role": "caption",
-                  "layout": "captionLayout",
-                  "textStyle": "captionTextStyle",
-                  "format": "html",
-                  "text": "<caption-heading>SUIT Trina Turk Breeze Paddle Suit,</caption-heading><br>$172 <a href=\"http://trinaturk.com\">trinaturk.com</a>"
+                  "//": "======== SIDEBAR BODY CONTAINER =======",
+                  "role": "container",
+                  "layout": "bodyContainerLayout",
+                  "components": [
+                    {
+                      "role": "heading2",
+                      "layout": "sidebarHeading2Layout",
+                      "textStyle": "sidebarHeading2TextStyle",
+                      "format": "html",
+                      "text": "The Shopping Edit"
+                    },
+                    {
+                      "role": "body",
+                      "layout": "sidebarBodyNoMarginAboveLayout",
+                      "style": "paragraphStyle",
+                      "textStyle": "sidebarBodyTextStyle",
+                      "format": "html",
+                      "text": "An L.A. institution since 1948, <m1>Brentwood Country Mart</m1> is anything but quaint or outdated (and worth the trip to the eastern edge of Santa Monica). Instead, the board-and-batten barn-red marketplace is home to the fizziest home, fashion, and lifestyle brands going, including <m1>TURPAN</m1> for housewares, <m1>Poppy Store</m1> for children’s (and women’s) styles, <m1>DIESEL</m1> for books, and <m1>Goop</m1> for, well, all things Goop. For the one outfit (you’ll know the one), head straight to Montana Avenue for <m1>Jill Roberts</m1> and <m1>Savannah Santa Monica.</m1> Finally, plan your getaway around the first and fourth Sundays of the month, when the <m1>Santa Monica Airport Antique &amp; Vintage</m1> open-air marketplace sprawls beneath tidy white tents at the actual airport. Remember: You can always ship."
+                    }
+                  ]
                 }
               ]
             },
             {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "fullBleedContainerLayout",
-              "components": [
-                {
-                  "//": "======== IMAGE BLEED - H1397.0/W1367.0 * 100 = 102.1945867 ========",
-                  "role": "photo",
-                  "layout": "fullBleedPhotoLayout",
-                  "caption": {
-                    "format": "html",
-                    "text": "<b>CARIBBEAN COOL</b><br><b>CHAIR Serena &amp; Lily Palisades Outdoor Chair</b> in Driftwood, $498.",
-                    "textStyle": "captionEmbeddedTextStyle"
-                  },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/serenalilyp_129/129617-1-eng-GB/serenalilyp_1292.png?q=100"
-                },
-                {
-                  "role": "caption",
-                  "layout": "captionLayout",
-                  "textStyle": "captionTextStyle",
-                  "format": "html",
-                  "text": "<caption-heading>CARIBBEAN COOL</caption-heading><br><b>CHAIR Serena &amp; Lily Palisades Outdoor Chair</b> in Driftwood, $498 <a href=\"http://serenaandlily.com\">serenaandlily.com</a>"
-                }
-              ]
-            },
-            {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "fullBleedContainerLayout",
-              "components": [
-                {
-                  "//": "======== IMAGE BLEED - H2310.0/W1367.0 * 100 = 168.9831748 ========",
-                  "role": "photo",
-                  "layout": "fullBleedPhotoLayout",
-                  "caption": {
-                    "format": "html",
-                    "text": "<b>SUIT Summersalt The Ruffle Backflip Suit</b><br>In Hibiscus &amp; Tangerine, $95.",
-                    "textStyle": "captionEmbeddedTextStyle"
-                  },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/theruffleba_130/129610-1-eng-GB/theruffleba_1302.png?q=100"
-                },
-                {
-                  "role": "caption",
-                  "layout": "captionLayout",
-                  "textStyle": "captionTextStyle",
-                  "format": "html",
-                  "text": "<caption-heading>SUIT Summersalt The Ruffle Backflip Suit</caption-heading><br>In Hibiscus &amp; Tangerine, $95 <a href=\"http://summersalt.com\">summersalt.com</a>"
-                }
-              ]
-            },
-            {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "fullBleedContainerLayout",
-              "components": [
-                {
-                  "//": "======== IMAGE BLEED - H1635.0/W1367.0 * 100 = 119.6049744 ========",
-                  "role": "photo",
-                  "layout": "fullBleedPhotoLayout",
-                  "caption": {
-                    "format": "html",
-                    "text": "<b>FLORIDA’S WHITE SANDS</b><br><b>CHAIR L.L.Bean Backpack Beach Chair</b> in Ocean Blue, $89.",
-                    "textStyle": "captionEmbeddedTextStyle"
-                  },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/aa225429_pr_125/129603-1-eng-GB/aa225429_pr_1252.png?q=100"
-                },
-                {
-                  "role": "caption",
-                  "layout": "captionLayout",
-                  "textStyle": "captionTextStyle",
-                  "format": "html",
-                  "text": "<caption-heading>FLORIDA’S WHITE SANDS</caption-heading><br><b>CHAIR L.L.Bean Backpack Beach Chair</b> in Ocean Blue, $89 <a href=\"http://llbean.com\">llbean.com</a>"
-                }
-              ]
-            },
-            {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "fullBleedContainerLayout",
-              "components": [
-                {
-                  "//": "======== IMAGE BLEED - H2158.0/W1367.0 * 100 = 157.8639356 ========",
-                  "role": "photo",
-                  "layout": "fullBleedPhotoLayout",
-                  "caption": {
-                    "format": "html",
-                    "text": "<b>SUIT Southern Tide Tie One Shoulder One Piece Swimsuit</b><br>In Ocean Channel, $105.",
-                    "textStyle": "captionEmbeddedTextStyle"
-                  },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/8934_ocean__124/129596-1-eng-GB/8934_ocean__1242.png?q=100"
-                },
-                {
-                  "role": "caption",
-                  "layout": "captionLayout",
-                  "textStyle": "captionTextStyle",
-                  "format": "html",
-                  "text": "<caption-heading>SUIT Southern Tide Tie One Shoulder One Piece Swimsuit</caption-heading><br>In Ocean Channel, $105 <a href=\"http://southerntide.com\">southerntide.com</a>"
-                }
-              ]
-            },
-            {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "fullBleedContainerLayout",
-              "components": [
-                {
-                  "//": "======== IMAGE BLEED - H1832.0/W1367.0 * 100 = 134.0160936 ========",
-                  "role": "photo",
-                  "layout": "fullBleedPhotoLayout",
-                  "caption": {
-                    "format": "html",
-                    "text": "<b>ALL-AMERICAN NANTUCKET</b><br><b>CHAIR LowTides Dune High Beach Chair</b> in Laura Ashley Sweet Alyssum, $169.",
-                    "textStyle": "captionEmbeddedTextStyle"
-                  },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/dune-laura__127/129582-1-eng-GB/dune-laura__1272.png?q=100"
-                },
-                {
-                  "role": "caption",
-                  "layout": "captionLayout",
-                  "textStyle": "captionTextStyle",
-                  "format": "html",
-                  "text": "<caption-heading>ALL-AMERICAN NANTUCKET</caption-heading><br><b>CHAIR LowTides Dune High Beach Chair</b> in Laura Ashley Sweet Alyssum, $169 <a href=\"http://lowtidesop.com\">lowtidesop.com</a>"
-                }
-              ]
-            },
-            {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "fullBleedContainerLayout",
-              "components": [
-                {
-                  "//": "======== IMAGE BLEED - H1505.0/W1366.0 * 100 = 110.1756955 ========",
-                  "role": "photo",
-                  "layout": "fullBleedPhotoLayout",
-                  "caption": {
-                    "format": "html",
-                    "text": "<b>SUIT Marysia East River Top,</b><br> $151, and <b>Broadway Bottom,</b> $148; <br><span data-anf-textstyle='creditTextStyle'>PRODUCTS COURTESY MANUFACTURERS</span>",
-                    "textStyle": "captionEmbeddedTextStyle"
-                  },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/p012-bzo102397-red-swim-suit/131358-1-eng-GB/p012-bzo102397-red-swim-suit.png?q=100"
-                },
-                {
-                  "role": "caption",
-                  "layout": "captionLayout",
-                  "textStyle": "captionTextStyle",
-                  "format": "html",
-                  "text": "<caption-heading>SUIT Marysia East River Top,</caption-heading><br> $151, and <b>Broadway Bottom,</b> $148 <a href=\"http://marysia.com\">marysia.com</a><br><span data-anf-textstyle='creditTextStyle'>PRODUCTS COURTESY MANUFACTURERS</span>"
-                }
-              ]
+              "role": "body",
+              "layout": "attributeLayout",
+              "textStyle": "attributeTextStyle",
+              "format": "html",
+              "text": "COURTESY OCEANA SANTA MONICA, LXR HOTELS &amp; RESORTS"
             }
           ]
         },
@@ -1066,6 +922,10 @@
       "textColor": "#8d8d8d",
       "tracking": 0.05
     },
+    "default-tag-bold": {
+      "fontName": "GothamNarrow-Bold",
+      "tracking": 0.02
+    },
     "default-tag-caption-heading": {
       "fontName": "GrifoS-Bold",
       "textTransform": "uppercase"
@@ -1082,6 +942,9 @@
       "tracking": 0.1,
       "textTransform": "uppercase"
     },
+    "default-tag-m1": {
+      "fontName": "Gotham-Bold"
+    },
     "default-tag-pullquote-attribution": {
       "fontSize": 15
     },
@@ -1089,10 +952,21 @@
       "fontName": "SharpGroteskSmBold23"
     },
     "default-tag-subsection": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "textColor": "#9a94c9"
+        }
+      ],
       "fontName": "Gotham-Medium",
       "fontSize": 16,
-      "textColor": "#009A5A",
-      "textDecoration": "uppercase",
+      "textColor": "#9a94c9",
+      "textTransform": "uppercase",
       "tracking": 0.1
     },
     "endMarkerTextStyle": {

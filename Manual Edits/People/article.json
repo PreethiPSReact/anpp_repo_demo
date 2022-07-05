@@ -206,7 +206,7 @@
           "layout": "sectionLayout",
           "textStyle": "sectionTextStyle",
           "format": "html",
-          "text": "5INGREDIENT RECIPES"
+          "text": "5-INGREDIENT RECIPES"
         },
         {
           "role": "container",
@@ -250,18 +250,18 @@
           "components": [
             {
               "role": "heading2",
-              "layout": "bodyLayout",
-              "textStyle": "heading2TextStyle",
+              "layout": "noMarginLayout",
+              "textStyle": "recipeTitleTextStyle",
               "format": "html",
               "text": "Mushroom Beef Burgers"
             },
             {
               "role": "body",
-              "layout": "bodyLayout",
+              "layout": "noMarginLayout",
               "style": "paragraphStyle",
               "textStyle": "recipeDetailsTextStyle",
               "format": "html",
-              "text": "<lede>HANDS-ON</lede> 20 MIN <lede>TOTAL</lede> 20 MIN <lede>SERVES</lede> 8 <br><lede>SUBMITTED BY</lede> JUANITA S"
+              "text": "<lede>HANDS-ON</lede> 20 MIN <lede>TOTAL</lede> 20 MIN <lede>SERVES:</lede> 8 <br><lede>SUBMITTED BY</lede> JUANITA S"
             },
             {
               "//": "====== REVIEWS ======",
@@ -326,7 +326,7 @@
               "role": "body",
               "layout": "bodyLayout",
               "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
+              "textStyle": "recipeIntroTextStyle",
               "format": "html",
               "text": "<i>Serve these burgers on buns with your favorite toppings. We love the classics—lettuce, tomato, onion, mustard, and pickles.</i>"
             },
@@ -426,18 +426,18 @@
             },
             {
               "role": "heading2",
-              "layout": "bodyLayout",
-              "textStyle": "heading2TextStyle",
+              "layout": "noMarginLayout",
+              "textStyle": "recipeTitleTextStyle",
               "format": "html",
               "text": "Lasagna Cupcakes"
             },
             {
               "role": "body",
-              "layout": "bodyLayout",
+              "layout": "noMarginLayout",
               "style": "paragraphStyle",
               "textStyle": "recipeDetailsTextStyle",
               "format": "html",
-              "text": "<lede>HANDS-ON</lede> 15 MIN <lede>TOTAL</lede> 40 MIN <lede>SERVES</lede> 6 <br><lede>SUBMITTED BY</lede> KIMBERLEY PIPER"
+              "text": "<lede>HANDS-ON</lede> 15 MIN <lede>TOTAL</lede> 40 MIN <lede>SERVES:</lede> 6 <br><lede>SUBMITTED BY</lede> KIMBERLEY PIPER"
             },
             {
               "//": "====== REVIEWS ======",
@@ -502,7 +502,7 @@
               "role": "body",
               "layout": "bodyLayout",
               "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
+              "textStyle": "recipeIntroTextStyle",
               "format": "html",
               "text": "<i>Give these “cupcakes” a pop of extra flavor with chopped fresh basil and crushed red pepper.</i>"
             },
@@ -640,7 +640,7 @@
                   "layout": "bodySmallMarginAboveLayout",
                   "textStyle": "youSaidQuoteTextStyle",
                   "format": "html",
-                  "text": "Just say, “Alexa, ask Allrecipes for Lasagna Cupcakes.” She’ll guide you through the recipe step-by-step—all hands-free!"
+                  "text": "“Just say, “Alexa, ask Allrecipes for Lasagna Cupcakes.” She’ll guide you through the recipe step-by-step—all hands-free!”"
                 }
               ]
             },
@@ -659,23 +659,23 @@
             },
             {
               "role": "heading2",
-              "layout": "bodyLayout",
-              "textStyle": "heading2TextStyle",
+              "layout": "noMarginLayout",
+              "textStyle": "recipeTitleTextStyle",
               "format": "html",
               "text": "Fire-Roasted Corn and Beef Skillet Pie"
             },
             {
               "role": "body",
-              "layout": "bodyLayout",
+              "layout": "noMarginLayout",
               "style": "paragraphStyle",
               "textStyle": "recipeDetailsTextStyle",
               "format": "html",
-              "text": "<lede>HANDS-ON</lede> 15 MIN <lede>TOTAL</lede> 45 MIN <lede>SERVES</lede> 6 <br><lede>SUBMITTED BY</lede> EATANDRUN"
+              "text": "<lede>HANDS-ON</lede> 15 MIN <lede>TOTAL</lede> 45 MIN <lede>SERVES:</lede> 6 <br><lede>SUBMITTED BY</lede> EATANDRUN"
             },
             {
               "//": "***** NEW RECIPE LINK *****",
               "role": "body",
-              "layout": "bodyLayout",
+              "layout": "noMarginLayout",
               "style": "paragraphStyle",
               "textStyle": "recipeDetailsTextStyle",
               "format": "html",
@@ -685,7 +685,7 @@
               "role": "body",
               "layout": "bodyLayout",
               "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
+              "textStyle": "recipeIntroTextStyle",
               "format": "html",
               "text": "<i>Have some pizza seasoning in your spice cabinet? Sprinkle it over the breadsticks before baking.</i>"
             },
@@ -764,18 +764,18 @@
             },
             {
               "role": "heading2",
-              "layout": "bodyLayout",
-              "textStyle": "heading2TextStyle",
+              "layout": "noMarginLayout",
+              "textStyle": "recipeTitleTextStyle",
               "format": "html",
               "text": "Spicy Lamb Patties"
             },
             {
               "role": "body",
-              "layout": "bodyLayout",
+              "layout": "noMarginLayout",
               "style": "paragraphStyle",
               "textStyle": "recipeDetailsTextStyle",
               "format": "html",
-              "text": "<lede>HANDS-ON</lede> 25 MIN <lede>TOTAL</lede> 25 MIN <lede>SERVES</lede> 4 <br><lede>SUBMITTED BY</lede> CHEYENNIGANS"
+              "text": "<lede>HANDS-ON</lede> 25 MIN <lede>TOTAL</lede> 25 MIN <lede>SERVES:</lede> 4 <br><lede>SUBMITTED BY</lede> CHEYENNIGANS"
             },
             {
               "//": "====== REVIEWS ======",
@@ -840,7 +840,7 @@
               "role": "body",
               "layout": "bodyLayout",
               "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
+              "textStyle": "recipeIntroTextStyle",
               "format": "html",
               "text": "<i>Try tucking these spiced patties into pitas along with fresh toppings, such as cucumber, baby spinach, tomato, and/or yogurt.</i>"
             },
@@ -926,18 +926,18 @@
             },
             {
               "role": "heading2",
-              "layout": "bodyLayout",
-              "textStyle": "heading2TextStyle",
+              "layout": "noMarginLayout",
+              "textStyle": "recipeTitleTextStyle",
               "format": "html",
               "text": "Sausage-Egg Muffins"
             },
             {
               "role": "body",
-              "layout": "bodyLayout",
+              "layout": "noMarginLayout",
               "style": "paragraphStyle",
               "textStyle": "recipeDetailsTextStyle",
               "format": "html",
-              "text": "<lede>HANDS-ON</lede> 20 MIN <lede>TOTAL</lede> 40 MIN <lede>MAKES</lede> 12<br><lede>SUBMITTED BY</lede> SMILEYBLAKE"
+              "text": "<lede>HANDS-ON</lede> 20 MIN <lede>TOTAL</lede> 40 MIN <lede>MAKES:</lede> 12<br><lede>SUBMITTED BY</lede> SMILEYBLAKE"
             },
             {
               "//": "====== REVIEWS ======",
@@ -1002,7 +1002,7 @@
               "role": "body",
               "layout": "bodyLayout",
               "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
+              "textStyle": "recipeIntroTextStyle",
               "format": "html",
               "text": "<i>Round out your meal by serving these muffins with salsa and/or fresh fruit.</i>"
             },
@@ -1093,18 +1093,18 @@
             },
             {
               "role": "heading2",
-              "layout": "bodyLayout",
-              "textStyle": "heading2TextStyle",
+              "layout": "noMarginLayout",
+              "textStyle": "recipeTitleTextStyle",
               "format": "html",
               "text": "M’s Buffalo Chicken Meatballs"
             },
             {
               "role": "body",
-              "layout": "bodyLayout",
+              "layout": "noMarginLayout",
               "style": "paragraphStyle",
               "textStyle": "recipeDetailsTextStyle",
               "format": "html",
-              "text": "<lede>HANDS-ON</lede> 25 MIN <lede>TOTAL</lede> 45 MIN <lede>SERVES</lede> 10 <br><lede>SUBMITTED BY</lede> MMARONIC"
+              "text": "<lede>HANDS-ON</lede> 25 MIN <lede>TOTAL</lede> 45 MIN <lede>SERVES:</lede> 10 <br><lede>SUBMITTED BY</lede> MMARONIC"
             },
             {
               "//": "====== REVIEWS ======",
@@ -1169,7 +1169,7 @@
               "role": "body",
               "layout": "bodyLayout",
               "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
+              "textStyle": "recipeIntroTextStyle",
               "format": "html",
               "text": "<i>For a fresh finish, top these meatballs with chopped parsley or celery leaves.</i>"
             },
@@ -1268,18 +1268,18 @@
             },
             {
               "role": "heading2",
-              "layout": "bodyLayout",
-              "textStyle": "heading2TextStyle",
+              "layout": "noMarginLayout",
+              "textStyle": "recipeTitleTextStyle",
               "format": "html",
               "text": "Healthy Turkey Loaf"
             },
             {
               "role": "body",
-              "layout": "bodyLayout",
+              "layout": "noMarginLayout",
               "style": "paragraphStyle",
               "textStyle": "recipeDetailsTextStyle",
               "format": "html",
-              "text": "<lede>HANDS-ON</lede> 15 MIN <lede>TOTAL</lede> 40 MIN <lede>SERVES</lede> 6 <br><lede>SUBMITTED BY</lede> SUSAN E. MURPHY"
+              "text": "<lede>HANDS-ON</lede> 15 MIN <lede>TOTAL</lede> 40 MIN <lede>SERVES:</lede> 6 <br><lede>SUBMITTED BY</lede> SUSAN E. MURPHY"
             },
             {
               "//": "====== REVIEWS ======",
@@ -1865,8 +1865,8 @@
     "calloutStyle": {
       "border": {
         "all": {
-          "width": 4,
-          "color": "#000"
+          "color": "#242021",
+          "width": 8
         }
       }
     },
@@ -1927,7 +1927,11 @@
       ]
     },
     "dividerStandardStyle": {
-      "backgroundColor": "#000"
+      "backgroundColor": "#000",
+      "stroke": {
+        "color": "#000",
+        "width": 8
+      }
     },
     "dividerTocStyle": {
       "//": "UNUSED"
@@ -1957,26 +1961,23 @@
             {
               "horizontalAlignment": "right",
               "padding": {
-                "right": 5
+                "right": 15
               },
               "selectors": [
                 {
                   "columnIndex": 0
                 }
               ],
-              "width": 10
+              "width": 15
             },
             {
               "horizontalAlignment": "left",
-              "padding": {
-                "left": 5
-              },
               "selectors": [
                 {
                   "columnIndex": 1
                 }
               ],
-              "width": 90
+              "width": 95
             }
           ],
           "textStyle": "ingredientsTextStyle",
@@ -1990,7 +1991,7 @@
                   "columnIndex": 0
                 }
               ],
-              "width": 5
+              "width": 10
             },
             {
               "selectors": [
@@ -1998,7 +1999,7 @@
                   "columnIndex": 1
                 }
               ],
-              "width": 45
+              "width": 95
             }
           ]
         }
@@ -2117,11 +2118,9 @@
     "sidebarStyle": {
       "border": {
         "all": {
-          "width": 2,
-          "color": "#000"
-        },
-        "left": false,
-        "right": false
+          "color": "#242021",
+          "width": 8
+        }
       }
     },
     "straplineStyle": {
@@ -2136,21 +2135,57 @@
         "radius": "60cw",
         "type": "corners"
       }
+    },
+    "dividerThinStyle": {
+      "backgroundColor": "#ccc",
+      "stroke": {
+        "color": "#ccc",
+        "width": 1
+      }
+    },
+    "sidebarDarkStyle": {
+      "backgroundColor": "#231f20"
+    },
+    "sidebarAltStyle": {
+      "backgroundColor": "#fbf0dd",
+      "border": {
+        "all": {
+          "color": "#242021",
+          "width": 8
+        }
+      },
+      "conditional": [
+        {
+          "backgroundColor": "#bfb6a6",
+          "border": {
+            "all": {
+              "color": "#e0e0e0",
+              "width": 8
+            }
+          },
+          "conditions": [
+            {
+              "preferredColorScheme": "dark",
+              "minSpecVersion": "1.14"
+            }
+          ]
+        }
+      ]
     }
   },
   "textStyles": {
     "creditTextStyle": {
-      "fontName": "CaslonDoricApp-Regular",
+      "fontName": "AvenirNext-Regular",
       "fontSize": 10,
-      "textColor": "#8d8d8d"
+      "textColor": "#808284",
+      "tracking": 0.05
     },
     "default-tag-bold": {
       "fontName": "GothamNarrow-Bold"
     },
     "default-tag-caption-heading": {
-      "fontName": "CaslonDoricApp-Bold",
-      "fontSize": 15,
-      "tracking": 0.05
+      "fontName": "AvenirNext-Bold",
+      "fontSize": 15
     },
     "default-tag-caption-i": {
       "fontName": "Gotham-Book"
@@ -2159,9 +2194,8 @@
       "fontName": "AppleColorEmoji"
     },
     "default-tag-lede": {
-      "fontName": "CaslonDoricApp-Bold",
-      "fontSize": 16,
-      "tracking": 0.05
+      "fontName": "AvenirNext-Bold",
+      "textTransform": "uppercase"
     },
     "default-tag-m": {
       "fontName": "Gotham-Medium"
@@ -2170,18 +2204,19 @@
       "fontName": "Gotham-MediumItalic"
     },
     "default-tag-pullquote-attribution": {
-      "fontName": "GothamCondensed-Medium",
-      "fontSize": 18,
-      "textAlignment": "center",
+      "fontName": "HoeflerText-Black",
+      "fontSize": 13,
       "textTransform": "uppercase",
       "tracking": 0.05
     },
     "default-tag-sidebar-lede": {
-      "fontName": "CaslonDoricApp-Bold",
-      "fontSize": 16
+      "fontName": "AvenirNext-Bold",
+      "textTransform": "uppercase"
     },
     "default-tag-subsection": {
-      "fontName": "Gotham-Light"
+      "fontName": "AvenirNext-Medium",
+      "textTransform": "lowercase",
+      "tracking": 0.05
     },
     "endMarkerTextStyle": {
       "//": "UNUSED"
@@ -2189,145 +2224,78 @@
     "subSectionTextStyle": {
       "//": "UNUSED"
     },
-    "default-tag-blue": {
-      "textColor": "#2BADEF"
+    "default-tag-avenirnext-b": {
+      "fontName": "AvenirNext-Bold"
     },
-    "default-tag-body-author": {
-      "fontSize": 14,
-      "fontName": "CaslonDoricApp-Regular"
+    "default-tag-avenirnext-bi": {
+      "fontName": "AvenirNext-BoldItalic"
     },
-    "default-tag-caption-italic": {
-      "fontName": "CaslonDoricApp-RegularItalic"
+    "default-tag-avenirnext-di": {
+      "fontName": "AvenirNext-MediumItalic"
     },
-    "default-tag-coldopen-strapline": {
-      "fontName": "CaslonDoricApp-Medium",
-      "fontSize": 12,
-      "textAlignment": "center",
-      "tracking": 0.15
+    "default-tag-avenirnext-i": {
+      "fontName": "AvenirNext-Italic"
     },
-    "default-tag-coldopensmall": {
-      "fontName": "OriginalSansApp-Three",
-      "fontSize": 16,
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minViewportWidth": 415
-            }
-          ],
-          "fontSize": 25
-        }
-      ],
-      "textTransform": "uppercase",
-      "tracking": 0.15
+    "default-tag-avenirnext-mi": {
+      "fontName": "AvenirNext-MediumItalic"
     },
-    "default-tag-color": {
-      "textColor": "#F15A21"
+    "default-tag-lit": {
+      "fontName": "Superclarendon-BoldItalic"
     },
-    "default-tag-highlight": {
-      "backgroundColor": "#FEF203"
-    },
-    "default-tag-introitalic": {
-      "fontName": "CaslonDoricApp-RegularNo2Italic"
-    },
-    "default-tag-introitalic-bold": {
-      "fontName": "CaslonDoricApp-BoldItalic"
-    },
-    "default-tag-red": {
-      "textColor": "#EE3124"
-    },
-    "default-tag-lede-alt": {
-      "fontName": "CaslonDoricApp-Bold",
-      "fontSize": 16,
-      "tracking": 0.05,
-      "textColor": "#F15921"
-    },
-    "default-tag-original-bold": {
-      "fontName": "OriginalSansApp-Four"
-    },
-    "default-tag-original-bolditalic": {
-      "fontName": "OriginalSansApp-FourItalic",
-      "tracking": 0.02
-    },
-    "default-tag-original-semibold": {
-      "fontName": "OriginalSansApp-Three"
-    },
-    "default-tag-original-semibolditalic": {
-      "fontName": "OriginalSansApp-ThreeItalic"
-    },
-    "default-tag-semibold-italic": {
-      "fontName": "CaslonDoricApp-SemiboldItalic"
-    },
-    "default-tag-sidebarintro-regular": {
-      "fontName": "CaslonDoricApp-Semibold"
+    "default-tag-sup-b": {
+      "fontName": "Superclarendon-Bold"
     }
   },
   "componentTextStyles": {
     "//": {
-      "//": "===================== ENTERTAINMENT WEEKLY OVERRIDES ====================="
+      "//": "================ RACHAEL RAY EVERYDAY OVERRIDES ================"
     },
     "attributeTextStyle": {
-      "fontName": "CaslonDoricApp-Regular",
+      "fontName": "AvenirNext-Regular",
       "fontSize": 10,
       "textTransform": "uppercase",
-      "lineHeight": 12
+      "lineHeight": 12,
+      "tracking": 0.05
     },
     "authorTextStyle": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minSpecVersion": "1.14",
-              "preferredColorScheme": "dark"
-            }
-          ],
-          "linkStyle": {
-            "underline": {
-              "color": "#eee"
-            }
-          }
-        }
-      ],
-      "fontName": "CaslonDoricApp-SemiboldItalic",
-      "linkStyle": {
-        "underline": {
-          "color": "#999"
-        }
-      },
-      "tracking": 0.05
+      "fontName": "Avenir-Book",
+      "fontSize": 14,
+      "lineHeight": 16,
+      "textTransform": "uppercase"
     },
     "bodyCenteredTextStyle": {
       "textAlignment": "center"
     },
     "bodyDropCapTextStyle": {
-      "fontName": "FreightTextProBook-Regular",
       "dropCapStyle": {
-        "fontName": "CaslonDoricApp-Bold",
-        "numberOfLines": 3,
-        "numberOfRaisedLines": 0,
-        "numberOfCharacters": 1
-      }
+        "fontName": "HoeflerText-Black",
+        "numberOfCharacters": 1,
+        "numberOfLines": 4,
+        "numberOfRaisedLines": 0
+      },
+      "fontName": "AvenirNext-Regular"
     },
     "bodyTextStyle": {
-      "fontName": "FreightTextProBook-Regular"
+      "fontName": "AvenirNext-Regular"
     },
     "calloutBodyTextStyle": {
-      "fontName": "CaslonDoricApp-Regular",
-      "fontSize": 16,
-      "lineHeight": 20,
-      "textAlignment": "center"
+      "fontName": "AvenirNext-Medium",
+      "fontSize": 15,
+      "lineHeight": 17,
+      "textAlignment": "left"
     },
     "calloutHeadingTextStyle": {
-      "fontName": "CaslonDoricApp-Bold",
-      "fontSize": 24,
-      "lineHeight": 26,
-      "textAlignment": "center",
-      "textColor": "#F15A21"
+      "fontName": "HoeflerText-Black",
+      "fontSize": 42,
+      "lineHeight": 42,
+      "textAlignment": "left",
+      "textTransform": "lowercase"
     },
     "captionAdTextStyle": {
       "//": "UNUSED"
     },
     "captionCenteredTextStyle": {
+      "fontName": "Avenir-Book",
       "textAlignment": "center"
     },
     "captionEmbeddedTextStyle": {
@@ -2335,26 +2303,25 @@
       "lineHeight": 16
     },
     "captionTextStyle": {
-      "fontName": "CaslonDoricApp-Regular",
-      "tracking": 0.05
+      "fontName": "Avenir-Medium"
     },
     "default": {
-      "fontName": "CaslonDoricApp-Bold",
-      "textColor": "#000",
+      "hyphenation": false,
       "linkStyle": {
-        "underline": true
+        "textColor": "#AB4092"
       },
-      "hyphenation": false
+      "textColor": "#221E1F"
     },
     "default-author": {
+      "fontName": "Avenir-Book",
       "fontSize": 14,
-      "lineHeight": 16
+      "lineHeight": 22
     },
     "default-body": {
-      "fontSize": 18,
-      "lineHeight": 24,
-      "paragraphSpacingBefore": 12,
-      "paragraphSpacingAfter": 12
+      "fontSize": 16,
+      "lineHeight": 20,
+      "paragraphSpacingAfter": 12,
+      "paragraphSpacingBefore": 12
     },
     "default-byline": {
       "//": "UNUSED"
@@ -2369,111 +2336,110 @@
       "lineHeight": 16
     },
     "default-heading2": {
-      "fontSize": 35,
-      "lineHeight": 37
+      "fontSize": 42,
+      "lineHeight": 46,
+      "tracking": -0.02
     },
     "default-heading3": {
-      "fontSize": 21,
-      "lineHeight": 23
+      "fontSize": 28,
+      "lineHeight": 24,
+      "tracking": -0.02
     },
     "default-heading4": {
-      "fontSize": 18,
-      "lineHeight": 24
+      "fontSize": 24,
+      "lineHeight": 30,
+      "tracking": -0.02
     },
     "default-heading5": {
-      "fontSize": 17,
-      "lineHeight": 19
+      "fontSize": 18,
+      "lineHeight": 24,
+      "tracking": -0.02
     },
     "default-heading6": {
       "fontSize": 16,
-      "lineHeight": 18
+      "lineHeight": 24,
+      "tracking": -0.02
     },
     "default-intro": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minViewportWidth": 430
-            }
-          ],
-          "fontSize": 18,
-          "lineHeight": 24
-        }
-      ],
-      "fontSize": 16,
-      "lineHeight": 22
+      "fontSize": 18,
+      "lineHeight": 24
     },
     "default-photographer": {
       "//": "UNUSED"
     },
     "default-pullquote": {
-      "fontSize": 39,
-      "lineHeight": 39
+      "fontSize": 18,
+      "lineHeight": 20
     },
     "default-title": {
-      "fontSize": 45,
-      "lineHeight": 47
+      "fontSize": 60,
+      "lineHeight": 66
     },
     "floatImageCaptionTextStyle": {
-      "fontName": "CaslonDoricApp-Regular",
-      "tracking": 0.05
+      "fontName": "Avenir-Book"
     },
     "heading2CenteredTextStyle": {
       "textAlignment": "center"
     },
     "heading2TextStyle": {
-      "fontName": "CaslonDoricApp-Bold"
+      "fontName": "HoeflerText-Black",
+      "textTransform": "lowercase",
+      "underline": true
     },
     "heading3CenteredTextStyle": {
-      "textAlignment": "center"
+      "fontName": "Futura-Bold",
+      "textTransform": "uppercase",
+      "textAlignment": "center",
+      "linkStyle": {
+        "underline": true
+      }
     },
     "heading3TextStyle": {
-      "fontName": "CaslonDoricApp-Bold",
+      "fontName": "Futura-Bold",
       "textTransform": "uppercase"
     },
     "heading4CenteredTextStyle": {
       "textAlignment": "center"
     },
     "heading4TextStyle": {
-      "fontName": "CaslonDoricApp-Bold"
+      "fontName": "HoeflerText-Black",
+      "textTransform": "lowercase"
     },
     "heading5CenteredTextStyle": {
-      "textAlignment": "center"
+      "fontName": "Gotham-Bold",
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.02
     },
     "heading5TextStyle": {
-      "fontName": "CaslonDoricApp-Bold"
+      "fontName": "Futura-Bold",
+      "textTransform": "uppercase"
     },
     "heading6CenteredTextStyle": {
-      "fontName": "CaslonDoricApp-Bold",
       "textAlignment": "center"
     },
     "heading6TextStyle": {
-      "fontName": "CaslonDoricApp-Bold",
+      "fontName": "HoeflerText-Black",
       "textTransform": "uppercase"
     },
     "ingredientsTextStyle": {
-      "fontName": "CaslonDoricApp-MediumItalic"
+      "fontName": "AvenirNext-DemiBold",
+      "fontSize": 16,
+      "lineHeight": 17
     },
     "introTextStyle": {
-      "fontName": "CaslonDoricApp-RegularNo2",
-      "tracking": 0.05
+      "fontName": "Superclarendon-Regular",
+      "lineHeight": 20
     },
     "pullQuoteTextStyle": {
-      "fontName": "CaslonDoricApp-Light",
-      "textAlignment": "center",
-      "tracking": 0.05,
-      "fontSize": 39,
-      "lineHeight": 45
+      "fontName": "Superclarendon-Bold",
+      "textAlignment": "center"
     },
     "recipeDetailsTextStyle": {
-      "fontName": "GothamNarrow-Book",
-      "fontSize": 14,
-      "lineHeight": 16,
-      "linkStyle": {
-        "fontName": "GothamNarrow-Bold",
-        "textColor": "#000",
-        "underline": true
-      }
+      "fontName": "Avenir-Light",
+      "fontSize": 13,
+      "lineHeight": 15,
+      "textTransform": "uppercase"
     },
     "reviewsTextStyle": {
       "conditional": [
@@ -2497,45 +2463,49 @@
       "textTransform": "uppercase"
     },
     "sectionTextStyle": {
-      "fontName": "CaslonDoricApp-Medium",
-      "fontSize": 14,
-      "tracking": 0.03
+      "fontName": "AvenirNext-Bold",
+      "textTransform": "lowercase",
+      "tracking": 0.05
     },
     "sidebarBodyTextStyle": {
-      "fontName": "CaslonDoricApp-Medium",
-      "lineHeight": 22
+      "fontName": "Avenir-Book",
+      "fontSize": 14,
+      "lineHeight": 17
     },
     "sidebarHeading2TextStyle": {
-      "fontName": "CaslonDoricApp-Bold",
-      "fontSize": 42,
-      "lineHeight": 44
+      "fontName": "HoeflerText-Black",
+      "fontSize": 28,
+      "lineHeight": 28,
+      "textTransform": "uppercase"
     },
     "sidebarHeading3TextStyle": {
-      "fontName": "CaslonDoricApp-Semibold",
-      "fontSize": 20,
-      "lineHeight": 22,
+      "fontName": "AvenirNext-Bold",
+      "fontSize": 19,
       "textTransform": "uppercase"
     },
     "sidebarHeading4TextStyle": {
-      "fontName": "CaslonDoricApp-Semibold",
-      "fontSize": 18,
-      "lineHeight": 20
+      "fontName": "AvenirNext-Bold",
+      "fontSize": 14,
+      "textTransform": "uppercase"
     },
     "sidebarIntroTextStyle": {
-      "fontName": "CaslonDoricApp-Regular",
-      "fontSize": 17,
-      "lineHeight": 21,
-      "tracking": 0.02
+      "fontName": "AvenirNext-DemiBold",
+      "fontSize": 13,
+      "lineHeight": 15
     },
     "straplineTextStyle": {
-      "fontName": "OriginalSansApp-Three",
+      "fontName": "HoeflerText-Black",
       "fontSize": 16,
-      "lineHeight": 18,
+      "lineHeight": 14,
+      "textTransform": "uppercase",
       "tracking": 0.05
     },
     "titleTextStyle": {
-      "fontName": "OriginalSansApp-Four",
-      "tracking": 0.05
+      "fontName": "Futura-Bold",
+      "fontSize": 62,
+      "lineHeight": 62,
+      "textTransform": "uppercase",
+      "tracking": -0.01
     },
     "tocTextStyle": {
       "fontName": "AvenirNextCondensed-Medium",
@@ -2552,117 +2522,139 @@
       "lineHeight": 24,
       "textAlignment": "center"
     },
-    "coldOpenStraplineTextStyle": {
-      "fontName": "CaslonDoricApp-Medium",
-      "fontSize": 13,
-      "textAlignment": "center",
-      "tracking": 0
-    },
-    "coldOpenTitleTextStyle": {
-      "fontName": "OriginalSansApp-Four",
-      "fontSize": 80,
-      "lineHeight": 22,
-      "textAlignment": "center",
-      "tracking": 0.1,
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minViewportWidth": 430
-            }
-          ],
-          "fontSize": 100,
-          "lineHeight": 26
-        }
-      ]
-    },
-    "contentTextStyles": {
-      "fontName": "CaslonDoricApp-Regular",
-      "fontSize": 12,
-      "lineHeight": 20,
-      "tracking": 0.1,
-      "textAlignment": "center",
-      "linkStyle": {
-        "underline": {
-          "color": "#F15921"
-        }
-      }
-    },
-    "contentsTextStyle": {
-      "fontName": "AvenirNextCondensed-Bold",
-      "textAlignment": "center",
-      "fontSize": 16,
-      "lineHeight": 20
-    },
-    "slugTextStyle": {
-      "fontName": "CaslonDoricApp-Semibold",
-      "fontSize": 16,
-      "lineHeight": 18,
-      "textColor": "#EE3124"
-    },
-    "mediaBodyTextStyle": {
-      "fontName": "CaslonDoricApp-Regular",
-      "fontSize": 17
-    },
-    "pullQuoteAttributionTextStyle": {
-      "fontName": "CaslonDoricApp-Bold",
+    "authorCenteredTextStyle": {
+      "fontName": "Avenir-Book",
       "fontSize": 14,
       "lineHeight": 16,
-      "textTransform": "capitalize",
       "textAlignment": "center",
+      "textTransform": "uppercase"
+    },
+    "bodyDropCapAltTextStyle": {
+      "dropCapStyle": {
+        "fontName": "Avenir-Book",
+        "numberOfCharacters": 1,
+        "numberOfLines": 4,
+        "numberOfRaisedLines": 0
+      },
+      "fontName": "AvenirNext-Regular"
+    },
+    "bodyDropCapQuestionTextStyle": {
+      "dropCapStyle": {
+        "fontName": "HoeflerText-Black",
+        "numberOfCharacters": 1,
+        "numberOfLines": 2,
+        "numberOfRaisedLines": 0
+      },
+      "fontName": "AvenirNext-Bold"
+    },
+    "calloutBodyCenteredTextStyle": {
+      "fontName": "AvenirNext-Medium",
+      "fontSize": 15,
+      "lineHeight": 17,
+      "textAlignment": "center"
+    },
+    "calloutHeadingCenteredTextStyle": {
+      "fontName": "HoeflerText-Black",
+      "fontSize": 42,
+      "lineHeight": 42,
+      "textAlignment": "center",
+      "textTransform": "lowercase"
+    },
+    "captionDarkTextStyle": {
+      "fontName": "Avenir-Book",
+      "textColor": "#fff"
+    },
+    "captionLeftTextStyle": {
+      "fontName": "Avenir-BookOblique"
+    },
+    "introAltCenteredTextStyle": {
+      "fontName": "Avenir-Book",
+      "lineHeight": 20,
+      "textAlignment": "center"
+    },
+    "introAltTextStyle": {
+      "fontName": "Avenir-Book",
+      "lineHeight": 20
+    },
+    "photoCreditTextStyle": {
+      "fontName": "AvenirNext-Regular",
+      "fontSize": 10,
+      "lineHeight": 12,
+      "textAlignment": "right",
+      "textColor": "#808284",
+      "textTransform": "uppercase",
       "tracking": 0.05
     },
-    "questionTextStyle": {
-      "fontName": "CaslonDoricApp-Bold"
-    },
-    "RRTextStyle": {
-      "fontName": "CaslonDoricApp-Regular",
-      "tracking": 0.05,
+    "johnsCocktailTextStyle": {
+      "backgroundColor": "#221E1F",
+      "fontName": "AvenirNext-Bold",
       "fontSize": 14,
-      "lineHeight": 14
+      "lineHeight": 18,
+      "textColor": "#fff",
+      "textTransform": "uppercase"
     },
-    "sidebarIntroCenteredTextStyle": {
-      "fontName": "CaslonDoricApp-Regular",
-      "fontSize": 17,
-      "lineHeight": 21,
-      "textAlignment": "center",
-      "tracking": 0.02
+    "recipeBodyTextStyle": {
+      "fontName": "Georgia"
     },
-    "sidebarAuthorCenteredTextStyle": {
-      "fontName": "CaslonDoricApp-SemiboldItalic",
-      "fontSize": 17,
-      "lineHeight": 21,
-      "textAlignment": "center",
-      "tracking": 0.04
+    "recipeIntroTextStyle": {
+      "fontName": "AvenirNext-DemiBoldItalic",
+      "fontSize": 16,
+      "lineHeight": 17
+    },
+    "recipeTitleTextStyle": {
+      "fontName": "HoeflerText-Black",
+      "fontSize": 36,
+      "lineHeight": 36
     },
     "sidebarAuthorTextStyle": {
-      "fontName": "CaslonDoricApp-SemiboldItalic",
-      "fontSize": 17,
-      "lineHeight": 21,
-      "tracking": 0.04
+      "fontName": "Avenir-Book",
+      "fontSize": 13,
+      "lineHeight": 16,
+      "textTransform": "uppercase"
     },
     "sidebarBodyCenteredTextStyle": {
-      "fontName": "CaslonDoricApp-MediumItalic",
-      "lineHeight": 22,
+      "fontName": "Avenir-Book",
+      "fontSize": 14,
+      "lineHeight": 17,
       "textAlignment": "center"
     },
     "sidebarHeading2CenteredTextStyle": {
-      "fontName": "CaslonDoricApp-Bold",
-      "fontSize": 42,
-      "lineHeight": 44,
+      "fontName": "HoeflerText-Black",
+      "fontSize": 36,
+      "lineHeight": 36,
+      "textTransform": "lowercase",
       "textAlignment": "center"
     },
     "sidebarHeading3CenteredTextStyle": {
-      "fontName": "CaslonDoricApp-Semibold",
-      "fontSize": 20,
-      "lineHeight": 22,
+      "fontName": "AvenirNext-Bold",
+      "fontSize": 19,
       "textAlignment": "center"
     },
-    "sidebarHeading5TextStyle": {
-      "fontName": "CaslonDoricApp-Semibold",
-      "fontSize": 18,
-      "lineHeight": 18,
-      "tracking": 0.05
+    "sidebarIntroCenteredTextStyle": {
+      "textAlignment": "center",
+      "fontName": "AvenirNext-DemiBold",
+      "fontSize": 13,
+      "lineHeight": 15
+    },
+    "straplineAltTextStyle": {
+      "fontName": "Futura-Bold",
+      "fontSize": 14,
+      "lineHeight": 12,
+      "textTransform": "uppercase",
+      "tracking": -0.01
+    },
+    "titleAltTextStyle": {
+      "fontName": "HoeflerText-Black",
+      "fontSize": 58,
+      "lineHeight": 58,
+      "textTransform": "lowercase"
+    },
+    "titleCenteredTextStyle": {
+      "fontName": "HoeflerText-Black",
+      "fontSize": 58,
+      "lineHeight": 58,
+      "textAlignment": "center",
+      "textTransform": "lowercase"
     }
   }
 }

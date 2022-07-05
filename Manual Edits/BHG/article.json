@@ -1,0 +1,1726 @@
+{
+  "version": "1.9",
+  "identifier": "alr_article_899-131-2-1",
+  "title": "MASTHEAD",
+  "language": "en",
+  "layout": {
+    "columns": 20,
+    "gutter": 20,
+    "margin": 40,
+    "width": 1024
+  },
+  "metadata": {
+    "dateCreated": "2022-06-21T16:53:46.356Z",
+    "dateModified": "2022-06-17T17:00:19+00:00",
+    "excerpt": "EXECUTIVE FOOD EDITOR Shelli McConnell",
+    "generatorName": "ANTE Generic Template",
+    "generatorVersion": "0.0.4.33-2022-06-09 18:32"
+  },
+  "documentStyle": {
+    "backgroundColor": "#eee"
+  },
+  "components": [
+    {
+      "role": "container",
+      "layout": {
+        "conditional": [
+          {
+            "conditions": [
+              {
+                "platform": "ios"
+              }
+            ],
+            "ignoreViewportPadding": true
+          },
+          {
+            "conditions": [
+              {
+                "maxViewportWidth": 1366,
+                "minViewportWidth": 1112
+              }
+            ],
+            "ignoreDocumentMargin": "none",
+            "ignoreViewportPadding": "none"
+          }
+        ],
+        "ignoreDocumentMargin": true
+      },
+      "style": {
+        "backgroundColor": "#fff"
+      },
+      "components": [
+        {
+          "//": "==== DEFAULT HEADER: SECTION ===",
+          "role": "heading",
+          "layout": "sectionLayout",
+          "textStyle": "sectionTextStyle",
+          "format": "html",
+          "text": "MASTHEAD"
+        },
+        {
+          "role": "container",
+          "layout": "dividerLayout",
+          "style": "dividerSectionHeadStyle"
+        },
+        {
+          "//": "==== DEFAULT HEADER: TITLE ===",
+          "role": "title",
+          "layout": "titleLayout",
+          "textStyle": "titleTextStyle",
+          "format": "html",
+          "text": "MASTHEAD"
+        },
+        {
+          "//": "======== BODY CONTAINER =======",
+          "role": "container",
+          "layout": "bodyContainerLayout",
+          "components": [
+            {
+              "role": "heading2",
+              "layout": "heading2Layout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Allrecipes Specials"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>EXECUTIVE FOOD EDITOR</lede> Shelli McConnell"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>EXECUTIVE CREATIVE DIRECTOR</lede> Michael D. Belknap"
+            },
+            {
+              "role": "heading3",
+              "layout": "heading3Layout",
+              "textStyle": "heading3TextStyle",
+              "format": "html",
+              "text": "Editorial"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Food Editor</b> Caitlyn Diimig, RD"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Contributing Food Editor</b> Annie Peterson"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Contributing Copy Editor</b> Steven Blaski"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Contributing Proofreader</b> Terri Fredrickson"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Editorial Administrative Assistant</b> Gabrielle Renslow"
+            },
+            {
+              "role": "heading3",
+              "layout": "heading3Layout",
+              "textStyle": "heading3TextStyle",
+              "format": "html",
+              "text": "Art"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Creative Director</b> Kyli Hassebrock"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Associate Art Director</b> Laura Engel"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Contributing Designers</b> Shelley Caldwell, Brianna Greene"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Intern</b> Claire Taets"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Photography Director</b> Paden Reich"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Photographers</b> Antonis Achilleos, Caitlin Bensel, Carson Downing"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Stylists</b> Ruth Blackburn, Kay E. Clarke, Christina Daley, Margaret Monroe Dickey, Emily Nabors Hall, Sue Mitchell, Kelsey Moylan, Ali Ramee"
+            },
+            {
+              "role": "heading3",
+              "layout": "heading3Layout",
+              "textStyle": "heading3TextStyle",
+              "format": "html",
+              "text": "Editorial Administration"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Editorial Director</b> Jill Waage"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Assistant Managing Editor</b> Jennifer Speer Ramundt"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Senior Copy Editors</b> Erika Bjorklund, Madelaine Jerousek-Smith, Martha Coloff Long"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Lead Business Office Assistant</b> Gabrielle Renslow"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Associate Production Director</b> Patrick McGowan"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Director, Premedia Services</b> Amy Tincher-Durik"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Director, Quality</b> Joseph Kohler"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Director, Food Studios</b> Allison Lowery"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Director, Test Kitchen</b> Lynn Blanchard"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Director, Photo Studio</b> Reese Strickland"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Photo Studio Set Construction Manager</b> Dave Decarlo"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Studios Coordinator</b> Terri Charter"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Premedia Trafficking Supervisor</b> Chris Sprague"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Assistant Director, Premedia Imaging</b> Michael Sturtz"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Color Quality Analysts</b> Heidi Parcel, Sarah Schroeder"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>MEREDITH PREMIUM PUBLISHING SENIOR VICE PRESIDENT &amp; GROUP PUBLISHER</b>&nbsp;Mark Josephson"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Vice President &amp; General Manager</b> Jeremy Biloon"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Vice President, Group Editorial Director</b> Stephen Orr"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Director, Editorial Operations &amp; Finance</b> Greg Kayko"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Director, Brand Marketing</b> Jean Kennedy"
+            },
+            {
+              "role": "heading2",
+              "layout": "heading2Layout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "<a href=\"http://Allrecipes.com\">Allrecipes.Com</a>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>SENIOR VICE PRESIDENT AND GROUP GENERAL MANAGER, FOOD</lede>&nbsp;Eric Handelsman"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Senior Vice President &amp; General Manager</b> Molly Fergus"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>General Manager</b> Lorraine Goldberg"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Editorial Director</b> Ashley Kappel"
+            },
+            {
+              "role": "heading2",
+              "layout": "heading2Layout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Allrecipes Magazine"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>EDITOR IN CHIEF</lede> Nichole Aksamit"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>CREATIVE DIRECTOR</lede> Kyli Hassebrock"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Deputy Editor</b> Carrie Boyd"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Senior Food &amp; Features Editor</b> Cheryl Slocum"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Food Editor</b> Caitlyn Diimig, RD"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Associate Art Director</b> Laura Engel"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Editorial Administrative Assistant</b> Courtney Bush"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Test Kitchen</b> Lynn Blanchard; Sarah Brekke; Linda Brewer, RD; Olivia Dansky; Juliana Hale; Julia Levy; Emily Nienhaus; Karen Rankin"
+            },
+            {
+              "role": "heading2",
+              "layout": "heading2Layout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Advertising &amp; Business"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>PUBLISHER</lede> Donna Lindskog"
+            },
+            {
+              "role": "heading3",
+              "layout": "heading3Layout",
+              "textStyle": "heading3TextStyle",
+              "format": "html",
+              "text": "Advertising"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<i>NEW YORK: 212-455-1344</i>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Account Manager</b> Maggie Connolly"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Account Manager</b> Sara D’Angelo"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Sales Director</b> Tyler Hub"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<i>CHICAGO: 312-853-1224</i>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Account Director</b> Jennifer Swanton"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Account Director</b> Michelle Butler-Mingey"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>National Travel Director</b> Katy Hildman"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<i>DETROIT: 248-205-2571</i>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Detroit Director</b> Karen Barnhart"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<i>LOS ANGELES: 310-268-7159</i>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Account Manager</b> Blair Shales"
+            },
+            {
+              "role": "heading3",
+              "layout": "heading3Layout",
+              "textStyle": "heading3TextStyle",
+              "format": "html",
+              "text": "Marketing"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Associate Publisher, Marketing</b> Sandra Salerno Roth"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Art Director</b> Tracy D’Agostino"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Associate Marketing Manager</b> Harley Gates"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Executive Director, Brand Communication</b> Elizabeth Marsh"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Director, Sales Strategy &amp; Insights</b> Nancy Elias"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Senior Research Manager</b> Cheryl Campbell"
+            },
+            {
+              "role": "heading3",
+              "layout": "heading3Layout",
+              "textStyle": "heading3TextStyle",
+              "format": "html",
+              "text": "Production"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Senior Production Manager</b> Jennifer Paugh"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Assistant Director, Premedia Trafficking</b> Jill Cruchelow"
+            },
+            {
+              "role": "heading3",
+              "layout": "heading3Layout",
+              "textStyle": "heading3TextStyle",
+              "format": "html",
+              "text": "Circulation &amp; Finance"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Consumer Marketing Manager</b> Laura Krogh"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b>Business Manager</b> Leslie Rohr"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>PRESIDENT, LIFESTYLE</lede>&nbsp;Alysia Borsa"
+            }
+          ]
+        },
+        {
+          "role": "container",
+          "layout": "bodyContainerLayout",
+          "conditional": [
+            {
+              "conditions": [
+                {
+                  "viewLocation": "article"
+                }
+              ],
+              "hidden": false
+            }
+          ],
+          "hidden": true,
+          "components": [
+            {
+              "role": "container",
+              "layout": "dividerLayout",
+              "style": "dividerSectionHeadStyle"
+            },
+            {
+              "//": "=== VISIT TOC LINK, ONLY VISIBLE IF USER IS IN ARTICLE VIEW ===",
+              "role": "body",
+              "layout": "bodyLayout",
+              "textStyle": "tocTextStyle",
+              "format": "html",
+              "text": "<a href='https://apple.news/AeWTaQfGQEeyRKiYivkxSbA'>Tap here</a> to see more from this issue of <i>Allrecipes</i>"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "componentLayouts": {
+    "attributeLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 15
+    },
+    "authorLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 5
+      }
+    },
+    "blockContainerLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "bodyContainerLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": 10
+    },
+    "bodyLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 2
+      }
+    },
+    "bottomPhotoDividerLayout": {
+      "//": "UNUSED"
+    },
+    "calloutBodyLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 5
+      }
+    },
+    "calloutHeadingLayout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "calloutLayout": {
+      "columnSpan": 16,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "padding": {
+        "bottom": 10,
+        "left": 20,
+        "right": 20,
+        "top": 10
+      }
+    },
+    "captionAdLayout": {
+      "//": "UNUSED"
+    },
+    "captionLayout": {
+      "margin": 8
+    },
+    "collectionLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "darkModePaddingLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "padding": 10
+        }
+      ]
+    },
+    "dividerCollectionLayout": {
+      "//": "UNUSED"
+    },
+    "dividerLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 20,
+        "top": 10
+      }
+    },
+    "dividerStandardLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "minimumHeight": 1
+    },
+    "dividerTocLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 15,
+        "top": 20
+      },
+      "minimumHeight": 10
+    },
+    "floatContainerLayout": {
+      "columnSpan": 4,
+      "columnStart": 1,
+      "conditional": [
+        {
+          "columnSpan": 4,
+          "columnStart": 0,
+          "conditions": [
+            {
+              "maxViewportWidth": 415
+            }
+          ]
+        }
+      ]
+    },
+    "fullBleedContainerLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "fullBleedDividerLayout": {
+      "//": "UNUSED"
+    },
+    "fullBleedLayout": {
+      "ignoreDocumentMargin": true
+    },
+    "fullBleedPhotoLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 700
+            }
+          ],
+          "ignoreDocumentMargin": false
+        }
+      ],
+      "ignoreDocumentMargin": true
+    },
+    "galleryPhotoLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "heading2Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading3Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading4Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading5Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading6Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heroImageLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 15
+      }
+    },
+    "heroImageTallLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 15
+      }
+    },
+    "ingredientsLayout": {
+      "margin": 10
+    },
+    "introLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10
+      }
+    },
+    "noMarginLayout": {
+      "columnSpan": 18,
+      "columnStart": 1
+    },
+    "productImageStandardLayout": {
+      "minimumHeight": 280
+    },
+    "pullQuoteLayout": {
+      "columnSpan": 16,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 25,
+        "top": 15
+      }
+    },
+    "reviewLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "padding": {
+        "left": 85,
+        "top": 2
+      }
+    },
+    "sectionLayout": {
+      "margin": {
+        "top": 5
+      }
+    },
+    "sidebarBodyLayout": {
+      "margin": {
+        "bottom": 10
+      }
+    },
+    "sidebarDividerLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "minimumHeight": 1
+    },
+    "sidebarFloatContainerLayout": {
+      "columnSpan": 4,
+      "columnStart": 0
+    },
+    "sidebarHeading2Layout": {
+      "margin": {
+        "top": 20
+      }
+    },
+    "sidebarHeading3Layout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "sidebarHeading4Layout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "sidebarIntroLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 5
+      }
+    },
+    "sidebarLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 20,
+      "padding": {
+        "bottom": 10,
+        "left": 20,
+        "right": 20
+      }
+    },
+    "sidebarSingleBlockContainerLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "sidebarSmallMarginAboveLayout": {
+      "margin": {
+        "top": 2
+      }
+    },
+    "singleBlockContainerLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "smallMarginAboveLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 2
+      }
+    },
+    "smallSpacerLayout": {
+      "maximumWidth": 5,
+      "minimumWidth": 5
+    },
+    "spacerLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "starsImageLayout": {
+      "margin": {
+        "top": 2
+      },
+      "maximumWidth": 100
+    },
+    "straplineLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "titleLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 5
+      }
+    },
+    "topPhotoDividerLayout": {
+      "//": "UNUSED"
+    },
+    "youSaidContainerLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 500
+            }
+          ],
+          "padding": {
+            "left": "20cw",
+            "right": "20cw"
+          }
+        }
+      ],
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "youSaidImageLayout": {
+      "horizontalContentAlignment": "center",
+      "margin": {
+        "bottom": 10
+      },
+      "maximumContentWidth": 110
+    }
+  },
+  "componentStyles": {
+    "attributeStyle": {
+      "//": "UNUSED"
+    },
+    "authorStyle": {
+      "//": "UNUSED"
+    },
+    "bodyContainerStyle": {
+      "//": "UNUSED"
+    },
+    "calloutStyle": {
+      "border": {
+        "all": {
+          "color": "#FF7E19",
+          "width": 4
+        }
+      }
+    },
+    "captionAdStyle": {
+      "//": "UNUSED"
+    },
+    "darkModeBackgroundStyle": {
+      "conditional": [
+        {
+          "backgroundColor": "#FFF",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "dividerSectionHeadStyle": {
+      "border": {
+        "all": {
+          "color": "#ececec",
+          "width": 1
+        },
+        "bottom": true,
+        "left": false,
+        "right": false,
+        "top": true
+      },
+      "conditional": [
+        {
+          "border": {
+            "all": {
+              "color": "#666666",
+              "width": 1
+            },
+            "bottom": true,
+            "left": false,
+            "right": false,
+            "top": true
+          },
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "dividerStandardStyle": {
+      "backgroundColor": "#000"
+    },
+    "dividerTocStyle": {
+      "//": "UNUSED"
+    },
+    "fullBleedContainerStyle": {
+      "//": "UNUSED"
+    },
+    "heading2Style": {
+      "//": "UNUSED"
+    },
+    "heading3Style": {
+      "//": "UNUSED"
+    },
+    "heading4Style": {
+      "//": "UNUSED"
+    },
+    "heading5Style": {
+      "//": "UNUSED"
+    },
+    "heading6Style": {
+      "//": "UNUSED"
+    },
+    "ingredientsStyle": {
+      "tableStyle": {
+        "cells": {
+          "conditional": [
+            {
+              "horizontalAlignment": "right",
+              "padding": {
+                "right": 5
+              },
+              "selectors": [
+                {
+                  "columnIndex": 0
+                }
+              ],
+              "width": 10
+            },
+            {
+              "horizontalAlignment": "left",
+              "padding": {
+                "left": 5
+              },
+              "selectors": [
+                {
+                  "columnIndex": 1
+                }
+              ],
+              "width": 75
+            }
+          ],
+          "textStyle": "ingredientsTextStyle",
+          "verticalAlignment": "top"
+        },
+        "columns": {
+          "conditional": [
+            {
+              "selectors": [
+                {
+                  "columnIndex": 0
+                }
+              ],
+              "width": 10
+            },
+            {
+              "selectors": [
+                {
+                  "columnIndex": 1
+                }
+              ],
+              "width": 45
+            }
+          ]
+        }
+      }
+    },
+    "introStyle": {
+      "//": "UNUSED"
+    },
+    "paragraphDropCapStyle": {
+      "//": "UNUSED"
+    },
+    "paragraphStyle": {
+      "//": "UNUSED"
+    },
+    "photoContainerStyle": {
+      "//": "UNUSED"
+    },
+    "pullQuoteStyle": {
+      "//": "UNUSED"
+    },
+    "reviewFiveStarsStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "horizontalAlignment": "left",
+            "repeat": "none",
+            "type": "repeatable_image",
+            "URL": "https://public-assets.meredithcorp.io/ba3bbeb190fc45d4b5bb1d08c8fd2a5c/fiveDM.png",
+            "verticalAlignment": "top",
+            "width": 80
+          }
+        }
+      ],
+      "fill": {
+        "horizontalAlignment": "left",
+        "repeat": "none",
+        "type": "repeatable_image",
+        "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common022/86031-1-eng-GB/common022.jpg",
+        "verticalAlignment": "top",
+        "width": 80
+      }
+    },
+    "reviewFourHalfStarsStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "horizontalAlignment": "left",
+            "repeat": "none",
+            "type": "repeatable_image",
+            "URL": "https://public-assets.meredithcorp.io/8700c3d249629b59c38e0b147c58947c/fourDM.png",
+            "verticalAlignment": "top",
+            "width": 80
+          }
+        }
+      ],
+      "fill": {
+        "horizontalAlignment": "left",
+        "repeat": "none",
+        "type": "repeatable_image",
+        "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common0166/108858-1-eng-GB/common012.jpg?q=100",
+        "verticalAlignment": "top",
+        "width": 80
+      }
+    },
+    "reviewFourStarsStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "horizontalAlignment": "left",
+            "repeat": "none",
+            "type": "repeatable_image",
+            "URL": "https://public-assets.meredithcorp.io/8e401d3520fc3b0bec1ecdf6f118edf3/fourstarsDM.png",
+            "verticalAlignment": "top",
+            "width": 80
+          }
+        }
+      ],
+      "fill": {
+        "horizontalAlignment": "left",
+        "repeat": "none",
+        "type": "repeatable_image",
+        "URL": "https://public-assets.meredithcorp.io/4cadea6bc3bbdd6b0bdfab5abedfb66f/fourstars.jpg",
+        "verticalAlignment": "top",
+        "width": 80
+      }
+    },
+    "sectionStyle": {
+      "//": "UNUSED"
+    },
+    "sidebarNoBackgroundStyle": {
+      "border": {
+        "all": {
+          "color": "#000",
+          "width": 2
+        }
+      }
+    },
+    "sidebarStyle": {
+      "backgroundColor": "#f2f2f2",
+      "conditional": [
+        {
+          "backgroundColor": "#828282",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "straplineStyle": {
+      "//": "UNUSED"
+    },
+    "titleStyle": {
+      "//": "UNUSED"
+    }
+  },
+  "textStyles": {
+    "creditTextStyle": {
+      "fontName": "Gotham-Book",
+      "fontSize": 10,
+      "textColor": "#8d8d8d",
+      "tracking": 0.05
+    },
+    "default-tag-caption-heading": {
+      "fontName": "Gotham-Black",
+      "fontSize": 15
+    },
+    "default-tag-caption-i": {
+      "fontName": "Gotham-Book"
+    },
+    "default-tag-emoji": {
+      "fontName": "AppleColorEmoji"
+    },
+    "default-tag-lede": {
+      "fontName": "GothamNarrow-Bold",
+      "tracking": 0.02
+    },
+    "default-tag-pullquote-attribution": {
+      "fontName": "GothamCondensed-Medium",
+      "fontSize": 18,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.05
+    },
+    "default-tag-sidebar-lede": {
+      "fontName": "GothamNarrow-Bold"
+    },
+    "default-tag-subsection": {
+      "fontName": "Gotham-Light"
+    },
+    "endMarkerTextStyle": {
+      "//": "UNUSED"
+    },
+    "subSectionTextStyle": {
+      "//": "UNUSED"
+    }
+  },
+  "componentTextStyles": {
+    "//": {
+      "//": "================ ALL RECIPES OVERRIDES ================"
+    },
+    "attributeTextStyle": {
+      "fontName": "GothamNarrow-Book",
+      "fontSize": 10,
+      "lineHeight": 12,
+      "tracking": 0.05
+    },
+    "authorTextStyle": {
+      "fontName": "Gotham-Light",
+      "tracking": 0.1
+    },
+    "bodyCenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "bodyDropCapTextStyle": {
+      "dropCapStyle": {
+        "fontName": "GothamNarrow-ThinItalic",
+        "numberOfCharacters": 1,
+        "numberOfLines": 4,
+        "numberOfRaisedLines": 0
+      },
+      "tracking": 0.02
+    },
+    "bodyTextStyle": {
+      "tracking": 0.02
+    },
+    "calloutBodyTextStyle": {
+      "fontSize": 15,
+      "lineHeight": 19,
+      "linkStyle": {
+        "fontName": "GothamNarrow-Bold",
+        "textColor": "#000",
+        "underline": true
+      },
+      "textAlignment": "center"
+    },
+    "calloutHeadingTextStyle": {
+      "fontName": "Harrietv2Display-Bold",
+      "fontSize": 28,
+      "lineHeight": 30,
+      "textAlignment": "center"
+    },
+    "captionAdTextStyle": {
+      "//": "UNUSED"
+    },
+    "captionCenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "captionEmbeddedTextStyle": {
+      "fontName": "HelveticaNeue",
+      "lineHeight": 16
+    },
+    "captionTextStyle": {
+      "fontName": "Gotham-BookItalic",
+      "tracking": 0.02
+    },
+    "default": {
+      "fontName": "GothamNarrow-Book",
+      "hyphenation": false,
+      "linkStyle": {
+        "fontName": "GothamNarrow-Bold",
+        "textColor": "#000",
+        "underline": true
+      },
+      "textColor": "#000"
+    },
+    "default-author": {
+      "fontName": "Avenir-Book",
+      "fontSize": 14,
+      "lineHeight": 16
+    },
+    "default-body": {
+      "fontSize": 16,
+      "lineHeight": 20,
+      "paragraphSpacingAfter": 12,
+      "paragraphSpacingBefore": 12
+    },
+    "default-byline": {
+      "//": "UNUSED"
+    },
+    "default-caption": {
+      "fontName": "Avenir-Book",
+      "fontSize": 14,
+      "lineHeight": 16
+    },
+    "default-heading": {
+      "fontSize": 16,
+      "lineHeight": 16
+    },
+    "default-heading2": {
+      "fontSize": 40,
+      "lineHeight": 42
+    },
+    "default-heading3": {
+      "fontSize": 32,
+      "lineHeight": 34
+    },
+    "default-heading4": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 500
+            }
+          ],
+          "fontSize": 24,
+          "lineHeight": 26
+        }
+      ],
+      "fontSize": 28,
+      "lineHeight": 30
+    },
+    "default-heading5": {
+      "fontSize": 17,
+      "lineHeight": 19
+    },
+    "default-heading6": {
+      "fontSize": 18,
+      "lineHeight": 20
+    },
+    "default-intro": {
+      "fontName": "Avenir-Book",
+      "fontSize": 20,
+      "lineHeight": 24
+    },
+    "default-photographer": {
+      "//": "UNUSED"
+    },
+    "default-pullquote": {
+      "fontSize": 44,
+      "lineHeight": 44,
+      "textAlignment": "center"
+    },
+    "default-title": {
+      "fontSize": 66,
+      "lineHeight": 59
+    },
+    "floatImageCaptionTextStyle": {
+      "fontName": "Gotham-BookItalic",
+      "tracking": 0.02
+    },
+    "heading2CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading2TextStyle": {
+      "fontName": "GothamXNarrow-Ultra",
+      "textTransform": "uppercase",
+      "tracking": 0.11
+    },
+    "heading3CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading3TextStyle": {
+      "fontName": "Gotham-Black"
+    },
+    "heading4CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading4TextStyle": {
+      "fontName": "GothamXNarrow-Ultra",
+      "textTransform": "uppercase",
+      "tracking": 0.12
+    },
+    "heading5CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading5TextStyle": {
+      "fontName": "Gotham-Bold",
+      "textTransform": "uppercase",
+      "tracking": 0.02
+    },
+    "heading6CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading6TextStyle": {
+      "fontName": "GothamXNarrow-Black",
+      "tracking": 0.04
+    },
+    "ingredientsTextStyle": {
+      "fontName": "GothamNarrow-Book",
+      "lineHeight": 24
+    },
+    "introTextStyle": {
+      "fontName": "Gotham-Book",
+      "tracking": 0.03
+    },
+    "pullQuoteTextStyle": {
+      "fontName": "GothamCondensed-LightItalic",
+      "textAlignment": "center"
+    },
+    "recipeDetailsTextStyle": {
+      "fontName": "GothamNarrow-Book",
+      "fontSize": 14,
+      "lineHeight": 16
+    },
+    "reviewsTextStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "textColor": "#fff"
+        }
+      ],
+      "fontName": "GothamNarrow-Black",
+      "textColor": "#000"
+    },
+    "savedTextStyle": {
+      "fontName": "GothamNarrow-Book",
+      "fontSize": 16,
+      "lineHeight": 18,
+      "textTransform": "uppercase"
+    },
+    "sectionTextStyle": {
+      "fontName": "Gotham-Ultra",
+      "fontSize": 14,
+      "tracking": 0.1
+    },
+    "sidebarBodyTextStyle": {
+      "fontName": "GothamNarrow-Book"
+    },
+    "sidebarHeading2TextStyle": {
+      "fontName": "Harrietv2Display-Bold",
+      "tracking": 0.02
+    },
+    "sidebarHeading3TextStyle": {
+      "fontName": "GothamXNarrow-Bold",
+      "fontSize": 28,
+      "lineHeight": 30,
+      "textTransform": "uppercase",
+      "tracking": 0.09
+    },
+    "sidebarHeading4TextStyle": {
+      "fontName": "GothamXNarrow-Bold",
+      "fontSize": 24,
+      "lineHeight": 26,
+      "tracking": 0.02
+    },
+    "sidebarIntroTextStyle": {
+      "fontName": "GothamNarrow-Medium"
+    },
+    "straplineTextStyle": {
+      "fontName": "Gotham-Ultra",
+      "tracking": 0.15
+    },
+    "titleTextStyle": {
+      "fontName": "GothamCondensed-Black",
+      "textTransform": "uppercase",
+      "tracking": 0.03
+    },
+    "tocTextStyle": {
+      "fontName": "AvenirNextCondensed-Medium",
+      "fontSize": 16,
+      "linkStyle": {
+        "underline": true
+      },
+      "textAlignment": "center",
+      "textColor": "#000"
+    },
+    "youSaidQuoteTextStyle": {
+      "fontName": "GothamCondensed-LightItalic",
+      "fontSize": 22,
+      "lineHeight": 24,
+      "textAlignment": "center"
+    }
+  }
+}

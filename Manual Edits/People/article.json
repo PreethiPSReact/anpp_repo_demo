@@ -1,7 +1,7 @@
 {
   "version": "1.9",
-  "identifier": "coastalliving_article_889-125-18-1",
-  "title": "What’s in Your Beach Bag?",
+  "identifier": "coastalliving_article_889-125-12-1",
+  "title": "Sitting Pretty",
   "language": "en",
   "layout": {
     "columns": 23,
@@ -9,17 +9,17 @@
     "margin": 62,
     "width": 1024
   },
-  "subtitle": "Fashion and housewares designer Heidi Merrick shares her beach day essentials",
+  "subtitle": "No matter where you choose to lounge this summer, here are five combos for matching your beach chair and your bathing suit",
   "metadata": {
     "authors": [
-      "By Patricia Shannon"
+      "By Jessica Thuston"
     ],
-    "dateCreated": "2022-05-20T16:37:04.726Z",
-    "dateModified": "2022-05-18T20:47:52+00:00",
-    "excerpt": "There’s no such thing as time off for Heidi Merrick, but she’s not complaining. Her father, renowned surfboard shaper Al Merrick, taught her early on the importance of loving one’s craft while still making time to soak it all in. “My dad was very good at what he did and had high standards for himself, but he still took time to go fishing, so to speak,” she says. “I think the example of having a life’s work and living a full life has influenced how I work and how I live.” And for Merrick, that life (and her eponymous fashion and housewares lines) is tied to the beach. “There’s an earthiness and refined simplicity that is inherent to beach people,” she says. While the brand is based in Los Angeles, Merrick’s beach house on the road to Ojai is where she, husband Johnny Johnston, and their two children spend much of their time. “I just love seeing the ocean, and I like the people who live near it,” she says, “people who understand that nature is bigger than we are.”",
+    "dateCreated": "2022-05-20T16:37:03.449Z",
+    "dateModified": "2022-05-18T20:18:03+00:00",
+    "excerpt": "■",
     "generatorName": "ANTE Generic Template",
     "generatorVersion": "0.0.4.32-2022-04-15 19:20",
-    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/heidi/129777-1-eng-GB/heidi2.png?q=100"
+    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/bpc-g-lau-s_126/129638-1-eng-GB/bpc-g-lau-s_1262.png?q=100"
   },
   "documentStyle": {
     "backgroundColor": "#eee"
@@ -60,7 +60,7 @@
           "layout": "sectionLayout",
           "textStyle": "sectionTextStyle",
           "format": "html",
-          "text": "CURRENTS | <subsection>STYLE</subsection>"
+          "text": "CURRENTS | <subsection>MARKET REPORT</subsection>"
         },
         {
           "//": "==== DEFAULT HEADER: TITLE ===",
@@ -68,7 +68,7 @@
           "layout": "titleLayout",
           "textStyle": "titleTextStyle",
           "format": "html",
-          "text": "What’s in Your Beach Bag?"
+          "text": "Sitting Pretty"
         },
         {
           "//": "==== DEFAULT HEADER: INTRO ===",
@@ -76,25 +76,46 @@
           "layout": "introLayout",
           "textStyle": "introTextStyle",
           "format": "html",
-          "text": "Fashion and housewares designer Heidi Merrick shares her beach day essentials"
+          "text": "No matter where you choose to lounge this summer, here are five combos for matching your beach chair and your bathing suit"
         },
         {
           "role": "author",
           "layout": "authorLayout",
           "textStyle": "authorTextStyle",
           "format": "html",
-          "text": "By Patricia Shannon"
+          "text": "By Jessica Thuston"
+        },
+        {
+          "role": "heading2",
+          "layout": "heading2Layout",
+          "textStyle": "heading2TextStyle",
+          "format": "html",
+          "text": "ROMANTIC SAINT-TROPEZ"
         },
         {
           "//": "======== HERO IMAGE CONTAINER =======",
           "role": "container",
-          "layout": "heroImageLayout",
+          "layout": "singleBlockContainerLayout",
           "components": [
             {
-              "//": "======== HERO IMAGE - H1014.0/W820.0 * 100 = 123.6585366 ========",
-              "role": "photo",
-              "layout": "fullBleedPhotoLayout",
-              "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/heidi/129777-1-eng-GB/heidi2.png?q=100"
+              "//": "======== HERO IMAGE - H1435.0/W1367.0 * 100 = 104.9743965 ========",
+              "role": "image",
+              "layout": {
+                "maximumContentWidth": "70cw"
+              },
+              "caption": {
+                "format": "html",
+                "text": "<bold>Romantic Saint-Tropez</bold><br><bold>CHAIR Business &amp; Pleasure The Sling Chair</bold> in Lauren’s Navy Stripe, $249.",
+                "textStyle": "captionEmbeddedTextStyle"
+              },
+              "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/bpc-g-lau-s_126/129638-1-eng-GB/bpc-g-lau-s_1262.png?q=100"
+            },
+            {
+              "role": "caption",
+              "layout": "captionLayout",
+              "textStyle": "captionTextStyle",
+              "format": "html",
+              "text": "<caption-heading>Chair</caption-heading> <bold>Business & Pleasure The Sling Chair</bold> in Lauren’s Navy Stripe, $249 <a href=\"http://businessandpleasureco.com\">businessandpleasureco.com</a>"
             }
           ]
         },
@@ -104,439 +125,303 @@
           "layout": "bodyContainerLayout",
           "components": [
             {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1722.0/W1367.0 * 100 = 125.9692758 ========",
+                  "role": "image",
+                  "layout": {
+                    "maximumContentWidth": "70cw"
+                  },
+                  "caption": {
+                    "format": "html",
+                    "text": "<bold>SUIT Vineyard Vines Anegada Floral Ruffle Bikini Top,</bold><br>$78, and <bold>High-Waisted Bikini Bottom,</bold> $75.",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/oceanreefbo_121/129645-1-eng-GB/oceanreefbo_1212.png?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Suit</caption-heading> <bold>Vineyard Vines Anegada Floral Ruffle Bikini Top,</bold> $78, and <bold>High-Waisted Bikini Bottom,</bold> $75 <a href=\"http://tnuck.com\">tnuck.com</a>"
+                }
+              ]
+            },
+            {
+              "role": "container",
+              "layout": "dividerStandardLayout",
+              "style": "dividerStandardStyle"
+            },
+            {
+              "role": "heading2",
+              "layout": "heading2Layout",
+              "textStyle": "heading2TextStyle",
               "format": "html",
-              "text": "There’s no such thing as time off for Heidi Merrick, but she’s not complaining. Her father, renowned surfboard shaper Al Merrick, taught her early on the importance of loving one’s craft while still making time to soak it all in. “My dad was very good at what he did and had high standards for himself, but he still took time to go fishing, so to speak,” she says. “I think the example of having a life’s work and living a full life has influenced how I work and how I live.” And for Merrick, that life (and her eponymous fashion and housewares lines) is tied to the beach. “There’s an earthiness and refined simplicity that is inherent to beach people,” she says. While the brand is based in Los Angeles, Merrick’s beach house on the road to Ojai is where she, husband Johnny Johnston, and their two children spend much of their time. “I just love seeing the ocean, and I like the people who live near it,” she says, “people who understand that nature is bigger than we are.”"
+              "text": "WEST COAST SURF"
             },
             {
-              "role": "container",
-              "layout": "pullQuoteLayout",
-              "components": [
-                {
-                  "role": "container",
-                  "layout": "singleBlockContainerLayout",
-                  "style": "photoContainerStyle",
-                  "conditional": [
-                    {
-                      "conditions": [
-                        {
-                          "minSpecVersion": "1.14",
-                          "preferredColorScheme": "dark"
-                        }
-                      ],
-                      "hidden": true
-                    }
-                  ],
-                  "components": [
-                    {
-                      "role": "image",
-                      "layout": {
-                        "maximumContentWidth": "7cw"
-                      },
-                      "URL": "https://public-assets.meredithcorp.io/369daac52b3e1104ffd3162ae000dfe3/topQuote.png"
-                    }
-                  ]
-                },
-                {
-                  "role": "container",
-                  "layout": "singleBlockContainerLayout",
-                  "style": "photoContainerStyle",
-                  "conditional": [
-                    {
-                      "conditions": [
-                        {
-                          "minSpecVersion": "1.14",
-                          "preferredColorScheme": "dark"
-                        }
-                      ],
-                      "hidden": false
-                    }
-                  ],
-                  "hidden": true,
-                  "components": [
-                    {
-                      "role": "image",
-                      "layout": {
-                        "maximumContentWidth": "7cw"
-                      },
-                      "URL": "https://public-assets.meredithcorp.io/9ef250b467391a6f9f29406d482b60cd/topQuote_DM.png"
-                    }
-                  ]
-                },
-                {
-                  "role": "pullquote",
-                  "layout": "pullQuoteBodyLayout",
-                  "style": "pullQuoteStyle",
-                  "textStyle": "pullQuoteTextStyle",
-                  "format": "html",
-                  "text": "There’s an earthiness and refined simplicity that is inherent to beach people<br><pullquote-attribution>—Heidi Merrick</pullquote-attribution>"
-                },
-                {
-                  "role": "container",
-                  "layout": "singleBlockContainerLayout",
-                  "style": "photoContainerStyle",
-                  "conditional": [
-                    {
-                      "conditions": [
-                        {
-                          "minSpecVersion": "1.14",
-                          "preferredColorScheme": "dark"
-                        }
-                      ],
-                      "hidden": true
-                    }
-                  ],
-                  "components": [
-                    {
-                      "role": "image",
-                      "layout": {
-                        "maximumContentWidth": "7cw"
-                      },
-                      "URL": "https://public-assets.meredithcorp.io/8f32dc42cf9d467a4db59867ae2f2886/bottomQuote.png"
-                    }
-                  ]
-                },
-                {
-                  "role": "container",
-                  "layout": "singleBlockContainerLayout",
-                  "style": "photoContainerStyle",
-                  "conditional": [
-                    {
-                      "conditions": [
-                        {
-                          "minSpecVersion": "1.14",
-                          "preferredColorScheme": "dark"
-                        }
-                      ],
-                      "hidden": false
-                    }
-                  ],
-                  "hidden": true,
-                  "components": [
-                    {
-                      "role": "image",
-                      "layout": {
-                        "maximumContentWidth": "7cw"
-                      },
-                      "URL": "https://public-assets.meredithcorp.io/e9c2845e7992b958807d1c03d050fb53/bottomQuote_DM.png"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "//": "======== SINGLE BLOCK CONTAINER ========",
+              "//": "======== FULL BLEED CONTAINER ========",
               "role": "container",
               "layout": "singleBlockContainerLayout",
               "components": [
                 {
-                  "//": "======== IMAGE BLOCK - H1066.0/W519.0 * 100 = 205.3949904 ========",
+                  "//": "======== IMAGE BLEED - H1398.0/W1367.0 * 100 = 102.2677396 ========",
                   "role": "image",
                   "layout": {
-                    "//": "IPAD CONDITION STYLING",
-                    "conditional": [
-                      {
-                        "//": "PHONE CONDITION STYLING",
-                        "conditions": [
-                          {
-                            "maxViewportWidth": 415
-                          }
-                        ],
-                        "horizontalContentAlignment": "center",
-                        "maximumContentWidth": "52cw",
-                        "minimumWidth": "52cw"
-                      }
-                    ],
-                    "horizontalContentAlignment": "center",
-                    "maximumContentWidth": "47cw",
-                    "minimumWidth": "47cw"
+                    "maximumContentWidth": "70cw"
                   },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/drinkyourfl_113/129770-1-eng-GB/drinkyourfl_1132.png?q=100"
+                  "caption": {
+                    "format": "html",
+                    "text": "<bold>West Coast Surf</bold><br><bold>CHAIR PARKIT Voyager Chair</bold> in Slate, $225.",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/parkit-003__128/129631-1-eng-GB/parkit-003__1282.png?q=100"
                 },
                 {
                   "role": "caption",
                   "layout": "captionLayout",
                   "textStyle": "captionTextStyle",
                   "format": "html",
-                  "text": "<caption-heading>Apiary Drink Your Flowers 6% ABV Hard Jun Kombucha,</caption-heading> <a href=\"http://drinkapiary.com\">drinkapiary.com</a> for retailers"
+                  "text": "<caption-heading>Chair</caption-heading> <bold>PARKIT Voyager Chair</bold> in Slate, $225 <a href=\"http://parkitmovement.com\">parkitmovement.com</a>"
                 }
               ]
             },
             {
-              "//": "======== SINGLE BLOCK CONTAINER ========",
+              "//": "======== FULL BLEED CONTAINER ========",
               "role": "container",
               "layout": "singleBlockContainerLayout",
               "components": [
                 {
-                  "//": "======== IMAGE BLOCK - H1066.0/W519.0 * 100 = 205.3949904 ========",
+                  "//": "======== IMAGE BLEED - H2005.0/W1367.0 * 100 = 146.6715435 ========",
                   "role": "image",
                   "layout": {
-                    "//": "IPAD CONDITION STYLING",
-                    "conditional": [
-                      {
-                        "//": "PHONE CONDITION STYLING",
-                        "conditions": [
-                          {
-                            "maxViewportWidth": 415
-                          }
-                        ],
-                        "horizontalContentAlignment": "center",
-                        "maximumContentWidth": "52cw",
-                        "minimumWidth": "52cw"
-                      }
-                    ],
-                    "horizontalContentAlignment": "center",
-                    "maximumContentWidth": "47cw",
-                    "minimumWidth": "47cw"
+                    "maximumContentWidth": "60cw"
                   },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/p018-bzo102397-heidi-vincent-swim-suit/131372-1-eng-GB/p018-bzo102397-heidi-vincent-swim-suit.png?q=100"
+                  "caption": {
+                    "format": "html",
+                    "text": "<bold>SUIT Trina Turk Breeze Paddle Suit,</bold><br>$172.",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/trinaturk_b_131/129624-1-eng-GB/trinaturk_b_1312.png?q=100"
                 },
                 {
                   "role": "caption",
                   "layout": "captionLayout",
                   "textStyle": "captionTextStyle",
                   "format": "html",
-                  "text": "<caption-heading>Heidi Merrick Vicent Top,</caption-heading> $77, and <caption-heading>Bottom,</caption-heading> $95, both in Black <a href=\"http://heidimerrick.com\">heidimerrick.com</a>"
+                  "text": "<caption-heading>Suit</caption-heading> <bold>Trina Turk Breeze Paddle Suit,</bold> $172 <a href=\"http://trinaturk.com\">trinaturk.com</a>"
                 }
               ]
             },
             {
-              "//": "======== SINGLE BLOCK CONTAINER ========",
+              "role": "container",
+              "layout": "dividerStandardLayout",
+              "style": "dividerStandardStyle"
+            },
+            {
+              "role": "heading2",
+              "layout": "heading2Layout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "CARIBBEAN COOL"
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
               "role": "container",
               "layout": "singleBlockContainerLayout",
               "components": [
                 {
-                  "//": "======== IMAGE BLOCK - H1066.0/W519.0 * 100 = 205.3949904 ========",
+                  "//": "======== IMAGE BLEED - H1397.0/W1367.0 * 100 = 102.1945867 ========",
                   "role": "image",
                   "layout": {
-                    "//": "IPAD CONDITION STYLING",
-                    "conditional": [
-                      {
-                        "//": "PHONE CONDITION STYLING",
-                        "conditions": [
-                          {
-                            "maxViewportWidth": 415
-                          }
-                        ],
-                        "horizontalContentAlignment": "center",
-                        "maximumContentWidth": "52cw",
-                        "minimumWidth": "52cw"
-                      }
-                    ],
-                    "horizontalContentAlignment": "center",
-                    "maximumContentWidth": "42cw",
-                    "minimumWidth": "42cw"
+                    "maximumContentWidth": "70cw"
                   },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/p018-bzo102397-body-oil/131379-1-eng-GB/p018-bzo102397-body-oil.png?q=100"
+                  "caption": {
+                    "format": "html",
+                    "text": "<bold>Caribbean Cool</bold><br><bold>CHAIR Serena &amp; Lily Palisades Outdoor Chair</bold> in Driftwood, $498.",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/serenalilyp_129/129617-1-eng-GB/serenalilyp_1292.png?q=100"
                 },
                 {
                   "role": "caption",
                   "layout": "captionLayout",
                   "textStyle": "captionTextStyle",
                   "format": "html",
-                  "text": "<caption-heading>Kjaer Weis Body Oil,</caption-heading> $125 <a href=\"http://kjaerweis.com\">kjaerweis.com</a>"
+                  "text": "<caption-heading>Chair</caption-heading> <bold>Serena &amp; Lily Palisades Outdoor Chair</bold> in Driftwood, $498 <a href=\"http://serenaandlily.com\">serenaandlily.com</a>"
                 }
               ]
             },
             {
-              "//": "======== SINGLE BLOCK CONTAINER ========",
+              "//": "======== FULL BLEED CONTAINER ========",
               "role": "container",
               "layout": "singleBlockContainerLayout",
               "components": [
                 {
-                  "//": "======== IMAGE BLOCK - H1066.0/W519.0 * 100 = 205.3949904 ========",
+                  "//": "======== IMAGE BLEED - H2310.0/W1367.0 * 100 = 168.9831748 ========",
                   "role": "image",
                   "layout": {
-                    "//": "IPAD CONDITION STYLING",
-                    "conditional": [
-                      {
-                        "//": "PHONE CONDITION STYLING",
-                        "conditions": [
-                          {
-                            "maxViewportWidth": 415
-                          }
-                        ],
-                        "horizontalContentAlignment": "center",
-                        "maximumContentWidth": "52cw",
-                        "minimumWidth": "52cw"
-                      }
-                    ],
-                    "horizontalContentAlignment": "center",
-                    "maximumContentWidth": "50cw",
-                    "minimumWidth": "50cw"
+                    "maximumContentWidth": "50cw"
                   },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/heidi-srf-h_114/129749-1-eng-GB/heidi-srf-h_1142.png?q=100"
+                  "caption": {
+                    "format": "html",
+                    "text": "<bold>SUIT Summersalt The Ruffle Backflip Suit</bold><br>In Hibiscus &amp; Tangerine, $95.",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/theruffleba_130/129610-1-eng-GB/theruffleba_1302.png?q=100"
                 },
                 {
                   "role": "caption",
                   "layout": "captionLayout",
                   "textStyle": "captionTextStyle",
                   "format": "html",
-                  "text": "<caption-heading>Heidi Merrick SRF Dad Hat,</caption-heading> $49 <a href=\"http://heidimerrick.com\">heidimerrick.com</a>"
+                  "text": "<caption-heading>Suit</caption-heading> <bold>Summersalt The Ruffle Backflip Suit </bold>in Hibiscus &amp; Tangerine, $95 <a href=\"http://summersalt.com\">summersalt.com</a>"
                 }
               ]
             },
             {
-              "//": "======== SINGLE BLOCK CONTAINER ========",
+              "role": "container",
+              "layout": "dividerStandardLayout",
+              "style": "dividerStandardStyle"
+            },
+            {
+              "role": "heading2",
+              "layout": "heading2Layout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "FLORIDA’S WHITE SANDS"
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
               "role": "container",
               "layout": "singleBlockContainerLayout",
               "components": [
                 {
-                  "//": "======== IMAGE BLOCK - H1066.0/W519.0 * 100 = 205.3949904 ========",
+                  "//": "======== IMAGE BLEED - H1635.0/W1367.0 * 100 = 119.6049744 ========",
                   "role": "image",
                   "layout": {
-                    "//": "IPAD CONDITION STYLING",
-                    "conditional": [
-                      {
-                        "//": "PHONE CONDITION STYLING",
-                        "conditions": [
-                          {
-                            "maxViewportWidth": 415
-                          }
-                        ],
-                        "horizontalContentAlignment": "center",
-                        "maximumContentWidth": "52cw",
-                        "minimumWidth": "52cw"
-                      }
-                    ],
-                    "horizontalContentAlignment": "center",
-                    "maximumContentWidth": "42cw",
-                    "minimumWidth": "42cw"
+                    "maximumContentWidth": "70cw"
                   },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/eastofeden/129742-1-eng-GB/eastofeden2.png?q=100"
+                  "caption": {
+                    "format": "html",
+                    "text": "<bold>Florida’s White Sands</bold><br><bold>CHAIR L.L.Bean Backpack Beach Chair</bold> in Ocean Blue, $89.",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/aa225429_pr_125/129603-1-eng-GB/aa225429_pr_1252.png?q=100"
                 },
                 {
                   "role": "caption",
                   "layout": "captionLayout",
                   "textStyle": "captionTextStyle",
                   "format": "html",
-                  "text": "<caption-heading><caption-italic>East of Eden</caption-italic> by John Steinbeck,</caption-heading> price varies <a href=\"http://bookshop.org\">bookshop.org</a>"
+                  "text": "<caption-heading>Chair</caption-heading> <bold>L.L.Bean Backpack Beach Chair</bold> in Ocean Blue, $89 <a href=\"http://llbean.com\">llbean.com</a>"
                 }
               ]
             },
             {
-              "//": "======== SINGLE BLOCK CONTAINER ========",
+              "//": "======== FULL BLEED CONTAINER ========",
               "role": "container",
               "layout": "singleBlockContainerLayout",
               "components": [
                 {
-                  "//": "======== IMAGE BLOCK - H1066.0/W519.0 * 100 = 205.3949904 ========",
+                  "//": "======== IMAGE BLEED - H2158.0/W1367.0 * 100 = 157.8639356 ========",
                   "role": "image",
                   "layout": {
-                    "//": "IPAD CONDITION STYLING",
-                    "conditional": [
-                      {
-                        "//": "PHONE CONDITION STYLING",
-                        "conditions": [
-                          {
-                            "maxViewportWidth": 415
-                          }
-                        ],
-                        "horizontalContentAlignment": "center",
-                        "maximumContentWidth": "80cw",
-                        "minimumWidth": "80cw"
-                      }
-                    ],
-                    "horizontalContentAlignment": "center",
-                    "maximumContentWidth": "70cw",
-                    "minimumWidth": "70cw"
+                    "maximumContentWidth": "60cw"
                   },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/p018-bzo102397-sunscreen-primer/131365-1-eng-GB/p018-bzo102397-sunscreen-primer.png?q=100"
+                  "caption": {
+                    "format": "html",
+                    "text": "<bold>SUIT Southern Tide Tie One Shoulder One Piece Swimsuit</bold><br>In Ocean Channel, $105.",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/8934_ocean__124/129596-1-eng-GB/8934_ocean__1242.png?q=100"
                 },
                 {
                   "role": "caption",
                   "layout": "captionLayout",
                   "textStyle": "captionTextStyle",
                   "format": "html",
-                  "text": "<caption-heading>Chantecaille Ultra Sun Protection Sunscreen Broad Spectrum SPF 45 Primer,</caption-heading> $96 <a href=\"http://chantecaille.com\">chantecaille.com</a>"
+                  "text": "<caption-heading>Suit</caption-heading> <bold>Southern Tide Tie One Shoulder One Piece Swimsuit</bold> in Ocean Channel, $105 <a href=\"http://southerntide.com\">southerntide.com</a>"
                 }
               ]
             },
             {
-              "//": "======== SINGLE BLOCK CONTAINER ========",
+              "role": "container",
+              "layout": "dividerStandardLayout",
+              "style": "dividerStandardStyle"
+            },
+            {
+              "role": "heading2",
+              "layout": "heading2Layout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "ALL-AMERICAN NANTUCKET"
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
               "role": "container",
               "layout": "singleBlockContainerLayout",
               "components": [
                 {
-                  "//": "======== IMAGE BLOCK - H1066.0/W519.0 * 100 = 205.3949904 ========",
+                  "//": "======== IMAGE BLEED - H1832.0/W1367.0 * 100 = 134.0160936 ========",
                   "role": "image",
                   "layout": {
-                    "//": "IPAD CONDITION STYLING",
-                    "conditional": [
-                      {
-                        "//": "PHONE CONDITION STYLING",
-                        "conditions": [
-                          {
-                            "maxViewportWidth": 415
-                          }
-                        ],
-                        "horizontalContentAlignment": "center",
-                        "maximumContentWidth": "57cw",
-                        "minimumWidth": "57cw"
-                      }
-                    ],
-                    "horizontalContentAlignment": "center",
-                    "maximumContentWidth": "55cw",
-                    "minimumWidth": "55cw"
+                    "maximumContentWidth": "70cw"
                   },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/heidi-santa_115/129728-1-eng-GB/heidi-santa_1152.png?q=100"
+                  "caption": {
+                    "format": "html",
+                    "text": "<bold>All-American Nantucket</bold><br><bold>CHAIR LowTides Dune High Beach Chair</bold> in Laura Ashley Sweet Alyssum, $169.",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/dune-laura__127/129582-1-eng-GB/dune-laura__1272.png?q=100"
                 },
                 {
                   "role": "caption",
                   "layout": "captionLayout",
                   "textStyle": "captionTextStyle",
                   "format": "html",
-                  "text": "<caption-heading>Heidi Merrick Santa Barbara Frame Sunglasses</caption-heading> in Tortoise, $155 <a href=\"http://heidimerrick.com\">heidimerrick.com</a>"
+                  "text": "<caption-heading>Chair</caption-heading> <bold>LowTides Dune High Beach Chair</bold> in Laura Ashley Sweet Alyssum, $169 <a href=\"http://lowtidesop.com\">lowtidesop.com</a>"
                 }
               ]
             },
             {
-              "//": "======== SINGLE BLOCK CONTAINER ========",
+              "//": "======== FULL BLEED CONTAINER ========",
               "role": "container",
               "layout": "singleBlockContainerLayout",
               "components": [
                 {
-                  "//": "======== IMAGE BLOCK - H1066.0/W519.0 * 100 = 205.3949904 ========",
+                  "//": "======== IMAGE BLEED - H1505.0/W1366.0 * 100 = 110.1756955 ========",
                   "role": "image",
                   "layout": {
-                    "//": "IPAD CONDITION STYLING",
-                    "conditional": [
-                      {
-                        "//": "PHONE CONDITION STYLING",
-                        "conditions": [
-                          {
-                            "maxViewportWidth": 415
-                          }
-                        ],
-                        "horizontalContentAlignment": "center",
-                        "maximumContentWidth": "70cw",
-                        "minimumWidth": "70cw"
-                      }
-                    ],
-                    "horizontalContentAlignment": "center",
-                    "maximumContentWidth": "65cw",
-                    "minimumWidth": "65cw"
+                    "maximumContentWidth": "70cw"
                   },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/black-graph_117/129721-1-eng-GB/black-graph_1172.png?q=100"
+                  "caption": {
+                    "format": "html",
+                    "text": "<bold>SUIT Marysia East River Top,</bold><br> $151, and <bold>Broadway Bottom,</bold> $148; <br><span data-anf-textstyle=\"creditTextStyle\">PRODUCTS COURTESY MANUFACTURERS</span>",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/p012-bzo102397-red-swim-suit/131358-1-eng-GB/p012-bzo102397-red-swim-suit.png?q=100"
                 },
                 {
                   "role": "caption",
                   "layout": "captionLayout",
                   "textStyle": "captionTextStyle",
                   "format": "html",
-                  "text": "<caption-heading>Staedtler Mars Lumograph Black Drawing Pencils,</caption-heading> $11 for a set of six <a href=\"http://dickblick.com\">dickblick.com</a>"
+                  "text": "<caption-heading>Suit</caption-heading> <bold>Marysia East River Top,</bold> $151, and <bold>Broadway Bottom,</bold> $148 <a href=\"http://marysia.com\">marysia.com</a>"
                 }
               ]
             },
             {
               "role": "body",
               "layout": "attributeLayout",
+              "style": "attributeStyle",
               "textStyle": "attributeTextStyle",
               "format": "html",
-              "text": "COURTESY MANUFACTURERS; PORTRAIT: COURTESY HEIDI MERRICK"
+              "text": "PRODUCTS COURTESY MANUFACTURERS"
             }
           ]
         },
@@ -1342,15 +1227,12 @@
       "textColor": "#8d8d8d",
       "tracking": 0.05
     },
+    "default-tag-bold": {
+      "fontName": "Gotham-Medium"
+    },
     "default-tag-caption-heading": {
       "fontName": "Barlow-ExtraBold",
       "textTransform": "uppercase"
-    },
-    "default-tag-caption-i": {
-      "fontName": "Gotham-Book"
-    },
-    "default-tag-caption-italic": {
-      "fontName": "Gotham-MediumItalic"
     },
     "default-tag-emoji": {
       "fontName": "AppleColorEmoji"

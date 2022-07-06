@@ -1,7 +1,7 @@
 {
   "version": "1.9",
-  "identifier": "rrmag_article_10206-11-10-1",
-  "title": "THE DEER HUNTER",
+  "identifier": "bhg_article_716-391-4-1",
+  "title": "Editor’s Letter",
   "language": "en",
   "layout": {
     "columns": 20,
@@ -9,30 +9,17 @@
     "margin": 40,
     "width": 1024
   },
-  "subtitle": "Meet the Hawai‘i native solving two problems at once by turning an invasive species into a vital food source for her community.",
   "metadata": {
     "authors": [
-      "By Andrew Cotto"
+      "Stephen Orr"
     ],
-    "dateCreated": "2022-05-06T18:51:27.867Z",
-    "dateModified": "2022-05-05T15:28:18+00:00",
-    "excerpt": "Ku‘ulani Muise was raised on the Hawaiian island of Moloka‘i, as part of a hunting family. When the invasive, rapidly multiplying axis deer population began to threaten the state’s island ecosystems, she wanted to find a responsible solution. In 2020, she founded Maui Nui with her husband, Jake, to help restore balance on Maui with a field-to-table operation that harvests venison for local consumption. They now provide meat to local food banks and upscale restaurants, combating overpopulation in the deer community and providing food to the human one. We talked to Muise about her creative, life-changing idea.",
+    "dateCreated": "2022-06-09T17:50:35.689Z",
+    "dateModified": "2022-06-07T19:53:16+00:00",
+    "excerpt": "While looking over the stories for this summer issue, I thought about the importance of memory in our domestic lives. If you’re like me, you—consciously or not—imbue your decorating, your cooking, and even your gardening with objects, recipes, and plants you associate with friends and family. Like Easter eggs in a movie (a term for some hidden detail placed in a scene by the director), these pieces may not be meaningful to the casual observer, but it makes me happy to know they’re there.",
     "generatorName": "ANTE Generic Template",
-    "generatorVersion": "0.0.4.32-2022-04-15 19:20",
-    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_10206/storage/images/media2/images/photoshopex_032/15834-1-eng-US/photoshopex_0322.jpg?q=100"
+    "generatorVersion": "0.0.4.33-2022-06-09 18:32",
+    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_716/storage/images/media2/images/shot002_ste_039/588787-1-eng-US/shot002_ste_0392.png?q=100"
   },
-  "warnings": [
-    {
-      "role": "photo",
-      "text": "<span data-anf-textstyle='creditTextStyle'>FROM LEFT: PHOTOGRAPHS BY MEL TJOENG (2)</span>",
-      "warning": "Found directional text in ANF block"
-    },
-    {
-      "role": "caption",
-      "text": "<span data-anf-textstyle='creditTextStyle'>FROM LEFT: PHOTOGRAPHS BY MEL TJOENG (2)</span>",
-      "warning": "Found directional text in ANF block"
-    }
-  ],
   "documentStyle": {
     "backgroundColor": "#eee"
   },
@@ -40,12 +27,26 @@
     {
       "role": "container",
       "layout": {
-        "conditional": {
-          "conditions": {
-            "platform": "ios"
+        "conditional": [
+          {
+            "conditions": [
+              {
+                "platform": "ios"
+              }
+            ],
+            "ignoreViewportPadding": true
           },
-          "ignoreViewportPadding": true
-        },
+          {
+            "conditions": [
+              {
+                "maxViewportWidth": 1366,
+                "minViewportWidth": 1112
+              }
+            ],
+            "ignoreDocumentMargin": "none",
+            "ignoreViewportPadding": "none"
+          }
+        ],
         "ignoreDocumentMargin": true
       },
       "style": {
@@ -53,52 +54,12 @@
       },
       "components": [
         {
-          "//": "==== DEFAULT HEADER: SECTION ===",
-          "role": "heading",
-          "layout": "sectionLayout",
-          "textStyle": "sectionTextStyle",
-          "format": "html",
-          "text": "The Dish"
-        },
-        {
-          "role": "divider",
-          "layout": "dividerSectionLayout",
-          "stroke": {
-            "color": "#000",
-            "width": 1
-          }
-        },
-        {
-          "//": "==== DEFAULT HEADER: STRAPLINE/CATEGORY ===",
-          "role": "heading",
-          "layout": "straplineLayout",
-          "style": "straplineStyle",
-          "textStyle": "straplineTextStyle",
-          "format": "html",
-          "text": "CHEW &amp; A"
-        },
-        {
           "//": "==== DEFAULT HEADER: TITLE ===",
           "role": "title",
           "layout": "titleLayout",
           "textStyle": "titleTextStyle",
           "format": "html",
-          "text": "The Deer Hunter"
-        },
-        {
-          "//": "==== DEFAULT HEADER: INTRO ===",
-          "role": "intro",
-          "layout": "introLayout",
-          "textStyle": "introTextStyle",
-          "format": "html",
-          "text": "Meet the Hawai‘i native solving two problems at once by turning an invasive species into a vital food source for her community."
-        },
-        {
-          "role": "author",
-          "layout": "authorLayout",
-          "textStyle": "authorTextStyle",
-          "format": "html",
-          "text": "By Andrew Cotto"
+          "text": "Editor’s Letter"
         },
         {
           "//": "======== HERO IMAGE CONTAINER =======",
@@ -106,23 +67,10 @@
           "layout": "heroImageLayout",
           "components": [
             {
-              "//": "======== HERO IMAGE - H1780.0/W1488.0 * 100 = 119.6236559 ========",
+              "//": "======== HERO IMAGE - H1824.0/W1363.0 * 100 = 133.8224505 ========",
               "role": "photo",
               "layout": "fullBleedPhotoLayout",
-              "caption": {
-                "format": "html",
-                "text": "Ku‘ulani, Jake, and their daughter Laniua at their home in Kahua, Maui.",
-                "textStyle": "captionEmbeddedTextStyle"
-              },
-              "URL": "https://cdn-assets.ziniopro.com/var/site_10206/storage/images/media2/images/photoshopex_032/15834-1-eng-US/photoshopex_0322.jpg?q=100"
-            },
-            {
-              "role": "caption",
-              "layout": "captionLayout",
-              "textStyle": "captionTextStyle",
-              "format": "html",
-              "text": "Ku‘ulani, Jake, and their daughter Laniua at their home in Kahua, Maui.",
-              "style": "captionStyle"
+              "URL": "https://cdn-assets.ziniopro.com/var/site_716/storage/images/media2/images/shot002_ste_039/588787-1-eng-US/shot002_ste_0392.png?q=100"
             }
           ]
         },
@@ -132,28 +80,20 @@
           "layout": "bodyContainerLayout",
           "components": [
             {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
+              "role": "heading2",
+              "layout": "heading2Layout",
+              "style": "heading2Style",
+              "textStyle": "heading2TextStyle",
               "format": "html",
-              "text": "Ku‘ulani Muise was raised on the Hawaiian island of Moloka‘i, as part of a hunting family. When the invasive, rapidly multiplying axis deer population began to threaten the state’s island ecosystems, she wanted to find a responsible solution. In 2020, she founded Maui Nui with her husband, Jake, to help restore balance on Maui with a field-to-table operation that harvests venison for local consumption. They now provide meat to local food banks and upscale restaurants, combating overpopulation in the deer community and providing food to the human one. We talked to Muise about her creative, life-changing idea."
+              "text": "<i>Mementos</i>"
             },
             {
               "role": "body",
-              "layout": "bodyLayout",
+              "layout": "bodyNoMarginAboveLayout",
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<avenirnext-b>Growing up in Hawai‘i, what was your relationship to the land and to axis deer?</avenirnext-b>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "On our island of Moloka‘i, ina family of subsistence hunters, venison was always on the table. I grew up with a reverence for this animal and the food it provided my community. It wasn’t until my early 20s, with both my brother and sister-in-law working in conservation, that I began to recognize the huge adverse impacts the deer have on our local food and ecosystems."
+              "text": "While looking over the stories for this summer issue, I thought about the importance of memory in our domestic lives. If you’re like me, you—consciously or not—imbue your decorating, your cooking, and even your gardening with objects, recipes, and plants you associate with friends and family. Like Easter eggs in a movie (a term for some hidden detail placed in a scene by the director), these pieces may not be meaningful to the casual observer, but it makes me happy to know they’re there."
             },
             {
               "role": "body",
@@ -161,7 +101,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<avenirnext-b>Like what?</avenirnext-b>"
+              "text": "For decades, I’ve carried certain objects from home to home almost as talismans—a Navajo vase my dad bought on his first trip out of Texas in the 1930s, a ceramic rooster my mom kept on top of the fridge when I was a kid, a tiny brass swan I used to play with in our family living room (that formal space where no one ever sat except to play the piano). In the garden, I plant varieties that remind me of gardening with my dad. I love the old-fashioned shrubs we had, like bridal wreath <italic>(Spiraea × vanhouttei)</italic> with its frothy arched branches of white flowers and the single-petaled rose ‘Betty Prior’. In the kitchen, I fry okra (actually, now I convection-bake it) thinking of my West Texas grandmother and shell black-eyes thinking of what once was a midsummer chore."
             },
             {
               "role": "body",
@@ -169,7 +109,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "Just eight of this species of deer were introduced in 1868 to the island of Moloka‘i by King Kamehameha V. Today, thereare over 100,000. While it might seem like a thriving deer presence in Hawai‘i could be a goodthing, these population boomsare occurring on islandswith very finite resources."
+              "text": "My trip down memory lane started with our feature on the home of Christine Joy Llewellyn Ohemeng (<a href='https://apple.news/AI0YoxIbIRVu6kYEEhDBbkA'>Pure Joy</a>), who filled her house with treasures that remind her of souvenirs her mother brought back from trips to Africa and Asia while working for the United Nations. Alana Kysar writes about her childhood love of <a href='https://apple.news/AVc_XaYp3QwmORBx8RKhX2w'>butter mochi</a>, a coconut-custard, sticky rice cake popular in Hawai’i that sounds like stiff competition for my potluck favorite, lemon bars. UK native Barry Jordan designed his Upstate New York property with the romantic looseness of <a href='https://apple.news/AuHYs-EiHRHih1moLAdOAQw'>English gardens</a> in mind."
             },
             {
               "role": "body",
@@ -177,7 +117,46 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<avenirnext-b>Why is balancing this deer population so important?</avenirnext-b>"
+              "text": "Memory is a powerful thing—I almost said “emotion,” but it’s not really that. Memories are a conduit for intense feelings, however sweet or bittersweet. And collecting can go overboard for some people who are unable to part with any objects to which they’ve attached emotions. As with most things, it’s a balance. What memories do we want to keep and cherish? And which ones do we want to leave behind so we can move on? I guess that’s the equation of life."
+            },
+            {
+              "//": "======== SIGNATURE IMAGE ========",
+              "role": "image",
+              "layout": "signatureImageLayout",
+              "conditional": {
+                "conditions": [
+                  {
+                    "minSpecVersion": "1.14",
+                    "preferredColorScheme": "dark"
+                  }
+                ],
+                "hidden": true
+              },
+              "URL": "https://cdn-assets.ziniopro.com/var/site_716/storage/images/media2/images/10262876624/410602-1-eng-US/1026287662.jpg?q=100"
+            },
+            {
+              "//": "======== SIGNATURE IMAGE DM ========",
+              "role": "image",
+              "layout": "signatureImageLayout",
+              "conditional": {
+                "conditions": [
+                  {
+                    "minSpecVersion": "1.14",
+                    "preferredColorScheme": "dark"
+                  }
+                ],
+                "hidden": false
+              },
+              "hidden": true,
+              "URL": "https://public-assets.meredithcorp.io/547d13c71c744f02c1c061c04857767f/sig.jpg"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout1",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "STEPHEN ORR,<br><italic>Editor in Chief</italic><br>instagram <a href=\"https://www.instagram.com/steporr\">@steporr</a>"
             },
             {
               "role": "body",
@@ -185,7 +164,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "For people of islands, balance is central to our shared health. Living and working on these isolated landmasses, we’re surrounded by ecosystems as breathtakingly beautiful as they are vulnerable. We have endangered species and also the world’s highest rates of endemism—species that don’t exist anywhere else. With their foraging, axis deer put pressure not only on our few remaining intact native ecosystems, but also on our local food system, because they can clear six-foot fences to eat whatever farmers are growing. Jake and I were living on Hawai‘i (the Big Island) when we were contacted by Maui ranchers to help find a management solution for deer there. For us, the vision of balanced populations of axis deer on Maui can take on many different forms: It can be a farmer who’s able to bring in a successful harvest unaffected by grazing deer, ranchers able to rotate their cattle into healthy pasture, a safe roadway at night, or a widening stretch of koa forest. Balance requires an awareness of the interconnectivity of all life across a landscape."
+              "text": "<lede>LETTERS + COMMENTS</lede>&#xA0;<br><a href=\"mailto:BHGEditor@meredith.com\">BHGEditor@dotdashmdp.com</a>&#xA0;"
             },
             {
               "role": "body",
@@ -193,133 +172,14 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<avenirnext-b>What makes your harvesting process so unique?</avenirnext-b>"
+              "text": "<lede>SUBSCRIPTION HELP</lede>&#xA0;<br><a href=\"http://BHG.com/MyAccount\">BHG.com/MyAccount</a> <italic>or email us at</italic> <a href=\"mailto:BHGcustserv@cdsfulfillment.com\">BHGcustserv@cdsfulfillment.com</a> <italic>or call <a href='tel: +<a href='tel:18003744244'>1-800-374-4244</a>'>800/374-4244</a></italic>"
             },
             {
               "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
+              "layout": "attributeLayout",
+              "textStyle": "attributeTextStyle",
               "format": "html",
-              "text": "All of our venison is sourced from a field operation, the only one of its kind in the world, that actively manages deer populations using forward-looking infrared (FLIR) technology. All harvesting, using precision rifles, is done entirely at night to make the process stress-free for the deer. They are never baited, fenced, penned, or corralled; they remain wild until the end. Our innovative system also means we compile highly accurate population surveys, collecting data that shows the service we are providing."
-            },
-            {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "fullBleedContainerLayout",
-              "components": [
-                {
-                  "//": "======== IMAGE BLEED - H998.0/W1367.0 * 100 = 73.0065838 ========",
-                  "role": "photo",
-                  "layout": "fullBleedPhotoLayout",
-                  "caption": {
-                    "format": "html",
-                    "text": "<span data-anf-textstyle='creditTextStyle'>from left: Photographs by Mel Tjoeng (2)</span>",
-                    "textStyle": "captionEmbeddedTextStyle"
-                  },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_10206/storage/images/media2/images/photoshopex_033/15827-1-eng-US/photoshopex_0332.jpg?q=100"
-                },
-                {
-                  "role": "caption",
-                  "layout": "captionLayout",
-                  "textStyle": "captionTextStyle",
-                  "format": "html",
-                  "text": "<span data-anf-textstyle='creditTextStyle'>from left: Photographs by Mel Tjoeng (2)</span>",
-                  "style": "captionStyle"
-                }
-              ]
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<avenirnext-b>What happens to the venison?</avenirnext-b>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "Last year, we were able to donate 30 percent of the total pounds harvested to local food banks and feeding groups through our Holo ‘Ai Program, which meant 100,000 meals to food-insecure areas of our community. Then roughly 15 percent was sold in-state, another 15 percent went to our restaurant partners, and the remaining portion went to our direct-to-consumer customers locally and across the continent. We sell butcher boxes and individual cuts, jerky, bone broth, and dog treats."
-            },
-            {
-              "//": "====== RACHAEL RAY - PULLQUOTE ======",
-              "role": "container",
-              "layout": "pullQuoteBodyLayout",
-              "components": [
-                {
-                  "role": "image",
-                  "layout": "quoteImageLayout",
-                  "URL": "https://public-assets.meredithcorp.io/2d87b97aa8c57a2841720505ecd5157e/rrquote.jpg"
-                },
-                {
-                  "role": "pullquote",
-                  "layout": "pullQuoteLayout",
-                  "style": "pullQuoteStyle",
-                  "textStyle": "pullQuoteTextStyle",
-                  "format": "html",
-                  "text": "“For people of islands, balance is central to our shared health. Living and working on these isolated landmasses, we’re surrounded by ecosystems as breathtakingly beautiful as they are vulnerable.”<br><pullquote-attribution><pullquote-name>—ku‘ulani muise</pullquote-name></pullquote-attribution>"
-                }
-              ]
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<avenirnext-b>Are all of your clients in Hawai‘i?</avenirnext-b>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "Great local eateries like Mama’s Fish House, La Vie, and ‘Ulupalakua Grill have served our venison over the years, and we’ve also been really honored to work with upscale dining spots like Alinea in Chicago and Saison and the French Laundry in California."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<avenirnext-b>What do you tell people who have never eaten venison?</avenirnext-b>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "Axis deer venison is far and away the most mild and clean-tasting of all the deer species. For people who are curious to try, we sell cuts à la carte, without the commitment of a subscription. I’d suggest ground meat and leg medallions. I love pan-seared rib chops in butter and herbs, served up with rice and koele palau (sweet potato mash)."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<avenirnext-b>What’s your typical day like?</avenirnext-b>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "As the Maui Nui cofounder and brand director, I might be hand-drawing graphics for our packaging or writing the language we use on our website. Managing everything while being a mama to three little ones—and also with my propensity for bringing home farm animals—can get a little busy some days, but mostly it’s been a dream."
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<avenirnext-i>For information, visit <a href=\"http://mauinuivenison.com\">mauinuivenison.com</a>.</avenirnext-i>"
+              "text": "MELANIE ACEVEDO/SARAH LAIRD"
             }
           ]
         },
@@ -349,7 +209,7 @@
               "layout": "bodyLayout",
               "textStyle": "tocTextStyle",
               "format": "html",
-              "text": "<a href='http://ISSUE-TOC-LINK.com'>Tap here</a> to see more from this issue of <i>Rachael Ray Every Day</i>"
+              "text": "<a href='https://apple.news/AfZaggdYaEeyyQA0KhVcEZw'>Tap here</a> to see more from this issue of <i>Better Homes &amp; Gardens</i>"
             }
           ]
         }
@@ -366,8 +226,34 @@
       "columnSpan": 18,
       "columnStart": 1,
       "margin": {
-        "top": 5
+        "bottom": 5
       }
+    },
+    "bhgInsiderBodyLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 4
+      }
+    },
+    "bhgInsiderLayout": {
+      "columnSpan": 12,
+      "columnStart": 4,
+      "margin": 20
+    },
+    "bhgInsiderLogoLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 500
+            }
+          ],
+          "maximumContentWidth": 150
+        }
+      ],
+      "horizontalContentAlignment": "center",
+      "maximumContentWidth": 125,
+      "URL": "https://public-assets-dev.meredithcorp.io/bde8400037db8a452dc4b69b34672272/bhg_Insider.jpg"
     },
     "blockContainerLayout": {
       "columnSpan": 18,
@@ -385,7 +271,17 @@
     "bodyLayout": {
       "columnSpan": 18,
       "columnStart": 1,
-      "margin": 8
+      "margin": 10
+    },
+    "bodyLayout1": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "left": 10,
+        "right": 10,
+        "top": 0
+      }
     },
     "bodyNoMarginAboveLayout": {
       "columnSpan": 18,
@@ -397,45 +293,39 @@
     "bottomPhotoDividerLayout": {
       "//": "UNUSED"
     },
-    "bylineDividerLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
-      "margin": {
-        "bottom": 0,
-        "top": 8
-      }
-    },
     "calloutBodyLayout": {
       "margin": {
         "bottom": 10
       }
     },
     "calloutHeadingLayout": {
-      "//": "UNUSED"
-    },
-    "calloutImageLayout": {
-      "horizontalContentAlignment": "center",
       "margin": {
-        "bottom": 10
-      },
-      "maximumContentWidth": "20cw"
+        "top": 10
+      }
     },
     "calloutLayout": {
-      "columnSpan": 14,
-      "columnStart": 3,
-      "margin": 20,
-      "padding": {
-        "bottom": 20,
-        "left": 30,
-        "right": 30,
-        "top": 20
-      }
+      "columnSpan": 16,
+      "columnStart": 2,
+      "margin": 20
     },
     "captionAdLayout": {
       "//": "UNUSED"
     },
     "captionLayout": {
-      "margin": 5
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 415
+            }
+          ],
+          "padding": {
+            "left": 20,
+            "right": 20
+          }
+        }
+      ],
+      "margin": 8
     },
     "collectionLayout": {
       "columnSpan": 18,
@@ -443,12 +333,6 @@
       "margin": {
         "bottom": 10,
         "top": 20
-      }
-    },
-    "customHeaderLayout": {
-      "ignoreDocumentMargin": true,
-      "margin": {
-        "bottom": 5
       }
     },
     "darkModePaddingLayout": {
@@ -467,35 +351,21 @@
     "dividerCollectionLayout": {
       "//": "UNUSED"
     },
+    "dividerDoubleLayout": {
+      "minimumHeight": 8
+    },
     "dividerLayout": {
       "ignoreDocumentMargin": true,
       "margin": 10
-    },
-    "dividerSectionLayout": {
-      "ignoreDocumentMargin": true,
-      "margin": 5
     },
     "dividerStandardLayout": {
       "columnSpan": 18,
       "columnStart": 1,
       "margin": {
-        "top": 8
+        "bottom": 10,
+        "top": 20
       },
-      "minimumHeight": 8
-    },
-    "dividerThinLayout": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "maxViewportWidth": 700
-            }
-          ],
-          "margin": 15
-        }
-      ],
-      "margin": 20,
-      "minimumHeight": 1
+      "minimumHeight": 2
     },
     "dividerTocLayout": {
       "columnSpan": 18,
@@ -507,7 +377,7 @@
       "minimumHeight": 10
     },
     "floatContainerLayout": {
-      "columnSpan": 4,
+      "columnSpan": 6,
       "columnStart": 1,
       "conditional": [
         {
@@ -533,12 +403,6 @@
     },
     "fullBleedLayout": {
       "ignoreDocumentMargin": true
-    },
-    "fullBleedNoTopMarginLayout": {
-      "ignoreDocumentMargin": true,
-      "margin": {
-        "bottom": 10
-      }
     },
     "fullBleedPhotoLayout": {
       "conditional": [
@@ -612,106 +476,87 @@
     },
     "ingredientsLayout": {
       "margin": {
-        "bottom": 10
+        "bottom": 5,
+        "top": 5
       }
     },
     "introLayout": {
       "columnSpan": 18,
-      "columnStart": 1
+      "columnStart": 1,
+      "margin": {
+        "bottom": 8
+      }
     },
     "noMarginLayout": {
       "columnSpan": 18,
       "columnStart": 1
     },
-    "openerLayout": {
-      "ignoreDocumentMargin": true,
-      "margin": 0,
-      "padding": {
-        "bottom": 20
-      }
-    },
-    "photoCreditLayout": {
-      "margin": {
-        "top": 5
-      }
-    },
     "productImageStandardLayout": {
       "minimumHeight": 280
-    },
-    "pullQuoteBlockContainerLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
-      "margin": {
-        "bottom": 0,
-        "top": 0
-      }
-    },
-    "pullQuoteBodyLayout": {
-      "margin": {
-        "bottom": 0,
-        "top": 5
-      }
     },
     "pullQuoteLayout": {
       "columnSpan": 16,
       "columnStart": 2,
-      "margin": {
-        "bottom": 20,
-        "top": 10
-      }
-    },
-    "quoteImageLayout": {
-      "margin": 0,
-      "maximumContentWidth": 80
+      "margin": 20
     },
     "sectionLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
       "margin": {
         "top": 5
       }
     },
     "sidebarBodyLayout": {
+      "margin": 10
+    },
+    "sidebarBodyNoMarginAboveLayout": {
       "margin": {
         "bottom": 10
       }
     },
     "sidebarDividerLayout": {
       "margin": {
-        "top": 8
+        "bottom": 10,
+        "top": 20
       },
-      "minimumHeight": 8
+      "minimumHeight": 2
     },
     "sidebarFloatContainerLayout": {
-      "columnSpan": 4,
-      "columnStart": 0
+      "columnSpan": 6,
+      "columnStart": 0,
+      "conditional": [
+        {
+          "columnSpan": 4,
+          "columnStart": 0,
+          "conditions": [
+            {
+              "maxViewportWidth": 415
+            }
+          ]
+        }
+      ]
     },
     "sidebarHeading2Layout": {
-      "//": "UNUSED"
+      "margin": {
+        "top": 10
+      }
     },
     "sidebarHeading3Layout": {
       "margin": {
-        "top": 5
+        "top": 10
       }
     },
     "sidebarHeading4Layout": {
       "margin": {
-        "top": 5
+        "top": 10
       }
     },
     "sidebarLayout": {
       "columnSpan": 18,
       "columnStart": 1,
-      "margin": 15,
+      "margin": 20,
       "padding": {
         "bottom": 10,
-        "left": 30,
-        "right": 30,
-        "top": 20
+        "top": 10
       }
-    },
-    "sidebarNoMarginLayout": {
-      "//": "UNUSED"
     },
     "sidebarSingleBlockContainerLayout": {
       "margin": {
@@ -723,6 +568,23 @@
       "margin": {
         "top": 2
       }
+    },
+    "signatureImageLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 700
+            }
+          ],
+          "maximumContentWidth": "50cw"
+        }
+      ],
+      "horizontalContentAlignment": "left",
+      "margin": 10,
+      "maximumContentWidth": "70cw"
     },
     "singleBlockContainerLayout": {
       "columnSpan": 18,
@@ -751,12 +613,15 @@
       "columnSpan": 18,
       "columnStart": 1,
       "margin": {
-        "top": 5
+        "top": 10
       }
     },
     "titleLayout": {
       "columnSpan": 18,
-      "columnStart": 1
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
     },
     "topPhotoDividerLayout": {
       "//": "UNUSED"
@@ -796,6 +661,18 @@
         }
       ]
     },
+    "dividerDoubleStyle": {
+      "border": {
+        "all": {
+          "color": "#222",
+          "width": 1
+        },
+        "bottom": true,
+        "left": false,
+        "right": false,
+        "top": true
+      }
+    },
     "dividerSectionHeadStyle": {
       "border": {
         "all": {
@@ -831,13 +708,6 @@
     "dividerStandardStyle": {
       "backgroundColor": "#000"
     },
-    "dividerThinStyle": {
-      "backgroundColor": "#ccc",
-      "stroke": {
-        "color": "#ccc",
-        "width": 1
-      }
-    },
     "dividerTocStyle": {
       "//": "UNUSED"
     },
@@ -866,23 +736,26 @@
             {
               "horizontalAlignment": "right",
               "padding": {
-                "right": 15
+                "right": 5
               },
               "selectors": [
                 {
                   "columnIndex": 0
                 }
               ],
-              "width": 15
+              "width": 10
             },
             {
               "horizontalAlignment": "left",
+              "padding": {
+                "left": 5
+              },
               "selectors": [
                 {
                   "columnIndex": 1
                 }
               ],
-              "width": 95
+              "width": 75
             }
           ],
           "textStyle": "ingredientsTextStyle",
@@ -904,7 +777,7 @@
                   "columnIndex": 1
                 }
               ],
-              "width": 95
+              "width": 45
             }
           ]
         }
@@ -927,35 +800,6 @@
     },
     "sectionStyle": {
       "//": "UNUSED"
-    },
-    "sidebarAltStyle": {
-      "backgroundColor": "#fbf0dd",
-      "border": {
-        "all": {
-          "color": "#242021",
-          "width": 8
-        }
-      },
-      "conditional": [
-        {
-          "backgroundColor": "#bfb6a6",
-          "border": {
-            "all": {
-              "color": "#e0e0e0",
-              "width": 8
-            }
-          },
-          "conditions": [
-            {
-              "minSpecVersion": "1.14",
-              "preferredColorScheme": "dark"
-            }
-          ]
-        }
-      ]
-    },
-    "sidebarDarkStyle": {
-      "backgroundColor": "#231f20"
     },
     "sidebarStyle": {
       "backgroundColor": "#f2f2f2",
@@ -1006,26 +850,12 @@
       "textTransform": "uppercase",
       "tracking": 0.1
     },
-    "default-tag-author": {
-      "fontName": "Avenir-Book",
-      "fontSize": 14,
-      "lineHeight": 16,
-      "textTransform": "uppercase"
+    "default-tag-bracket": {
+      "fontSize": 30,
+      "textColor": "#ED096F"
     },
-    "default-tag-avenirnext-b": {
-      "fontName": "AvenirNext-Bold"
-    },
-    "default-tag-avenirnext-bi": {
-      "fontName": "AvenirNext-BoldItalic"
-    },
-    "default-tag-avenirnext-di": {
-      "fontName": "AvenirNext-MediumItalic"
-    },
-    "default-tag-avenirnext-i": {
-      "fontName": "AvenirNext-Italic"
-    },
-    "default-tag-avenirnext-mi": {
-      "fontName": "AvenirNext-MediumItalic"
+    "default-tag-caption-bold": {
+      "fontName": "Gotham-Bold"
     },
     "default-tag-caption-heading": {
       "fontName": "AvenirNext-Bold",
@@ -1036,11 +866,14 @@
     "default-tag-emoji": {
       "fontName": "AppleColorEmoji"
     },
+    "default-tag-italic": {
+      "fontName": "SurveyorText-LightItalic"
+    },
     "default-tag-lede": {
       "fontName": "AvenirNext-Bold"
     },
-    "default-tag-lit": {
-      "fontName": "Superclarendon-BoldItalic"
+    "default-tag-m": {
+      "fontName": "Gotham-Medium"
     },
     "default-tag-pullquote-attribution": {
       "fontName": "Georgia-Bold",
@@ -1054,13 +887,11 @@
       "textTransform": "uppercase",
       "tracking": 0.05
     },
-    "default-tag-subsection": {
-      "fontName": "AvenirNext-Medium",
-      "textTransform": "lowercase",
-      "tracking": 0.05
+    "default-tag-title-italic": {
+      "fontName": "HTFDidot-M42MediumItalic"
     },
-    "default-tag-sup-b": {
-      "fontName": "Superclarendon-Bold"
+    "default-tag-twenty-five": {
+      "fontName": "Didot-Bold"
     },
     "endMarkerTextStyle": {
       "//": "UNUSED"
@@ -1084,40 +915,21 @@
       "textTransform": "uppercase",
       "tracking": 0.1
     },
-    "authorCenteredTextStyle": {
-      "fontName": "Avenir-Book",
-      "fontSize": 14,
-      "lineHeight": 16,
-      "textAlignment": "center",
-      "textTransform": "uppercase"
-    },
     "authorTextStyle": {
       "fontName": "Georgia-Bold",
       "textAlignment": "center",
       "textTransform": "uppercase",
       "tracking": 0.05
     },
+    "bhgInsiderBodyTextStyle": {
+      "fontName": "Gotham-Medium",
+      "fontSize": 16,
+      "lineHeight": 22,
+      "textAlignment": "center"
+    },
     "bodyCenteredTextStyle": {
       "fontName": "Georgia",
       "textAlignment": "center"
-    },
-    "bodyDropCapAltTextStyle": {
-      "dropCapStyle": {
-        "fontName": "Avenir-Book",
-        "numberOfCharacters": 1,
-        "numberOfLines": 4,
-        "numberOfRaisedLines": 0
-      },
-      "fontName": "AvenirNext-Regular"
-    },
-    "bodyDropCapQuestionTextStyle": {
-      "dropCapStyle": {
-        "fontName": "HoeflerText-Black",
-        "numberOfCharacters": 1,
-        "numberOfLines": 2,
-        "numberOfRaisedLines": 0
-      },
-      "fontName": "AvenirNext-Bold"
     },
     "bodyDropCapTextStyle": {
       "dropCapStyle": {
@@ -1131,24 +943,11 @@
     "bodyTextStyle": {
       "fontName": "Georgia"
     },
-    "calloutBodyCenteredTextStyle": {
-      "fontName": "AvenirNext-Medium",
-      "fontSize": 15,
-      "lineHeight": 17,
-      "textAlignment": "center"
-    },
     "calloutBodyTextStyle": {
       "fontName": "Georgia-Italic",
       "fontSize": 22,
       "lineHeight": 28,
       "textAlignment": "center"
-    },
-    "calloutHeadingCenteredTextStyle": {
-      "fontName": "HoeflerText-Black",
-      "fontSize": 42,
-      "lineHeight": 42,
-      "textAlignment": "center",
-      "textTransform": "lowercase"
     },
     "calloutHeadingTextStyle": {
       "fontName": "AvenirNext-Bold",
@@ -1164,16 +963,9 @@
     "captionCenteredTextStyle": {
       "textAlignment": "center"
     },
-    "captionDarkTextStyle": {
-      "fontName": "Avenir-Book",
-      "textColor": "#fff"
-    },
     "captionEmbeddedTextStyle": {
       "fontName": "HelveticaNeue-Bold",
       "lineHeight": 16
-    },
-    "captionLeftTextStyle": {
-      "fontName": "Avenir-BookOblique"
     },
     "captionTextStyle": {
       "fontName": "AvenirNext-Medium",
@@ -1289,67 +1081,32 @@
       "tracking": 0.05
     },
     "ingredientsTextStyle": {
-      "fontName": "AvenirNext-DemiBold",
-      "fontSize": 16,
-      "lineHeight": 17
-    },
-    "introAltCenteredTextStyle": {
-      "fontName": "Avenir-Book",
-      "lineHeight": 20,
-      "textAlignment": "center"
-    },
-    "introAltTextStyle": {
-      "fontName": "Avenir-Book",
-      "lineHeight": 20
-    },
-    "introCenteredTextStyle": {
-      "fontName": "AvenirNext-Regular",
-      "lineHeight": 20,
-      "textAlignment": "center"
+      "fontName": "Gotham-Medium",
+      "fontSize": 15,
+      "lineHeight": 19
     },
     "introTextStyle": {
       "fontName": "Georgia-Italic",
       "textAlignment": "center"
-    },
-    "johnsCocktailTextStyle": {
-      "backgroundColor": "#221E1F",
-      "fontName": "AvenirNext-Bold",
-      "fontSize": 14,
-      "lineHeight": 18,
-      "textColor": "#fff",
-      "textTransform": "uppercase"
-    },
-    "photoCreditTextStyle": {
-      "fontName": "AvenirNext-Regular",
-      "fontSize": 10,
-      "lineHeight": 12,
-      "textAlignment": "right",
-      "textColor": "#808284",
-      "textTransform": "uppercase",
-      "tracking": 0.05
     },
     "pullQuoteTextStyle": {
       "fontName": "Georgia",
       "textAlignment": "center"
     },
     "recipeBodyTextStyle": {
-      "fontName": "Georgia"
+      "fontName": "Gotham-Light",
+      "fontSize": 16,
+      "lineHeight": 20
     },
     "recipeDetailsTextStyle": {
-      "fontName": "Avenir-Light",
-      "fontSize": 13,
-      "lineHeight": 15,
-      "textTransform": "uppercase"
-    },
-    "recipeIntroTextStyle": {
-      "fontName": "AvenirNext-DemiBoldItalic",
-      "fontSize": 16,
+      "fontName": "Gotham-Light",
+      "fontSize": 15,
       "lineHeight": 17
     },
-    "recipeTitleTextStyle": {
-      "fontName": "HoeflerText-Black",
-      "fontSize": 36,
-      "lineHeight": 36
+    "recipeNutritionInfoTextStyle": {
+      "fontName": "Gotham-Light",
+      "fontSize": 14,
+      "lineHeight": 16
     },
     "sectionTextStyle": {
       "fontName": "AvenirNext-Regular",
@@ -1357,12 +1114,6 @@
       "lineHeight": 16,
       "textTransform": "uppercase",
       "tracking": 0.05
-    },
-    "sidebarAuthorTextStyle": {
-      "fontName": "Avenir-Book",
-      "fontSize": 13,
-      "lineHeight": 16,
-      "textTransform": "uppercase"
     },
     "sidebarBodyCenteredTextStyle": {
       "fontName": "AvenirNext-Medium",
@@ -1403,28 +1154,16 @@
       "textTransform": "uppercase",
       "tracking": -0.05
     },
+    "sidebarHeading4CenteredTextStyle": {
+      "fontName": "Gotham-Bold",
+      "fontSize": 16,
+      "lineHeight": 18,
+      "textAlignment": "center"
+    },
     "sidebarHeading4TextStyle": {
       "fontName": "AvenirNext-Bold",
       "fontSize": 24,
       "lineHeight": 28,
-      "tracking": -0.01
-    },
-    "sidebarIntroCenteredTextStyle": {
-      "fontName": "AvenirNext-DemiBold",
-      "fontSize": 13,
-      "lineHeight": 15,
-      "textAlignment": "center"
-    },
-    "sidebarIntroTextStyle": {
-      "fontName": "Georgia-Italic",
-      "fontSize": 20,
-      "lineHeight": 26
-    },
-    "straplineAltTextStyle": {
-      "fontName": "Futura-Bold",
-      "fontSize": 14,
-      "lineHeight": 12,
-      "textTransform": "uppercase",
       "tracking": -0.01
     },
     "straplineTextStyle": {
@@ -1432,19 +1171,6 @@
       "textAlignment": "center",
       "textTransform": "uppercase",
       "tracking": 0.15
-    },
-    "titleAltTextStyle": {
-      "fontName": "HoeflerText-Black",
-      "fontSize": 58,
-      "lineHeight": 58,
-      "textTransform": "lowercase"
-    },
-    "titleCenteredTextStyle": {
-      "fontName": "HoeflerText-Black",
-      "fontSize": 58,
-      "lineHeight": 58,
-      "textAlignment": "center",
-      "textTransform": "lowercase"
     },
     "titleTextStyle": {
       "fontName": "AvenirNext-Bold",
@@ -1468,6 +1194,11 @@
       "fontSize": 24,
       "lineHeight": 28,
       "textAlignment": "center"
+    },
+    "sidebarIntroTextStyle": {
+      "fontName": "Georgia-Italic",
+      "fontSize": 20,
+      "lineHeight": 26
     },
     "subsectionIntroTextStyle": {
       "fontName": "Georgia-Italic",

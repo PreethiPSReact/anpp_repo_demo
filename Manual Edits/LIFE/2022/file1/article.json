@@ -1,7 +1,7 @@
 {
   "version": "1.9",
-  "identifier": "rrmag_article_10206-11-11-1",
-  "title": "FOOD-RESCUING APPS",
+  "identifier": "alr_article_899-131-70-1",
+  "title": "DINNER IN FIVE…",
   "language": "en",
   "layout": {
     "columns": 20,
@@ -9,17 +9,117 @@
     "margin": 40,
     "width": 1024
   },
+  "subtitle": "<p><b><custom name=\"underline\">This special issue is packed with five-ingredient recipes, but these weeknight winners rank among our most loved for those crazy-busy evenings. Each one makes it easy to bring supper to the table with minimal ingredients and effort.</custom></b></p>",
   "metadata": {
-    "authors": [
-      "By –Sarah Z. Wexler"
-    ],
-    "dateCreated": "2022-05-06T18:51:29.410Z",
-    "dateModified": "2022-05-05T15:29:13+00:00",
-    "excerpt": "Every day in the United States, 37 million people experience food insecurity, yet 40 percent of food goes to waste. A few innovative organizations are connecting those in need and those with extra to share.",
-    "generatorName": "ANTE Generic Template",
-    "generatorVersion": "0.0.4.32-2022-04-15 19:20",
-    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_10206/storage/images/media2/images/harvestcopy_034/15865-1-eng-US/harvestcopy_0342.jpg?q=100"
+    "dateCreated": "2022-06-21T16:54:34.379Z",
+    "dateModified": "2022-06-21T16:29:35+00:00",
+    "excerpt": "HANDS-ON 15 MIN",
+    "generatorName": "All-Recipes -- Recipe",
+    "generatorVersion": "0.0.4.33-2022-06-09 18:32",
+    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p070-071-alt102382-easy-enchiladas/199653-1-eng-GB/p070-071-alt102382-easy-enchiladas.jpg?q=100"
   },
+  "missingData": [
+    {
+      "//": "======== SINGLE BLOCK CONTAINER ========",
+      "role": "container",
+      "layout": "singleBlockContainerLayout",
+      "components": [
+        {
+          "//": "======== IMAGE BLOCK - H120.0/W647.0 * 100 = 18.5471406 ========",
+          "role": "photo",
+          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0071-0131/198675-1-eng-GB/f0071-012.jpg?q=100"
+        }
+      ]
+    },
+    {
+      "role": "body",
+      "layout": "bodyLayout",
+      "style": "paragraphStyle",
+      "textStyle": "bodyTextStyle",
+      "format": "html",
+      "text": "103 REVIEWS"
+    },
+    {
+      "//": "======== SINGLE BLOCK CONTAINER ========",
+      "role": "container",
+      "layout": "singleBlockContainerLayout",
+      "components": [
+        {
+          "//": "======== IMAGE BLOCK - H120.0/W647.0 * 100 = 18.5471406 ========",
+          "role": "photo",
+          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0072-0144/198647-1-eng-GB/f0072-012.jpg?q=100"
+        }
+      ]
+    },
+    {
+      "role": "body",
+      "layout": "bodyLayout",
+      "style": "paragraphStyle",
+      "textStyle": "bodyTextStyle",
+      "format": "html",
+      "text": "1 REVIEW"
+    },
+    {
+      "//": "======== SINGLE BLOCK CONTAINER ========",
+      "role": "container",
+      "layout": "singleBlockContainerLayout",
+      "components": [
+        {
+          "//": "======== IMAGE BLOCK - H120.0/W647.0 * 100 = 18.5471406 ========",
+          "role": "photo",
+          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0073-0135/198619-1-eng-GB/f0073-012.jpg?q=100"
+        }
+      ]
+    },
+    {
+      "role": "body",
+      "layout": "bodyLayout",
+      "style": "paragraphStyle",
+      "textStyle": "bodyTextStyle",
+      "format": "html",
+      "text": "55 REVIEWS"
+    },
+    {
+      "//": "======== SINGLE BLOCK CONTAINER ========",
+      "role": "container",
+      "layout": "singleBlockContainerLayout",
+      "components": [
+        {
+          "//": "======== IMAGE BLOCK - H120.0/W647.0 * 100 = 18.5471406 ========",
+          "role": "photo",
+          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0074-0148/198591-1-eng-GB/f0074-012.jpg?q=100"
+        }
+      ]
+    },
+    {
+      "role": "body",
+      "layout": "bodyLayout",
+      "style": "paragraphStyle",
+      "textStyle": "bodyTextStyle",
+      "format": "html",
+      "text": "52 REVIEWS"
+    },
+    {
+      "//": "======== SINGLE BLOCK CONTAINER ========",
+      "role": "container",
+      "layout": "singleBlockContainerLayout",
+      "components": [
+        {
+          "//": "======== IMAGE BLOCK - H120.0/W647.0 * 100 = 18.5471406 ========",
+          "role": "photo",
+          "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/f0075-0148/198570-1-eng-GB/f0075-012.jpg?q=100"
+        }
+      ]
+    },
+    {
+      "role": "body",
+      "layout": "bodyLayout",
+      "style": "paragraphStyle",
+      "textStyle": "bodyTextStyle",
+      "format": "html",
+      "text": "1,548 REVIEWS"
+    }
+  ],
   "documentStyle": {
     "backgroundColor": "#eee"
   },
@@ -27,12 +127,26 @@
     {
       "role": "container",
       "layout": {
-        "conditional": {
-          "conditions": {
-            "platform": "ios"
+        "conditional": [
+          {
+            "conditions": [
+              {
+                "platform": "ios"
+              }
+            ],
+            "ignoreViewportPadding": true
           },
-          "ignoreViewportPadding": true
-        },
+          {
+            "conditions": [
+              {
+                "maxViewportWidth": 1366,
+                "minViewportWidth": 1112
+              }
+            ],
+            "ignoreDocumentMargin": "none",
+            "ignoreViewportPadding": "none"
+          }
+        ],
         "ignoreDocumentMargin": true
       },
       "style": {
@@ -45,24 +159,12 @@
           "layout": "sectionLayout",
           "textStyle": "sectionTextStyle",
           "format": "html",
-          "text": "The Dish"
+          "text": "5-INGREDIENT RECIPES"
         },
         {
-          "role": "divider",
-          "layout": "dividerSectionLayout",
-          "stroke": {
-            "color": "#000",
-            "width": 1
-          }
-        },
-        {
-          "//": "==== DEFAULT HEADER: STRAPLINE/CATEGORY ===",
-          "role": "heading",
-          "layout": "straplineLayout",
-          "style": "straplineStyle",
-          "textStyle": "straplineTextStyle",
-          "format": "html",
-          "text": "FEED IT FORWARD"
+          "role": "container",
+          "layout": "dividerLayout",
+          "style": "dividerSectionHeadStyle"
         },
         {
           "//": "==== DEFAULT HEADER: TITLE ===",
@@ -70,14 +172,15 @@
           "layout": "titleLayout",
           "textStyle": "titleTextStyle",
           "format": "html",
-          "text": "Food-Rescuing Apps"
+          "text": "Dinner in Five…"
         },
         {
-          "role": "author",
-          "layout": "authorLayout",
-          "textStyle": "authorTextStyle",
+          "//": "==== DEFAULT HEADER: INTRO ===",
+          "role": "intro",
+          "layout": "introLayout",
+          "textStyle": "introTextStyle",
           "format": "html",
-          "text": "By –Sarah Z. Wexler"
+          "text": "This special issue is packed with five-ingredient recipes, but these weeknight winners rank among our most loved for those crazy-busy evenings. Each one makes it easy to bring supper to the table with minimal ingredients and effort."
         },
         {
           "//": "======== HERO IMAGE CONTAINER =======",
@@ -85,38 +188,47 @@
           "layout": "heroImageLayout",
           "components": [
             {
-              "//": "======== HERO IMAGE - H971.0/W1040.0 * 100 = 93.3653846 ========",
+              "//": "======== HERO IMAGE - H1861.0/W1366.0 * 100 = 136.2371889 ========",
               "role": "photo",
               "layout": "fullBleedPhotoLayout",
-              "caption": {
-                "format": "html",
-                "text": "<span data-anf-textstyle='creditTextStyle'>courtesy of hungry harvest.</span>",
-                "textStyle": "captionEmbeddedTextStyle"
-              },
-              "URL": "https://cdn-assets.ziniopro.com/var/site_10206/storage/images/media2/images/harvestcopy_034/15865-1-eng-US/harvestcopy_0342.jpg?q=100"
-            },
-            {
-              "role": "caption",
-              "layout": "captionLayout",
-              "textStyle": "captionTextStyle",
-              "format": "html",
-              "text": "<span data-anf-textstyle=\"creditTextStyle\">courtesy of hungry harvest.</span>",
-              "style": "captionStyle"
+              "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p070-071-alt102382-easy-enchiladas/199653-1-eng-GB/p070-071-alt102382-easy-enchiladas.jpg?q=100"
             }
           ]
         },
         {
-          "//": "======== BODY CONTAINER =======",
+          "//": "======== BEGIN RECIPES BODY CONTAINER =======",
           "role": "container",
           "layout": "bodyContainerLayout",
+          "style": "bodyContainerStyle",
           "components": [
             {
+              "role": "heading2",
+              "layout": "bodyLayout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Easy Enchiladas"
+            },
+            {
               "role": "body",
               "layout": "bodyLayout",
               "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
+              "textStyle": "recipeDetailsTextStyle",
               "format": "html",
-              "text": "Every day in the United States, 37 million people experience food insecurity, yet 40 percent of food goes to waste. A few innovative organizations are connecting those in need and those with extra to share."
+              "text": "<lede>HANDS-ON</lede> 15 MIN <lede>TOTAL</lede> 35 MIN <lede>SERVES</lede> 4 <br><lede>SUBMITTED BY</lede> TANYAP"
+            },
+            {
+              "role": "heading",
+              "layout": "reviewLayout",
+              "style": "reviewFourStarsStyle",
+              "textStyle": "reviewsTextStyle",
+              "format": "html",
+              "text": "103 REVIEWS"
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td>1½</td><td>cups prepared low-sodium salsa, plus more for serving</td></tr><tr><td>1</td><td>lb. ground beef</td></tr><tr><td>1</td><td>(15.5-oz.) jar prepared salsa con queso</td></tr><tr><td>8</td><td>(8-inch) flour tortillas</td></tr><tr><td>1</td><td>(8-oz.) pkg. shredded cheddar-Monterey jack cheese blend</td></tr></table>"
             },
             {
               "role": "body",
@@ -124,7 +236,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<avenirnext-b>Hungry Harvest</avenirnext-b> Launched by founder Evan Lutz from his dorm room at the University of Maryland, Hungry Harvest works with farmers to salvage fruits and veggies that would be thrown away or left in the fields to rot because they’re not cute enough for the grocery aisle, or simply due to grower surplus. Subscribers get boxes of “rescued produce” delivered to their home, and the company donates reduced-cost boxes to people who use SNAP. To date, it has rescued 29 million pounds of food and provided 1.7 million pounds of produce to people in need. <a href=\"http://hungryharvest.net\">hungryharvest.net</a>"
+              "text": "<lede>1.</lede> Preheat oven to 350°F. Coat a 9x13-inch baking dish with cooking spray and pour in salsa."
             },
             {
               "role": "body",
@@ -132,7 +244,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<avenirnext-b>Too Good to Go</avenirnext-b> For folks who love eating out, this app—downloaded by 37 million people—connects you to extra food from local restaurants, bakeries, and cafes at the end of each business day. Browse locations near you (unique spots, plus chains like Le Pain Quotidien, Just Salad, and Dunkin’ Donuts) and then buy a “Surprise Bag.” Contents vary—pizza slices, sushi rolls, an assortment of pastries. Too Good to Go, which supports local hunger-relief organizations in the communities where it operates, has saved 72 million meals in 15 countries, for 250 million pounds of food—no telling how many doughnut holes. <a href=\"http://toogoodtogo.com\">toogoodtogo.com</a>"
+              "text": "<lede>2.</lede> Cook beef in a large skillet over medium heat, stirring to break up lumps, until browned, about 10 minutes. Drain grease. Stir in salsa con queso until well blended. Spread about ⅓ cup beef mixture across middle of tortilla; roll into a cylinder. Transfer, seam side down, to baking dish with salsa. Repeat with remaining tortillas and filling. Sprinkle with cheese."
             },
             {
               "role": "body",
@@ -140,7 +252,688 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<avenirnext-b>ChowMatch</avenirnext-b> Because Tod Hing’s family owned a grocery store when he was growing up, he saw firsthand how much unsold food can go to waste. When his wife, Maria Yap, founded a food recovery nonprofit, she was frustrated by how hard it was to rescue food, giving him the idea for ChowMatch. It matches restaurants, grocery stores, caterers, and farms that have surplus food with organizations that can use it right away—such as homeless shelters, churches, schools, and affordable housing programs. Once a match is made, volunteers pick up and deliver the food to the recipient organization within an hour, for free. Right now the app is running in 700 locations across the U.S., and it’s making a big impact: In Los Angeles alone, one such group, FoodCycle LA, might serve 60,000 meals a week from food it gets through the program. <a href=\"http://chowmatch.com\">chowmatch.com</a>"
+              "text": "<lede>3.</lede> Bake until cheese is browned and bubbling, 15 to 20 minutes. Serve with additional salsa."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede><a href=\"http://armagazine.com/easy-enchiladas\">armagazine.com/easy-enchiladas</a></lede>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b><i>QUICK</i></b>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "attributeTextStyle",
+              "format": "html",
+              "text": "PER SERVING (2 ENCHILADAS): 888 CAL; 48G FAT (26G SAT); 52G PRO; 66G CARB (4G FIBER, 6G SUGARS); 1,694MG SODIUM"
+            },
+            {
+              "//": "======= YOU SAID CONTAINER ======",
+              "role": "container",
+              "layout": "youSaidContainerLayout",
+              "components": [
+                {
+                  "role": "pullquote",
+                  "textStyle": "youSaidQuoteTextStyle",
+                  "format": "html",
+                  "text": "“I used taco meat with about half a can of drained black beans and half a small can of drained diced jalapeños. Very happy with the result!”<br><pullquote-attribution>– JOEL ANDERSON</pullquote-attribution>"
+                }
+              ]
+            },
+            {
+              "//": "======= YOU SAID CONTAINER ======",
+              "role": "container",
+              "layout": "youSaidContainerLayout",
+              "components": [
+                {
+                  "role": "container",
+                  "layout": {
+                    "margin": {
+                      "bottom": 10
+                    }
+                  },
+                  "contentDisplay": {
+                    "alignment": "center",
+                    "distribution": "narrow",
+                    "maximumWidth": 80,
+                    "type": "collection"
+                  },
+                  "components": [
+                    {
+                      "role": "image",
+                      "style": {
+                        "backgroundColor": "#008080",
+                        "mask": {
+                          "radius": 80,
+                          "type": "corners"
+                        }
+                      },
+                      "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/melinaknaus_058/198682-1-eng-GB/melinaknaus_0582.jpg?q=100"
+                    }
+                  ]
+                },
+                {
+                  "role": "pullquote",
+                  "textStyle": "youSaidQuoteTextStyle",
+                  "format": "html",
+                  "text": "“The only thing I do differently is to use canned enchilada sauce instead of salsa.”<br><pullquote-attribution>– MELINA KNAUSS</pullquote-attribution>"
+                }
+              ]
+            },
+            {
+              "//": "====== CALLOUT ======",
+              "role": "container",
+              "layout": "calloutLayout",
+              "style": "calloutStyle",
+              "components": [
+                {
+                  "role": "heading",
+                  "layout": "calloutHeadingLayout",
+                  "textStyle": "calloutHeadingTextStyle",
+                  "format": "html",
+                  "text": "Make It a Meal"
+                },
+                {
+                  "role": "body",
+                  "layout": "calloutBodyLayout",
+                  "textStyle": "calloutBodyTextStyle",
+                  "format": "html",
+                  "text": "Serve these beef enchiladas with lime wedges, tortilla chips, and chopped fresh cilantro."
+                }
+              ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1548.0/W1366.0 * 100 = 113.3235725 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p072-alt102382-coconut-pork-curry/199660-1-eng-GB/p072-alt102382-coconut-pork-curry.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "bodyLayout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Coconut Pork Curry"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "recipeDetailsTextStyle",
+              "format": "html",
+              "text": "<lede>HANDS-ON</lede> 5 MIN <lede>TOTAL</lede> 25 MIN <lede>SERVES</lede> 4 <br><lede>SUBMITTED BY</lede> COOKMASTER2"
+            },
+            {
+              "role": "heading",
+              "layout": "reviewLayout",
+              "style": "reviewFiveStarsStyle",
+              "textStyle": "reviewsTextStyle",
+              "format": "html",
+              "text": "1 REVIEW"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<i>Add extra spice to this curry with a sprinkle of crushed red pepper.</i>"
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td>1</td><td>cup basmati rice</td></tr><tr><td>1¼</td><td>lb. lean pork, cut into cubes</td></tr><tr><td>¼</td><td>tsp. salt</td></tr><tr><td>1</td><td>Tbsp. vegetable oil</td></tr><tr><td>1½</td><td>cups sliced bell pepper (any color)</td></tr><tr><td>2</td><td>cups sugar snap peas</td></tr><tr><td>1</td><td>(16-oz.) jar Thai-style yellow coconut curry stir-fry sauce</td></tr></table>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>1.</lede> Cook rice according to package directions."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>2.</lede> Meanwhile, season pork with salt. Heat oil in a large saucepan over high heat. Cook pork until completely browned, about 5 minutes. Remove from pan."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>2.</lede> Sauté bell pepper and sugar snap peas in saucepan until softened, 1 to 2 minutes. Return pork to pan."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>3.</lede> Add stir-fry sauce to saucepan and bring to a simmer; cook, stirring occasionally, 5 to 10 minutes, until an instant-read thermometer inserted into thickest parts registers 145°F."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede><a href=\"http://armagazine.com/coconut-pork-curry\">armagazine.com/coconut-pork-curry</a></lede>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b><i>HIDDEN GEM</i></b> | <b><i>QUICK</i></b>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "attributeTextStyle",
+              "format": "html",
+              "text": "PER 1<b>½</b> CUPS: 376 CAL; 22G FAT (11G SAT); 36G PRO; 10G CARB (2G FIBER, 4G SUGARS); 406MG SODIUM"
+            },
+            {
+              "//": "======= YOU SAID CONTAINER ======",
+              "role": "container",
+              "layout": "youSaidContainerLayout",
+              "components": [
+                {
+                  "role": "container",
+                  "layout": {
+                    "margin": {
+                      "bottom": 10
+                    }
+                  },
+                  "contentDisplay": {
+                    "alignment": "center",
+                    "distribution": "narrow",
+                    "maximumWidth": 80,
+                    "type": "collection"
+                  },
+                  "components": [
+                    {
+                      "role": "image",
+                      "style": {
+                        "backgroundColor": "#008080",
+                        "mask": {
+                          "radius": 80,
+                          "type": "corners"
+                        }
+                      },
+                      "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/thedailygou_060/198654-1-eng-GB/thedailygou_0602.jpg?q=100"
+                    }
+                  ]
+                },
+                {
+                  "role": "pullquote",
+                  "textStyle": "youSaidQuoteTextStyle",
+                  "format": "html",
+                  "text": "“Not too spicy, and it had a terrific flavor.”<br><pullquote-attribution>– THEDAILYGOURMET</pullquote-attribution>"
+                }
+              ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1578.0/W1366.0 * 100 = 115.5197657 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p073-alt102382-breaded-air-fryer-pork-chops/199667-1-eng-GB/p073-alt102382-breaded-air-fryer-pork-chops.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "bodyLayout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Breaded Air Fryer Pork Chops"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "recipeDetailsTextStyle",
+              "format": "html",
+              "text": "<lede>HANDS-ON</lede> 10 MIN <lede>TOTAL</lede> 20 MIN <lede>SERVES</lede> 4 <br><lede>SUBMITTED BY</lede> FRANCE C"
+            },
+            {
+              "role": "heading",
+              "layout": "reviewLayout",
+              "style": "reviewFiveStarsStyle",
+              "textStyle": "reviewsTextStyle",
+              "format": "html",
+              "text": "55 REVIEWS"
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td>4</td><td>boneless center-cut pork chops, 1 inch thick (1½ to 1¾ lb. total)</td></tr><tr><td>2</td><td>tsp. salt-free Cajun seasoning</td></tr><tr><td>¼</td><td>tsp. salt</td></tr><tr><td>¼</td><td>tsp. black pepper</td></tr><tr><td>2</td><td>cups seasoned croutons (1.6 oz., 1¼ cups crushed) <i>[You could swap in 1¼ cups seasoned panko bread crumbs.]</i></td></tr><tr><td>1</td><td>egg</td></tr></table>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>1.</lede> Preheat air fryer to 400°F. Season both sides of pork chops with Cajun seasoning, salt, and pepper."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>2.</lede> Pulse croutons in a small food processor to a fine consistency (or, using a rolling pin, crush croutons in zip-top plastic bag). Transfer croutons to a shallow dish. In another dish, lightly beat egg. Dip pork chops into egg, letting excess drip off, then dredge in croutons. Put chops on a plate and spray with cooking spray."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>3.</lede> Coat air fryer basket with cooking spray. Arrange chops in basket, making sure not to overcrowd. (You may need to do 2 batches depending on the size of your air fryer.)"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>4.</lede> Cook 5 minutes. Turn chops over; cook 4 to 5 minutes more or until an instant-read thermometer inserted into thickest parts registers 145°F."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede><a href=\"http://armagazine.com/breaded-air-fryer-pork-chops\">armagazine.com/breaded-air-fryer-pork-chops</a></lede>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b><i>HEALTHY</i></b> | <b><i>QUICK</i></b>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "attributeTextStyle",
+              "format": "html",
+              "text": "PER CHOP: 287 CAL; 9G FAT (3G SAT); 38G PRO; 13G CARB (1G FIBER, 1G SUGARS); 554MG SODIUM"
+            },
+            {
+              "//": "======= YOU SAID CONTAINER ======",
+              "role": "container",
+              "layout": "youSaidContainerLayout",
+              "components": [
+                {
+                  "role": "pullquote",
+                  "textStyle": "youSaidQuoteTextStyle",
+                  "format": "html",
+                  "text": "“This is the first time I cooked pork chops in the air fryer. They turned out to be probably the juiciest chops ever.”<br><pullquote-attribution>– GARY WOODS</pullquote-attribution>"
+                }
+              ]
+            },
+            {
+              "//": "======= YOU SAID CONTAINER ======",
+              "role": "container",
+              "layout": "youSaidContainerLayout",
+              "components": [
+                {
+                  "role": "container",
+                  "layout": {
+                    "margin": {
+                      "bottom": 10
+                    }
+                  },
+                  "contentDisplay": {
+                    "alignment": "center",
+                    "distribution": "narrow",
+                    "maximumWidth": 80,
+                    "type": "collection"
+                  },
+                  "components": [
+                    {
+                      "role": "image",
+                      "style": {
+                        "backgroundColor": "#008080",
+                        "mask": {
+                          "radius": 80,
+                          "type": "corners"
+                        }
+                      },
+                      "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/carrieharri_055/198626-1-eng-GB/carrieharri_0552.jpg?q=100"
+                    }
+                  ]
+                },
+                {
+                  "role": "pullquote",
+                  "textStyle": "youSaidQuoteTextStyle",
+                  "format": "html",
+                  "text": "“I couldn’t believe how good these were, and cleanup was so easy, too!”<br><pullquote-attribution>– CARRIE HARRIS</pullquote-attribution>"
+                }
+              ]
+            },
+            {
+              "//": "====== CALLOUT ======",
+              "role": "container",
+              "layout": "calloutLayout",
+              "style": "calloutStyle",
+              "components": [
+                {
+                  "role": "heading",
+                  "layout": "calloutHeadingLayout",
+                  "textStyle": "calloutHeadingTextStyle",
+                  "format": "html",
+                  "text": "Make It a Meal"
+                },
+                {
+                  "role": "body",
+                  "layout": "calloutBodyLayout",
+                  "textStyle": "calloutBodyTextStyle",
+                  "format": "html",
+                  "text": "Serve these easy breaded chops with sautéed green beans and/or mashed potatoes."
+                }
+              ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1656.0/W1366.0 * 100 = 121.2298682 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p074-alt102382-slow-cooker-buffalo-chicken-lettuce-wraps/199674-1-eng-GB/p074-alt102382-slow-cooker-buffalo-chicken-lettuce-wraps.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "bodyLayout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Slow Cooker Buffalo Chicken Lettuce Wraps"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "recipeDetailsTextStyle",
+              "format": "html",
+              "text": "<lede>HANDS-ON</lede> 10 MIN <lede>TOTAL</lede> 2 HR, 40 MIN <lede>SERVES</lede> 10 <br><lede>SUBMITTED BY</lede> AC"
+            },
+            {
+              "role": "heading",
+              "layout": "reviewLayout",
+              "style": "reviewFourStarsStyle",
+              "textStyle": "reviewsTextStyle",
+              "format": "html",
+              "text": "52 REVIEWS"
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td>2</td><td>lb. boneless, skinless chicken breasts</td></tr><tr><td>1</td><td>(1-oz.) pkg. ranch dressing mix</td></tr><tr><td>1</td><td>(12-oz.) bottle hot pepper sauce, such as Frank’s RedHot</td></tr><tr><td>1</td><td>head Boston lettuce, divided into leaves</td></tr><tr><td></td><td>Blue cheese crumbles</td></tr></table>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>1.</lede> Put chicken in a 3½- to 4-qt. slow cooker. Sprinkle with ranch dressing mix; turn to coat. Pour hot pepper sauce over chicken."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>2.</lede> Cook, covered, on High 2½ to 3 hours or on Low 5 to 6 hours."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>3.</lede> Transfer chicken to a large bowl; shred using 2 forks. Strain liquid from slow cooker into another bowl to serve with wraps."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>4.</lede> Spoon chicken into lettuce leaves, sprinkle with blue cheese, and roll up leaves. Serve with strained cooking liquid and sprinkle with blue cheese."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede><a href=\"http://armagazine.com/slow-cooker-buffalo-chicken-lettuce-wraps\">armagazine.com/slow-cooker-buffalo-chicken-lettuce-wraps</a></lede>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b><i>GLUTEN-FREE</i></b>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "attributeTextStyle",
+              "format": "html",
+              "text": "PER WRAP: 117 CAL; 2G FAT (0G SAT); 21G PRO; 2G CARB (0G FIBER, 0G SUGARS); 1,206MG SODIUM"
+            },
+            {
+              "//": "======= YOU SAID CONTAINER ======",
+              "role": "container",
+              "layout": "youSaidContainerLayout",
+              "components": [
+                {
+                  "role": "container",
+                  "layout": {
+                    "margin": {
+                      "bottom": 10
+                    }
+                  },
+                  "contentDisplay": {
+                    "alignment": "center",
+                    "distribution": "narrow",
+                    "maximumWidth": 80,
+                    "type": "collection"
+                  },
+                  "components": [
+                    {
+                      "role": "image",
+                      "style": {
+                        "backgroundColor": "#008080",
+                        "mask": {
+                          "radius": 80,
+                          "type": "corners"
+                        }
+                      },
+                      "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/christina_h_056/198598-1-eng-GB/christina_h_0562.jpg?q=100"
+                    }
+                  ]
+                },
+                {
+                  "role": "pullquote",
+                  "textStyle": "youSaidQuoteTextStyle",
+                  "format": "html",
+                  "text": "“I used chicken tenders. They were done after 4½ hours on Low, and then I shredded them. Perfectly tender, moist, and flavorful!”<br><pullquote-attribution>– CHRISTINA</pullquote-attribution>"
+                }
+              ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1926.0/W1366.0 * 100 = 140.9956076 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/p075-alt102382-baked-salmon-fillets/199646-1-eng-GB/p075-alt102382-baked-salmon-fillets.jpg?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "bodyLayout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "Baked Salmon Fillets With Dijon Mustard"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "recipeDetailsTextStyle",
+              "format": "html",
+              "text": "<lede>HANDS-ON</lede> 10 MIN <lede>TOTAL</lede> 25 MIN <lede>SERVES</lede> 4 <br><lede>SUBMITTED BY</lede> CHRISTYJ"
+            },
+            {
+              "role": "heading",
+              "layout": "reviewLayout",
+              "style": "reviewFourHalfStarsStyle",
+              "textStyle": "reviewsTextStyle",
+              "format": "html",
+              "text": "1,548 REVIEWS"
+            },
+            {
+              "role": "htmltable",
+              "layout": "ingredientsLayout",
+              "style": "ingredientsStyle",
+              "html": "<table><tr><td>4</td><td>(4-oz.) skinless salmon fillets</td></tr><tr><td>4</td><td>tsp. Dijon mustard</td></tr><tr><td>¼</td><td>tsp. salt</td></tr><tr><td>⅛</td><td>tsp. black pepper</td></tr><tr><td>¼</td><td>cup butter, melted</td></tr><tr><td>¼</td><td>cup Italian-style panko bread crumbs</td></tr><tr><td></td><td>Lemon slices, for garnish</td></tr></table>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>1.</lede> Preheat oven to 400°F. Line a shallow baking pan with foil and lightly coat with cooking spray."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>2.</lede> Put salmon on foil. Spread a thin layer of mustard on fillets and sprinkle with salt and pepper. Stir together butter and panko in a small bowl; spread over salmon."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede>3.</lede> Bake in upper third of oven 11 to 13 minutes, or until salmon flakes easily with a fork and an instant-read thermometer inserted into thickest parts registers 145°F. Set oven to broil. Broil fish until lightly browned, 15 to 30 seconds. Garnish with lemon slices."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<lede><a href=\"http://armagazine.com/baked-salmon-fillets-with-dijon-mustard\">armagazine.com/baked-salmon-fillets-with-dijon-mustard</a></lede>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<b><i>QUICK</i></b>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "attributeTextStyle",
+              "format": "html",
+              "text": "PER 4 OZ. FILLET: 287 CAL; 19G FAT (8G SAT); 23G PRO; 5G CARB (0G FIBER, 0G SUGARS); 461MG SODIUM"
+            },
+            {
+              "//": "======= YOU SAID CONTAINER ======",
+              "role": "container",
+              "layout": "youSaidContainerLayout",
+              "components": [
+                {
+                  "role": "pullquote",
+                  "textStyle": "youSaidQuoteTextStyle",
+                  "format": "html",
+                  "text": "“I’ve tried this with orange roughy, too, and it was just as great. So easy and impressive!”<br><pullquote-attribution>– REBSLO</pullquote-attribution>"
+                }
+              ]
+            },
+            {
+              "//": "====== CALLOUT ======",
+              "role": "container",
+              "layout": "calloutLayout",
+              "style": "calloutStyle",
+              "components": [
+                {
+                  "role": "heading",
+                  "layout": "calloutHeadingLayout",
+                  "textStyle": "calloutHeadingTextStyle",
+                  "format": "html",
+                  "text": "Make It a Meal"
+                },
+                {
+                  "role": "body",
+                  "layout": "calloutBodyLayout",
+                  "textStyle": "calloutBodyTextStyle",
+                  "format": "html",
+                  "text": "Serve these salmon fillets with steamed or roasted asparagus and packaged heat-and-serve rice pilaf."
+                }
+              ]
             }
           ]
         },
@@ -170,7 +963,7 @@
               "layout": "bodyLayout",
               "textStyle": "tocTextStyle",
               "format": "html",
-              "text": "<a href='https://apple.news/A0uhqsbzxEey1xbryT0AkAA'>Tap here</a> to see more from this issue of <i>Rachael Ray Every Day</i>"
+              "text": "<a href='https://apple.news/AeWTaQfGQEeyRKiYivkxSbA'>Tap here</a> to see more from this issue of <i>Allrecipes</i>"
             }
           ]
         }
@@ -187,7 +980,7 @@
       "columnSpan": 18,
       "columnStart": 1,
       "margin": {
-        "top": 5
+        "bottom": 5
       }
     },
     "blockContainerLayout": {
@@ -206,71 +999,44 @@
     "bodyLayout": {
       "columnSpan": 18,
       "columnStart": 1,
-      "margin": 8
-    },
-    "bodyNoMarginAboveLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
       "margin": {
-        "bottom": 10
+        "bottom": 10,
+        "top": 2
       }
     },
     "bottomPhotoDividerLayout": {
       "//": "UNUSED"
     },
-    "bylineDividerLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
-      "margin": {
-        "bottom": 0,
-        "top": 8
-      }
-    },
     "calloutBodyLayout": {
       "margin": {
-        "bottom": 10
+        "bottom": 10,
+        "top": 5
       }
     },
     "calloutHeadingLayout": {
-      "//": "UNUSED"
-    },
-    "calloutImageLayout": {
-      "horizontalContentAlignment": "center",
       "margin": {
-        "bottom": 10
-      },
-      "maximumContentWidth": "20cw"
+        "top": 10
+      }
     },
     "calloutLayout": {
-      "columnSpan": 14,
-      "columnStart": 3,
-      "margin": 20,
-      "padding": {
-        "bottom": 20,
-        "left": 30,
-        "right": 30,
+      "columnSpan": 16,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 10,
         "top": 20
+      },
+      "padding": {
+        "bottom": 10,
+        "left": 20,
+        "right": 20,
+        "top": 10
       }
     },
     "captionAdLayout": {
       "//": "UNUSED"
     },
     "captionLayout": {
-      "margin": 5
-    },
-    "collectionLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
-      "margin": {
-        "bottom": 10,
-        "top": 20
-      }
-    },
-    "customHeaderLayout": {
-      "ignoreDocumentMargin": true,
-      "margin": {
-        "bottom": 5
-      }
+      "margin": 8
     },
     "darkModePaddingLayout": {
       "conditional": [
@@ -290,32 +1056,18 @@
     },
     "dividerLayout": {
       "ignoreDocumentMargin": true,
-      "margin": 10
-    },
-    "dividerSectionLayout": {
-      "ignoreDocumentMargin": true,
-      "margin": 5
+      "margin": {
+        "bottom": 20,
+        "top": 10
+      }
     },
     "dividerStandardLayout": {
       "columnSpan": 18,
       "columnStart": 1,
       "margin": {
-        "top": 8
+        "bottom": 10,
+        "top": 20
       },
-      "minimumHeight": 8
-    },
-    "dividerThinLayout": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "maxViewportWidth": 700
-            }
-          ],
-          "margin": 15
-        }
-      ],
-      "margin": 20,
       "minimumHeight": 1
     },
     "dividerTocLayout": {
@@ -355,12 +1107,6 @@
     "fullBleedLayout": {
       "ignoreDocumentMargin": true
     },
-    "fullBleedNoTopMarginLayout": {
-      "ignoreDocumentMargin": true,
-      "margin": {
-        "bottom": 10
-      }
-    },
     "fullBleedPhotoLayout": {
       "conditional": [
         {
@@ -385,7 +1131,7 @@
       "columnSpan": 18,
       "columnStart": 1,
       "margin": {
-        "top": 20
+        "top": 10
       }
     },
     "heading3Layout": {
@@ -433,61 +1179,38 @@
     },
     "ingredientsLayout": {
       "margin": {
-        "bottom": 10
+        "bottom": 10,
+        "top": 10
       }
     },
     "introLayout": {
       "columnSpan": 18,
-      "columnStart": 1
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10
+      }
     },
     "noMarginLayout": {
       "columnSpan": 18,
       "columnStart": 1
     },
-    "openerLayout": {
-      "ignoreDocumentMargin": true,
-      "margin": 0,
-      "padding": {
-        "bottom": 20
-      }
-    },
-    "photoCreditLayout": {
-      "margin": {
-        "top": 5
-      }
-    },
-    "productImageStandardLayout": {
-      "minimumHeight": 280
-    },
-    "pullQuoteBlockContainerLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
-      "margin": {
-        "bottom": 0,
-        "top": 0
-      }
-    },
-    "pullQuoteBodyLayout": {
-      "margin": {
-        "bottom": 0,
-        "top": 5
-      }
-    },
     "pullQuoteLayout": {
       "columnSpan": 16,
       "columnStart": 2,
       "margin": {
-        "bottom": 20,
-        "top": 10
+        "bottom": 25,
+        "top": 15
       }
     },
-    "quoteImageLayout": {
-      "margin": 0,
-      "maximumContentWidth": 80
-    },
-    "sectionLayout": {
+    "reviewLayout": {
       "columnSpan": 18,
       "columnStart": 1,
+      "padding": {
+        "left": 85,
+        "top": 2
+      }
+    },
+    "sectionLayout": {
       "margin": {
         "top": 5
       }
@@ -499,40 +1222,45 @@
     },
     "sidebarDividerLayout": {
       "margin": {
-        "top": 8
+        "bottom": 10,
+        "top": 20
       },
-      "minimumHeight": 8
+      "minimumHeight": 1
     },
     "sidebarFloatContainerLayout": {
       "columnSpan": 4,
       "columnStart": 0
     },
     "sidebarHeading2Layout": {
-      "//": "UNUSED"
+      "margin": {
+        "top": 20
+      }
     },
     "sidebarHeading3Layout": {
       "margin": {
-        "top": 5
+        "top": 10
       }
     },
     "sidebarHeading4Layout": {
       "margin": {
+        "top": 10
+      }
+    },
+    "sidebarIntroLayout": {
+      "margin": {
+        "bottom": 10,
         "top": 5
       }
     },
     "sidebarLayout": {
       "columnSpan": 18,
       "columnStart": 1,
-      "margin": 15,
+      "margin": 20,
       "padding": {
         "bottom": 10,
-        "left": 30,
-        "right": 30,
-        "top": 20
+        "left": 20,
+        "right": 20
       }
-    },
-    "sidebarNoMarginLayout": {
-      "//": "UNUSED"
     },
     "sidebarSingleBlockContainerLayout": {
       "margin": {
@@ -560,6 +1288,10 @@
         "top": 2
       }
     },
+    "smallSpacerLayout": {
+      "maximumWidth": 5,
+      "minimumWidth": 5
+    },
     "spacerLayout": {
       "columnSpan": 18,
       "columnStart": 1,
@@ -568,19 +1300,54 @@
         "top": 20
       }
     },
+    "starsImageLayout": {
+      "margin": {
+        "top": 2
+      },
+      "maximumWidth": 100
+    },
     "straplineLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "titleLayout": {
       "columnSpan": 18,
       "columnStart": 1,
       "margin": {
         "top": 5
       }
     },
-    "titleLayout": {
-      "columnSpan": 18,
-      "columnStart": 1
-    },
     "topPhotoDividerLayout": {
       "//": "UNUSED"
+    },
+    "youSaidContainerLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 500
+            }
+          ],
+          "padding": {
+            "left": "20cw",
+            "right": "20cw"
+          }
+        }
+      ],
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "youSaidImageLayout": {
+      "horizontalContentAlignment": "center",
+      "margin": {
+        "bottom": 10
+      },
+      "maximumContentWidth": 110
     }
   },
   "componentStyles": {
@@ -598,6 +1365,14 @@
         "all": {
           "color": "#8d8d8d",
           "width": 2
+        }
+      }
+    },
+    "calloutStyle2": {
+      "border": {
+        "all": {
+          "color": "#feaa26",
+          "width": 4
         }
       }
     },
@@ -652,13 +1427,6 @@
     "dividerStandardStyle": {
       "backgroundColor": "#000"
     },
-    "dividerThinStyle": {
-      "backgroundColor": "#ccc",
-      "stroke": {
-        "color": "#ccc",
-        "width": 1
-      }
-    },
     "dividerTocStyle": {
       "//": "UNUSED"
     },
@@ -687,23 +1455,26 @@
             {
               "horizontalAlignment": "right",
               "padding": {
-                "right": 15
+                "right": 5
               },
               "selectors": [
                 {
                   "columnIndex": 0
                 }
               ],
-              "width": 15
+              "width": 10
             },
             {
               "horizontalAlignment": "left",
+              "padding": {
+                "left": 5
+              },
               "selectors": [
                 {
                   "columnIndex": 1
                 }
               ],
-              "width": 95
+              "width": 75
             }
           ],
           "textStyle": "ingredientsTextStyle",
@@ -725,7 +1496,7 @@
                   "columnIndex": 1
                 }
               ],
-              "width": 95
+              "width": 45
             }
           ]
         }
@@ -746,37 +1517,100 @@
     "pullQuoteStyle": {
       "//": "UNUSED"
     },
-    "sectionStyle": {
-      "//": "UNUSED"
-    },
-    "sidebarAltStyle": {
-      "backgroundColor": "#fbf0dd",
-      "border": {
-        "all": {
-          "color": "#242021",
-          "width": 8
-        }
-      },
+    "reviewFiveStarsStyle": {
       "conditional": [
         {
-          "backgroundColor": "#bfb6a6",
-          "border": {
-            "all": {
-              "color": "#e0e0e0",
-              "width": 8
-            }
-          },
           "conditions": [
             {
               "minSpecVersion": "1.14",
               "preferredColorScheme": "dark"
             }
-          ]
+          ],
+          "fill": {
+            "horizontalAlignment": "left",
+            "repeat": "none",
+            "type": "repeatable_image",
+            "URL": "https://public-assets.meredithcorp.io/ba3bbeb190fc45d4b5bb1d08c8fd2a5c/fiveDM.png",
+            "verticalAlignment": "top",
+            "width": 80
+          }
         }
-      ]
+      ],
+      "fill": {
+        "horizontalAlignment": "left",
+        "repeat": "none",
+        "type": "repeatable_image",
+        "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common022/86031-1-eng-GB/common022.jpg",
+        "verticalAlignment": "top",
+        "width": 80
+      }
     },
-    "sidebarDarkStyle": {
-      "backgroundColor": "#231f20"
+    "reviewFourHalfStarsStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "horizontalAlignment": "left",
+            "repeat": "none",
+            "type": "repeatable_image",
+            "URL": "https://public-assets.meredithcorp.io/8700c3d249629b59c38e0b147c58947c/fourDM.png",
+            "verticalAlignment": "top",
+            "width": 80
+          }
+        }
+      ],
+      "fill": {
+        "horizontalAlignment": "left",
+        "repeat": "none",
+        "type": "repeatable_image",
+        "URL": "https://cdn-assets.ziniopro.com/var/site_899/storage/images/media2/images/common0166/108858-1-eng-GB/common012.jpg?q=100",
+        "verticalAlignment": "top",
+        "width": 80
+      }
+    },
+    "reviewFourStarsStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "horizontalAlignment": "left",
+            "repeat": "none",
+            "type": "repeatable_image",
+            "URL": "https://public-assets.meredithcorp.io/8e401d3520fc3b0bec1ecdf6f118edf3/fourstarsDM.png",
+            "verticalAlignment": "top",
+            "width": 80
+          }
+        }
+      ],
+      "fill": {
+        "horizontalAlignment": "left",
+        "repeat": "none",
+        "type": "repeatable_image",
+        "URL": "https://public-assets.meredithcorp.io/4cadea6bc3bbdd6b0bdfab5abedfb66f/fourstars.jpg",
+        "verticalAlignment": "top",
+        "width": 80
+      }
+    },
+    "sectionStyle": {
+      "//": "UNUSED"
+    },
+    "sidebarNoBackgroundStyle": {
+      "border": {
+        "all": {
+          "color": "#f2f2f2",
+          "width": 2
+        }
+      }
     },
     "sidebarStyle": {
       "backgroundColor": "#f2f2f2",
@@ -798,6 +1632,13 @@
     "titleStyle": {
       "//": "UNUSED"
     },
+    "youSaidImageStyle": {
+      "backgroundColor": "#008080",
+      "mask": {
+        "radius": "60cw",
+        "type": "corners"
+      }
+    },
     "captionStyle": {
       "border": {
         "all": {
@@ -809,14 +1650,6 @@
         "right": false,
         "top": false
       }
-    },
-    "sidebarNoBackgroundStyle": {
-      "border": {
-        "all": {
-          "color": "#f2f2f2",
-          "width": 2
-        }
-      }
     }
   },
   "textStyles": {
@@ -827,26 +1660,8 @@
       "textTransform": "uppercase",
       "tracking": 0.1
     },
-    "default-tag-author": {
-      "fontName": "Avenir-Book",
-      "fontSize": 14,
-      "lineHeight": 16,
-      "textTransform": "uppercase"
-    },
-    "default-tag-avenirnext-b": {
-      "fontName": "AvenirNext-Bold"
-    },
-    "default-tag-avenirnext-bi": {
-      "fontName": "AvenirNext-BoldItalic"
-    },
-    "default-tag-avenirnext-di": {
-      "fontName": "AvenirNext-MediumItalic"
-    },
-    "default-tag-avenirnext-i": {
-      "fontName": "AvenirNext-Italic"
-    },
-    "default-tag-avenirnext-mi": {
-      "fontName": "AvenirNext-MediumItalic"
+    "default-tag-bold": {
+      "fontName": "GothamNarrow-Bold"
     },
     "default-tag-caption-heading": {
       "fontName": "AvenirNext-Bold",
@@ -854,14 +1669,20 @@
       "textTransform": "uppercase",
       "tracking": 0.05
     },
+    "default-tag-caption-i": {
+      "fontName": "Gotham-Book"
+    },
     "default-tag-emoji": {
       "fontName": "AppleColorEmoji"
     },
     "default-tag-lede": {
       "fontName": "AvenirNext-Bold"
     },
-    "default-tag-lit": {
-      "fontName": "Superclarendon-BoldItalic"
+    "default-tag-m": {
+      "fontName": "Gotham-Medium"
+    },
+    "default-tag-mi": {
+      "fontName": "Gotham-MediumItalic"
     },
     "default-tag-pullquote-attribution": {
       "fontName": "Georgia-Bold",
@@ -876,12 +1697,7 @@
       "tracking": 0.05
     },
     "default-tag-subsection": {
-      "fontName": "AvenirNext-Medium",
-      "textTransform": "lowercase",
-      "tracking": 0.05
-    },
-    "default-tag-sup-b": {
-      "fontName": "Superclarendon-Bold"
+      "fontName": "Gotham-Light"
     },
     "endMarkerTextStyle": {
       "//": "UNUSED"
@@ -905,13 +1721,6 @@
       "textTransform": "uppercase",
       "tracking": 0.1
     },
-    "authorCenteredTextStyle": {
-      "fontName": "Avenir-Book",
-      "fontSize": 14,
-      "lineHeight": 16,
-      "textAlignment": "center",
-      "textTransform": "uppercase"
-    },
     "authorTextStyle": {
       "fontName": "Georgia-Bold",
       "textAlignment": "center",
@@ -921,24 +1730,6 @@
     "bodyCenteredTextStyle": {
       "fontName": "Georgia",
       "textAlignment": "center"
-    },
-    "bodyDropCapAltTextStyle": {
-      "dropCapStyle": {
-        "fontName": "Avenir-Book",
-        "numberOfCharacters": 1,
-        "numberOfLines": 4,
-        "numberOfRaisedLines": 0
-      },
-      "fontName": "AvenirNext-Regular"
-    },
-    "bodyDropCapQuestionTextStyle": {
-      "dropCapStyle": {
-        "fontName": "HoeflerText-Black",
-        "numberOfCharacters": 1,
-        "numberOfLines": 2,
-        "numberOfRaisedLines": 0
-      },
-      "fontName": "AvenirNext-Bold"
     },
     "bodyDropCapTextStyle": {
       "dropCapStyle": {
@@ -952,24 +1743,11 @@
     "bodyTextStyle": {
       "fontName": "Georgia"
     },
-    "calloutBodyCenteredTextStyle": {
-      "fontName": "AvenirNext-Medium",
-      "fontSize": 15,
-      "lineHeight": 17,
-      "textAlignment": "center"
-    },
     "calloutBodyTextStyle": {
       "fontName": "Georgia-Italic",
       "fontSize": 22,
       "lineHeight": 28,
       "textAlignment": "center"
-    },
-    "calloutHeadingCenteredTextStyle": {
-      "fontName": "HoeflerText-Black",
-      "fontSize": 42,
-      "lineHeight": 42,
-      "textAlignment": "center",
-      "textTransform": "lowercase"
     },
     "calloutHeadingTextStyle": {
       "fontName": "AvenirNext-Bold",
@@ -983,19 +1761,11 @@
       "//": "UNUSED"
     },
     "captionCenteredTextStyle": {
-      "fontName": "Avenir-Book",
       "textAlignment": "center"
-    },
-    "captionDarkTextStyle": {
-      "fontName": "Avenir-Book",
-      "textColor": "#fff"
     },
     "captionEmbeddedTextStyle": {
       "fontName": "HelveticaNeue-Bold",
       "lineHeight": 16
-    },
-    "captionLeftTextStyle": {
-      "fontName": "Avenir-BookOblique"
     },
     "captionTextStyle": {
       "fontName": "AvenirNext-Medium",
@@ -1098,7 +1868,10 @@
       "tracking": -0.01
     },
     "heading5CenteredTextStyle": {
-      "textAlignment": "center"
+      "fontName": "Gotham-Bold",
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.02
     },
     "heading5TextStyle": {
       "fontName": "Georgia-BoldItalic"
@@ -1111,67 +1884,47 @@
       "tracking": 0.05
     },
     "ingredientsTextStyle": {
-      "fontName": "AvenirNext-DemiBold",
-      "fontSize": 16,
-      "lineHeight": 17
-    },
-    "introAltCenteredTextStyle": {
-      "fontName": "Avenir-Book",
-      "lineHeight": 20,
-      "textAlignment": "center"
-    },
-    "introAltTextStyle": {
-      "fontName": "Avenir-Book",
-      "lineHeight": 20
-    },
-    "introCenteredTextStyle": {
-      "fontName": "AvenirNext-Regular",
-      "lineHeight": 20,
-      "textAlignment": "center"
+      "fontName": "GothamNarrow-Book",
+      "lineHeight": 24
     },
     "introTextStyle": {
       "fontName": "Georgia-Italic",
       "textAlignment": "center"
     },
-    "johnsCocktailTextStyle": {
-      "backgroundColor": "#221E1F",
-      "fontName": "AvenirNext-Bold",
-      "fontSize": 14,
-      "lineHeight": 18,
-      "textColor": "#fff",
-      "textTransform": "uppercase"
-    },
-    "photoCreditTextStyle": {
-      "fontName": "AvenirNext-Regular",
-      "fontSize": 10,
-      "lineHeight": 12,
-      "textAlignment": "right",
-      "textColor": "#808284",
-      "textTransform": "uppercase",
-      "tracking": 0.05
-    },
     "pullQuoteTextStyle": {
       "fontName": "Georgia",
       "textAlignment": "center"
     },
-    "recipeBodyTextStyle": {
-      "fontName": "Georgia"
-    },
     "recipeDetailsTextStyle": {
-      "fontName": "Avenir-Light",
-      "fontSize": 13,
-      "lineHeight": 15,
-      "textTransform": "uppercase"
+      "fontName": "GothamNarrow-Book",
+      "fontSize": 14,
+      "lineHeight": 16,
+      "linkStyle": {
+        "fontName": "GothamNarrow-Bold",
+        "textColor": "#000",
+        "underline": true
+      }
     },
-    "recipeIntroTextStyle": {
-      "fontName": "AvenirNext-DemiBoldItalic",
+    "reviewsTextStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "textColor": "#fff"
+        }
+      ],
+      "fontName": "GothamNarrow-Black",
+      "textColor": "#000"
+    },
+    "savedTextStyle": {
+      "fontName": "GothamNarrow-Book",
       "fontSize": 16,
-      "lineHeight": 17
-    },
-    "recipeTitleTextStyle": {
-      "fontName": "HoeflerText-Black",
-      "fontSize": 36,
-      "lineHeight": 36
+      "lineHeight": 18,
+      "textTransform": "uppercase"
     },
     "sectionTextStyle": {
       "fontName": "AvenirNext-Regular",
@@ -1180,43 +1933,16 @@
       "textTransform": "uppercase",
       "tracking": 0.05
     },
-    "sidebarAuthorTextStyle": {
-      "fontName": "Avenir-Book",
-      "fontSize": 13,
-      "lineHeight": 16,
-      "textTransform": "uppercase"
-    },
-    "sidebarBodyCenteredTextStyle": {
-      "fontName": "AvenirNext-Medium",
-      "fontSize": 18,
-      "lineHeight": 26,
-      "textAlignment": "center",
-      "tracking": 0.02
-    },
     "sidebarBodyTextStyle": {
       "fontName": "AvenirNext-Medium",
       "fontSize": 18,
       "lineHeight": 26,
       "tracking": 0.02
     },
-    "sidebarHeading2CenteredTextStyle": {
-      "fontName": "Georgia-Bold",
-      "fontSize": 45,
-      "lineHeight": 50,
-      "textAlignment": "center"
-    },
     "sidebarHeading2TextStyle": {
       "fontName": "Georgia-Bold",
       "fontSize": 45,
       "lineHeight": 50
-    },
-    "sidebarHeading3CenteredTextStyle": {
-      "fontName": "AvenirNext-Bold",
-      "fontSize": 24,
-      "lineHeight": 28,
-      "textAlignment": "center",
-      "textTransform": "uppercase",
-      "tracking": -0.05
     },
     "sidebarHeading3TextStyle": {
       "fontName": "AvenirNext-Bold",
@@ -1231,42 +1957,16 @@
       "lineHeight": 28,
       "tracking": -0.01
     },
-    "sidebarIntroCenteredTextStyle": {
-      "fontName": "AvenirNext-DemiBold",
-      "fontSize": 13,
-      "lineHeight": 15,
-      "textAlignment": "center"
-    },
     "sidebarIntroTextStyle": {
       "fontName": "Georgia-Italic",
       "fontSize": 20,
       "lineHeight": 26
-    },
-    "straplineAltTextStyle": {
-      "fontName": "Futura-Bold",
-      "fontSize": 14,
-      "lineHeight": 12,
-      "textTransform": "uppercase",
-      "tracking": -0.01
     },
     "straplineTextStyle": {
       "fontName": "AvenirNext-Bold",
       "textAlignment": "center",
       "textTransform": "uppercase",
       "tracking": 0.15
-    },
-    "titleAltTextStyle": {
-      "fontName": "HoeflerText-Black",
-      "fontSize": 58,
-      "lineHeight": 58,
-      "textTransform": "lowercase"
-    },
-    "titleCenteredTextStyle": {
-      "fontName": "HoeflerText-Black",
-      "fontSize": 58,
-      "lineHeight": 58,
-      "textAlignment": "center",
-      "textTransform": "lowercase"
     },
     "titleTextStyle": {
       "fontName": "AvenirNext-Bold",
@@ -1281,9 +1981,36 @@
       "textAlignment": "center",
       "textColor": "#000"
     },
+    "youSaidQuoteTextStyle": {
+      "fontName": "GothamCondensed-LightItalic",
+      "fontSize": 22,
+      "lineHeight": 24,
+      "textAlignment": "center"
+    },
     "listTextStyle": {
       "fontSize": 17,
       "lineHeight": 21
+    },
+    "sidebarBodyCenteredTextStyle": {
+      "fontName": "AvenirNext-Medium",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "textAlignment": "center",
+      "tracking": 0.02
+    },
+    "sidebarHeading2CenteredTextStyle": {
+      "fontName": "Georgia-Bold",
+      "fontSize": 45,
+      "lineHeight": 50,
+      "textAlignment": "center"
+    },
+    "sidebarHeading3CenteredTextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "fontSize": 24,
+      "lineHeight": 28,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": -0.05
     },
     "sidebarHeadingCentered4TextStyle": {
       "fontName": "AvenirNext-Bold",

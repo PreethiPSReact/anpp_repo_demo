@@ -91,7 +91,14 @@
           "layout": "introLayout",
           "textStyle": "introTextStyle",
           "format": "html",
-          "text": "Meet the Hawai‘i native solving two problems at once by turning an invasive species into a vital food source for her community. <author>By Andrew Cotto</author>"
+          "text": "Meet the Hawai‘i native solving two problems at once by turning an invasive species into a vital food source for her community."
+        },
+        {
+          "role": "author",
+          "layout": "authorLayout",
+          "textStyle": "authorTextStyle",
+          "format": "html",
+          "text": "By Andrew Cotto"
         },
         {
           "//": "======== HERO IMAGE CONTAINER =======",
@@ -133,112 +140,64 @@
               "text": "Ku‘ulani Muise was raised on the Hawaiian island of Moloka‘i, as part of a hunting family. When the invasive, rapidly multiplying axis deer population began to threaten the state’s island ecosystems, she wanted to find a responsible solution. In 2020, she founded Maui Nui with her husband, Jake, to help restore balance on Maui with a field-to-table operation that harvests venison for local consumption. They now provide meat to local food banks and upscale restaurants, combating overpopulation in the deer community and providing food to the human one. We talked to Muise about her creative, life-changing idea."
             },
             {
-              "role": "heading4",
-              "layout": "heading4Layout",
-              "style": "heading4Style",
-              "textStyle": "heading4TextStyle",
-              "format": "html",
-              "text": "Growing up in Hawai‘i, what was your relationship to the land and to axis deer?"
-            },
-            {
               "role": "body",
-              "layout": "bodyNoMarginAboveLayout",
+              "layout": "bodyLayout",
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "On our island of Moloka‘i, in a family of subsistence hunters, venison was always on the table. I grew up with a reverence for this animal and the food it provided my community. It wasn’t until my early 20s, with both my brother and sister-in-law working in conservation, that I began to recognize the huge adverse impacts the deer have on our local food and ecosystems."
-            },
-            {
-              "role": "container",
-              "layout": "pullQuoteLayout",
-              "components": [
-                {
-                  "role": "image",
-                  "layout": "quoteImageLayout",
-                  "conditional": [
-                    {
-                      "conditions": [
-                        {
-                          "minSpecVersion": "1.14",
-                          "preferredColorScheme": "dark"
-                        }
-                      ],
-                      "hidden": true
-                    }
-                  ],
-                  "hidden": false,
-                  "URL": "https://public-assets.meredithcorp.io/c4fd7116053a3c31d58dedd8356f410d/rrquote-removebg-preview.png"
-                },
-                {
-                  "role": "image",
-                  "layout": "quoteImageLayout",
-                  "conditional": [
-                    {
-                      "conditions": [
-                        {
-                          "minSpecVersion": "1.14",
-                          "preferredColorScheme": "dark"
-                        }
-                      ],
-                      "hidden": false
-                    }
-                  ],
-                  "hidden": true,
-                  "URL": "https://public-assets.meredithcorp.io/30a721b13ef786fdc8084158e4732413/rrLMquote.png"
-                },
-                {
-                  "role": "pullquote",
-                  "layout": "pullQuoteBodyLayout",
-                  "style": "pullQuoteStyle",
-                  "textStyle": "pullQuoteTextStyle",
-                  "format": "html",
-                  "text": "“For people of islands, balance is central to our shared health. Living and working on these isolated landmasses, we’re surrounded by ecosystems as breathtakingly beautiful as they are vulnerable.”<br><pullquote-attribution>— ku‘ulani muise</pullquote-attribution>"
-                }
-              ]
-            },
-            {
-              "role": "heading4",
-              "layout": "heading4Layout",
-              "style": "heading4Style",
-              "textStyle": "heading4TextStyle",
-              "format": "html",
-              "text": "Like what?"
+              "text": "<avenirnext-b>Growing up in Hawai‘i, what was your relationship to the land and to axis deer?</avenirnext-b>"
             },
             {
               "role": "body",
-              "layout": "bodyNoMarginAboveLayout",
+              "layout": "bodyLayout",
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "Just eight of this species of deer were introduced in 1868 to the island of Moloka‘i by King Kamehameha V. Today, there are over 100,000. While it might seem like a thriving deer presence in Hawai‘i could be a good thing, these population booms are occurring on islands with very finite resources."
-            },
-            {
-              "role": "heading4",
-              "layout": "heading4Layout",
-              "style": "heading4Style",
-              "textStyle": "heading4TextStyle",
-              "format": "html",
-              "text": "Why is balancing this deer population so important?"
+              "text": "On our island of Moloka‘i, ina family of subsistence hunters, venison was always on the table. I grew up with a reverence for this animal and the food it provided my community. It wasn’t until my early 20s, with both my brother and sister-in-law working in conservation, that I began to recognize the huge adverse impacts the deer have on our local food and ecosystems."
             },
             {
               "role": "body",
-              "layout": "bodyNoMarginAboveLayout",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<avenirnext-b>Like what?</avenirnext-b>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "Just eight of this species of deer were introduced in 1868 to the island of Moloka‘i by King Kamehameha V. Today, thereare over 100,000. While it might seem like a thriving deer presence in Hawai‘i could be a goodthing, these population boomsare occurring on islandswith very finite resources."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<avenirnext-b>Why is balancing this deer population so important?</avenirnext-b>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
               "text": "For people of islands, balance is central to our shared health. Living and working on these isolated landmasses, we’re surrounded by ecosystems as breathtakingly beautiful as they are vulnerable. We have endangered species and also the world’s highest rates of endemism—species that don’t exist anywhere else. With their foraging, axis deer put pressure not only on our few remaining intact native ecosystems, but also on our local food system, because they can clear six-foot fences to eat whatever farmers are growing. Jake and I were living on Hawai‘i (the Big Island) when we were contacted by Maui ranchers to help find a management solution for deer there. For us, the vision of balanced populations of axis deer on Maui can take on many different forms: It can be a farmer who’s able to bring in a successful harvest unaffected by grazing deer, ranchers able to rotate their cattle into healthy pasture, a safe roadway at night, or a widening stretch of koa forest. Balance requires an awareness of the interconnectivity of all life across a landscape."
             },
             {
-              "role": "heading4",
-              "layout": "heading4Layout",
-              "style": "heading4Style",
-              "textStyle": "heading4TextStyle",
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "What makes your harvesting process so unique?"
+              "text": "<avenirnext-b>What makes your harvesting process so unique?</avenirnext-b>"
             },
             {
               "role": "body",
-              "layout": "bodyNoMarginAboveLayout",
+              "layout": "bodyLayout",
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
@@ -253,69 +212,102 @@
                   "//": "======== IMAGE BLEED - H998.0/W1367.0 * 100 = 73.0065838 ========",
                   "role": "photo",
                   "layout": "fullBleedPhotoLayout",
+                  "caption": {
+                    "format": "html",
+                    "text": "<span data-anf-textstyle='creditTextStyle'>from left: Photographs by Mel Tjoeng (2)</span>",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
                   "URL": "https://cdn-assets.ziniopro.com/var/site_10206/storage/images/media2/images/photoshopex_033/15827-1-eng-US/photoshopex_0332.jpg?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<span data-anf-textstyle=\"creditTextStyle\">from left: Photographs by Mel Tjoeng (2)</span>",
+                  "style": "captionStyle"
                 }
               ]
             },
             {
-              "role": "heading4",
-              "layout": "heading4Layout",
-              "style": "heading4Style",
-              "textStyle": "heading4TextStyle",
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "What happens to the venison?"
+              "text": "<avenirnext-b>What happens to the venison?</avenirnext-b>"
             },
             {
               "role": "body",
-              "layout": "bodyNoMarginAboveLayout",
+              "layout": "bodyLayout",
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
               "text": "Last year, we were able to donate 30 percent of the total pounds harvested to local food banks and feeding groups through our Holo ‘Ai Program, which meant 100,000 meals to food-insecure areas of our community. Then roughly 15 percent was sold in-state, another 15 percent went to our restaurant partners, and the remaining portion went to our direct-to-consumer customers locally and across the continent. We sell butcher boxes and individual cuts, jerky, bone broth, and dog treats."
             },
             {
-              "role": "heading4",
-              "layout": "heading4Layout",
-              "style": "heading4Style",
-              "textStyle": "heading4TextStyle",
-              "format": "html",
-              "text": "Are all of your clients in Hawai‘i?"
+              "//": "====== RACHAEL RAY - PULLQUOTE ======",
+              "role": "container",
+              "layout": "pullQuoteBodyLayout",
+              "components": [
+                {
+                  "role": "image",
+                  "layout": "quoteImageLayout",
+                  "URL": "https://public-assets.meredithcorp.io/2d87b97aa8c57a2841720505ecd5157e/rrquote.jpg"
+                },
+                {
+                  "role": "pullquote",
+                  "layout": "pullQuoteLayout",
+                  "style": "pullQuoteStyle",
+                  "textStyle": "pullQuoteTextStyle",
+                  "format": "html",
+                  "text": "“For people of islands, balance is central to our shared health. Living and working on these isolated landmasses, we’re surrounded by ecosystems as breathtakingly beautiful as they are vulnerable.”<br><pullquote-attribution><pullquote-name>—ku‘ulani muise</pullquote-name></pullquote-attribution>"
+                }
+              ]
             },
             {
               "role": "body",
-              "layout": "bodyNoMarginAboveLayout",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "<avenirnext-b>Are all of your clients in Hawai‘i?</avenirnext-b>"
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
               "text": "Great local eateries like Mama’s Fish House, La Vie, and ‘Ulupalakua Grill have served our venison over the years, and we’ve also been really honored to work with upscale dining spots like Alinea in Chicago and Saison and the French Laundry in California."
             },
             {
-              "role": "heading4",
-              "layout": "heading4Layout",
-              "style": "heading4Style",
-              "textStyle": "heading4TextStyle",
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "What do you tell people who have never eaten venison?"
+              "text": "<avenirnext-b>What do you tell people who have never eaten venison?</avenirnext-b>"
             },
             {
               "role": "body",
-              "layout": "bodyNoMarginAboveLayout",
+              "layout": "bodyLayout",
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
               "text": "Axis deer venison is far and away the most mild and clean-tasting of all the deer species. For people who are curious to try, we sell cuts à la carte, without the commitment of a subscription. I’d suggest ground meat and leg medallions. I love pan-seared rib chops in butter and herbs, served up with rice and koele palau (sweet potato mash)."
             },
             {
-              "role": "heading4",
-              "layout": "heading4Layout",
-              "style": "heading4Style",
-              "textStyle": "heading4TextStyle",
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "What’s your typical day like?"
+              "text": "<avenirnext-b>What’s your typical day like?</avenirnext-b>"
             },
             {
               "role": "body",
-              "layout": "bodyNoMarginAboveLayout",
+              "layout": "bodyLayout",
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
@@ -327,95 +319,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<avenirnext-i>For information, visit <a href=\"https://mauinuivenison.com/\">mauinuivenison.com</a>.</avenirnext-i>"
-            },
-            {
-              "//": "======== SIDEBAR ========",
-              "role": "container",
-              "layout": "sidebarLayout",
-              "style": "sidebarStyle",
-              "components": [
-                {
-                  "role": "container",
-                  "layout": "bodyContainerLayout",
-                  "style": "bodyContainerStyle",
-                  "components": [
-                    {
-                      "role": "heading4",
-                      "layout": "sidebarHeading2Layout",
-                      "textStyle": "sidebarHeading3TextStyle",
-                      "format": "html",
-                      "text": "FEED IT FORWARD"
-                    },
-                    {
-                      "role": "heading2",
-                      "layout": "sidebarNoMarginLayout",
-                      "style": "heading2Style",
-                      "textStyle": "sidebarHeading2TextStyle",
-                      "format": "html",
-                      "text": "Food-Rescuing Apps"
-                    },
-                    {
-                      "role": "body",
-                      "layout": "sidebarBodyLayout",
-                      "style": "paragraphStyle",
-                      "textStyle": "sidebarAuthorTextStyle",
-                      "format": "html",
-                      "text": "By SARAH Z. WEXLER"
-                    },
-                    {
-                      "//": "======== SINGLE BLOCK CONTAINER =======",
-                      "role": "container",
-                      "layout": "sidebarSingleBlockContainerLayout",
-                      "components": [
-                        {
-                          "role": "image",
-                          "URL": "https://cdn-assets.ziniopro.com/var/site_10206/storage/images/media2/images/harvestcopy_034/15865-1-eng-US/harvestcopy_0342.jpg?q=100"
-                        }
-                      ]
-                    },
-                    {
-                      "role": "body",
-                      "layout": "sidebarBodyLayout",
-                      "style": "paragraphStyle",
-                      "textStyle": "bodyDropCapQuestionTextStyle",
-                      "format": "html",
-                      "text": "Every day in the United States, 37 million people experience food insecurity, yet 40 percent of food goes to waste. A few innovative organizations are connecting those in need and those with extra to share."
-                    },
-                    {
-                      "role": "body",
-                      "layout": "sidebarBodyLayout",
-                      "style": "paragraphStyle",
-                      "textStyle": "sidebarBodyTextStyle",
-                      "format": "html",
-                      "text": "<b>Hungry Harvest</b> Launched by founder Evan Lutz from his dorm room at the University of Maryland, Hungry Harvest works with farmers to salvage fruits and veggies that would be thrown away or left in the fields to rot because they’re not cute enough for the grocery aisle, or simply due to grower surplus. Subscribers get boxes of “rescued produce” delivered to their home, and the company donates reduced-cost boxes to people who use SNAP. To date, it has rescued 29 million pounds of food and provided 1.7 million pounds of produce to people in need. <a href=\"https://hungryharvest.net/\">hungryharvest.net</a>"
-                    },
-                    {
-                      "role": "body",
-                      "layout": "sidebarBodyLayout",
-                      "style": "paragraphStyle",
-                      "textStyle": "sidebarBodyTextStyle",
-                      "format": "html",
-                      "text": "<b>Too Good to Go</b> For folks who love eating out, this app—downloaded by 37 million people—connects you to extra food from local restaurants, bakeries, and cafes at the end of each business day. Browse locations near you (unique spots, plus chains like Le Pain Quotidien, Just Salad, and Dunkin’ Donuts) and then buy a “Surprise Bag.” Contents vary—pizza slices, sushi rolls, an assortment of pastries. Too Good to Go, which supports local hunger-relief organizations in the communities where it operates, has saved 72 million meals in 15 countries, for 250 million pounds of food—no telling how many doughnut holes. <a href=\"https://toogoodtogo.com/en-us\">toogoodtogo.com</a>"
-                    },
-                    {
-                      "role": "body",
-                      "layout": "sidebarBodyLayout",
-                      "style": "paragraphStyle",
-                      "textStyle": "sidebarBodyTextStyle",
-                      "format": "html",
-                      "text": "<b>ChowMatch</b> Because Tod Hing’s family owned a grocery store when he was growing up, he saw firsthand how much unsold food can go to waste. When his wife, Maria Yap, founded a food recovery nonprofit, she was frustrated by how hard it was to rescue food, giving him the idea for ChowMatch. It matches restaurants, grocery stores, caterers, and farms that have surplus food with organizations that can use it right away—such as homeless shelters, churches, schools, and affordable housing programs. Once a match is made, volunteers pick up and deliver the food to the recipient organization within an hour, for free. Right now the app is running in 700 locations across the U.S., and it’s making a big impact: In Los Angeles alone, one such group, FoodCycle LA, might serve 60,000 meals a week from food it gets through the program. <a href=\"http://chowmatch.com\">chowmatch.com</a>"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "role": "body",
-              "layout": "attributeLayout",
-              "textStyle": "attributeTextStyle",
-              "format": "html",
-              "text": "PHOTOGRAPHS BY MEL TJOENG (2); COURTESY OF HUNGRY HARVEST"
+              "text": "<avenirnext-i>For information, visit <a href=\"http://mauinuivenison.com\">mauinuivenison.com</a>.</avenirnext-i>"
             }
           ]
         },
@@ -445,7 +349,7 @@
               "layout": "bodyLayout",
               "textStyle": "tocTextStyle",
               "format": "html",
-              "text": "<a href='https://apple.news/A0uhqsbzxEey1xbryT0AkAA'>Tap here</a> to see more from this issue of <i>Rachael Ray Every Day</i>"
+              "text": "<a href='http://ISSUE-TOC-LINK.com'>Tap here</a> to see more from this issue of <i>Rachael Ray Every Day</i>"
             }
           ]
         }
@@ -1213,7 +1117,7 @@
         "numberOfLines": 2,
         "numberOfRaisedLines": 0
       },
-      "fontName": "AvenirNext-Regular"
+      "fontName": "AvenirNext-Bold"
     },
     "bodyDropCapTextStyle": {
       "dropCapStyle": {

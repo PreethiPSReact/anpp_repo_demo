@@ -1,7 +1,7 @@
 {
   "version": "1.9",
-  "identifier": "rrmag_article_10206-11-5-1",
-  "title": "Rachael Ray In Season",
+  "identifier": "rrmag_article_10206-11-11-1",
+  "title": "FOOD-RESCUING APPS",
   "language": "en",
   "layout": {
     "columns": 20,
@@ -10,11 +10,15 @@
     "width": 1024
   },
   "metadata": {
-    "dateCreated": "2022-05-06T18:51:23.571Z",
-    "dateModified": "2022-04-29T17:18:07+00:00",
-    "excerpt": "FOUNDER & EDITORIAL DIRECTOR RACHAEL RAY",
+    "authors": [
+      "By –Sarah Z. Wexler"
+    ],
+    "dateCreated": "2022-05-06T18:51:29.410Z",
+    "dateModified": "2022-05-05T15:29:13+00:00",
+    "excerpt": "Every day in the United States, 37 million people experience food insecurity, yet 40 percent of food goes to waste. A few innovative organizations are connecting those in need and those with extra to share.",
     "generatorName": "ANTE Generic Template",
-    "generatorVersion": "0.0.4.32-2022-04-15 19:20"
+    "generatorVersion": "0.0.4.32-2022-04-15 19:20",
+    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_10206/storage/images/media2/images/harvestcopy_034/15865-1-eng-US/harvestcopy_0342.jpg?q=100"
   },
   "documentStyle": {
     "backgroundColor": "#eee"
@@ -41,7 +45,7 @@
           "layout": "sectionLayout",
           "textStyle": "sectionTextStyle",
           "format": "html",
-          "text": "Masthead"
+          "text": "The Dish"
         },
         {
           "role": "divider",
@@ -52,12 +56,54 @@
           }
         },
         {
+          "//": "==== DEFAULT HEADER: STRAPLINE/CATEGORY ===",
+          "role": "heading",
+          "layout": "straplineLayout",
+          "style": "straplineStyle",
+          "textStyle": "straplineTextStyle",
+          "format": "html",
+          "text": "FEED IT FORWARD"
+        },
+        {
           "//": "==== DEFAULT HEADER: TITLE ===",
           "role": "title",
           "layout": "titleLayout",
           "textStyle": "titleTextStyle",
           "format": "html",
-          "text": "Rachael Ray In Season"
+          "text": "Food-Rescuing Apps"
+        },
+        {
+          "role": "author",
+          "layout": "authorLayout",
+          "textStyle": "authorTextStyle",
+          "format": "html",
+          "text": "By –Sarah Z. Wexler"
+        },
+        {
+          "//": "======== HERO IMAGE CONTAINER =======",
+          "role": "container",
+          "layout": "heroImageLayout",
+          "components": [
+            {
+              "//": "======== HERO IMAGE - H971.0/W1040.0 * 100 = 93.3653846 ========",
+              "role": "photo",
+              "layout": "fullBleedPhotoLayout",
+              "caption": {
+                "format": "html",
+                "text": "<span data-anf-textstyle='creditTextStyle'>courtesy of hungry harvest.</span>",
+                "textStyle": "captionEmbeddedTextStyle"
+              },
+              "URL": "https://cdn-assets.ziniopro.com/var/site_10206/storage/images/media2/images/harvestcopy_034/15865-1-eng-US/harvestcopy_0342.jpg?q=100"
+            },
+            {
+              "role": "caption",
+              "layout": "captionLayout",
+              "textStyle": "captionTextStyle",
+              "format": "html",
+              "text": "<span data-anf-textstyle=\"creditTextStyle\">courtesy of hungry harvest.</span>",
+              "style": "captionStyle"
+            }
+          ]
         },
         {
           "//": "======== BODY CONTAINER =======",
@@ -70,7 +116,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "FOUNDER &amp; EDITORIAL DIRECTOR <avenirnext-b>RACHAEL RAY</avenirnext-b>"
+              "text": "Every day in the United States, 37 million people experience food insecurity, yet 40 percent of food goes to waste. A few innovative organizations are connecting those in need and those with extra to share."
             },
             {
               "role": "body",
@@ -78,7 +124,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "EDITOR IN CHIEF/CONTENT DIRECTOR <avenirnext-b>LAUREN IANNOTTI</avenirnext-b> • CREATIVE DIRECTOR <avenirnext-b>PHOEBE FLYNN RICH</avenirnext-b>"
+              "text": "<avenirnext-b>Hungry Harvest</avenirnext-b> Launched by founder Evan Lutz from his dorm room at the University of Maryland, Hungry Harvest works with farmers to salvage fruits and veggies that would be thrown away or left in the fields to rot because they’re not cute enough for the grocery aisle, or simply due to grower surplus. Subscribers get boxes of “rescued produce” delivered to their home, and the company donates reduced-cost boxes to people who use SNAP. To date, it has rescued 29 million pounds of food and provided 1.7 million pounds of produce to people in need. <a href=\"http://hungryharvest.net\">hungryharvest.net</a>"
             },
             {
               "role": "body",
@@ -86,7 +132,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "EXECUTIVE MANAGING EDITOR <avenirnext-b>TARA COX</avenirnext-b> • PHOTO DIRECTOR <avenirnext-b>REBECCA KIMMONS</avenirnext-b>"
+              "text": "<avenirnext-b>Too Good to Go</avenirnext-b> For folks who love eating out, this app—downloaded by 37 million people—connects you to extra food from local restaurants, bakeries, and cafes at the end of each business day. Browse locations near you (unique spots, plus chains like Le Pain Quotidien, Just Salad, and Dunkin’ Donuts) and then buy a “Surprise Bag.” Contents vary—pizza slices, sushi rolls, an assortment of pastries. Too Good to Go, which supports local hunger-relief organizations in the communities where it operates, has saved 72 million meals in 15 countries, for 250 million pounds of food—no telling how many doughnut holes. <a href=\"http://toogoodtogo.com\">toogoodtogo.com</a>"
             },
             {
               "role": "body",
@@ -94,306 +140,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "FOOD DIRECTOR <avenirnext-b>MELISSA KNIFIC</avenirnext-b> • HOME EDITOR <avenirnext-b>HANNAH BAKER</avenirnext-b>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "EDITORIAL BUSINESS COORDINATOR <avenirnext-b>CHRISTIANA BREBNOR</avenirnext-b> • EDITORIAL ASSISTANT <avenirnext-b>CLAIRE BRITO</avenirnext-b>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "PUBLIC RELATIONS COORDINATOR <avenirnext-b>KATIE HOLZMAN</avenirnext-b>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "DIRECTOR OF COMMUNICATIONS, RACHAEL RAY <avenirnext-b>MICHELLE BOXER</avenirnext-b>"
-            },
-            {
-              "role": "heading2",
-              "layout": "heading2Layout",
-              "textStyle": "heading2TextStyle",
-              "format": "html",
-              "text": "Contributors",
-              "style": "heading2Style"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "PETS <avenirnext-b>COURTNEY CAMPBELL, DVM, DACVS-SA</avenirnext-b>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "SPIRITS <avenirnext-b>JOHN CUSIMANO</avenirnext-b> • ENTERTAINING <avenirnext-b>MARY GIULIANI</avenirnext-b> • WINE <avenirnext-b>RITA JAMMET</avenirnext-b>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "HEALTH <avenirnext-b>WILLIAM LI, MD</avenirnext-b> • HOME <avenirnext-b>MICHAEL MURRAY</avenirnext-b>"
-            },
-            {
-              "role": "heading2",
-              "layout": "heading2Layout",
-              "textStyle": "heading2TextStyle",
-              "format": "html",
-              "text": "Sales &amp; Marketing",
-              "style": "heading2Style"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "SENIOR VICE PRESIDENT, GROUP PUBLISHER <avenirnext-b>MARK JOSEPHSON</avenirnext-b> • PUBLISHER <avenirnext-b>TIFFANY EHASZ</avenirnext-b>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "MARKETING DIRECTOR <avenirnext-b>CHRISTINE O’CONNOR</avenirnext-b>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "GROUP DESIGN DIRECTOR <avenirnext-b>EILEEN KOEHLER</avenirnext-b>"
-            },
-            {
-              "role": "heading2",
-              "layout": "heading2Layout",
-              "textStyle": "heading2TextStyle",
-              "format": "html",
-              "text": "Meredith Premium Publishing",
-              "style": "heading2Style"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "SENIOR VICE PRESIDENT &amp; GROUP PUBLISHER <avenirnext-b>SCOTT MORTIMER</avenirnext-b> • VICE PRESIDENT, GROUP EDITORIAL DIRECTOR <avenirnext-b>STEPHEN ORR</avenirnext-b>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "VICE PRESIDENT, MARKETING <avenirnext-b>JEREMY BILOON</avenirnext-b> • DIRECTOR, BRAND MARKETING <avenirnext-b>JEAN KENNEDY</avenirnext-b>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "ASSOCIATE DIRECTOR, BRAND MARKETING <avenirnext-b>BRYAN CHRISTIAN</avenirnext-b> • SENIOR BRAND MANAGER <avenirnext-b>KATHERINE BARNET</avenirnext-b>"
-            },
-            {
-              "role": "heading2",
-              "layout": "heading2Layout",
-              "textStyle": "heading2TextStyle",
-              "format": "html",
-              "text": "Editorial Administration",
-              "style": "heading2Style"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "BUSINESS MANAGER, EDITORIAL <avenirnext-b>CINDY SLOBASZEWSKI</avenirnext-b>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "VICE PRESIDENT, PREMEDIA &amp; DIGITAL ASSET MANAGEMENT SERVICES <avenirnext-b>AMY TINCHER-DURIK</avenirnext-b>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "DIRECTOR, QUALITY <avenirnext-b>JOSEPH KOHLER</avenirnext-b>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "DIRECTOR, MEREDITH FOOD STUDIOS <avenirnext-b>ALLISON LOWERY</avenirnext-b> • DIRECTOR, MEREDITH TEST KITCHEN <avenirnext-b>LYNN BLANCHARD</avenirnext-b>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "DIRECTOR, MEREDITH PHOTO STUDIO <avenirnext-b>REESE STRICKLAND</avenirnext-b> • PHOTO STUDIO SET CONSTRUCTION MANAGER <avenirnext-b>DAVE DECARLO</avenirnext-b>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "STUDIOS COORDINATOR <avenirnext-b>TERRI CHARTER</avenirnext-b> • PREMEDIA TRAFFICKING SUPERVISOR <avenirnext-b>PATRICIA J. SAVAGE</avenirnext-b>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "COLOR QUALITY ANALYST <avenirnext-b>PAMELA POWERS</avenirnext-b> • ASSISTANT DIRECTOR, PREMEDIA IMAGING <avenirnext-b>MICHAEL STURTZ</avenirnext-b>"
-            },
-            {
-              "role": "heading2",
-              "layout": "heading2Layout",
-              "textStyle": "heading2TextStyle",
-              "format": "html",
-              "text": "Financial Administration",
-              "style": "heading2Style"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "BUSINESS DIRECTOR <avenirnext-b>JENNA BATES</avenirnext-b> • SENIOR BUSINESS MANAGER <avenirnext-b>LISA CARLSON</avenirnext-b>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "CIRCULATION GENERAL MANAGER, NEWSSTAND OPERATIONS <avenirnext-b>BILL WOOD</avenirnext-b> • CONSUMER MARKETING MANAGER <avenirnext-b>ED LICHINSKY</avenirnext-b>"
-            },
-            {
-              "role": "heading2",
-              "layout": "heading2Layout",
-              "textStyle": "heading2TextStyle",
-              "format": "html",
-              "text": "Advertising",
-              "style": "heading2Style"
-            },
-            {
-              "role": "heading3",
-              "layout": "heading3Layout",
-              "textStyle": "heading3TextStyle",
-              "format": "html",
-              "text": "New York"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "ACCOUNT DIRECTORS <avenirnext-b>LISA ISOLDI, KELSEY REYNOLDS, CAROLYN ROSE</avenirnext-b>"
-            },
-            {
-              "role": "heading3",
-              "layout": "heading3Layout",
-              "textStyle": "heading3TextStyle",
-              "format": "html",
-              "text": "Chicago"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "ACCOUNT DIRECTORS <avenirnext-b>MEGAN HAVERON, JENNIFER ROLSTON</avenirnext-b>"
-            },
-            {
-              "role": "heading3",
-              "layout": "heading3Layout",
-              "textStyle": "heading3TextStyle",
-              "format": "html",
-              "text": "Los Angeles"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "ACCOUNT DIRECTOR <avenirnext-b>CHERYL SPEISER</avenirnext-b>"
-            },
-            {
-              "role": "heading3",
-              "layout": "heading3Layout",
-              "textStyle": "heading3TextStyle",
-              "format": "html",
-              "text": "Direct Media"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "SALES DIRECTOR <avenirnext-b>TYLER HUB</avenirnext-b>"
-            },
-            {
-              "role": "heading3",
-              "layout": "heading3Layout",
-              "textStyle": "heading3TextStyle",
-              "format": "html",
-              "text": "Advertising Operations"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "ASSOCIATE PRODUCTION DIRECTOR <avenirnext-b>PATRICK McGOWAN</avenirnext-b> • SENIOR PRODUCTION MANAGER <avenirnext-b>ADAM PEUSE</avenirnext-b>"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "PRESIDENT, LIFESTYLE <avenirnext-b>ALYSIA BORSA</avenirnext-b>"
+              "text": "<avenirnext-b>ChowMatch</avenirnext-b> Because Tod Hing’s family owned a grocery store when he was growing up, he saw firsthand how much unsold food can go to waste. When his wife, Maria Yap, founded a food recovery nonprofit, she was frustrated by how hard it was to rescue food, giving him the idea for ChowMatch. It matches restaurants, grocery stores, caterers, and farms that have surplus food with organizations that can use it right away—such as homeless shelters, churches, schools, and affordable housing programs. Once a match is made, volunteers pick up and deliver the food to the recipient organization within an hour, for free. Right now the app is running in 700 locations across the U.S., and it’s making a big impact: In Los Angeles alone, one such group, FoodCycle LA, might serve 60,000 meals a week from food it gets through the program. <a href=\"http://chowmatch.com\">chowmatch.com</a>"
             }
           ]
         },
@@ -1236,6 +983,7 @@
       "//": "UNUSED"
     },
     "captionCenteredTextStyle": {
+      "fontName": "Avenir-Book",
       "textAlignment": "center"
     },
     "captionDarkTextStyle": {

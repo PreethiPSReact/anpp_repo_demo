@@ -224,7 +224,7 @@
                   "layout": "captionLayout",
                   "textStyle": "captionTextStyle",
                   "format": "html",
-                  "text": "<span data-anf-textstyle=\"creditTextStyle\">from left: Photographs by Mel Tjoeng (2)</span>",
+                  "text": "<span data-anf-textstyle='creditTextStyle'>from left: Photographs by Mel Tjoeng (2)</span>",
                   "style": "captionStyle"
                 }
               ]
@@ -1162,7 +1162,6 @@
       "//": "UNUSED"
     },
     "captionCenteredTextStyle": {
-      "fontName": "Avenir-Book",
       "textAlignment": "center"
     },
     "captionDarkTextStyle": {

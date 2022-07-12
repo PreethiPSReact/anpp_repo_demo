@@ -4,7 +4,7 @@
   "title": "Candle in the Wind",
   "language": "en",
   "layout": {
-    "columns": 20,
+    "columns": 2222220,
     "gutter": 20,
     "margin": 40,
     "width": 1024
@@ -55,7 +55,7 @@
           "layout": "sectionLayout",
           "textStyle": "sectionTextStyle",
           "format": "html",
-          "text": "Life: Remembering Marilyn"
+          "text": "<b>MARILYN</b> 60 years later"
         },
         {
           "role": "container",
@@ -68,7 +68,7 @@
           "layout": "titleLayout",
           "textStyle": "titleTextStyle",
           "format": "html",
-          "text": "Candle in the Wind"
+          "text": "Candle <i>In the</i> Wind"
         },
         {
           "//": "======== HERO IMAGE CONTAINER =======",
@@ -81,7 +81,7 @@
               "layout": "fullBleedPhotoLayout",
               "caption": {
                 "format": "html",
-                "text": "Born Norma Jeane Mortensen and baptized Norma Jeane Baker, the future film star is already lovely as a five-year-old girl in 1931.<br><span data-anf-textstyle='creditTextStyle'>HULTON/GETTY</span>",
+                "text": "Born Norma Jeane Mortensen and baptized Norma Jeane Baker, the future film star is already lovely as a five-year-old girl in 1931.",
                 "textStyle": "captionEmbeddedTextStyle"
               },
               "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/1931girlpor_018/128428-1-eng-US/1931girlpor_0182.jpg?q=100"
@@ -89,9 +89,10 @@
             {
               "role": "caption",
               "layout": "captionLayout",
+              "style": "captionStyle",
               "textStyle": "captionTextStyle",
               "format": "html",
-              "text": "Born Norma Jeane Mortensen and baptized Norma Jeane Baker, the future film star is already lovely as a five-year-old girl in 1931.<br><span data-anf-textstyle='creditTextStyle'>HULTON/GETTY</span>"
+              "text": "Born Norma Jeane Mortensen and baptized Norma Jeane Baker, the future film star is already lovely as a five-year-old girl in 1931."
             }
           ]
         },
@@ -111,7 +112,7 @@
                   "layout": "fullBleedPhotoLayout",
                   "caption": {
                     "format": "html",
-                    "text": "Norma Jeane plays on a California beach with her mother, Gladys, circa 1929. By this time the toddler is already living with a foster family and seeing Gladys only on occasion.<br><span data-anf-textstyle='creditTextStyle'>SILVER SCREEN COLLECTION/HULTON/GETTY</span>",
+                    "text": "Norma Jeane plays on a California beach with her mother, Gladys, circa 1929. By this time the toddler is already living with a foster family and seeing Gladys only on occasion.",
                     "textStyle": "captionEmbeddedTextStyle"
                   },
                   "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/1929beachwm_019/128421-1-eng-US/1929beachwm_0192.jpg?q=100"
@@ -119,9 +120,10 @@
                 {
                   "role": "caption",
                   "layout": "captionLayout",
+                  "style": "captionStyle",
                   "textStyle": "captionTextStyle",
                   "format": "html",
-                  "text": "Norma Jeane plays on a California beach with her mother, Gladys, circa 1929. By this time the toddler is already living with a foster family and seeing Gladys only on occasion.<br><span data-anf-textstyle='creditTextStyle'>SILVER SCREEN COLLECTION/HULTON/GETTY</span>"
+                  "text": "Norma Jeane plays on a California beach with her mother, Gladys, circa 1929. By this time the toddler is already living with a foster family and seeing Gladys only on occasion."
                 }
               ]
             },
@@ -136,7 +138,7 @@
                   "layout": "fullBleedPhotoLayout",
                   "caption": {
                     "format": "html",
-                    "text": "Circa 1938, Norma Jeane is about to enter her teens. The woman just behind her is Ana Lower, a family friend who helped raise her and was, Marilyn Monroe would later say, the first maternal figure to show her real love.<br><span data-anf-textstyle='creditTextStyle'>SILVER SCREEN COLLECTION/HULTON/GETTY</span>",
+                    "text": "Circa 1938, Norma Jeane is about to enter her teens. The woman just behind her is Ana Lower, a family friend who helped raise her and was, Marilyn Monroe would later say, the first maternal figure to show her real love.",
                     "textStyle": "captionEmbeddedTextStyle"
                   },
                   "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/1938teenand_020/128414-1-eng-US/1938teenand_0202.jpg?q=100"
@@ -144,9 +146,10 @@
                 {
                   "role": "caption",
                   "layout": "captionLayout",
+                  "style": "captionStyle",
                   "textStyle": "captionTextStyle",
                   "format": "html",
-                  "text": "Circa 1938, Norma Jeane is about to enter her teens. The woman just behind her is Ana Lower, a family friend who helped raise her and was, Marilyn Monroe would later say, the first maternal figure to show her real love.<br><span data-anf-textstyle='creditTextStyle'>SILVER SCREEN COLLECTION/HULTON/GETTY</span>"
+                  "text": "Circa 1938, Norma Jeane is about to enter her teens. The woman just behind her is Ana Lower, a family friend who helped raise her and was, Marilyn Monroe would later say, the first maternal figure to show her real love."
                 }
               ]
             },
@@ -161,7 +164,7 @@
                   "layout": "fullBleedPhotoLayout",
                   "caption": {
                     "format": "html",
-                    "text": "<i>Monroe (seen with Robert Karnes and Colleen Townsend) is now a blonde in her movie debut, the 1948 comedy</i> Scudda Hoo! Scudda Hay! <i>She has a bit part—she plays a girl leaving church—and this canoe scene was cut from the film.</i><br><span data-anf-textstyle='creditTextStyle'>SNAP/SHUTTERSTOCK</span>",
+                    "text": "Monroe (seen with Robert Karnes and Colleen Townsend) is now a blonde in her movie debut, the 1948 comedy<i> Scudda Hoo! Scudda Hay! </i>She has a bit part—she plays a girl leaving church—and this canoe scene was cut from the film.",
                     "textStyle": "captionEmbeddedTextStyle"
                   },
                   "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/1948scuddah_021/128407-1-eng-US/1948scuddah_0212.jpg?q=100"
@@ -169,9 +172,10 @@
                 {
                   "role": "caption",
                   "layout": "captionLayout",
+                  "style": "captionStyle",
                   "textStyle": "captionTextStyle",
                   "format": "html",
-                  "text": "<i>Monroe (seen with Robert Karnes and Colleen Townsend) is now a blonde in her movie debut, the 1948 comedy</i> Scudda Hoo! Scudda Hay! <i>She has a bit part—she plays a girl leaving church—and this canoe scene was cut from the film.</i><br><span data-anf-textstyle='creditTextStyle'>SNAP/SHUTTERSTOCK</span>"
+                  "text": "Monroe (seen with Robert Karnes and Colleen Townsend) is now a blonde in her movie debut, the 1948 comedy<i> Scudda Hoo! Scudda Hay! </i>She has a bit part—she plays a girl leaving church—and this canoe scene was cut from the film."
                 }
               ]
             },
@@ -186,7 +190,7 @@
                   "layout": "fullBleedPhotoLayout",
                   "caption": {
                     "format": "html",
-                    "text": "In 1952, Monroe was one of six up-and-coming actors to be awarded a “Henrietta” trophy at a foreign press association dinner at the Del Mar Club in Santa Monica. The other winners included Leslie Caron, Tony Curtis and Mitzi Gaynor.<br><span data-anf-textstyle='creditTextStyle'>LOOMIS DEAN/THE LIFE PICTURE COLLECTION/SHUTTERSTOCK</span>",
+                    "text": "In 1952, Monroe was one of six up-and-coming actors to be awarded a “Henrietta” trophy at a foreign press association dinner at the Del Mar Club in Santa Monica. The other winners included Leslie Caron, Tony Curtis and Mitzi Gaynor.",
                     "textStyle": "captionEmbeddedTextStyle"
                   },
                   "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/19521566593_022/128400-1-eng-US/19521566593_0222.jpg?q=100"
@@ -194,9 +198,10 @@
                 {
                   "role": "caption",
                   "layout": "captionLayout",
+                  "style": "captionStyle",
                   "textStyle": "captionTextStyle",
                   "format": "html",
-                  "text": "In 1952, Monroe was one of six up-and-coming actors to be awarded a “Henrietta” trophy at a foreign press association dinner at the Del Mar Club in Santa Monica. The other winners included Leslie Caron, Tony Curtis and Mitzi Gaynor.<br><span data-anf-textstyle='creditTextStyle'>LOOMIS DEAN/THE LIFE PICTURE COLLECTION/SHUTTERSTOCK</span>"
+                  "text": "In 1952, Monroe was one of six up-and-coming actors to be awarded a “Henrietta” trophy at a foreign press association dinner at the Del Mar Club in Santa Monica. The other winners included Leslie Caron, Tony Curtis and Mitzi Gaynor."
                 }
               ]
             },
@@ -211,7 +216,7 @@
                   "layout": "fullBleedPhotoLayout",
                   "caption": {
                     "format": "html",
-                    "text": "In 1953, the actress poses on the patio of her Hollywood home for the camera of famed LIFE photographer Alfred Eisenstaedt.<br><span data-anf-textstyle='creditTextStyle'>ALFRED EISENSTAEDT/THE LIFE PICTURE COLLECTION/SHUTTERSTOCK</span>",
+                    "text": "In 1953, the actress poses on the patio of her Hollywood home for the camera of famed LIFE photographer Alfred Eisenstaedt.",
                     "textStyle": "captionEmbeddedTextStyle"
                   },
                   "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/marilynelsi_023/128393-1-eng-US/marilynelsi_0232.jpg?q=100"
@@ -219,9 +224,10 @@
                 {
                   "role": "caption",
                   "layout": "captionLayout",
+                  "style": "captionStyle",
                   "textStyle": "captionTextStyle",
                   "format": "html",
-                  "text": "In 1953, the actress poses on the patio of her Hollywood home for the camera of famed LIFE photographer Alfred Eisenstaedt.<br><span data-anf-textstyle='creditTextStyle'>ALFRED EISENSTAEDT/THE LIFE PICTURE COLLECTION/SHUTTERSTOCK</span>"
+                  "text": "In 1953, the actress poses on the patio of her Hollywood home for the camera of famed LIFE photographer Alfred Eisenstaedt."
                 }
               ]
             },
@@ -236,7 +242,7 @@
                   "layout": "fullBleedPhotoLayout",
                   "caption": {
                     "format": "html",
-                    "text": "Playwright Arthur Miller embraces Monroe, his new wife, in the summer of 1956.<br><span data-anf-textstyle='creditTextStyle'>KEN HEYMAN</span>",
+                    "text": "Playwright Arthur Miller embraces Monroe, his new wife, in the summer of 1956.",
                     "textStyle": "captionEmbeddedTextStyle"
                   },
                   "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/1956withmil_024/128386-1-eng-US/1956withmil_0242.jpg?q=100"
@@ -244,9 +250,10 @@
                 {
                   "role": "caption",
                   "layout": "captionLayout",
+                  "style": "captionStyle",
                   "textStyle": "captionTextStyle",
                   "format": "html",
-                  "text": "Playwright Arthur Miller embraces Monroe, his new wife, in the summer of 1956.<br><span data-anf-textstyle='creditTextStyle'>KEN HEYMAN</span>"
+                  "text": "Playwright Arthur Miller embraces Monroe, his new wife, in the summer of 1956."
                 }
               ]
             },
@@ -261,7 +268,7 @@
                   "layout": "fullBleedPhotoLayout",
                   "caption": {
                     "format": "html",
-                    "text": "<i>Monroe relaxes on the Nevada set of</i> The Misfits <i>in 1960. She costarred in the drama with Clark Gable. It was the last completed film for both of them.</i><br><span data-anf-textstyle='creditTextStyle'>EVE ARNOLD/MAGNUM</span>",
+                    "text": "Monroe relaxes on the Nevada set of<i> The Misfits </i>in 1960. She costarred in the drama with Clark Gable. It was the last completed film for both of them.",
                     "textStyle": "captionEmbeddedTextStyle"
                   },
                   "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/sweep_misfi_025/128379-1-eng-US/sweep_misfi_0252.jpg?q=100"
@@ -269,11 +276,20 @@
                 {
                   "role": "caption",
                   "layout": "captionLayout",
+                  "style": "captionStyle",
                   "textStyle": "captionTextStyle",
                   "format": "html",
-                  "text": "<i>Monroe relaxes on the Nevada set of</i> The Misfits <i>in 1960. She costarred in the drama with Clark Gable. It was the last completed film for both of them.</i><br><span data-anf-textstyle='creditTextStyle'>EVE ARNOLD/MAGNUM</span>"
+                  "text": "Monroe relaxes on the Nevada set of<i> The Misfits </i>in 1960. She costarred in the drama with Clark Gable. It was the last completed film for both of them."
                 }
               ]
+            },
+            {
+              "role": "body",
+              "layout": "attributeLayout",
+              "style": "attributeStyle",
+              "textStyle": "attributeTextStyle",
+              "format": "html",
+              "text": "HULTON/GETTY; SILVER SCREEN COLLECTION/HULTON/GETTY(2); SNAP/SHUTTERSTOCK; LOOMIS DEAN/THE LIFE PICTURE COLLECTION/SHUTTERSTOCK; ALFRED EISENSTAEDT/THE LIFE PICTURE COLLECTION/SHUTTERSTOCK; KEN HEYMAN; EVE ARNOLD/MAGNUM"
             }
           ]
         },
@@ -303,7 +319,7 @@
               "layout": "bodyLayout",
               "textStyle": "tocTextStyle",
               "format": "html",
-              "text": "<a href='http://ISSUE-TOC-LINK.com'>Tap here</a> to see more from this issue of <i>Life</i>"
+              "text": "<a href='https://apple.news/AlyMoIfMREey7Rrp00ZE8qw'>Tap here</a> to see more from this issue of <i>LIFE</i>"
             }
           ]
         }
@@ -847,7 +863,18 @@
       }
     },
     "sidebarStyle": {
-      "backgroundColor": "#f2f2f2"
+      "backgroundColor": "#f2f2f2",
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "backgroundColor": "#f2f2f2"
+        }
+      ]
     },
     "straplineStyle": {
       "//": "UNUSED"
@@ -917,6 +944,7 @@
       "tracking": 0.05
     },
     "bodyCenteredTextStyle": {
+      "fontName": "Georgia",
       "textAlignment": "center"
     },
     "bodyDropCapTextStyle": {
@@ -1030,6 +1058,7 @@
       "textAlignment": "left"
     },
     "heading2CenteredTextStyle": {
+      "fontName": "AvenirNext-Bold",
       "textAlignment": "center"
     },
     "heading2TextStyle": {
@@ -1037,7 +1066,10 @@
       "tracking": -0.02
     },
     "heading3CenteredTextStyle": {
-      "textAlignment": "center"
+      "fontName": "AvenirNext-Bold",
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": -0.05
     },
     "heading3TextStyle": {
       "fontName": "AvenirNext-Bold",

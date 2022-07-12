@@ -9,17 +9,22 @@
     "margin": 40,
     "width": 1024
   },
+  "subtitle": "Designer Anna-Louise Wolfe decked out her 810-square-foot condo with her favorite things: colorful fabrics, chinoiserie, and porcelain",
   "metadata": {
-    "authors": [
-      "Stephen Orr"
-    ],
-    "dateCreated": "2022-06-09T17:50:35.689Z",
-    "dateModified": "2022-06-07T19:53:16+00:00",
-    "excerpt": "While looking over the stories for this summer issue, I thought about the importance of memory in our domestic lives. If you’re like me, you—consciously or not—imbue your decorating, your cooking, and even your gardening with objects, recipes, and plants you associate with friends and family. Like Easter eggs in a movie (a term for some hidden detail placed in a scene by the director), these pieces may not be meaningful to the casual observer, but it makes me happy to know they’re there.",
+    "dateCreated": "2022-07-07T15:54:10.155Z",
+    "dateModified": "2022-06-23T09:59:25+00:00",
+    "excerpt": "I had no intention of living in a condo when I first started house hunting,” says Atlanta-based interior designer Anna-Louise Wolfe. But a 1929 Colonial Revival condo in Buckhead caught her eye. Its hardwood floors, original millwork, and old-school glass doorknobs checked off the items on her list. “It had all the historic charm I was looking for,” she says. Twenty years of renters had turned the 810-square-foot, one-bedroom residence into a dirty, dated hangout. “It was a nightmare,” Wolfe recalls. First step: Repaint every inch. Decorating with her favorites—chinoiserie, cherished Rose Medallion porcelain, bold animal prints, and vibrant fabrics—she turned the blank space into an ultrafeminine home. Here, Wolfe shares her favorite small-space decorating ideas.",
     "generatorName": "ANTE Generic Template",
     "generatorVersion": "0.0.4.33-2022-06-09 18:32",
-    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_716/storage/images/media2/images/shot002_ste_039/588787-1-eng-US/shot002_ste_0392.png?q=100"
+    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_862/storage/images/media2/images/26463_coian_041/288345-1-eng-US/26463_coian_0412.png?q=100"
   },
+  "missingData": [
+    {
+      "possibleAuthors": [
+        "BY GRACE HAYNES; PHOTOGRAPHS BY LAURA NEGRI CHILDERS"
+      ]
+    }
+  ],
   "documentStyle": {
     "backgroundColor": "#eee"
   },
@@ -54,23 +59,61 @@
       },
       "components": [
         {
+          "//": "==== DEFAULT HEADER: SECTION ===",
+          "role": "heading",
+          "layout": "sectionLayout",
+          "textStyle": "sectionTextStyle",
+          "format": "html",
+          "text": "SMALL SPACE IDEAS"
+        },
+        {
+          "role": "divider",
+          "layout": "dividerLayout",
+          "stroke": {
+            "color": "#000",
+            "width": 1
+          }
+        },
+        {
           "//": "==== DEFAULT HEADER: TITLE ===",
           "role": "title",
           "layout": "titleLayout",
-          "textStyle": "titleTextStyle",
+          "textStyle": "titleTextStyle2",
           "format": "html",
-          "text": "Editor’s Letter"
+          "text": "Historic Charm Condo"
+        },
+        {
+          "//": "==== DEFAULT HEADER: INTRO ===",
+          "role": "intro",
+          "layout": "introLayout",
+          "textStyle": "introTextStyle",
+          "format": "html",
+          "text": "Designer Anna-Louise Wolfe decked out her 810-square-foot condo with her favorite things: colorful fabrics, chinoiserie, and porcelain"
         },
         {
           "//": "======== HERO IMAGE CONTAINER =======",
           "role": "container",
           "layout": "heroImageLayout",
+          "identifier": "sunroom",
           "components": [
             {
-              "//": "======== HERO IMAGE - H1824.0/W1363.0 * 100 = 133.8224505 ========",
+              "//": "======== HERO IMAGE - H3254.0/W2392.0 * 100 = 136.0367893 ========",
               "role": "photo",
               "layout": "fullBleedPhotoLayout",
-              "URL": "https://cdn-assets.ziniopro.com/var/site_716/storage/images/media2/images/shot002_ste_039/588787-1-eng-US/shot002_ste_0392.png?q=100"
+              "caption": {
+                "format": "html",
+                "text": "<b>WHAT’S OLD CAN BE NEW</b> Wolfe cherishes family hand-me-downs, such as antique furniture, and worked them into her fresh design.",
+                "textStyle": "captionEmbeddedTextStyle"
+              },
+              "URL": "https://cdn-assets.ziniopro.com/var/site_862/storage/images/media2/images/26463_coian_041/288345-1-eng-US/26463_coian_0412.png?q=100"
+            },
+            {
+              "role": "caption",
+              "layout": "captionLayout",
+              "style": "captionStyle",
+              "textStyle": "captionTextStyle",
+              "format": "html",
+              "text": "<caption-heading>What’s Old Can Be New</caption-heading> Wolfe cherishes family hand-me-downs, such as antique furniture, and worked them into her fresh design."
             }
           ]
         },
@@ -80,12 +123,70 @@
           "layout": "bodyContainerLayout",
           "components": [
             {
-              "role": "heading2",
-              "layout": "heading2Layout",
-              "style": "heading2Style",
-              "textStyle": "heading2TextStyle",
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1864.0/W1367.0 * 100 = 136.3569861 ========",
+                  "role": "photo",
+                  "caption": {
+                    "format": "html",
+                    "text": "<b>ANNA-LOUISE WOLFE’S BEST ADVICE:</b> “If it’s something that you love, then you will find a place for it.”",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_862/storage/images/media2/images/26463_coi01_043/288331-1-eng-US/26463_coi01_0432.png?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "style": "captionStyle",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Anna-Louise Wolfe’s Best Advice:</caption-heading> “If it’s something that you love, then you will find a place for it.”"
+                }
+              ]
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyDropCapTextStyle",
               "format": "html",
-              "text": "<i>Mementos</i>"
+              "text": "I had no intention of living in a condo when I first started house hunting,” says Atlanta-based interior designer Anna-Louise Wolfe. But a 1929 Colonial Revival condo in Buckhead caught her eye. Its hardwood floors, original millwork, and old-school glass doorknobs checked off the items on her list. “It had all the historic charm I was looking for,” she says. Twenty years of renters had turned the 810-square-foot, one-bedroom residence into a dirty, dated hangout. “It was a nightmare,” Wolfe recalls. First step: Repaint every inch. Decorating with her favorites—chinoiserie, cherished Rose Medallion porcelain, bold animal prints, and vibrant fabrics—she turned the blank space into an ultrafeminine home. Here, Wolfe shares her favorite small-space decorating ideas."
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1672.0/W1367.0 * 100 = 122.3116313 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "caption": {
+                    "format": "html",
+                    "text": "<b>MAKE AN ENTRANCE</b> Turning the sofa’s back to the door creates an entryway, along with a gallery wall anchored by contemporary art.",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_862/storage/images/media2/images/26463_coian_045/288317-1-eng-US/26463_coian_0452.png?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "style": "captionStyle",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Make an Entrance</caption-heading> Turning the sofa’s back to the door creates an entryway, along with a gallery wall anchored by contemporary art."
+                }
+              ]
+            },
+            {
+              "role": "heading3",
+              "layout": "heading3Layout",
+              "textStyle": "heading3TextStyle",
+              "format": "html",
+              "text": "Design a Happy Room"
             },
             {
               "role": "body",
@@ -93,93 +194,154 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "While looking over the stories for this summer issue, I thought about the importance of memory in our domestic lives. If you’re like me, you—consciously or not—imbue your decorating, your cooking, and even your gardening with objects, recipes, and plants you associate with friends and family. Like Easter eggs in a movie (a term for some hidden detail placed in a scene by the director), these pieces may not be meaningful to the casual observer, but it makes me happy to know they’re there."
+              "text": "“The sunroom (shown at the top) is my spot for morning coffee. I covered my paternal grandmother’s camelback sofa, which had been sitting in my parents’ basement, with an iconic chintz fabric, Hollyhock by Lee Jofa. Window treatments make a room, and these blue linen valances won’t block any light. I added a leopard-print rug because I think every room needs an animal pattern. I consider them neutrals, like natural woven shades and bamboo chairs.”"
+            },
+            {
+              "role": "heading3",
+              "layout": "heading3Layout",
+              "textStyle": "heading3TextStyle",
+              "format": "html",
+              "text": "Add DIY Solutions"
             },
             {
               "role": "body",
-              "layout": "bodyLayout",
+              "layout": "bodyNoMarginAboveLayout",
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "For decades, I’ve carried certain objects from home to home almost as talismans—a Navajo vase my dad bought on his first trip out of Texas in the 1930s, a ceramic rooster my mom kept on top of the fridge when I was a kid, a tiny brass swan I used to play with in our family living room (that formal space where no one ever sat except to play the piano). In the garden, I plant varieties that remind me of gardening with my dad. I love the old-fashioned shrubs we had, like bridal wreath <italic>(Spiraea × vanhouttei)</italic> with its frothy arched branches of white flowers and the single-petaled rose ‘Betty Prior’. In the kitchen, I fry okra (actually, now I convection-bake it) thinking of my West Texas grandmother and shell black-eyes thinking of what once was a midsummer chore."
+              "text": "“I wanted something to cover the radiator in my sunroom, so I cut off the bottom shelf on a console table from Mainly Baskets Home. (Because I never turn on this radiator, it’s not a fire hazard.) I spray-painted the light fixture I found at a local antiques shop blue.”"
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H3255.0/W2264.0 * 100 = 143.7720848 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_862/storage/images/media2/images/26463_coian_044/288324-1-eng-US/26463_coian_0442.png?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading3",
+              "layout": "heading3Layout",
+              "textStyle": "heading3TextStyle",
+              "format": "html",
+              "text": "Build Bookshelves"
             },
             {
               "role": "body",
-              "layout": "bodyLayout",
+              "layout": "bodyNoMarginAboveLayout",
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "My trip down memory lane started with our feature on the home of Christine Joy Llewellyn Ohemeng (<a href='https://apple.news/AI0YoxIbIRVu6kYEEhDBbkA'>Pure Joy</a>), who filled her house with treasures that remind her of souvenirs her mother brought back from trips to Africa and Asia while working for the United Nations. Alana Kysar writes about her childhood love of <a href='https://apple.news/AVc_XaYp3QwmORBx8RKhX2w'>butter mochi</a>, a coconut-custard, sticky rice cake popular in Hawai’i that sounds like stiff competition for my potluck favorite, lemon bars. UK native Barry Jordan designed his Upstate New York property with the romantic looseness of <a href='https://apple.news/AuHYs-EiHRHih1moLAdOAQw'>English gardens</a> in mind."
+              "text": "“My father and I made the shelves for the living room. I wanted them to feel original to the rest of the home and thought it would be fun to add something unexpected with a pink backdrop. The color peeks through behind the books and helps elements of the decor, including my Foo dog collection, stand out.”"
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1672.0/W1367.0 * 100 = 122.3116313 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "caption": {
+                    "format": "html",
+                    "text": "<b>STOCK THE BAR</b> “Pretty bottles of S.Pellegrino and liquor are musts for guests. Use Revere bowls for nuts; the silver adds sparkle,” Wolfe says.",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_862/storage/images/media2/images/26463_coian_046/288310-1-eng-US/26463_coian_0462.png?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "style": "captionStyle",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Stock the Bar</caption-heading> “Pretty bottles of S.Pellegrino and liquor are musts for guests. Use Revere bowls for nuts; the silver adds sparkle,” Wolfe says."
+                }
+              ]
+            },
+            {
+              "role": "heading3",
+              "layout": "heading3Layout",
+              "textStyle": "heading3TextStyle",
+              "format": "html",
+              "text": "Refresh Vintage Pieces"
             },
             {
               "role": "body",
-              "layout": "bodyLayout",
+              "layout": "bodyNoMarginAboveLayout",
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "Memory is a powerful thing—I almost said “emotion,” but it’s not really that. Memories are a conduit for intense feelings, however sweet or bittersweet. And collecting can go overboard for some people who are unable to part with any objects to which they’ve attached emotions. As with most things, it’s a balance. What memories do we want to keep and cherish? And which ones do we want to leave behind so we can move on? I guess that’s the equation of life."
+              "text": "“I love, love, love fabric. It combines so many colors. I wanted to take something traditional and use it in a more youthful, girly way. I reupholstered a pair of slipper chairs (from an estate sale) with a yellow velvet, which complements the yellow table lamps.”"
             },
             {
-              "//": "======== SIGNATURE IMAGE ========",
-              "role": "image",
-              "layout": "signatureImageLayout",
-              "conditional": {
-                "conditions": [
-                  {
-                    "minSpecVersion": "1.14",
-                    "preferredColorScheme": "dark"
-                  }
-                ],
-                "hidden": true
-              },
-              "URL": "https://cdn-assets.ziniopro.com/var/site_716/storage/images/media2/images/10262876624/410602-1-eng-US/1026287662.jpg?q=100"
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1877.0/W1367.0 * 100 = 137.3079737 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_862/storage/images/media2/images/26463_coian_042/288338-1-eng-US/26463_coian_0422.png?q=100"
+                }
+              ]
             },
             {
-              "//": "======== SIGNATURE IMAGE DM ========",
-              "role": "image",
-              "layout": "signatureImageLayout",
-              "conditional": {
-                "conditions": [
-                  {
-                    "minSpecVersion": "1.14",
-                    "preferredColorScheme": "dark"
-                  }
-                ],
-                "hidden": false
-              },
-              "hidden": true,
-              "URL": "https://public-assets.meredithcorp.io/547d13c71c744f02c1c061c04857767f/sig.jpg"
+              "role": "heading3",
+              "layout": "heading3Layout",
+              "textStyle": "heading3TextStyle",
+              "format": "html",
+              "text": "Display Collections"
             },
             {
               "role": "body",
-              "layout": "bodyLayout1",
+              "layout": "bodyNoMarginAboveLayout",
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "STEPHEN ORR,<br><italic>Editor in Chief</italic><br>instagram <a href=\"https://www.instagram.com/steporr\">@steporr</a>"
+              "text": "“My maternal grandmother collected Rose Medallion china, so at a fairly young age, I started too. I’m a porcelain devotee and like hanging some of my plates on the wall (shown above). I’m a big believer in using what you have—like pieces from my china collection. If you arrange items properly, you can make anything look beautiful.”"
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H2161.0/W1367.0 * 100 = 158.0833943 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_862/storage/images/media2/images/26463_coian_047/288303-1-eng-US/26463_coian_0472.png?q=100"
+                }
+              ]
+            },
+            {
+              "role": "heading3",
+              "layout": "heading3Layout",
+              "textStyle": "heading3TextStyle",
+              "format": "html",
+              "text": "Have Fun With Tiny Spaces"
             },
             {
               "role": "body",
-              "layout": "bodyLayout",
+              "layout": "bodyNoMarginAboveLayout",
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>LETTERS + COMMENTS</lede>&#xA0;<br><a href=\"mailto:BHGEditor@meredith.com\">BHGEditor@dotdashmdp.com</a>&#xA0;"
-            },
-            {
-              "role": "body",
-              "layout": "bodyLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyTextStyle",
-              "format": "html",
-              "text": "<lede>SUBSCRIPTION HELP</lede>&#xA0;<br><a href=\"http://BHG.com/MyAccount\">BHG.com/MyAccount</a> <italic>or email us at</italic> <a href=\"mailto:BHGcustserv@cdsfulfillment.com\">BHGcustserv@cdsfulfillment.com</a> <italic>or call <a href='tel: +<a href='tel:18003744244'><a href='tel:18003744244'><a href='tel:18003744244'>1-800-374-4244</a></a></a>'>800/374-4244</a></italic>"
+              "text": "“A large pattern can help a compact room seem bigger and come alive, so I covered the kitchen in Thibaut’s Ming Trail wallpaper. It’s a wipeable style that’s more durable than others. Vintage-looking brass finishes and glass knobs keep the 1920s feel. Because my kitchen is small, I saved by using a remnant of granite for the countertops. In small areas, you have to be creative with storage. You need to think smart and simplify.”"
             },
             {
               "role": "body",
               "layout": "attributeLayout",
               "textStyle": "attributeTextStyle",
               "format": "html",
-              "text": "MELANIE ACEVEDO/SARAH LAIRD"
+              "text": "BY GRACE HAYNES; PHOTOGRAPHS BY LAURA NEGRI CHILDERS"
             }
           ]
         },
@@ -209,7 +371,7 @@
               "layout": "bodyLayout",
               "textStyle": "tocTextStyle",
               "format": "html",
-              "text": "<a href='https://apple.news/AfZaggdYaEeyyQA0KhVcEZw'>Tap here</a> to see more from this issue of <i>Better Homes &amp; Gardens</i>"
+              "text": "<a href='http://ISSUE-TOC-LINK.com'>Tap here</a> to see more from this issue of <i>Southern Living</i>"
             }
           ]
         }
@@ -229,32 +391,6 @@
         "bottom": 5
       }
     },
-    "bhgInsiderBodyLayout": {
-      "margin": {
-        "bottom": 10,
-        "top": 4
-      }
-    },
-    "bhgInsiderLayout": {
-      "columnSpan": 12,
-      "columnStart": 4,
-      "margin": 20
-    },
-    "bhgInsiderLogoLayout": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minViewportWidth": 500
-            }
-          ],
-          "maximumContentWidth": 150
-        }
-      ],
-      "horizontalContentAlignment": "center",
-      "maximumContentWidth": 125,
-      "URL": "https://public-assets-dev.meredithcorp.io/bde8400037db8a452dc4b69b34672272/bhg_Insider.jpg"
-    },
     "blockContainerLayout": {
       "columnSpan": 18,
       "columnStart": 1,
@@ -273,16 +409,6 @@
       "columnStart": 1,
       "margin": 10
     },
-    "bodyLayout1": {
-      "columnSpan": 18,
-      "columnStart": 1,
-      "margin": {
-        "bottom": 10,
-        "left": 10,
-        "right": 10,
-        "top": 0
-      }
-    },
     "bodyNoMarginAboveLayout": {
       "columnSpan": 18,
       "columnStart": 1,
@@ -295,7 +421,8 @@
     },
     "calloutBodyLayout": {
       "margin": {
-        "bottom": 10
+        "bottom": 10,
+        "top": 8
       }
     },
     "calloutHeadingLayout": {
@@ -304,28 +431,27 @@
       }
     },
     "calloutLayout": {
-      "columnSpan": 16,
-      "columnStart": 2,
-      "margin": 20
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "padding": {
+        "bottom": 20,
+        "left": 20,
+        "right": 20,
+        "top": 10
+      }
     },
     "captionAdLayout": {
       "//": "UNUSED"
     },
     "captionLayout": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minViewportWidth": 415
-            }
-          ],
-          "padding": {
-            "left": 20,
-            "right": 20
-          }
-        }
-      ],
-      "margin": 8
+      "margin": {
+        "bottom": 0,
+        "top": 8
+      }
     },
     "collectionLayout": {
       "columnSpan": 18,
@@ -335,39 +461,25 @@
         "top": 20
       }
     },
-    "darkModePaddingLayout": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minSpecVersion": "1.14",
-              "preferredColorScheme": "dark"
-            }
-          ],
-          "padding": 10
-        }
-      ]
-    },
     "dividerCollectionLayout": {
       "//": "UNUSED"
     },
-    "dividerDoubleLayout": {
-      "minimumHeight": 8
-    },
-    "dividerLayout": {
-      "ignoreDocumentMargin": true,
-      "margin": 10
-    },
-    "dividerStandardLayout": {
+    "dividerFirstLayout": {
       "columnSpan": 18,
       "columnStart": 1,
       "margin": {
-        "bottom": 10,
-        "top": 20
+        "bottom": 5,
+        "top": 5
       },
-      "minimumHeight": 2
+      "minimumHeight": 10
     },
-    "dividerTocLayout": {
+    "dividerLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10
+      }
+    },
+    "dividerStandardLayout": {
       "columnSpan": 18,
       "columnStart": 1,
       "margin": {
@@ -377,7 +489,7 @@
       "minimumHeight": 10
     },
     "floatContainerLayout": {
-      "columnSpan": 6,
+      "columnSpan": 4,
       "columnStart": 1,
       "conditional": [
         {
@@ -391,10 +503,16 @@
         }
       ]
     },
+    "foodImageContainerLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10
+      }
+    },
     "fullBleedContainerLayout": {
       "ignoreDocumentMargin": true,
       "margin": {
-        "bottom": 10,
+        "bottom": 5,
         "top": 20
       }
     },
@@ -428,14 +546,14 @@
       "columnSpan": 18,
       "columnStart": 1,
       "margin": {
-        "top": 20
+        "top": 8
       }
     },
     "heading3Layout": {
       "columnSpan": 18,
       "columnStart": 1,
       "margin": {
-        "top": 10
+        "top": 20
       }
     },
     "heading4Layout": {
@@ -449,13 +567,21 @@
       "columnSpan": 18,
       "columnStart": 1,
       "margin": {
-        "top": 10
+        "top": 20
       }
     },
     "heading6Layout": {
       "columnSpan": 18,
       "columnStart": 1,
       "margin": {
+        "top": 10
+      }
+    },
+    "headingSmallMarginAboveLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 0,
         "top": 10
       }
     },
@@ -476,20 +602,23 @@
     },
     "ingredientsLayout": {
       "margin": {
-        "bottom": 5,
-        "top": 5
+        "bottom": 10,
+        "top": 10
       }
     },
     "introLayout": {
       "columnSpan": 18,
       "columnStart": 1,
       "margin": {
-        "bottom": 8
+        "bottom": 10
       }
     },
     "noMarginLayout": {
       "columnSpan": 18,
       "columnStart": 1
+    },
+    "photoCreditLayout": {
+      "margin": 8
     },
     "productImageStandardLayout": {
       "minimumHeight": 280
@@ -497,15 +626,44 @@
     "pullQuoteLayout": {
       "columnSpan": 16,
       "columnStart": 2,
-      "margin": 20
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "recipeDividerLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 0
+      }
+    },
+    "recipeTitleLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 5,
+        "top": 10
+      }
     },
     "sectionLayout": {
       "margin": {
+        "bottom": 10,
         "top": 5
       }
     },
     "sidebarBodyLayout": {
-      "margin": 10
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 5
+      }
+    },
+    "sidebarBodyLayout2": {
+      "margin": {
+        "bottom": 10,
+        "top": 5
+      }
     },
     "sidebarBodyNoMarginAboveLayout": {
       "margin": {
@@ -513,15 +671,17 @@
       }
     },
     "sidebarDividerLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
-        "bottom": 10,
+        "bottom": 15,
         "top": 20
       },
-      "minimumHeight": 2
+      "minimumHeight": 10
     },
     "sidebarFloatContainerLayout": {
-      "columnSpan": 6,
-      "columnStart": 0,
+      "columnSpan": 4,
+      "columnStart": 1,
       "conditional": [
         {
           "columnSpan": 4,
@@ -535,56 +695,114 @@
       ]
     },
     "sidebarHeading2Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
         "top": 10
       }
     },
+    "sidebarHeading2NoMarginAboveLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 0
+      }
+    },
+    "sidebarHeading2NoMarginAboveLayout2": {
+      "margin": {
+        "top": 0
+      }
+    },
     "sidebarHeading3Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "sidebarHeading3Layout2": {
       "margin": {
         "top": 10
       }
     },
     "sidebarHeading4Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
         "top": 10
       }
     },
-    "sidebarLayout": {
+    "sidebarHeading4Layout2": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "sidebarIntroLayout": {
       "columnSpan": 18,
       "columnStart": 1,
+      "margin": {
+        "bottom": 20,
+        "top": 5
+      }
+    },
+    "sidebarIntroLayout2": {
+      "margin": {
+        "bottom": 10
+      }
+    },
+    "sidebarLayout": {
+      "ignoreDocumentMargin": true,
       "margin": 20,
       "padding": {
-        "bottom": 10,
+        "bottom": 30,
+        "left": 20,
+        "right": 20,
+        "top": 20
+      }
+    },
+    "sidebarNoBackgroundLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 25,
+      "padding": {
+        "bottom": 20,
         "top": 10
       }
     },
     "sidebarSingleBlockContainerLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
         "bottom": 10,
         "top": 20
       }
     },
+    "sidebarSingleBlockContainerLayout2": {
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "sidebarSlugLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 5,
+        "top": 5
+      }
+    },
+    "sidebarSlugLayout2": {
+      "margin": {
+        "bottom": 5,
+        "top": 5
+      }
+    },
     "sidebarSmallMarginAboveLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
       "margin": {
         "top": 2
       }
-    },
-    "signatureImageLayout": {
-      "columnSpan": 18,
-      "columnStart": 1,
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minViewportWidth": 700
-            }
-          ],
-          "maximumContentWidth": "50cw"
-        }
-      ],
-      "horizontalContentAlignment": "left",
-      "margin": 10,
-      "maximumContentWidth": "70cw"
     },
     "singleBlockContainerLayout": {
       "columnSpan": 18,
@@ -598,14 +816,15 @@
       "columnSpan": 18,
       "columnStart": 1,
       "margin": {
-        "top": 2
+        "bottom": 5,
+        "top": 5
       }
     },
     "spacerLayout": {
       "columnSpan": 18,
       "columnStart": 1,
       "margin": {
-        "bottom": 10,
+        "bottom": 5,
         "top": 20
       }
     },
@@ -613,14 +832,14 @@
       "columnSpan": 18,
       "columnStart": 1,
       "margin": {
-        "top": 10
+        "bottom": 2
       }
     },
     "titleLayout": {
       "columnSpan": 18,
       "columnStart": 1,
       "margin": {
-        "top": 10
+        "bottom": 10
       }
     },
     "topPhotoDividerLayout": {
@@ -648,6 +867,18 @@
     "captionAdStyle": {
       "//": "UNUSED"
     },
+    "captionStyle": {
+      "border": {
+        "all": {
+          "color": "#8d8d8d",
+          "width": 2
+        },
+        "bottom": false,
+        "left": true,
+        "right": false,
+        "top": false
+      }
+    },
     "darkModeBackgroundStyle": {
       "conditional": [
         {
@@ -661,17 +892,8 @@
         }
       ]
     },
-    "dividerDoubleStyle": {
-      "border": {
-        "all": {
-          "color": "#222",
-          "width": 1
-        },
-        "bottom": true,
-        "left": false,
-        "right": false,
-        "top": true
-      }
+    "dividerFirstStyle": {
+      "backgroundColor": "#000"
     },
     "dividerSectionHeadStyle": {
       "border": {
@@ -707,9 +929,6 @@
     },
     "dividerStandardStyle": {
       "backgroundColor": "#000"
-    },
-    "dividerTocStyle": {
-      "//": "UNUSED"
     },
     "fullBleedContainerStyle": {
       "//": "UNUSED"
@@ -748,7 +967,7 @@
             {
               "horizontalAlignment": "left",
               "padding": {
-                "left": 5
+                "left": 20
               },
               "selectors": [
                 {
@@ -758,6 +977,7 @@
               "width": 75
             }
           ],
+          "height": 25,
           "textStyle": "ingredientsTextStyle",
           "verticalAlignment": "top"
         },
@@ -801,6 +1021,14 @@
     "sectionStyle": {
       "//": "UNUSED"
     },
+    "sidebarNoBackgroundStyle": {
+      "border": {
+        "all": {
+          "color": "#f2f2f2",
+          "width": 2
+        }
+      }
+    },
     "sidebarStyle": {
       "backgroundColor": "#f2f2f2",
       "conditional": [
@@ -820,26 +1048,6 @@
     },
     "titleStyle": {
       "//": "UNUSED"
-    },
-    "captionStyle": {
-      "border": {
-        "all": {
-          "color": "#8d8d8d",
-          "width": 2
-        },
-        "bottom": false,
-        "left": true,
-        "right": false,
-        "top": false
-      }
-    },
-    "sidebarNoBackgroundStyle": {
-      "border": {
-        "all": {
-          "color": "#f2f2f2",
-          "width": 2
-        }
-      }
     }
   },
   "textStyles": {
@@ -850,12 +1058,8 @@
       "textTransform": "uppercase",
       "tracking": 0.1
     },
-    "default-tag-bracket": {
-      "fontSize": 30,
-      "textColor": "#ED096F"
-    },
-    "default-tag-caption-bold": {
-      "fontName": "Gotham-Bold"
+    "default-tag-bold-italic": {
+      "fontName": "PrumoDeck-BoldItalic"
     },
     "default-tag-caption-heading": {
       "fontName": "AvenirNext-Bold",
@@ -866,14 +1070,12 @@
     "default-tag-emoji": {
       "fontName": "AppleColorEmoji"
     },
-    "default-tag-italic": {
-      "fontName": "SurveyorText-LightItalic"
-    },
     "default-tag-lede": {
       "fontName": "AvenirNext-Bold"
     },
-    "default-tag-m": {
-      "fontName": "Gotham-Medium"
+    "default-tag-number": {
+      "fontName": "BentonSans-Bold",
+      "fontSize": 16
     },
     "default-tag-pullquote-attribution": {
       "fontName": "Georgia-Bold",
@@ -881,17 +1083,36 @@
       "textTransform": "uppercase",
       "tracking": 0.15
     },
+    "default-tag-quote-highlight": {
+      "textColor": "#f5d742"
+    },
+    "default-tag-serves": {
+      "backgroundColor": "#000",
+      "conditional": [
+        {
+          "backgroundColor": "#363636",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "textColor": "#d5d5d5"
+        }
+      ],
+      "fontName": "BentonSans-Bold",
+      "textColor": "#fff"
+    },
     "default-tag-sidebar-lede": {
       "fontName": "AvenirNext-Bold",
       "fontSize": 16,
       "textTransform": "uppercase",
       "tracking": 0.05
     },
-    "default-tag-title-italic": {
-      "fontName": "HTFDidot-M42MediumItalic"
-    },
-    "default-tag-twenty-five": {
-      "fontName": "Didot-Bold"
+    "default-tag-subsection": {
+      "fontName": "BentonSans-Regular",
+      "fontSize": 14,
+      "textColor": "#2B2728"
     },
     "endMarkerTextStyle": {
       "//": "UNUSED"
@@ -920,12 +1141,6 @@
       "textAlignment": "center",
       "textTransform": "uppercase",
       "tracking": 0.05
-    },
-    "bhgInsiderBodyTextStyle": {
-      "fontName": "Gotham-Medium",
-      "fontSize": 16,
-      "lineHeight": 22,
-      "textAlignment": "center"
     },
     "bodyCenteredTextStyle": {
       "fontName": "Georgia",
@@ -1081,32 +1296,52 @@
       "tracking": 0.05
     },
     "ingredientsTextStyle": {
-      "fontName": "Gotham-Medium",
-      "fontSize": 15,
-      "lineHeight": 19
+      "fontName": "BentonSans-Regular",
+      "fontSize": 16,
+      "lineHeight": 18
     },
     "introTextStyle": {
       "fontName": "Georgia-Italic",
       "textAlignment": "center"
     },
+    "photoCreditTextStyle": {
+      "fontName": "BentonSans-Regular",
+      "fontSize": 14,
+      "lineHeight": 20,
+      "textAlignment": "center",
+      "textColor": "#222"
+    },
     "pullQuoteTextStyle": {
       "fontName": "Georgia",
       "textAlignment": "center"
     },
-    "recipeBodyTextStyle": {
-      "fontName": "Gotham-Light",
-      "fontSize": 16,
-      "lineHeight": 20
-    },
     "recipeDetailsTextStyle": {
-      "fontName": "Gotham-Light",
-      "fontSize": 15,
-      "lineHeight": 17
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "textColor": "#fff"
+        }
+      ],
+      "fontName": "BentonSans-Regular",
+      "fontSize": 14,
+      "lineHeight": 20,
+      "textColor": "#000"
     },
     "recipeNutritionInfoTextStyle": {
-      "fontName": "Gotham-Light",
+      "fontName": "BentonSans-Regular",
       "fontSize": 14,
       "lineHeight": 16
+    },
+    "recipeTitleTextStyle": {
+      "fontName": "BentonSans-Bold",
+      "fontSize": 26,
+      "lineHeight": 28,
+      "textColor": "#000"
     },
     "sectionTextStyle": {
       "fontName": "AvenirNext-Regular",
@@ -1115,37 +1350,46 @@
       "textTransform": "uppercase",
       "tracking": 0.05
     },
-    "sidebarBodyCenteredTextStyle": {
-      "fontName": "AvenirNext-Medium",
-      "fontSize": 18,
-      "lineHeight": 26,
-      "textAlignment": "center",
-      "tracking": 0.02
-    },
     "sidebarBodyTextStyle": {
       "fontName": "AvenirNext-Medium",
       "fontSize": 18,
       "lineHeight": 26,
       "tracking": 0.02
     },
-    "sidebarHeading2CenteredTextStyle": {
-      "fontName": "Georgia-Bold",
-      "fontSize": 45,
-      "lineHeight": 50,
-      "textAlignment": "center"
+    "sidebarBodyTextStyle2": {
+      "fontName": "BentonSans-Regular",
+      "textColor": "#000"
+    },
+    "sidebarCaptionTextStyle": {
+      "fontName": "BentonSans-Regular",
+      "linkStyle": {
+        "textColor": "#fff",
+        "underline": true
+      },
+      "textAlignment": "center",
+      "textColor": "#fff"
+    },
+    "sidebarCaptionTextStyle2": {
+      "fontName": "BentonSans-Regular",
+      "textAlignment": "center",
+      "textColor": "#000"
+    },
+    "sidebarfloatImageCaptionTextStyle": {
+      "fontName": "BentonSans-Regular",
+      "textAlignment": "center",
+      "textColor": "#fff"
     },
     "sidebarHeading2TextStyle": {
       "fontName": "Georgia-Bold",
       "fontSize": 45,
       "lineHeight": 50
     },
-    "sidebarHeading3CenteredTextStyle": {
-      "fontName": "AvenirNext-Bold",
-      "fontSize": 24,
-      "lineHeight": 28,
+    "sidebarHeading2TextStyle2": {
+      "fontName": "PrumoDeck-Bold",
+      "fontSize": 40,
+      "lineHeight": 42,
       "textAlignment": "center",
-      "textTransform": "uppercase",
-      "tracking": -0.05
+      "textColor": "#000"
     },
     "sidebarHeading3TextStyle": {
       "fontName": "AvenirNext-Bold",
@@ -1154,17 +1398,72 @@
       "textTransform": "uppercase",
       "tracking": -0.05
     },
-    "sidebarHeading4CenteredTextStyle": {
-      "fontName": "Gotham-Bold",
-      "fontSize": 16,
-      "lineHeight": 18,
-      "textAlignment": "center"
+    "sidebarHeading3TextStyle2": {
+      "fontName": "BentonSans-Bold",
+      "fontSize": 20,
+      "lineHeight": 22
     },
     "sidebarHeading4TextStyle": {
       "fontName": "AvenirNext-Bold",
       "fontSize": 24,
       "lineHeight": 28,
       "tracking": -0.01
+    },
+    "sidebarHeading4TextStyle2": {
+      "fontName": "BentonSansCond-Bold",
+      "fontSize": 18,
+      "lineHeight": 20,
+      "textTransform": "uppercase",
+      "tracking": 0.05
+    },
+    "sidebarHeading5TextStyle": {
+      "fontName": "BentonSans-Bold",
+      "fontSize": 18,
+      "lineHeight": 20
+    },
+    "sidebarHeading6TextStyle": {
+      "fontName": "BentonSansComp-Bold",
+      "fontSize": 17,
+      "lineHeight": 19
+    },
+    "sidebarIntroTextStyle": {
+      "fontName": "Georgia-Italic",
+      "fontSize": 20,
+      "lineHeight": 26
+    },
+    "sidebarIntroTextStyle2": {
+      "fontName": "Georgia",
+      "textAlignment": "center"
+    },
+    "sidebarPhotoCreditTextStyle": {
+      "fontName": "BentonSans-Regular",
+      "fontSize": 14,
+      "lineHeight": 20,
+      "textAlignment": "center"
+    },
+    "sidebarPhotoCreditTextStyle2": {
+      "fontName": "BentonSans-Regular",
+      "fontSize": 14,
+      "lineHeight": 20,
+      "textAlignment": "center",
+      "textColor": "#222"
+    },
+    "sidebarSlugTextStyle": {
+      "fontName": "BentonSans-Bold",
+      "fontSize": 16,
+      "lineHeight": 20,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.03,
+      "underline": true
+    },
+    "sidebarSlugTextStyle2": {
+      "fontName": "BentonSans-Bold",
+      "fontSize": 16,
+      "lineHeight": 20,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.03
     },
     "straplineTextStyle": {
       "fontName": "AvenirNext-Bold",
@@ -1175,6 +1474,9 @@
     "titleTextStyle": {
       "fontName": "AvenirNext-Bold",
       "textAlignment": "center"
+    },
+    "titleTextStyle2": {
+      "fontName": "PrumoDeck-Bold"
     },
     "tocTextStyle": {
       "fontName": "AvenirNextCondensed-Medium",
@@ -1189,16 +1491,32 @@
       "fontSize": 17,
       "lineHeight": 21
     },
+    "sidebarBodyCenteredTextStyle": {
+      "fontName": "AvenirNext-Medium",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "textAlignment": "center",
+      "tracking": 0.02
+    },
+    "sidebarHeading2CenteredTextStyle": {
+      "fontName": "Georgia-Bold",
+      "fontSize": 45,
+      "lineHeight": 50,
+      "textAlignment": "center"
+    },
+    "sidebarHeading3CenteredTextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "fontSize": 24,
+      "lineHeight": 28,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": -0.05
+    },
     "sidebarHeadingCentered4TextStyle": {
       "fontName": "AvenirNext-Bold",
       "fontSize": 24,
       "lineHeight": 28,
       "textAlignment": "center"
-    },
-    "sidebarIntroTextStyle": {
-      "fontName": "Georgia-Italic",
-      "fontSize": 20,
-      "lineHeight": 26
     },
     "subsectionIntroTextStyle": {
       "fontName": "Georgia-Italic",

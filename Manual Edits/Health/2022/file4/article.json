@@ -1,0 +1,1499 @@
+{
+  "version": "1.9",
+  "identifier": "health_article_881-189-6-1",
+  "title": "MORE AT HEALTH.COM",
+  "language": "en",
+  "layout": {
+    "columns": 20,
+    "gutter": 20,
+    "margin": 40,
+    "width": 768
+  },
+  "metadata": {
+    "dateCreated": "2022-01-31T20:07:08.280Z",
+    "dateModified": "2022-01-31T17:45:31+00:00",
+    "excerpt": "Keeping up an exercise routine when you already have a jam-packed schedule can be tough. Luckily, the recent boom of virtual fitness classes makes it easier to sneak in a workout whenever you have the chance. Click here to view our editor-picked remote sweat sessions that are worth the hype.",
+    "generatorName": "ANTE Generic Template",
+    "generatorVersion": "0.0.4.30-2022-01-31 17:58",
+    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_881/storage/images/media2/images/gettyimages_03710/245064-1-eng-US/gettyimages_0372.jpg?q=100"
+  },
+  "documentStyle": {
+    "backgroundColor": "#fff"
+  },
+  "components": [
+    {
+      "//": "==== DEFAULT HEADER: TITLE ===",
+      "role": "title",
+      "layout": "titleLayout",
+      "textStyle": "titleTextStyle",
+      "format": "html",
+      "text": "MORE AT HEALTH.COM"
+    },
+    {
+      "//": "======== HERO IMAGE CONTAINER =======",
+      "role": "container",
+      "layout": "heroImageLayout",
+      "components": [
+        {
+          "//": "======== HERO IMAGE - H1198.0/W1367.0 * 100 = 87.6371617 ========",
+          "role": "photo",
+          "layout": "fullBleedPhotoLayout",
+          "URL": "https://cdn-assets.ziniopro.com/var/site_881/storage/images/media2/images/gettyimages_03710/245064-1-eng-US/gettyimages_0372.jpg?q=100"
+        }
+      ]
+    },
+    {
+      "//": "======== BODY CONTAINER =======",
+      "role": "container",
+      "layout": "bodyContainerLayout",
+      "components": [
+        {
+          "role": "heading3",
+          "layout": "heading3Layout",
+          "textStyle": "heading3TextStyle",
+          "format": "html",
+          "text": "Quick HIITs"
+        },
+        {
+          "role": "body",
+          "layout": "bodyNoMarginAboveLayout",
+          "style": "paragraphStyle",
+          "textStyle": "bodyTextStyle",
+          "format": "html",
+          "text": "Keeping up an exercise routine when you already have a jam-packed schedule can be tough. Luckily, the recent boom of virtual fitness classes makes it easier to sneak in a workout whenever you have the chance. Tap <a datastyle=\"\" href=\"http://tqr.bz/XA7\">here</a> to view our editor-picked remote sweat sessions that are worth the hype."
+        },
+        {
+          "role": "heading3",
+          "layout": "heading3Layout",
+          "textStyle": "heading3TextStyle",
+          "format": "html",
+          "text": "Better Health Care for All"
+        },
+        {
+          "role": "body",
+          "layout": "bodyNoMarginAboveLayout",
+          "style": "paragraphStyle",
+          "textStyle": "bodyTextStyle",
+          "format": "html",
+          "text": "Learning to advocate for yourself is a key way to take charge of your own health. But your doctor should know how to advocate for you too. Tap <a datastyle=\"\" href=\"http://tqr.bz/iuc\">here</a> to read <i>Health</i>’s guide on culturally competent care to learn how our health care systems can better provide for patients with diverse values, beliefs, behaviors, culture, and language."
+        },
+        {
+          "role": "heading3",
+          "layout": "heading3Layout",
+          "textStyle": "heading3TextStyle",
+          "format": "html",
+          "text": "Know Your Condition: Endometriosis"
+        },
+        {
+          "role": "body",
+          "layout": "bodyNoMarginAboveLayout",
+          "style": "paragraphStyle",
+          "textStyle": "bodyTextStyle",
+          "format": "html",
+          "text": "Did you know at least 11 percent of American women have endometriosis? Unfortunately, this often painful condition can go undiagnosed for years. That’s why our editors have put everything you need to know about endometriosis in one place: Head to our <a datastyle=\"\" href=\"https://tqr.bz/45H\">condition center</a> to learn about the symptoms, types, causes, and available treatments."
+        },
+        {
+          "//": "======== FULL BLEED CONTAINER ========",
+          "role": "container",
+          "layout": "fullBleedContainerLayout",
+          "components": [
+            {
+              "//": "======== IMAGE BLEED - H1723.0/W1367.0 * 100 = 126.0424287 ========",
+              "role": "image",
+              "layout": {
+                "maximumContentWidth": "65cw"
+              },
+              "URL": "https://cdn-assets.ziniopro.com/var/site_881/storage/images/media2/images/gettyimages_0387/245029-1-eng-US/gettyimages_0382.jpg?q=100"
+            }
+          ]
+        },
+        {
+          "role": "heading3",
+          "layout": "heading3Layout",
+          "textStyle": "heading3TextStyle",
+          "format": "html",
+          "text": "Are Air Fryers Healthy?"
+        },
+        {
+          "role": "body",
+          "layout": "bodyNoMarginAboveLayout",
+          "style": "paragraphStyle",
+          "textStyle": "bodyTextStyle",
+          "format": "html",
+          "text": "With endless possibilities for crispy vegetables and grease-free comfort foods, air fryers have become a modern kitchen staple. But while these appliances certainly use a lot less oil, are the foods you cook in them really better for you? We had a nutritionist weigh in <a datastyle=\"\" href=\"https://tqr.bz/UzT\">here</a>."
+        },
+        {
+          "role": "container",
+          "layout": "sidebarLayout",
+          "style": "sidebarNoBackgroundStyle",
+          "components": [
+            {
+              "//": "======== BODY CONTAINER =======",
+              "role": "container",
+              "layout": "bodyContainerLayout",
+              "style": "bodyContainerStyle",
+              "components": [
+                {
+                  "role": "heading2",
+                  "layout": "sidebarSmallMarginAboveLayout",
+                  "style": "heading2Style",
+                  "textStyle": "sidebarHeading2TextStyle",
+                  "format": "html",
+                  "text": "Get the News and Join the Conversation"
+                },
+                {
+                  "role": "body",
+                  "layout": "sidebarBodyLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "sidebarBodyTextStyle",
+                  "format": "html",
+                  "text": "INSTAGRAM <a href='https://www.instagram.com/healthmagazine'>@healthmagazine</a><br>FACEBOOK <a href='https://www.facebook.com/Health/'>@Health</a><br>TWITTER <a href='https://twitter.com/healthmagazine'>@healthmagazine</a><br>PINTEREST <a href='https://www.pinterest.com/health/'>@health</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "role": "body",
+          "layout": "attributeLayout",
+          "textStyle": "attributeTextStyle",
+          "format": "html",
+          "text": "EXERCISING: BOONCHAI WEDMAKAWAND/GETTY IMAGES; AIR FRYER: TRONG NGUYEN/GETTY IMAGES"
+        }
+      ]
+    },
+    {
+      "role": "container",
+      "layout": "bodyContainerLayout",
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "viewLocation": "article"
+            }
+          ],
+          "hidden": false
+        }
+      ],
+      "hidden": true,
+      "components": [
+        {
+          "role": "container",
+          "layout": "dividerLayout",
+          "style": "dividerSectionHeadStyle"
+        },
+        {
+          "//": "=== VISIT TOC LINK, ONLY VISIBLE IF USER IS IN ARTICLE VIEW ===",
+          "role": "body",
+          "layout": "bodyLayout",
+          "textStyle": "tocTextStyle",
+          "format": "html",
+          "text": "<a href='https://apple.news/AcwhpQXoxEeyFD8l6WdDzNQ'>Tap here</a> to see more from this issue of <i>Health</i>"
+        }
+      ]
+    }
+  ],
+  "componentLayouts": {
+    "attributeLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 15
+    },
+    "authorLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10
+      }
+    },
+    "blockContainerLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "bodyContainerLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": 10
+    },
+    "bodyLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 10
+    },
+    "bodyNoMarginAboveLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10
+      }
+    },
+    "bottomPhotoDividerLayout": {
+      "//": "UNUSED"
+    },
+    "calloutBodyLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 5
+      }
+    },
+    "calloutHeadingLayout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "calloutLayout": {
+      "columnSpan": 16,
+      "columnStart": 2,
+      "margin": 20,
+      "padding": {
+        "bottom": 10,
+        "left": 20,
+        "right": 20,
+        "top": 10
+      }
+    },
+    "captionAdLayout": {
+      "//": "UNUSED"
+    },
+    "captionLayout": {
+      "margin": 8
+    },
+    "collectionLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "customHeaderLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 30
+      },
+      "padding": {
+        "bottom": 20,
+        "top": 35
+      }
+    },
+    "darkModePaddingLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "margin": {
+            "bottom": 10,
+            "top": 10
+          },
+          "padding": "10"
+        }
+      ]
+    },
+    "dividerCollectionLayout": {
+      "//": "UNUSED"
+    },
+    "dividerLayout": {
+      "//": "UNUSED"
+    },
+    "dividerStandardLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "minimumHeight": 1
+    },
+    "dividerTocLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 15,
+        "top": 20
+      },
+      "minimumHeight": 1
+    },
+    "editorSigLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "horizontalContentAlignment": "left",
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "maximumContentWidth": "25cw",
+      "minimumHeight": 100
+    },
+    "floatContainerLayout": {
+      "columnSpan": 4,
+      "columnStart": 1,
+      "conditional": [
+        {
+          "columnSpan": 4,
+          "columnStart": 0,
+          "conditions": [
+            {
+              "maxViewportWidth": 415
+            }
+          ]
+        }
+      ]
+    },
+    "fullBleedContainerLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "fullBleedDividerLayout": {
+      "//": "UNUSED"
+    },
+    "fullBleedLayout": {
+      "ignoreDocumentMargin": true
+    },
+    "fullBleedPhotoLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 700
+            }
+          ],
+          "ignoreDocumentMargin": false
+        }
+      ],
+      "ignoreDocumentMargin": true
+    },
+    "galleryPhotoLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "heading2Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 20
+      }
+    },
+    "heading3Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading4Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading5Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading6Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 20
+      }
+    },
+    "heroImageLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 15
+      }
+    },
+    "heroImageTallLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 15
+      }
+    },
+    "ingredientsLayout": {
+      "margin": {
+        "bottom": 5
+      }
+    },
+    "introLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 12
+      }
+    },
+    "noMarginLayout": {
+      "columnSpan": 18,
+      "columnStart": 1
+    },
+    "photoCreditLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "top": 8
+      },
+      "padding": {
+        "right": 15
+      }
+    },
+    "productImageStandardLayout": {
+      "minimumHeight": 280
+    },
+    "pullQuoteLayout": {
+      "columnSpan": 16,
+      "columnStart": 2,
+      "conditional": [
+        {
+          "columnSpan": 16,
+          "columnStart": 2,
+          "conditions": [
+            {
+              "minViewportWidth": 600
+            }
+          ],
+          "padding": {
+            "bottom": 30,
+            "left": "7cw",
+            "right": "7cw",
+            "top": 30
+          }
+        }
+      ],
+      "margin": 20,
+      "padding": {
+        "bottom": 25,
+        "left": 20,
+        "right": 20,
+        "top": 22
+      }
+    },
+    "recipeIconLayout": {
+      "horizontalContentAlignment": "center",
+      "maximumContentWidth": 30
+    },
+    "recipeKeyImageLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "horizontalContentAlignment": "left",
+      "margin": {
+        "bottom": 10,
+        "top": 5
+      },
+      "maximumContentWidth": 370,
+      "URL": "https://public-assets-dev.meredithcorp.io/a74420c0cf40518e44c2f5741bff24e2/key.png"
+    },
+    "recipeLabelLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "horizontalContentAlignment": "left",
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "maximumContentWidth": "25cw",
+      "minimumHeight": 35
+    },
+    "recipeSubheadLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 4,
+        "top": 5
+      }
+    },
+    "sectionLayout": {
+      "margin": {
+        "bottom": 25,
+        "top": 5
+      }
+    },
+    "sidebarBodyLayout": {
+      "margin": 10
+    },
+    "sidebarBodyNoMarginAboveLayout": {
+      "margin": {
+        "bottom": 10
+      }
+    },
+    "sidebarDividerLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "minimumHeight": 1
+    },
+    "sidebarFloatContainerLayout": {
+      "columnSpan": 4,
+      "columnStart": 0
+    },
+    "sidebarHeading2Layout": {
+      "margin": {
+        "bottom": 10,
+        "top": 10
+      }
+    },
+    "sidebarHeading3Layout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "sidebarHeading4Layout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "sidebarIntroLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 5
+      }
+    },
+    "sidebarLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 20,
+      "padding": {
+        "bottom": 10,
+        "left": 30,
+        "right": 30,
+        "top": 10
+      }
+    },
+    "sidebarSingleBlockContainerLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "sidebarSmallMarginAboveLayout": {
+      "margin": {
+        "top": 2
+      }
+    },
+    "sidebarStraplineLayout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "singleBlockContainerLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "smallMarginAboveLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 2
+      }
+    },
+    "spacerLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "straplineLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 4
+      }
+    },
+    "titleLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 15,
+        "top": 10
+      }
+    },
+    "topPhotoDividerLayout": {
+      "//": "UNUSED"
+    }
+  },
+  "componentStyles": {
+    "attributeStyle": {
+      "//": "UNUSED"
+    },
+    "authorStyle": {
+      "//": "UNUSED"
+    },
+    "bodyContainerStyle": {
+      "//": "UNUSED"
+    },
+    "calloutStyle": {
+      "backgroundColor": "#000",
+      "mask": {
+        "radius": 10,
+        "type": "corners"
+      }
+    },
+    "captionAdStyle": {
+      "//": "UNUSED"
+    },
+    "customHeaderStyle": {
+      "backgroundColor": "#FDEAEB",
+      "conditional": [
+        {
+          "backgroundColor": "#FDEAEB",
+          "conditions": [
+            {
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "darkModeBackgroundStyle": {
+      "conditional": [
+        {
+          "backgroundColor": "#FFF",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "dividerSectionHeadStyle": {
+      "border": {
+        "all": {
+          "color": "#ececec",
+          "width": 1
+        },
+        "bottom": true,
+        "left": false,
+        "right": false,
+        "top": true
+      },
+      "conditional": [
+        {
+          "border": {
+            "all": {
+              "color": "#666666",
+              "width": 1
+            },
+            "bottom": true,
+            "left": false,
+            "right": false,
+            "top": true
+          },
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "dividerStandardStyle": {
+      "backgroundColor": "#000"
+    },
+    "dividerTocStyle": {
+      "//": "UNUSED"
+    },
+    "editorSigStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "fillMode": "fit",
+            "horizontalAlignment": "left",
+            "type": "image",
+            "URL": "https://public-assets.meredithcorp.io/6a4d216cc9de23a7e8167b2d1c0a2530/amyconway-3.png"
+          }
+        }
+      ],
+      "fill": {
+        "fillMode": "fit",
+        "horizontalAlignment": "left",
+        "type": "image",
+        "URL": "https://cdn-assets.ziniopro.com/var/site_881/storage/images/media2/images/amyconway_s_0082/160366-1-eng-US/amyconway_s_0082.jpg?q=100"
+      }
+    },
+    "fullBleedContainerStyle": {
+      "//": "UNUSED"
+    },
+    "heading2Style": {
+      "//": "UNUSED"
+    },
+    "heading3Style": {
+      "//": "UNUSED"
+    },
+    "heading4Style": {
+      "//": "UNUSED"
+    },
+    "heading5Style": {
+      "//": "UNUSED"
+    },
+    "heading6Style": {
+      "//": "UNUSED"
+    },
+    "ingredientsStyle": {
+      "tableStyle": {
+        "cells": {
+          "conditional": [
+            {
+              "horizontalAlignment": "right",
+              "padding": {
+                "right": 5
+              },
+              "selectors": [
+                {
+                  "columnIndex": 0
+                }
+              ],
+              "width": 10
+            },
+            {
+              "horizontalAlignment": "left",
+              "padding": {
+                "left": 5
+              },
+              "selectors": [
+                {
+                  "columnIndex": 1
+                }
+              ],
+              "width": 75
+            }
+          ],
+          "textStyle": "ingredientsTextStyle",
+          "verticalAlignment": "top"
+        },
+        "columns": {
+          "conditional": [
+            {
+              "selectors": [
+                {
+                  "columnIndex": 0
+                }
+              ],
+              "width": 10
+            },
+            {
+              "selectors": [
+                {
+                  "columnIndex": 1
+                }
+              ],
+              "width": 45
+            }
+          ]
+        },
+        "rows": {
+          "height": 20
+        }
+      }
+    },
+    "introStyle": {
+      "//": "UNUSED"
+    },
+    "paragraphDropCapStyle": {
+      "//": "UNUSED"
+    },
+    "paragraphStyle": {
+      "//": "UNUSED"
+    },
+    "photoContainerStyle": {
+      "//": "UNUSED"
+    },
+    "pullQuoteStyle": {
+      "border": {
+        "all": {
+          "color": "#000",
+          "width": 1
+        },
+        "left": false,
+        "right": false
+      }
+    },
+    "recipeLabelStyleGF": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "fillMode": "fit",
+            "horizontalAlignment": "left",
+            "type": "image",
+            "URL": "https://public-assets.meredithcorp.io/dfbbf2648453bca9aa4103c69dc0bd45/recipe-gf.png"
+          }
+        }
+      ],
+      "fill": {
+        "fillMode": "fit",
+        "horizontalAlignment": "left",
+        "type": "image",
+        "URL": "https://public-assets.meredithcorp.io/dfeb90a955a7147a00a5ee9d2db0ba02/recipe-gf.jpg"
+      }
+    },
+    "recipeLabelStyleGFCentered": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "fillMode": "fit",
+            "horizontalAlignment": "center",
+            "type": "image",
+            "URL": "https://public-assets.meredithcorp.io/dfbbf2648453bca9aa4103c69dc0bd45/recipe-gf.png"
+          }
+        }
+      ],
+      "fill": {
+        "fillMode": "fit",
+        "horizontalAlignment": "center",
+        "type": "image",
+        "URL": "https://public-assets.meredithcorp.io/dfeb90a955a7147a00a5ee9d2db0ba02/recipe-gf.jpg"
+      }
+    },
+    "recipeLabelStyleHF": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "fillMode": "fit",
+            "horizontalAlignment": "left",
+            "type": "image",
+            "URL": "https://public-assets.meredithcorp.io/ce1f31c4570bbaa3b49d547bd8429f45/recipe-hf.png"
+          }
+        }
+      ],
+      "fill": {
+        "fillMode": "fit",
+        "horizontalAlignment": "left",
+        "type": "image",
+        "URL": "https://public-assets.meredithcorp.io/18db01f9c694387b540dc500a5ea8f8a/recipe-hf.jpg"
+      }
+    },
+    "recipeLabelStyleHFCentered": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "fillMode": "fit",
+            "horizontalAlignment": "center",
+            "type": "image",
+            "URL": "https://public-assets.meredithcorp.io/ce1f31c4570bbaa3b49d547bd8429f45/recipe-hf.png"
+          }
+        }
+      ],
+      "fill": {
+        "fillMode": "fit",
+        "horizontalAlignment": "center",
+        "type": "image",
+        "URL": "https://public-assets.meredithcorp.io/18db01f9c694387b540dc500a5ea8f8a/recipe-hf.jpg"
+      }
+    },
+    "recipeLabelStyleHP": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "fillMode": "fit",
+            "horizontalAlignment": "left",
+            "type": "image",
+            "URL": "https://public-assets.meredithcorp.io/93ffc89bd8769a3b27583d8d134e4aa0/recipe-hp.png"
+          }
+        }
+      ],
+      "fill": {
+        "fillMode": "fit",
+        "horizontalAlignment": "left",
+        "type": "image",
+        "URL": "https://public-assets.meredithcorp.io/cc365a9d946e629f954cf7e27638edd7/recipe-hp.jpg"
+      }
+    },
+    "recipeLabelStyleHPCentered": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "fillMode": "fit",
+            "horizontalAlignment": "center",
+            "type": "image",
+            "URL": "https://public-assets.meredithcorp.io/93ffc89bd8769a3b27583d8d134e4aa0/recipe-hp.png"
+          }
+        }
+      ],
+      "fill": {
+        "fillMode": "fit",
+        "horizontalAlignment": "center",
+        "type": "image",
+        "URL": "https://public-assets.meredithcorp.io/cc365a9d946e629f954cf7e27638edd7/recipe-hp.jpg"
+      }
+    },
+    "recipeLabelStyleV": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "fillMode": "fit",
+            "horizontalAlignment": "left",
+            "type": "image",
+            "URL": "https://public-assets.meredithcorp.io/aae176470f83acb5f8ce099508788935/recipe-v.png"
+          }
+        }
+      ],
+      "fill": {
+        "fillMode": "fit",
+        "horizontalAlignment": "left",
+        "type": "image",
+        "URL": "https://public-assets.meredithcorp.io/2c98d7efd2ffa980b3283cab6654a319/recipe-v.jpg"
+      }
+    },
+    "recipeLabelStyleVCentered": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "fillMode": "fit",
+            "horizontalAlignment": "Center",
+            "type": "image",
+            "URL": "https://public-assets.meredithcorp.io/aae176470f83acb5f8ce099508788935/recipe-v.png"
+          }
+        }
+      ],
+      "fill": {
+        "fillMode": "fit",
+        "horizontalAlignment": "center",
+        "type": "image",
+        "URL": "https://public-assets.meredithcorp.io/2c98d7efd2ffa980b3283cab6654a319/recipe-v.jpg"
+      }
+    },
+    "recipeLabelStyleVE": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "fillMode": "fit",
+            "horizontalAlignment": "left",
+            "type": "image",
+            "URL": "https://public-assets.meredithcorp.io/9f017d09f19a549a7e69be76e8699460/recipe-ve.png"
+          }
+        }
+      ],
+      "fill": {
+        "fillMode": "fit",
+        "horizontalAlignment": "left",
+        "type": "image",
+        "URL": "https://public-assets.meredithcorp.io/f83a6de315a61acf3ad247ab382270d2/recipe-ve.jpg"
+      }
+    },
+    "recipeLabelStyleVECentered": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "fill": {
+            "fillMode": "fit",
+            "horizontalAlignment": "center",
+            "type": "image",
+            "URL": "https://public-assets.meredithcorp.io/9f017d09f19a549a7e69be76e8699460/recipe-ve.png"
+          }
+        }
+      ],
+      "fill": {
+        "fillMode": "fit",
+        "horizontalAlignment": "center",
+        "type": "image",
+        "URL": "https://public-assets.meredithcorp.io/f83a6de315a61acf3ad247ab382270d2/recipe-ve.jpg"
+      }
+    },
+    "sectionStyle": {
+      "//": "UNUSED"
+    },
+    "sidebarNoBackgroundStyle": {
+      "border": {
+        "all": {
+          "color": "#f8ecdc",
+          "width": 4
+        }
+      },
+      "conditional": [
+        {
+          "border": {
+            "all": {
+              "color": "#f8ecdc",
+              "width": 4
+            }
+          },
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "sidebarStyle": {
+      "backgroundColor": "#f8ecdc",
+      "conditional": [
+        {
+          "backgroundColor": "#f8ecdc",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "straplineStyle": {
+      "//": "UNUSED"
+    },
+    "titleStyle": {
+      "//": "UNUSED"
+    }
+  },
+  "textStyles": {
+    "creditTextStyle": {
+      "fontName": "BentonSans-Book",
+      "fontSize": 10,
+      "textColor": "#8d8d8d",
+      "tracking": 0.05
+    },
+    "default-tag-caption-heading": {
+      "fontName": "BentonSans-Black",
+      "fontSize": 15,
+      "textTransform": "uppercase",
+      "tracking": 0.06
+    },
+    "default-tag-emoji": {
+      "fontName": "AppleColorEmoji"
+    },
+    "default-tag-lede": {
+      "fontName": "BentonSans-Black",
+      "fontSize": 15,
+      "textTransform": "uppercase",
+      "tracking": 0.06
+    },
+    "default-tag-pipe": {
+      "fontName": "BentonSans-Book",
+      "fontSize": 32
+    },
+    "default-tag-pullquote-attribution": {
+      "fontName": "BentonSans-Book",
+      "fontSize": 14,
+      "textTransform": "uppercase"
+    },
+    "default-tag-q": {
+      "fontName": "LibreFranklin-ExtraBold"
+    },
+    "default-tag-sidebar-lede": {
+      "fontName": "LibreFranklin-Bold"
+    },
+    "default-tag-subsection": {
+      "fontName": "LibreFranklin-Bold",
+      "fontSize": 14,
+      "tracking": 0.12
+    },
+    "endMarkerTextStyle": {
+      "//": "UNUSED"
+    },
+    "subSectionTextStyle": {
+      "//": "UNUSED"
+    }
+  },
+  "componentTextStyles": {
+    "//": {
+      "//": "================ HEALTH OVERRIDES ================"
+    },
+    "attributeTextStyle": {
+      "fontName": "BentonSans-Book",
+      "fontSize": 10,
+      "lineHeight": 12,
+      "tracking": 0.05
+    },
+    "authorTextStyle": {
+      "fontName": "BentonSans-Black",
+      "textTransform": "uppercase",
+      "tracking": 0.06
+    },
+    "bodyCenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "bodyDropCapTextStyle": {
+      "fontName": "ChronicleTextG1-Roman"
+    },
+    "bodyTextStyle": {
+      "fontName": "ChronicleTextG1-Roman"
+    },
+    "calloutBodyTextStyle": {
+      "fontName": "LibreFranklin-Medium",
+      "fontSize": 16,
+      "lineHeight": 20,
+      "textAlignment": "center",
+      "textColor": "#fff"
+    },
+    "calloutHeadingTextStyle": {
+      "fontName": "LibreFranklin-Bold",
+      "fontSize": 19,
+      "lineHeight": 21,
+      "textAlignment": "center",
+      "textColor": "#fff",
+      "textTransform": "uppercase"
+    },
+    "captionAdTextStyle": {
+      "//": "UNUSED"
+    },
+    "captionCenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "captionEmbeddedTextStyle": {
+      "fontName": "HelveticaNeue",
+      "lineHeight": 16
+    },
+    "captionTextStyle": {
+      "fontName": "BentonSans-Book"
+    },
+    "customSectionHeadingTextStyle": {
+      "fontName": "BentonSans-Black",
+      "fontSize": 52,
+      "lineHeight": 40,
+      "textAlignment": "center",
+      "tracking": 0.04
+    },
+    "customSectionSubHeadingBeautyTextStyle": {
+      "fontName": "LibreFranklin-Bold",
+      "fontSize": 13,
+      "lineHeight": 15,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.15
+    },
+    "customSectionSubHeadingBodyAndMindTextStyle": {
+      "fontName": "LibreFranklin-Bold",
+      "fontSize": 12,
+      "lineHeight": 14,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.15
+    },
+    "customSectionSubHeadingFoodTextStyle": {
+      "fontName": "LibreFranklin-Bold",
+      "fontSize": 13,
+      "lineHeight": 15,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.15
+    },
+    "customSectionSubHeadingLifeTextStyle": {
+      "fontName": "LibreFranklin-Bold",
+      "fontSize": 13,
+      "lineHeight": 15,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.15
+    },
+    "customSectionSubHeadingTheShareTextStyle": {
+      "fontName": "LibreFranklin-Bold",
+      "fontSize": 14,
+      "lineHeight": 16,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.15
+    },
+    "default": {
+      "fontName": "BentonSans-Black",
+      "hyphenation": false,
+      "linkStyle": {
+        "underline": true
+      },
+      "textColor": "#000"
+    },
+    "default-author": {
+      "fontSize": 12,
+      "lineHeight": 14
+    },
+    "default-body": {
+      "fontSize": 18,
+      "lineHeight": 21,
+      "paragraphSpacingAfter": 12,
+      "paragraphSpacingBefore": 12
+    },
+    "default-byline": {
+      "//": "UNUSED"
+    },
+    "default-caption": {
+      "fontSize": 13,
+      "lineHeight": 15
+    },
+    "default-heading": {
+      "fontSize": 16,
+      "lineHeight": 16
+    },
+    "default-heading2": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 500
+            }
+          ],
+          "fontSize": 30,
+          "lineHeight": 32
+        }
+      ],
+      "fontSize": 40,
+      "lineHeight": 42
+    },
+    "default-heading3": {
+      "fontSize": 24,
+      "lineHeight": 26
+    },
+    "default-heading4": {
+      "fontSize": 19,
+      "lineHeight": 21
+    },
+    "default-heading5": {
+      "fontSize": 18,
+      "lineHeight": 20
+    },
+    "default-heading6": {
+      "fontSize": 16,
+      "lineHeight": 18
+    },
+    "default-intro": {
+      "fontSize": 20,
+      "lineHeight": 21
+    },
+    "default-photographer": {
+      "//": "UNUSED"
+    },
+    "default-pullquote": {
+      "fontSize": 32,
+      "lineHeight": 32,
+      "textAlignment": "center"
+    },
+    "default-title": {
+      "fontSize": 58,
+      "lineHeight": 54
+    },
+    "floatImageCaptionTextStyle": {
+      "fontName": "BentonSans-Book"
+    },
+    "heading2CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading2TextStyle": {
+      "textTransform": "uppercase"
+    },
+    "heading3CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading3TextStyle": {
+      "//": "UNUSED"
+    },
+    "heading4CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading4TextStyle": {
+      "textTransform": "uppercase"
+    },
+    "heading5CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading5TextStyle": {
+      "//": "UNUSED"
+    },
+    "heading6CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading6TextStyle": {
+      "textTransform": "uppercase",
+      "tracking": 0.05
+    },
+    "ingredientsTextStyle": {
+      "fontName": "LibreFranklin-SemiBold",
+      "fontSize": 15,
+      "lineHeight": 19
+    },
+    "introTextStyle": {
+      "fontName": "Acta-Medium"
+    },
+    "photoCreditTextStyle": {
+      "fontName": "BentonSans-Book",
+      "fontSize": 10,
+      "lineHeight": 12,
+      "textAlignment": "right",
+      "textTransform": "uppercase",
+      "tracking": 0.05
+    },
+    "pullQuoteTextStyle": {
+      "fontName": "Acta-ExtraBold"
+    },
+    "recipeBodyTextStyle": {
+      "fontName": "LibreFranklin-Regular",
+      "fontSize": 16,
+      "lineHeight": 20
+    },
+    "recipeDetailsTextStyle": {
+      "fontName": "LibreFranklin-Regular",
+      "fontSize": 15,
+      "lineHeight": 17
+    },
+    "recipeNutritionInfoTextStyle": {
+      "fontName": "LibreFranklin-Regular",
+      "fontSize": 14,
+      "lineHeight": 16
+    },
+    "recipeSubheadTextStyle": {
+      "fontName": "LibreFranklin-Bold",
+      "fontSize": 17,
+      "lineHeight": 19,
+      "textTransform": "uppercase",
+      "tracking": 0.02
+    },
+    "recipeTitleTextStyle": {
+      "fontSize": 24,
+      "lineHeight": 26,
+      "textTransform": "uppercase",
+      "tracking": 0.06,
+      "underline": true
+    },
+    "sectionTextStyle": {
+      "fontSize": 16,
+      "lineHeight": 18,
+      "textTransform": "uppercase",
+      "tracking": 0.08
+    },
+    "sidebarBodyTextStyle": {
+      "fontName": "LibreFranklin-Regular",
+      "fontSize": 16,
+      "lineHeight": 20,
+      "textAlignment": "center"
+    },
+    "sidebarHeading2TextStyle": {
+      "fontName": "Acta-ExtraBold",
+      "textAlignment": "center"
+    },
+    "sidebarHeading3TextStyle": {
+      "fontName": "LibreFranklin-ExtraBold",
+      "fontSize": 17,
+      "lineHeight": 16,
+      "textAlignment": "center"
+    },
+    "sidebarHeading4TextStyle": {
+      "fontSize": 16,
+      "lineHeight": 18,
+      "textAlignment": "center"
+    },
+    "sidebarIntroTextStyle": {
+      "fontName": "LibreFranklin-SemiBold",
+      "fontSize": 16,
+      "lineHeight": 20,
+      "textAlignment": "center"
+    },
+    "sidebarStraplineTextStyle": {
+      "fontSize": 14,
+      "lineHeight": 16,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.08
+    },
+    "straplineTextStyle": {
+      "fontSize": 14,
+      "lineHeight": 16,
+      "textTransform": "uppercase",
+      "tracking": 0.08
+    },
+    "titleTextStyle": {
+      "textTransform": "uppercase"
+    },
+    "tocTextStyle": {
+      "fontName": "AvenirNextCondensed-Medium",
+      "fontSize": 16,
+      "linkStyle": {
+        "underline": true
+      },
+      "textAlignment": "center",
+      "textColor": "#000"
+    }
+  }
+}

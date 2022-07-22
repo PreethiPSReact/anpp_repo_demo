@@ -56,7 +56,7 @@
           "layout": "sectionLayout",
           "textStyle": "sectionTextStyle",
           "format": "html",
-          "text": "<b>MARILYN</b> 60 years later"
+          "text": "<B>MARILYN</B> 60 YEARS LATER"
         },
         {
           "role": "container",
@@ -833,6 +833,18 @@
     "subSectionTextStyle": {
       "//": "UNUSED"
     },
+    "default-tag-author-name": {
+      "fontName": "Juana-SemiBold"
+    },
+    "default-tag-title-italic": {
+      "fontName": "ivy-italic"
+    },
+    "default-tag-pullquote-italic": {
+      "fontName": "Juana-RegularIt"
+    },
+    "default-tag-twenty-five": {
+      "fontName": "Didot-Bold"
+    },
     "default-tag-attributionproduct": {
       "fontName": "RivieraNights-Medium",
       "fontSize": 14
@@ -867,9 +879,6 @@
       "fontSize": 12,
       "textTransform": "lowercase",
       "tracking": 0.07
-    },
-    "default-tag-title-italic": {
-      "fontName": "ivy-italic"
     },
     "default-tag-title-thin": {
       "fontName": "RivieraNights-Light"
@@ -1151,6 +1160,45 @@
       "textAlignment": "center",
       "textColor": "#131313"
     },
+    "captionLeftTextStyle": {
+      "fontName": "RivieraNights-Medium"
+    },
+    "introTextStyle2": {
+      "fontName": "JuanaAlt-Regular",
+      "fontSize": 22,
+      "lineHeight": 27,
+      "textTransform": "uppercase"
+    },
+    "pullQuoteAttributionTextStyle": {
+      "fontName": "AustinText-Italic",
+      "fontSize": 15,
+      "lineHeight": 18,
+      "textAlignment": "center"
+    },
+    "bodyIntroTextStyle": {
+      "fontName": "MBEmpire-Book",
+      "lineHeight": 18,
+      "textAlignment": "center"
+    },
+    "sidebarBodyLeftTextStyle": {
+      "fontName": "MBEmpire-Book"
+    },
+    "sidebarHeading2LeftTextStyle": {
+      "fontName": "MBEmpire-Bold",
+      "textTransform": "uppercase"
+    },
+    "titleBigTextStyle": {
+      "fontName": "JuanaAlt-Regular",
+      "fontSize": 130,
+      "lineHeight": 110,
+      "textAlignment": "center",
+      "tracking": -0.03
+    },
+    "ingredientsTextStyle": {
+      "fontName": "RivieraNights-Bold",
+      "fontSize": 15,
+      "lineHeight": 19
+    },
     "bigQuestionBodyTextStyle": {
       "fontName": "RivieraNights-Black",
       "fontSize": 40,
@@ -1165,9 +1213,6 @@
       "textColor": "#d51c30",
       "textTransform": "uppercase"
     },
-    "captionLeftTextStyle": {
-      "fontName": "RivieraNights-Medium"
-    },
     "heading2LeftAlignedTextStyle": {
       "fontName": "RivieraNights-Black",
       "textAlignment": "center",
@@ -1175,17 +1220,6 @@
       "underline": {
         "color": "#000"
       }
-    },
-    "ingredientsTextStyle": {
-      "fontName": "RivieraNights-Bold",
-      "fontSize": 15,
-      "lineHeight": 19
-    },
-    "pullQuoteAttributionTextStyle": {
-      "fontName": "AustinText-Italic",
-      "fontSize": 15,
-      "lineHeight": 18,
-      "textAlignment": "center"
     },
     "readThroughRecipeTitleTextStyle": {
       "fontName": "RivieraNights-Bold",

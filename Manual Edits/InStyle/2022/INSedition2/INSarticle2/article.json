@@ -56,7 +56,7 @@
           "layout": "sectionLayout",
           "textStyle": "sectionTextStyle",
           "format": "html",
-          "text": "<b>MARILYN</b> 60 years later"
+          "text": "<B>MARILYN</B> 60 YEARS LATER"
         },
         {
           "role": "container",
@@ -587,12 +587,7 @@
       "//": "UNUSED"
     },
     "calloutStyle": {
-      "border": {
-        "all": {
-          "color": "#8d8d8d",
-          "width": 2
-        }
-      }
+      "//": "UNUSED"
     },
     "captionAdStyle": {
       "//": "UNUSED"
@@ -705,18 +700,12 @@
       }
     },
     "sidebarStyle": {
-      "backgroundColor": "#f2f2f2",
-      "conditional": [
-        {
-          "backgroundColor": "#f2f2f2",
-          "conditions": [
-            {
-              "minSpecVersion": "1.14",
-              "preferredColorScheme": "dark"
-            }
-          ]
+      "border": {
+        "all": {
+          "color": "#000",
+          "width": 8
         }
-      ]
+      }
     },
     "straplineStyle": {
       "//": "UNUSED"
@@ -727,35 +716,31 @@
   },
   "textStyles": {
     "creditTextStyle": {
-      "fontName": "AvenirNext-Medium",
-      "fontSize": 10,
+      "fontName": "MBEmpire-Light",
+      "fontSize": 9,
       "textColor": "#8d8d8d",
-      "textTransform": "uppercase",
-      "tracking": 0.1
+      "tracking": 0.05
     },
     "default-tag-caption-heading": {
-      "fontName": "AvenirNext-Bold",
-      "fontSize": 14,
-      "textTransform": "uppercase",
-      "tracking": 0.05
+      "fontName": "MBEmpire-Heavy",
+      "fontSize": 13,
+      "textTransform": "uppercase"
     },
     "default-tag-emoji": {
       "fontName": "AppleColorEmoji"
     },
     "default-tag-lede": {
-      "fontName": "AvenirNext-Bold"
+      "fontName": "MBEmpire-Heavy",
+      "fontSize": 12,
+      "textTransform": "uppercase"
     },
     "default-tag-pullquote-attribution": {
-      "fontName": "Georgia-Bold",
-      "fontSize": 15,
-      "textTransform": "uppercase",
-      "tracking": 0.15
+      "fontName": "MBEmpire-Heavy",
+      "fontSize": 12,
+      "textTransform": "uppercase"
     },
     "default-tag-sidebar-lede": {
-      "fontName": "AvenirNext-Bold",
-      "fontSize": 16,
-      "textTransform": "uppercase",
-      "tracking": 0.05
+      "fontName": "MBEmpire-Heavy"
     },
     "default-tag-sub-section": {
       "fontName": "AvenirNext-Medium"
@@ -765,55 +750,64 @@
     },
     "subSectionTextStyle": {
       "//": "UNUSED"
+    },
+    "default-tag-author-name": {
+      "fontName": "Juana-SemiBold"
+    },
+    "default-tag-title-italic": {
+      "fontName": "Juana-RegularIt"
+    },
+    "default-tag-pullquote-italic": {
+      "fontName": "Juana-RegularIt"
+    },
+    "default-tag-twenty-five": {
+      "fontName": "Didot-Bold"
     }
   },
   "componentTextStyles": {
     "//": {
-      "//": "===================== LIFE OVERRIDES ====================="
+      "//": "===================== INSTYLE OVERRIDES ====================="
     },
     "attributeTextStyle": {
-      "fontName": "AvenirNext-Medium",
-      "fontSize": 10,
-      "lineHeight": 14,
-      "textColor": "#8d8d8d",
-      "textTransform": "uppercase",
-      "tracking": 0.1
+      "fontName": "MBEmpire-Light",
+      "fontSize": 9,
+      "lineHeight": 11,
+      "tracking": 0.05,
+      "textTransform": "uppercase"
     },
     "authorTextStyle": {
-      "fontName": "Georgia-Bold",
+      "fontName": "MBEmpire-Book",
       "textAlignment": "center",
-      "textTransform": "uppercase",
-      "tracking": 0.05
+      "textTransform": "uppercase"
     },
     "bodyCenteredTextStyle": {
-      "fontName": "Georgia",
+      "fontName": "ChronicleTextG1-Roman",
       "textAlignment": "center"
     },
     "bodyDropCapTextStyle": {
       "dropCapStyle": {
-        "fontName": "AvenirNext-Medium",
+        "fontName": "JuanaAlt-Regular",
         "numberOfCharacters": 1,
-        "numberOfLines": 4,
-        "numberOfRaisedLines": 0
+        "numberOfLines": 3,
+        "numberOfRaisedLines": 0,
+        "textColor": "#bf1c23"
       },
-      "fontName": "Georgia"
+      "fontName": "ChronicleTextG1-Roman"
     },
     "bodyTextStyle": {
-      "fontName": "Georgia"
+      "fontName": "ChronicleTextG1-Roman"
     },
     "calloutBodyTextStyle": {
-      "fontName": "Georgia-Italic",
-      "fontSize": 22,
-      "lineHeight": 28,
+      "fontSize": 16,
+      "lineHeight": 20,
       "textAlignment": "center"
     },
     "calloutHeadingTextStyle": {
-      "fontName": "AvenirNext-Bold",
-      "fontSize": 24,
-      "lineHeight": 28,
+      "fontName": "MBEmpire-Heavy",
+      "fontSize": 34,
+      "lineHeight": 36,
       "textAlignment": "center",
-      "textTransform": "uppercase",
-      "tracking": -0.05
+      "textTransform": "uppercase"
     },
     "captionAdTextStyle": {
       "//": "UNUSED"
@@ -822,28 +816,28 @@
       "textAlignment": "center"
     },
     "captionEmbeddedTextStyle": {
-      "fontName": "HelveticaNeue-Bold",
+      "fontName": "HelveticaNeue",
       "lineHeight": 16
     },
     "captionTextStyle": {
-      "fontName": "AvenirNext-Medium",
-      "textAlignment": "left"
+      "fontName": "MBEmpire-Book",
+      "textAlignment": "center"
     },
     "default": {
-      "fontName": "AvenirNext-Medium",
+      "fontName": "MBEmpire-Book",
       "hyphenation": false,
       "linkStyle": {
-        "underline": true
+        "textColor": "#366a9b"
       },
       "textColor": "#000"
     },
     "default-author": {
-      "fontSize": 15,
-      "lineHeight": 19
+      "fontSize": 11,
+      "lineHeight": 15
     },
     "default-body": {
-      "fontSize": 20,
-      "lineHeight": 26,
+      "fontSize": 14,
+      "lineHeight": 20,
       "paragraphSpacingAfter": 12,
       "paragraphSpacingBefore": 12
     },
@@ -851,61 +845,59 @@
       "//": "UNUSED"
     },
     "default-caption": {
-      "fontName": "AvenirNext-Medium",
-      "fontSize": 15,
-      "lineHeight": 22
+      "fontSize": 13,
+      "lineHeight": 14
     },
     "default-heading": {
       "fontSize": 16,
       "lineHeight": 16
     },
     "default-heading2": {
-      "fontSize": 45,
-      "lineHeight": 50
+      "fontSize": 34,
+      "lineHeight": 36
     },
     "default-heading3": {
-      "fontSize": 24,
-      "lineHeight": 28
+      "fontSize": 27,
+      "lineHeight": 29
     },
     "default-heading4": {
-      "fontSize": 24,
-      "lineHeight": 28
+      "fontSize": 16,
+      "lineHeight": 18
     },
     "default-heading5": {
-      "fontSize": 22,
-      "lineHeight": 24
+      "fontSize": 16,
+      "lineHeight": 18
     },
     "default-heading6": {
-      "fontSize": 18,
-      "lineHeight": 20
+      "fontSize": 14,
+      "lineHeight": 16
     },
     "default-intro": {
-      "fontName": "Avenir-Book",
-      "fontSize": 18,
-      "lineHeight": 20
+      "fontSize": 12,
+      "lineHeight": 18
     },
     "default-photographer": {
       "//": "UNUSED"
     },
     "default-pullquote": {
-      "fontSize": 30,
-      "lineHeight": 33
+      "fontSize": 32,
+      "lineHeight": 40,
+      "textAlignment": "center"
     },
     "default-title": {
-      "fontSize": 60,
-      "lineHeight": 66
+      "fontSize": 66,
+      "lineHeight": 68
     },
     "floatImageCaptionTextStyle": {
-      "fontName": "AvenirNext-Medium",
-      "textAlignment": "left"
+      "fontName": "MBEmpire-Book",
+      "textAlignment": "center"
     },
     "heading2CenteredTextStyle": {
-      "fontName": "AvenirNext-Bold",
+      "fontName": "JuanaAlt-Regular",
       "textAlignment": "center"
     },
     "heading2TextStyle": {
-      "fontName": "AvenirNext-Bold",
-      "tracking": -0.02
+      "fontName": "JuanaAlt-Regular"
     },
     "heading3CenteredTextStyle": {
       "fontName": "AvenirNext-Bold",
@@ -914,48 +906,45 @@
       "tracking": -0.05
     },
     "heading3TextStyle": {
-      "fontName": "AvenirNext-Bold",
-      "textTransform": "uppercase",
-      "tracking": -0.05
+      "fontName": "MBEmpire-Heavy"
     },
     "heading4CenteredTextStyle": {
       "textAlignment": "center"
     },
     "heading4TextStyle": {
-      "fontName": "AvenirNext-Bold",
-      "tracking": -0.01
+      "fontName": "MBEmpire-Heavy",
+      "textTransform": "uppercase"
     },
     "heading5CenteredTextStyle": {
       "textAlignment": "center"
     },
     "heading5TextStyle": {
-      "fontName": "Georgia-BoldItalic"
+      "fontName": "MBEmpire-Heavy"
     },
     "heading6CenteredTextStyle": {
-      "textAlignment": "center"
+      "fontName": "MBEmpire-Heavy",
+      "textAlignment": "center",
+      "textTransform": "uppercase"
     },
     "heading6TextStyle": {
-      "fontName": "AvenirNext-Bold",
-      "tracking": 0.05
+      "fontName": "MBEmpire-Heavy",
+      "textTransform": "uppercase"
     },
     "introTextStyle": {
-      "fontName": "Georgia-Italic",
-      "textAlignment": "center"
+      "fontName": "MBEmpire-Book",
+      "textAlignment": "center",
+      "textTransform": "uppercase"
     },
     "listTextStyle": {
       "fontSize": 17,
       "lineHeight": 21
     },
     "pullQuoteTextStyle": {
-      "fontName": "Georgia",
-      "textAlignment": "center"
+      "fontName": "JuanaAlt-Regular"
     },
     "sectionTextStyle": {
-      "fontName": "AvenirNext-Regular",
-      "fontSize": 14,
-      "lineHeight": 16,
-      "textTransform": "uppercase",
-      "tracking": 0.05
+      "fontName": "MBEmpire-Light",
+      "textTransform": "uppercase"
     },
     "sidebarBodyCenteredTextStyle": {
       "fontName": "AvenirNext-Medium",
@@ -965,10 +954,9 @@
       "tracking": 0.02
     },
     "sidebarBodyTextStyle": {
-      "fontName": "AvenirNext-Medium",
-      "fontSize": 18,
-      "lineHeight": 26,
-      "tracking": 0.02
+      "fontName": "MBEmpire-Book",
+      "lineHeight": 18,
+      "textAlignment": "center"
     },
     "sidebarHeading2CenteredTextStyle": {
       "fontName": "Georgia-Bold",
@@ -977,9 +965,9 @@
       "textAlignment": "center"
     },
     "sidebarHeading2TextStyle": {
-      "fontName": "Georgia-Bold",
-      "fontSize": 45,
-      "lineHeight": 50
+      "fontName": "MBEmpire-Bold",
+      "textAlignment": "center",
+      "textTransform": "uppercase"
     },
     "sidebarHeading3CenteredTextStyle": {
       "fontName": "AvenirNext-Bold",
@@ -990,17 +978,17 @@
       "tracking": -0.05
     },
     "sidebarHeading3TextStyle": {
-      "fontName": "AvenirNext-Bold",
-      "fontSize": 24,
-      "lineHeight": 28,
-      "textTransform": "uppercase",
-      "tracking": -0.05
+      "fontName": "MBEmpire-Heavy",
+      "fontSize": 16,
+      "lineHeight": 18,
+      "textAlignment": "center",
+      "textTransform": "uppercase"
     },
     "sidebarHeading4TextStyle": {
-      "fontName": "AvenirNext-Bold",
-      "fontSize": 24,
-      "lineHeight": 28,
-      "tracking": -0.01
+      "fontName": "MBEmpire-Heavy",
+      "fontSize": 15,
+      "lineHeight": 17,
+      "textAlignment": "center"
     },
     "sidebarHeadingCentered4TextStyle": {
       "fontName": "AvenirNext-Bold",
@@ -1014,10 +1002,10 @@
       "lineHeight": 26
     },
     "straplineTextStyle": {
-      "fontName": "AvenirNext-Bold",
-      "textAlignment": "center",
-      "textTransform": "uppercase",
-      "tracking": 0.15
+      "fontName": "MBEmpire-Heavy",
+      "fontSize": 15,
+      "lineHeight": 17,
+      "textAlignment": "center"
     },
     "subsectionIntroTextStyle": {
       "fontName": "Georgia-Italic",
@@ -1026,7 +1014,7 @@
       "textAlignment": "left"
     },
     "titleTextStyle": {
-      "fontName": "AvenirNext-Bold",
+      "fontName": "JuanaAlt-Regular",
       "textAlignment": "center"
     },
     "tocTextStyle": {
@@ -1037,6 +1025,46 @@
       },
       "textAlignment": "center",
       "textColor": "#000"
+    },
+    "captionLeftTextStyle": {
+      "fontName": "MBEmpire-BookItalic"
+    },
+    "introTextStyle2": {
+      "fontName": "JuanaAlt-Regular",
+      "fontSize": 22,
+      "lineHeight": 27,
+      "textTransform": "uppercase"
+    },
+    "pullQuoteAttributionTextStyle": {
+      "fontName": "MBEmpire-Heavy",
+      "fontSize": 12,
+      "lineHeight": 14,
+      "textAlignment": "center",
+      "textTransform": "uppercase"
+    },
+    "bodyIntroTextStyle": {
+      "fontName": "MBEmpire-Book",
+      "lineHeight": 18,
+      "textAlignment": "center"
+    },
+    "sidebarBodyLeftTextStyle": {
+      "fontName": "MBEmpire-Book"
+    },
+    "sidebarHeading2LeftTextStyle": {
+      "fontName": "MBEmpire-Bold",
+      "textTransform": "uppercase"
+    },
+    "titleBigTextStyle": {
+      "fontName": "JuanaAlt-Regular",
+      "fontSize": 130,
+      "lineHeight": 110,
+      "textAlignment": "center",
+      "tracking": -0.03
+    },
+    "ingredientsTextStyle": {
+      "fontName": "MBEmpire-Book",
+      "fontSize": 16,
+      "lineHeight": 18
     }
   }
 }

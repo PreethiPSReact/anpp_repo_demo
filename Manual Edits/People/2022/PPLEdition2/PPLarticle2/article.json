@@ -2,7 +2,7 @@
   "version": "1.9",
   "identifier": "people_article_677-1005-19-1",
   "title": "Chris Rock & Lake Bell Sharing Laughter and Pasta on Date Nights",
-  "language": "en",
+  "language": "eeeeeeeen",
   "layout": {
     "columns": 20,
     "gutter": 20,
@@ -74,7 +74,7 @@
           "layout": "rubricLayout",
           "textStyle": "rubricTextStyle",
           "format": "html",
-          "text": "&nbsp;July 25, 2022&nbsp;"
+          "text": "&nbsp;July 25, 2022 -- people&nbsp;"
         },
         {
           "role": "title",
@@ -152,7 +152,7 @@
                   "layout": "fullBleedPhotoLayout",
                   "caption": {
                     "format": "html",
-                    "text": "<b>Career-Focused</b><br>Rock will appear in <i>Amsterdam</i> with Margot Robbie.",
+                    "text": "<b>CAREER-FOCUSED</b><br>Rock will appear in <i>Amsterdam</i> with Margot Robbie.",
                     "textStyle": "captionEmbeddedTextStyle"
                   },
                   "URL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/amsterdam32/1999210-1-eng-US/amsterdam32.jpg?q=100"
@@ -1180,7 +1180,14 @@
       "//": "UNUSED"
     },
     "pullQuoteStyle": {
-      "//": "UNUSED"
+      "border": {
+        "all": {
+          "color": "#000",
+          "width": 1
+        },
+        "left": false,
+        "right": false
+      }
     },
     "pullQuoteStyleBottom": {
       "//": "UNUSED"
@@ -1192,42 +1199,14 @@
       "//": "UNUSED"
     },
     "sidebarStyle": {
-      "border": {
-        "all": {
-          "width": 6,
-          "color": "#000"
-        },
-        "left": false,
-        "right": false
-      },
+      "backgroundColor": "#FDE7DC",
       "conditional": [
         {
-          "border": {
-            "all": {
-              "width": 7,
-              "color": "#000"
-            },
-            "left": false,
-            "right": false
-          },
+          "backgroundColor": "#FDE7DC",
           "conditions": [
             {
-              "minViewportWidth": 415
-            }
-          ]
-        },
-        {
-          "border": {
-            "all": {
-              "width": 8,
-              "color": "#000"
-            },
-            "left": false,
-            "right": false
-          },
-          "conditions": [
-            {
-              "minViewportWidth": 780
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
             }
           ]
         }
@@ -1343,15 +1322,404 @@
           ]
         }
       ]
+    },
+    "agesStagesBodyContainerStyle": {
+      "backgroundColor": "#f4ebdc",
+      "conditional": [
+        {
+          "backgroundColor": "#f4ebdc",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "sidebarCenteredStyle": {
+      "backgroundColor": "#EDD6D1",
+      "conditional": [
+        {
+          "backgroundColor": "#EDD6D1",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "sidebarNoBackgroundStyle": {
+      "border": {
+        "all": {
+          "color": "#000",
+          "width": 1
+        },
+        "left": false,
+        "right": false
+      }
+    },
+    "calloutStyle": {
+      "border": {
+        "all": {
+          "color": "#000",
+          "width": 1
+        },
+        "left": false,
+        "right": false
+      }
+    },
+    "pullQuoteNoTopBorderStyle": {
+      "border": {
+        "all": {
+          "color": "#000",
+          "width": 1
+        },
+        "left": false,
+        "right": false,
+        "top": false
+      }
+    },
+    "coloredBoxHeadingStyle": {
+      "backgroundColor": "#EED4D4"
+    },
+    "ingredientsStyle": {
+      "tableStyle": {
+        "rows": {
+          "height": 20
+        },
+        "cells": {
+          "conditional": [
+            {
+              "horizontalAlignment": "right",
+              "padding": {
+                "right": 5
+              },
+              "selectors": [
+                {
+                  "columnIndex": 0
+                }
+              ],
+              "width": 10
+            },
+            {
+              "horizontalAlignment": "left",
+              "padding": {
+                "left": 5
+              },
+              "selectors": [
+                {
+                  "columnIndex": 1
+                }
+              ],
+              "width": 75
+            }
+          ],
+          "textStyle": "ingredientsTextStyle",
+          "verticalAlignment": "top"
+        },
+        "columns": {
+          "conditional": [
+            {
+              "selectors": [
+                {
+                  "columnIndex": 0
+                }
+              ],
+              "width": 10
+            },
+            {
+              "selectors": [
+                {
+                  "columnIndex": 1
+                }
+              ],
+              "width": 45
+            }
+          ]
+        }
+      }
+    },
+    "pillBlueLiteStyle": {
+      "backgroundColor": "#81c4cd",
+      "conditional": [
+        {
+          "backgroundColor": "#81c4cd",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ],
+      "mask": {
+        "radius": "50cw",
+        "type": "corners"
+      }
+    },
+    "pillBlueStyle": {
+      "backgroundColor": "#41c7f4",
+      "conditional": [
+        {
+          "backgroundColor": "#41c7f4",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ],
+      "mask": {
+        "radius": "50cw",
+        "type": "corners"
+      }
+    },
+    "pillGoldStyle": {
+      "backgroundColor": "#f0c04e",
+      "conditional": [
+        {
+          "backgroundColor": "#f0c04e",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ],
+      "mask": {
+        "radius": "50cw",
+        "type": "corners"
+      }
+    },
+    "pillOrangeLiteStyle": {
+      "backgroundColor": "#fbb161",
+      "conditional": [
+        {
+          "backgroundColor": "#fbb161",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ],
+      "mask": {
+        "radius": "50cw",
+        "type": "corners"
+      }
+    },
+    "pillOrangeStyle": {
+      "backgroundColor": "#f68e1d",
+      "conditional": [
+        {
+          "backgroundColor": "#f68e1d",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ],
+      "mask": {
+        "radius": "50cw",
+        "type": "corners"
+      }
+    },
+    "pillPinkLiteStyle": {
+      "backgroundColor": "#ebd6da",
+      "conditional": [
+        {
+          "backgroundColor": "#ebd6da",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ],
+      "mask": {
+        "radius": "50cw",
+        "type": "corners"
+      }
+    },
+    "pillPinkStyle": {
+      "backgroundColor": "#f7b9d4",
+      "conditional": [
+        {
+          "backgroundColor": "#f7b9d4",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ],
+      "mask": {
+        "radius": "50cw",
+        "type": "corners"
+      }
+    },
+    "pillYellowStyle": {
+      "backgroundColor": "#ffd400",
+      "conditional": [
+        {
+          "backgroundColor": "#ffd400",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ],
+      "mask": {
+        "radius": "50cw",
+        "type": "corners"
+      }
+    },
+    "bkgBlueLiteStyle": {
+      "backgroundColor": "#81c4cd",
+      "conditional": [
+        {
+          "backgroundColor": "#81c4cd",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "bkgBlueStyle": {
+      "backgroundColor": "#41c7f4",
+      "conditional": [
+        {
+          "backgroundColor": "#41c7f4",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "bkgGoldStyle": {
+      "backgroundColor": "#f0c04e",
+      "conditional": [
+        {
+          "backgroundColor": "#f0c04e",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "bkgOrangeLiteStyle": {
+      "backgroundColor": "#fbb161",
+      "conditional": [
+        {
+          "backgroundColor": "#fbb161",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "bkgOrangeStyle": {
+      "backgroundColor": "#e0922e",
+      "conditional": [
+        {
+          "backgroundColor": "#e0922e",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "bkgPinkLiteStyle": {
+      "backgroundColor": "#ebd6da",
+      "conditional": [
+        {
+          "backgroundColor": "#ebd6da",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "bkgPinkStyle": {
+      "backgroundColor": "#f7b9d4",
+      "conditional": [
+        {
+          "backgroundColor": "#f7b9d4",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "bkgTanStyle": {
+      "backgroundColor": "#fccaa1",
+      "conditional": [
+        {
+          "backgroundColor": "#fccaa1",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "bkgYellowStyle": {
+      "backgroundColor": "#ebe709",
+      "conditional": [
+        {
+          "backgroundColor": "#ebe709",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
     }
   },
   "textStyles": {
     "creditTextStyle": {
-      "fontName": "VerlagText-Light",
+      "fontName": "Graphik-Regular",
       "fontSize": 10,
-      "tracking": 0.05,
-      "textColor": "#8d8d8d",
-      "textTransform": "uppercase"
+      "lineHeight": 12,
+      "textColor": "#6D6E70",
+      "tracking": 0.05
     },
     "default-tag-ans": {
       "fontName": "ChronicleTextG1-Bold",
@@ -1394,20 +1762,10 @@
       "fontName": "VerlagText-BoldItalic"
     },
     "default-tag-caption-heading": {
-      "fontName": "VerlagCondensed-Bold",
-      "fontSize": 16,
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minViewportWidth": 430
-            }
-          ],
-          "fontSize": 22,
-          "lineHeight": 25
-        }
-      ],
-      "tracking": 0.1
+      "fontName": "Graphik-Bold",
+      "textTransform": "uppercase",
+      "tracking": 0.1,
+      "fontSize": 14
     },
     "default-tag-caption-italic": {
       "fontName": "VerlagText-BoldItalic"
@@ -1427,8 +1785,10 @@
       "textTransform": "uppercase"
     },
     "default-tag-lede": {
-      "fontName": "VerlagText-Black",
-      "textTransform": "uppercase"
+      "fontName": "Graphik-Bold",
+      "textTransform": "uppercase",
+      "tracking": 0.12,
+      "fontSize": 13
     },
     "default-tag-lede-alt": {
       "fontName": "VerlagText-Black"
@@ -1465,31 +1825,17 @@
       "tracking": -0.08
     },
     "default-tag-sidebar-lede": {
-      "fontName": "VerlagText-Black",
-      "textTransform": "uppercase"
+      "fontName": "Graphik-Bold",
+      "textTransform": "uppercase",
+      "tracking": 0.12,
+      "fontSize": 13
     },
     "default-tag-sub": {
       "textColor": "#fff"
     },
     "default-tag-subsection": {
-      "//": "IPAD CONDITION STYLING",
-      "fontName": "VerlagText-Book",
-      "textColor": "#000",
-      "textTransform": "uppercase",
-      "tracking": 0.07,
-      "fontSize": 22,
-      "lineHeight": 26,
-      "conditional": [
-        {
-          "//": "PHONE CONDITION STYLING",
-          "fontSize": 15,
-          "conditions": [
-            {
-              "maxViewportWidth": 415
-            }
-          ]
-        }
-      ]
+      "fontName": "Graphik-Medium",
+      "tracking": 0
     },
     "default-tag-title-italic": {
       "fontName": "DidotLTStd-BoldItalic"
@@ -1516,52 +1862,60 @@
     },
     "subSectionTextStyle": {
       "//": "UNUSED"
+    },
+    "default-tag-callout": {
+      "//": "Bold body text",
+      "fontName": "Graphik-Bold",
+      "fontSize": 15,
+      "tracking": 0.02
+    },
+    "default-tag-pullquote-attribution": {
+      "fontSize": 13,
+      "fontName": "Graphik-Semibold",
+      "tracking": 0.05,
+      "textTransform": "uppercase"
+    },
+    "default-tag-att-italic": {
+      "fontName": "Graphik-SemiboldItalic"
+    },
+    "default-tag-intro-italic": {
+      "fontName": "Graphik-SemiboldItalic"
+    },
+    "default-tag-m": {
+      "fontName": "Graphik-Medium"
+    },
+    "pullQuoteAttributionTextStyle": {
+      "fontName": "Graphik-Regular",
+      "fontSize": 14
     }
   },
   "componentTextStyles": {
     "//": {
-      "//": "===================== PEOPLE OVERRIDES ====================="
+      "//": "===================== PARENTS OVERRIDES ====================="
     },
     "attributeTextStyle": {
-      "fontName": "VerlagText-Light",
       "fontSize": 10,
-      "textTransform": "uppercase",
       "lineHeight": 12,
-      "tracking": 0.05
+      "textColor": "#6D6E70",
+      "tracking": 0.05,
+      "textTransform": "uppercase"
     },
     "authorTextStyle": {
-      "fontName": "ChronicleDisplay-Italic",
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minViewportWidth": 430
-            }
-          ],
-          "fontSize": 15,
-          "lineHeight": 19
-        }
-      ],
-      "fontSize": 10,
-      "lineHeight": 12,
-      "tracking": 0.1
+      "fontName": "Graphik-Semibold",
+      "tracking": 0.1,
+      "textAlignment": "center",
+      "textTransform": "uppercase"
     },
     "authorTextStyle2": {
       "fontName": "ChronicleDisplay-Italic",
       "tracking": 0.1
     },
     "bodyCenteredTextStyle": {
-      "fontName": "ChronicleTextG1-Roman",
-      "textAlignment": "center"
+      "textAlignment": "center",
+      "fontName": "Graphik-Medium"
     },
     "bodyDropCapTextStyle": {
-      "fontName": "ChronicleTextG1-Roman",
-      "dropCapStyle": {
-        "fontName": "ChronicleDisplay-Black",
-        "numberOfLines": 4,
-        "numberOfRaisedLines": 0,
-        "numberOfCharacters": 1
-      }
+      "fontName": "Sentinel-Book"
     },
     "bodyIntroUnderlined": {
       "fontName": "ChronicleDisplay-Roman",
@@ -1572,7 +1926,7 @@
       }
     },
     "bodyTextStyle": {
-      "fontName": "ChronicleTextG1-Roman"
+      "fontName": "Sentinel-Book"
     },
     "buttonBodyTextStyle": {
       "fontName": "VerlagCondensed-Bold",
@@ -1598,43 +1952,32 @@
       "textTransform": "uppercase"
     },
     "calloutBodyTextStyle": {
-      "fontName": "VerlagText-Book",
-      "textAlignment": "center",
-      "fontSize": 17,
+      "fontName": "Graphik-Medium",
+      "fontSize": 16,
       "lineHeight": 20,
-      "textColor": "#00ADEF",
-      "textTransform": "uppercase"
+      "textAlignment": "center"
     },
     "calloutHeadingTextStyle": {
-      "fontSize": 22,
-      "lineHeight": 23,
-      "tracking": -0.03,
-      "textAlignment": "center"
+      "fontName": "Graphik-Bold",
+      "fontSize": 19,
+      "lineHeight": 21,
+      "tracking": 0.1,
+      "textAlignment": "center",
+      "textTransform": "uppercase"
     },
     "captionAdTextStyle": {
       "//": "UNUSED"
     },
     "captionCenteredTextStyle": {
+      "fontName": "Graphik-Medium",
       "textAlignment": "center"
     },
     "captionEmbeddedTextStyle": {
       "fontName": "HelveticaNeue",
-      "lineHeight": 16,
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minViewportWidth": 430
-            }
-          ],
-          "fontSize": 19,
-          "lineHeight": 21
-        }
-      ]
+      "lineHeight": 16
     },
     "captionTextStyle": {
-      "fontName": "VerlagText-Bold",
-      "textAlignment": "center"
+      "fontName": "Graphik-Medium"
     },
     "captionTextStyle2": {
       "fontSize": 14,
@@ -1653,42 +1996,20 @@
       "textAlignment": "center"
     },
     "default": {
-      "fontName": "ChronicleDisplay-Black",
+      "fontName": "Graphik-Regular",
       "textColor": "#000",
       "linkStyle": {
-        "textColor": "#366a9b"
+        "underline": true
       },
       "hyphenation": false
     },
     "default-author": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minViewportWidth": 430
-            }
-          ],
-          "fontSize": 15,
-          "lineHeight": 19
-        }
-      ],
-      "fontSize": 10,
-      "lineHeight": 12
+      "fontSize": 11,
+      "lineHeight": 14
     },
     "default-body": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minViewportWidth": 430
-            }
-          ],
-          "fontSize": 23,
-          "lineHeight": 29
-        }
-      ],
-      "fontSize": 16,
-      "lineHeight": 20,
+      "fontSize": 19,
+      "lineHeight": 24,
       "paragraphSpacingBefore": 12,
       "paragraphSpacingAfter": 12
     },
@@ -1696,28 +2017,17 @@
       "//": "UNUSED"
     },
     "default-caption": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minViewportWidth": 430
-            }
-          ],
-          "fontSize": 19,
-          "lineHeight": 21
-        }
-      ],
-      "fontSize": 14,
-      "lineHeight": 16
+      "fontName": "Avenir-Book",
+      "fontSize": 13,
+      "lineHeight": 15
     },
     "default-heading": {
       "fontSize": 16,
-      "lineHeight": 16
+      "lineHeight": 18
     },
     "default-heading2": {
-      "fontSize": 44,
-      "lineHeight": 42,
-      "tracking": 0.04,
+      "fontSize": 35,
+      "lineHeight": 39,
       "conditional": [
         {
           "conditions": [
@@ -1725,68 +2035,42 @@
               "minViewportWidth": 500
             }
           ],
-          "fontSize": 44,
-          "lineHeight": 42
+          "fontSize": 26,
+          "lineHeight": 30
         }
       ]
     },
     "default-heading3": {
-      "fontSize": 28,
-      "lineHeight": 26,
-      "tracking": 0.04
+      "fontSize": 22,
+      "lineHeight": 26
     },
     "default-heading4": {
-      "fontSize": 19,
-      "lineHeight": 17,
-      "tracking": 0.04
+      "fontSize": 18,
+      "lineHeight": 20
     },
     "default-heading5": {
-      "fontSize": 18,
-      "lineHeight": 20,
-      "tracking": 0.04
+      "fontSize": 19,
+      "lineHeight": 21
     },
     "default-heading6": {
-      "fontSize": 16,
-      "lineHeight": 18,
-      "tracking": 0.04
+      "fontSize": 15,
+      "lineHeight": 17
     },
     "default-intro": {
-      "fontSize": 15,
-      "lineHeight": 24,
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minViewportWidth": 430
-            }
-          ],
-          "fontSize": 20,
-          "lineHeight": 29
-        }
-      ]
+      "fontSize": 17,
+      "lineHeight": 20
     },
     "default-photographer": {
       "//": "UNUSED"
     },
     "default-pullquote": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minViewportWidth": 430
-            }
-          ],
-          "fontSize": 30,
-          "lineHeight": 34
-        }
-      ],
-      "fontSize": 20,
-      "lineHeight": 21,
+      "fontSize": 16,
+      "lineHeight": 20,
       "textAlignment": "center"
     },
     "default-title": {
-      "fontSize": 66,
-      "lineHeight": 66
+      "fontSize": 46,
+      "lineHeight": 50
     },
     "endOfStoryCalloutTextStyle": {
       "fontName": "VerlagText-Bold",
@@ -1799,40 +2083,45 @@
       }
     },
     "floatImageCaptionTextStyle": {
-      "fontName": "VerlagText-Bold",
-      "textAlignment": "center"
+      "fontName": "Graphik-Medium"
     },
     "heading2CenteredTextStyle": {
-      "textAlignment": "center",
-      "textColor": "#000",
-      "fontName": "DidotLTStd-Bold"
+      "fontName": "Graphik-Bold",
+      "textAlignment": "center"
     },
     "heading2TextStyle": {
-      "fontName": "DidotLTStd-Bold"
+      "fontName": "Graphik-Bold"
     },
     "heading3CenteredTextStyle": {
+      "fontName": "Graphik-Black",
       "textAlignment": "center"
     },
     "heading3TextStyle": {
-      "fontName": "DidotLTStd-Bold"
+      "fontName": "Graphik-Black"
     },
     "heading4CenteredTextStyle": {
+      "fontName": "Graphik-Bold",
+      "textTransform": "uppercase",
       "textAlignment": "center"
     },
     "heading4TextStyle": {
-      "fontName": "DidotLTStd-Bold"
+      "fontName": "Graphik-Bold",
+      "textTransform": "uppercase",
+      "tracking": 0.1
     },
     "heading5CenteredTextStyle": {
+      "fontName": "Graphik-Bold",
       "textAlignment": "center"
     },
     "heading5TextStyle": {
-      "fontName": "DidotLTStd-Bold"
+      "fontName": "Graphik-Bold"
     },
     "heading6CenteredTextStyle": {
       "textAlignment": "center"
     },
     "heading6TextStyle": {
-      "fontName": "DidotLTStd-Bold"
+      "fontName": "Graphik-Bold",
+      "textTransform": "uppercase"
     },
     "headingCenteredTextStyle": {
       "fontName": "VerlagCondensed-Bold",
@@ -1841,20 +2130,19 @@
       "textAlignment": "center"
     },
     "introTextStyle": {
-      "fontName": "VerlagText-Book",
-      "tracking": 0.1,
-      "textTransform": "uppercase"
+      "fontName": "Graphik-Semibold",
+      "textAlignment": "center"
     },
     "photoCreditTextStyle": {
-      "fontName": "VerlagText-Light",
+      "fontName": "Graphik-Regular",
       "fontSize": 10,
       "lineHeight": 12,
+      "textColor": "#6D6E70",
       "tracking": 0.05,
-      "textAlignment": "right",
-      "textTransform": "uppercase"
+      "textAlignment": "right"
     },
     "pullQuoteTextStyle": {
-      "fontName": "ChronicleDisplay-Roman"
+      "fontName": "Graphik-MediumItalic"
     },
     "pullQuoteTextStyleBottom": {
       "fontName": "VerlagCondensed-Bold",
@@ -1878,21 +2166,9 @@
       "tracking": -0.03
     },
     "questionTextStyle": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minViewportWidth": 500
-            }
-          ],
-          "fontSize": 37,
-          "lineHeight": 40
-        }
-      ],
-      "fontName": "DidotLTStd-Bold",
-      "fontSize": 30,
-      "lineHeight": 35,
-      "tracking": 0.04
+      "fontName": "Graphik-Bold",
+      "fontSize": 18,
+      "lineHeight": 20
     },
     "rubricExclusiveCaptionTextStyle": {
       "fontName": "DidotLTStd-Bold",
@@ -1960,18 +2236,28 @@
       "lineHeight": 36
     },
     "sectionTextStyle": {
-      "fontName": "VerlagText-Book",
-      "tracking": 0.1
-    },
-    "sidebarBodyCenteredTextStyle": {
-      "fontName": "VerlagText-Bold",
+      "fontName": "Graphik-Bold",
+      "fontSize": 14,
+      "tracking": 0.11,
       "textAlignment": "center"
     },
+    "sidebarBodyCenteredTextStyle": {
+      "fontName": "Graphik-Medium",
+      "textAlignment": "center",
+      "fontSize": 15,
+      "lineHeight": 19
+    },
     "sidebarBodyTextStyle": {
-      "fontName": "VerlagText-Bold"
+      "fontName": "Graphik-Medium",
+      "fontSize": 15,
+      "lineHeight": 19
     },
     "sidebarHeading2TextStyle": {
-      "fontName": "DidotLTStd-Bold"
+      "fontName": "Graphik-Black",
+      "textTransform": "uppercase",
+      "fontSize": 22,
+      "lineHeight": 24,
+      "tracking": 0.12
     },
     "sidebarHeading2TextStyle2": {
       "fontName": "Knockout-48Featherweight",
@@ -1983,14 +2269,14 @@
       }
     },
     "sidebarHeading3TextStyle": {
-      "fontName": "VerlagText-Black",
-      "fontSize": 22,
-      "lineHeight": 24
+      "fontName": "Graphik-Bold",
+      "fontSize": 17,
+      "lineHeight": 19
     },
     "sidebarHeading4TextStyle": {
-      "fontName": "VerlagText-Bold",
-      "fontSize": 18,
-      "lineHeight": 20
+      "fontName": "Graphik-Bold",
+      "fontSize": 15,
+      "lineHeight": 17
     },
     "straplineAltTextStyle": {
       "fontName": "Knockout-48Featherweight",
@@ -2001,15 +2287,29 @@
       "tracking": 0.15
     },
     "straplineTextStyle": {
-      "backgroundColor": "#fff200",
-      "fontName": "DidotLTStd-Bold",
-      "lineHeight": 36,
-      "fontSize": 30,
-      "tracking": 0.1
+      "fontName": "Graphik-Semibold",
+      "fontSize": 14,
+      "lineHeight": 18,
+      "tracking": 0.06,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "textColor": "#f27a74",
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "textColor": "#f27a74"
+        }
+      ]
     },
     "titleTextStyle": {
-      "fontName": "DidotLTStd-Bold",
-      "tracking": 0.04
+      "fontName": "Graphik-Black",
+      "tracking": 0.02,
+      "textAlignment": "center"
     },
     "tocTextStyle": {
       "fontName": "AvenirNextCondensed-Medium",
@@ -2030,6 +2330,121 @@
       "lineHeight": 42,
       "fontSize": 40,
       "tracking": 0.1
+    },
+    "straplineLeftTextStyle": {
+      "fontName": "Graphik-Medium",
+      "fontSize": 14,
+      "lineHeight": 18,
+      "tracking": 0.06,
+      "textTransform": "uppercase"
+    },
+    "templateBodyTextStyle": {
+      "fontName": "Graphik-Regular",
+      "textAlignment": "center"
+    },
+    "templateAttributeTextStyle": {
+      "fontName": "Graphik-Semibold",
+      "fontSize": 14,
+      "lineHeight": 18,
+      "textAlignment": "center"
+    },
+    "authorBodyTextStyle": {
+      "fontName": "Graphik-Regular",
+      "fontSize": 14,
+      "lineHeight": 16
+    },
+    "pillTextStyle": {
+      "fontName": "Graphik-Semibold",
+      "fontSize": 15,
+      "lineHeight": 18,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.12
+    },
+    "gigglesTextStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 415
+            }
+          ],
+          "fontSize": 67
+        }
+      ],
+      "fontName": "Graphik-Black",
+      "fontSize": 56,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.02
+    },
+    "sidebarHeading2CenteredTextStyle": {
+      "fontName": "Graphik-Black",
+      "textTransform": "uppercase",
+      "fontSize": 22,
+      "lineHeight": 24,
+      "tracking": 0.12,
+      "textAlignment": "center"
+    },
+    "sidebarHeading3CenteredTextStyle": {
+      "fontName": "Graphik-Bold",
+      "fontSize": 17,
+      "lineHeight": 19,
+      "textAlignment": "center"
+    },
+    "sidebarHeading4CenteredTextStyle": {
+      "fontName": "Graphik-Bold",
+      "fontSize": 15,
+      "lineHeight": 17,
+      "textAlignment": "center"
+    },
+    "sidebarListTextStyle": {
+      "fontName": "Graphik-Medium",
+      "fontSize": 15,
+      "lineHeight": 19
+    },
+    "sourcesTextStyle": {
+      "fontName": "Graphik-Regular",
+      "fontSize": 12,
+      "lineHeight": 15
+    },
+    "recipeDetailsTextStyle": {
+      "fontName": "Graphik-Regular",
+      "fontSize": 14,
+      "lineHeight": 16
+    },
+    "ingredientsTextStyle": {
+      "fontName": "Graphik-Medium",
+      "fontSize": 16,
+      "lineHeight": 20
+    },
+    "recipeBodyTextStyle": {
+      "fontName": "Graphik-Regular",
+      "fontSize": 17,
+      "lineHeight": 22
+    },
+    "recipeNutritionInfoTextStyle": {
+      "fontName": "Graphik-Medium",
+      "fontSize": 13,
+      "lineHeight": 15
+    },
+    "contestRulesTextStyle": {
+      "fontName": "Graphik-Regular",
+      "fontSize": 12,
+      "lineHeight": 14
+    },
+    "coloredBoxHeadingTextStyle": {
+      "fontName": "Graphik-Semibold",
+      "fontSize": 15,
+      "lineHeight": 18,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.12
+    },
+    "listTextStyle": {
+      "fontName": "Graphik-Semibold",
+      "fontSize": 16,
+      "lineHeight": 20
     }
   }
 }

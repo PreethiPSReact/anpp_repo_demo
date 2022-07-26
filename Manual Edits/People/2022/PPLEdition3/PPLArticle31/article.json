@@ -64,12 +64,14 @@
           "layout": "sectionLayout",
           "textStyle": "sectionTextStyle",
           "format": "html",
-          "text": "Passages RIP"
+          "text": "Passages RIP",
+          "uid": "uid118"
         },
         {
           "role": "container",
           "layout": "dividerLayout",
-          "style": "dividerSectionHeadStyle"
+          "style": "dividerSectionHeadStyle",
+          "uid": "uid119"
         },
         {
           "//": "==== DEFAULT HEADER: TITLE ===",
@@ -77,7 +79,8 @@
           "layout": "titleLayout",
           "textStyle": "titleTextStyle",
           "format": "html",
-          "text": "(1993-2022) Comedian Jak Knight Dies at 28"
+          "text": "(1993-2022) Comedian Jak Knight Dies at 28",
+          "uid": "uid120"
         },
         {
           "//": "==== DEFAULT HEADER: INTRO ===",
@@ -85,14 +88,16 @@
           "layout": "introLayout",
           "textStyle": "introTextStyle",
           "format": "html",
-          "text": "A rising talent, he had opened for Dave Chappelle, Hannibal Buress and others"
+          "text": "A rising talent, he had opened for Dave Chappelle, Hannibal Buress and others...",
+          "uid": "uid121"
         },
         {
           "role": "author",
           "layout": "authorLayout",
           "textStyle": "authorTextStyle",
           "format": "html",
-          "text": "By R.D."
+          "text": "By R.D.",
+          "uid": "uid122"
         },
         {
           "//": "======== HERO IMAGE CONTAINER =======",
@@ -103,9 +108,11 @@
               "//": "======== HERO IMAGE - H1278.0/W1221.0 * 100 = 104.6683047 ========",
               "role": "photo",
               "layout": "fullBleedPhotoLayout",
-              "URL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/gettyimages_00881/2002738-1-eng-US/gettyimages_0082.jpg?q=100"
+              "URL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/gettyimages_00881/2002738-1-eng-US/gettyimages_0082.jpg?q=100",
+              "uid": "uid124"
             }
-          ]
+          ],
+          "uid": "conuid123"
         },
         {
           "//": "======== BODY CONTAINER =======",
@@ -118,7 +125,8 @@
               "style": "pullQuoteStyleTop",
               "textStyle": "pullQuoteTextStyleTop",
               "format": "html",
-              "text": "‘So much of comedy is [being] able to explain life with life experiences’"
+              "text": "‘So much of comedy is [being] able to explain life with life experiences’",
+              "uid": "uid126"
             },
             {
               "role": "pullquote",
@@ -126,7 +134,8 @@
               "style": "pullQuoteStyleBottom",
               "textStyle": "pullQuoteTextStyleBottom",
               "format": "html",
-              "text": "&mdash;JAK KNIGHT"
+              "text": "&mdash;JAK KNIGHT",
+              "uid": "uid127"
             },
             {
               "role": "body",
@@ -134,7 +143,8 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "Jak Knight, a stand-up, writer and actor known for his work on ABC’s <i>Black-ish</i> and the Netflix animated series <i>Big Mouth,</i> died by suicide in Los Angeles on July 14, according to a coroner’s report."
+              "text": "Jak Knight, a stand-up, writer and actor known for his work on ABC’s <i>Black-ish</i> and the Netflix animated series <i>Big Mouth,</i> died by suicide in Los Angeles on July 14, according to a coroner’s report.",
+              "uid": "uid128"
             },
             {
               "role": "body",
@@ -142,7 +152,8 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "Knight’s death, which stunned friends and collaborators, comes on the heels of a series of professional victories, including the Peacock series <i>Bust Down,</i> which he co-created and starred in, and a Writers Guild of America nomination for the HBO talk show <i>Pause With Sam Jay</i>, which he also co-executive produced."
+              "text": "Knight’s death, which stunned friends and collaborators, comes on the heels of a series of professional victories, including the Peacock series <i>Bust Down,</i> which he co-created and starred in, and a Writers Guild of America nomination for the HBO talk show <i>Pause With Sam Jay</i>, which he also co-executive produced.",
+              "uid": "uid129"
             },
             {
               "//": "======== FULL BLEED CONTAINER ========",
@@ -158,16 +169,19 @@
                     "text": "Chris Redd and Jak Knight (right) in <i>Bust Down.</i>",
                     "textStyle": "captionEmbeddedTextStyle"
                   },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/nup_196745__006/2002731-1-eng-US/nup_196745__0062.jpg?q=100"
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/nup_196745__006/2002731-1-eng-US/nup_196745__0062.jpg?q=100",
+                  "uid": "uid131"
                 },
                 {
                   "role": "caption",
                   "layout": "captionLayout",
                   "textStyle": "captionTextStyle",
                   "format": "html",
-                  "text": "Chris Redd and Jak Knight (right) in <bold-italic>Bust Down.</bold-italic>"
+                  "text": "Chris Redd and Jak Knight (right) in <bold-italic>Bust Down.</bold-italic>",
+                  "uid": "uid132"
                 }
-              ]
+              ],
+              "uid": "conuid130"
             },
             {
               "role": "body",
@@ -175,7 +189,8 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "“He had a lot more to say and we’re heartbroken we won’t get to hear it,” tweeted the Hollywood Improv, a club Knight frequented. “We love you forever, Jak.”"
+              "text": "“He had a lot more to say and we’re heartbroken we won’t get to hear it,” tweeted the Hollywood Improv, a club Knight frequented. “We love you forever, Jak.”",
+              "uid": "uid133"
             },
             {
               "role": "body",
@@ -183,7 +198,8 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "If you or someone you know is considering suicide, please contact the 988 Suicide &amp; Crisis Lifeline by dialing 988, text “STRENGTH” to the Crisis Text Line at 741741 or go to <b><a href=\"http://988lifeline.org\">988lifeline.org</a>.</b>"
+              "text": "If you or someone you know is considering suicide, please contact the 988 Suicide &amp; Crisis Lifeline by dialing 988, text “STRENGTH” to the Crisis Text Line at 741741 or go to <b><a href=\"http://988lifeline.org\">988lifeline.org</a>.</b>",
+              "uid": "uid134"
             },
             {
               "//": "======== SIDEBAR =======",
@@ -201,7 +217,8 @@
                       "layout": "sidebarHeading2Layout",
                       "textStyle": "sidebarHeading2TextStyle",
                       "format": "html",
-                      "text": "Comedic Colleagues Pay Tribute"
+                      "text": "Comedic Colleagues Pay Tribute",
+                      "uid": "uid137"
                     },
                     {
                       "//": "======== SIDEBAR SINGLE BLOCK CONTAINER ========",
@@ -211,9 +228,11 @@
                         {
                           "//": "======== IMAGE BLOCK - H1366.0/W1366.0 * 100 = 100.0 ========",
                           "role": "image",
-                          "URL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/p018-ppl220801-1-kumail/2005188-1-eng-US/p018-ppl220801-1-kumail.png?q=100"
+                          "URL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/p018-ppl220801-1-kumail/2005188-1-eng-US/p018-ppl220801-1-kumail.png?q=100",
+                          "uid": "uid139"
                         }
-                      ]
+                      ],
+                      "uid": "conuid138"
                     },
                     {
                       "role": "body",
@@ -221,7 +240,8 @@
                       "style": "paragraphStyle",
                       "textStyle": "sidebarBodyTextStyle",
                       "format": "html",
-                      "text": "<b><bold-italic>“Rest in peace, Jak Knight. Hilarious comedian and a great guy. I can’t believe it.”</bold-italic></b><br><b>—Kumail Nanjiani</b>"
+                      "text": "<b><bold-italic>“Rest in peace, Jak Knight. Hilarious comedian and a great guy. I can’t believe it.”</bold-italic></b><br><b>—Kumail Nanjiani</b>",
+                      "uid": "uid140"
                     },
                     {
                       "//": "======== SIDEBAR SINGLE BLOCK CONTAINER ========",
@@ -231,9 +251,11 @@
                         {
                           "//": "======== IMAGE BLOCK - H1366.0/W1366.0 * 100 = 100.0 ========",
                           "role": "image",
-                          "URL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/p018-ppl220801-2-joel-kim/2005195-1-eng-US/p018-ppl220801-2-joel-kim.png?q=100"
+                          "URL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/p018-ppl220801-2-joel-kim/2005195-1-eng-US/p018-ppl220801-2-joel-kim.png?q=100",
+                          "uid": "uid142"
                         }
-                      ]
+                      ],
+                      "uid": "conuid141"
                     },
                     {
                       "role": "body",
@@ -241,7 +263,8 @@
                       "style": "paragraphStyle",
                       "textStyle": "sidebarBodyTextStyle",
                       "format": "html",
-                      "text": "<b><bold-italic>“There was no one like Jak Knight. A singular talent, actually funny and a genuinely kind person, a rare combo.”</bold-italic></b><br><b>—Joel Kim Booster</b>"
+                      "text": "<b><bold-italic>“There was no one like Jak Knight. A singular talent, actually funny and a genuinely kind person, a rare combo.”</bold-italic></b><br><b>—Joel Kim Booster</b>",
+                      "uid": "uid143"
                     },
                     {
                       "//": "======== SIDEBAR SINGLE BLOCK CONTAINER ========",
@@ -251,9 +274,11 @@
                         {
                           "//": "======== IMAGE BLOCK - H1366.0/W1366.0 * 100 = 100.0 ========",
                           "role": "image",
-                          "URL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/p018-ppl220801-3-andrew/2005181-1-eng-US/p018-ppl220801-3-andrew.png?q=100"
+                          "URL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/p018-ppl220801-3-andrew/2005181-1-eng-US/p018-ppl220801-3-andrew.png?q=100",
+                          "uid": "uid145"
                         }
-                      ]
+                      ],
+                      "uid": "conuid144"
                     },
                     {
                       "role": "body",
@@ -261,20 +286,25 @@
                       "style": "paragraphStyle",
                       "textStyle": "sidebarBodyTextStyle",
                       "format": "html",
-                      "text": "<b><bold-italic>“This is how I’ll always remember my friend Jak Knight: laughing and making us laugh.”</bold-italic></b><br><b>—<bold-italic>Big Mouth</bold-italic> co-creator Andrew Goldberg</b>"
+                      "text": "<b><bold-italic>“This is how I’ll always remember my friend Jak Knight: laughing and making us laugh.”</bold-italic></b><br><b>—<bold-italic>Big Mouth</bold-italic> co-creator Andrew Goldberg</b>",
+                      "uid": "uid146"
                     }
-                  ]
+                  ],
+                  "uid": "conuid136"
                 }
-              ]
+              ],
+              "uid": "conuid135"
             },
             {
               "role": "body",
               "layout": "attributeLayout",
               "textStyle": "attributeTextStyle",
               "format": "html",
-              "text": "FILMMAGIC; ALLEN BEREZOVSKY/GETTY IMAGES; GREGG DEGUIRE/FILMMAGIC; INVISION/AP/SHUTTERSTOCK; PEACOCK"
+              "text": "FILMMAGIC; ALLEN BEREZOVSKY/GETTY IMAGES; GREGG DEGUIRE/FILMMAGIC; INVISION/AP/SHUTTERSTOCK; PEACOCK",
+              "uid": "uid147"
             }
-          ]
+          ],
+          "uid": "conuid125"
         },
         {
           "//": "=== NEXT UP ARTICLE LINK CONTAINER ===",
@@ -295,7 +325,8 @@
             {
               "role": "container",
               "layout": "dividerLayout",
-              "style": "dividerSectionHeadStyle"
+              "style": "dividerSectionHeadStyle",
+              "uid": "uid149"
             },
             {
               "//": "=== NEXT UP ARTICLE LINK, ONLY VISIBLE IF USER IS IN THE ISSUE ALREADY ===",
@@ -303,9 +334,11 @@
               "layout": "bodyLayout",
               "textStyle": "captionTextStyle",
               "format": "html",
-              "text": "Next up: <a href=\"https://apple.news/A7nhWUQ0JTuWo1h1E7SBJOw\">Passages</a>"
+              "text": "Next up: <a href=\"https://apple.news/A7nhWUQ0JTuWo1h1E7SBJOw\">Passages</a>",
+              "uid": "uid150"
             }
-          ]
+          ],
+          "uid": "conuid148"
         },
         {
           "role": "container",
@@ -325,7 +358,8 @@
             {
               "role": "container",
               "layout": "dividerLayout",
-              "style": "dividerSectionHeadStyle"
+              "style": "dividerSectionHeadStyle",
+              "uid": "uid152"
             },
             {
               "//": "=== VISIT TOC LINK, ONLY VISIBLE IF USER IS IN ARTICLE VIEW ===",
@@ -333,11 +367,14 @@
               "layout": "bodyLayout",
               "textStyle": "captionTextStyle",
               "format": "html",
-              "text": "<a href=\"https://apple.news/ARY0BQQamEe22-nPPENTv1A\">Tap here</a> to see more from this week's issue of <bold-italic>People</bold-italic>"
+              "text": "<a href=\"https://apple.news/ARY0BQQamEe22-nPPENTv1A\">Tap here</a> to see more from this week's issue of <bold-italic>People</bold-italic>",
+              "uid": "uid153"
             }
-          ]
+          ],
+          "uid": "conuid151"
         }
-      ]
+      ],
+      "uid": "conuid117"
     }
   ],
   "componentLayouts": {

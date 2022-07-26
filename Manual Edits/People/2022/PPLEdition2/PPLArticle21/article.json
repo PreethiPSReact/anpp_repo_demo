@@ -114,7 +114,7 @@
           "style": "straplineStyle",
           "textStyle": "straplineTextStyle",
           "format": "html",
-          "text": "&nbsp;Q&A&nbsp;"
+          "text": "&nbsp;Q&amp;a&nbsp;"
         },
         {
           "role": "title",
@@ -221,7 +221,7 @@
               "layout": "bodyLayout",
               "textStyle": "captionTextStyle",
               "format": "html",
-              "text": "<a href='https://apple.news/ARY0BQQamEe22-nPPENTv1A'>Tap here</a> to see more from this week's issue of <bold-italic>People<bold-italic>"
+              "text": "<a href=\"https://apple.news/ARY0BQQamEe22-nPPENTv1A\">Tap here</a> to see more from this week's issue of <bold-italic>People</bold-italic>"
             }
           ]
         }
@@ -1129,136 +1129,13 @@
       "//": "UNUSED"
     },
     "pullQuoteStyle": {
-      "border": {
-        "all": {
-          "color": "#000",
-          "width": 6
-        },
-        "left": false,
-        "right": false
-      },
-      "conditional": [
-        {
-          "border": {
-            "all": {
-              "color": "#000",
-              "width": 7
-            },
-            "left": false,
-            "right": false
-          },
-          "conditions": [
-            {
-              "minViewportWidth": 430
-            }
-          ]
-        },
-        {
-          "border": {
-            "all": {
-              "color": "#000",
-              "width": 8
-            },
-            "left": false,
-            "right": false
-          },
-          "conditions": [
-            {
-              "minViewportWidth": 780
-            }
-          ]
-        }
-      ]
+      "//": "UNUSED"
     },
     "pullQuoteStyleBottom": {
-      "border": {
-        "all": {
-          "color": "#000",
-          "width": 6
-        },
-        "left": false,
-        "right": false,
-        "top": false
-      },
-      "conditional": [
-        {
-          "border": {
-            "all": {
-              "color": "#000",
-              "width": 7
-            },
-            "left": false,
-            "right": false,
-            "top": false
-          },
-          "conditions": [
-            {
-              "minViewportWidth": 430
-            }
-          ]
-        },
-        {
-          "border": {
-            "all": {
-              "color": "#000",
-              "width": 8
-            },
-            "left": false,
-            "right": false,
-            "top": false
-          },
-          "conditions": [
-            {
-              "minViewportWidth": 780
-            }
-          ]
-        }
-      ]
+      "//": "UNUSED"
     },
     "pullQuoteStyleTop": {
-      "border": {
-        "all": {
-          "color": "#000",
-          "width": 6
-        },
-        "bottom": false,
-        "left": false,
-        "right": false
-      },
-      "conditional": [
-        {
-          "border": {
-            "all": {
-              "color": "#000",
-              "width": 7
-            },
-            "bottom": false,
-            "left": false,
-            "right": false
-          },
-          "conditions": [
-            {
-              "minViewportWidth": 430
-            }
-          ]
-        },
-        {
-          "border": {
-            "all": {
-              "color": "#000",
-              "width": 8
-            },
-            "bottom": false,
-            "left": false,
-            "right": false
-          },
-          "conditions": [
-            {
-              "minViewportWidth": 780
-            }
-          ]
-        }
-      ]
+      "//": "UNUSED"
     },
     "sectionStyle": {
       "//": "UNUSED"
@@ -1266,8 +1143,8 @@
     "sidebarStyle": {
       "border": {
         "all": {
-          "color": "#000",
-          "width": 6
+          "width": 6,
+          "color": "#000"
         },
         "left": false,
         "right": false
@@ -1276,23 +1153,23 @@
         {
           "border": {
             "all": {
-              "color": "#000",
-              "width": 7
+              "width": 7,
+              "color": "#000"
             },
             "left": false,
             "right": false
           },
           "conditions": [
             {
-              "minViewportWidth": 430
+              "minViewportWidth": 415
             }
           ]
         },
         {
           "border": {
             "all": {
-              "color": "#000",
-              "width": 8
+              "width": 8,
+              "color": "#000"
             },
             "left": false,
             "right": false
@@ -1306,10 +1183,10 @@
       ]
     },
     "sidebarStyle2": {
-      "backgroundColor": "#eeead9",
+      "backgroundColor": "#E2E7EA",
       "conditional": [
         {
-          "backgroundColor": "#eeead9",
+          "backgroundColor": "#E2E7EA",
           "conditions": [
             {
               "minSpecVersion": "1.14",
@@ -1388,13 +1265,33 @@
       "backgroundColor": "#fff",
       "shadow": {
         "color": "#333",
+        "opacity": 0.33,
+        "radius": 15,
         "offset": {
           "x": 5,
           "y": 15
-        },
-        "opacity": 0.33,
-        "radius": 15
-      }
+        }
+      },
+      "conditional": [
+        {
+          "backgroundColor": "#000",
+          "shadow": {
+            "color": "#ebebeb",
+            "opacity": 0.23,
+            "radius": 10,
+            "offset": {
+              "x": 5,
+              "y": 15
+            }
+          },
+          "conditions": [
+            {
+              "preferredColorScheme": "dark",
+              "minSpecVersion": "1.14"
+            }
+          ]
+        }
+      ]
     }
   },
   "textStyles": {
@@ -1409,8 +1306,9 @@
     "creditTextStyle": {
       "fontName": "VerlagText-Light",
       "fontSize": 10,
-      "textTransform": "uppercase",
-      "tracking": 0.05
+      "tracking": 0.05,
+      "textColor": "#8d8d8d",
+      "textTransform": "uppercase"
     },
     "default-tag-author-name": {
       "fontName": "VerlagText-Bold",
@@ -1439,13 +1337,21 @@
     "default-tag-caption-heading": {
       "fontName": "VerlagCondensed-Bold",
       "fontSize": 16,
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 430
+            }
+          ],
+          "fontSize": 22,
+          "lineHeight": 25
+        }
+      ],
       "tracking": 0.1
     },
     "default-tag-caption-italic": {
-      "fontName": "VerlagText-BoldItalic",
-      "fontSize": 14,
-      "lineHeight": 16,
-      "textAlignment": "center"
+      "fontName": "VerlagText-BoldItalic"
     },
     "default-tag-emoji": {
       "fontName": "AppleColorEmoji"
@@ -1458,11 +1364,11 @@
       "textTransform": "uppercase"
     },
     "default-tag-lede": {
-      "fontName": "VerlagText-Black"
+      "fontName": "VerlagText-Black",
+      "textTransform": "uppercase"
     },
     "default-tag-lede-alt": {
-      "fontName": "VerlagText-Black",
-      "fontSize": 16
+      "fontName": "VerlagText-Black"
     },
     "default-tag-q": {
       "fontName": "VerlagText-Black"
@@ -1485,7 +1391,24 @@
       "textColor": "#fff"
     },
     "default-tag-subsection": {
-      "textColor": "#8C6BAF"
+      "//": "IPAD CONDITION STYLING",
+      "fontName": "VerlagText-Book",
+      "textColor": "#000",
+      "textTransform": "uppercase",
+      "tracking": 0.07,
+      "fontSize": 22,
+      "lineHeight": 26,
+      "conditional": [
+        {
+          "//": "PHONE CONDITION STYLING",
+          "fontSize": 15,
+          "conditions": [
+            {
+              "maxViewportWidth": 415
+            }
+          ]
+        }
+      ]
     },
     "default-tag-title-italic": {
       "fontName": "DidotLTStd-BoldItalic"
@@ -1526,31 +1449,59 @@
     },
     "subSectionTextStyle": {
       "//": "UNUSED"
+    },
+    "default-tag-ans": {
+      "fontName": "ChronicleTextG1-Bold",
+      "fontSize": 23,
+      "textColor": "#5EAEE0",
+      "conditional": [
+        {
+          "textColor": "#5EAEE0",
+          "conditions": [
+            {
+              "preferredColorScheme": "dark",
+              "minSpecVersion": "1.14"
+            }
+          ]
+        }
+      ]
+    },
+    "default-tag-place": {
+      "fontName": "VerlagText-Bold"
+    },
+    "default-tag-question": {
+      "fontSize": 48,
+      "textColor": "#F37160",
+      "conditional": [
+        {
+          "textColor": "#F37160",
+          "conditions": [
+            {
+              "preferredColorScheme": "dark",
+              "minSpecVersion": "1.14"
+            }
+          ]
+        }
+      ]
+    },
+    "default-tag-italicss": {
+      "fontName": "LeagueGothic-Italic",
+      "fontSize": 28
     }
   },
   "componentTextStyles": {
     "//": {
-      "//": "OVERRIDES FOR THIS TEMPLATE"
+      "//": "===================== PEOPLE OVERRIDES ====================="
     },
     "attributeTextStyle": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minViewportWidth": 430
-            }
-          ],
-          "fontSize": 13,
-          "lineHeight": 15
-        }
-      ],
       "fontName": "VerlagText-Light",
       "fontSize": 10,
-      "lineHeight": 12,
       "textTransform": "uppercase",
+      "lineHeight": 12,
       "tracking": 0.05
     },
     "authorTextStyle": {
+      "fontName": "ChronicleDisplay-Italic",
       "conditional": [
         {
           "conditions": [
@@ -1562,7 +1513,6 @@
           "lineHeight": 19
         }
       ],
-      "fontName": "ChronicleDisplay-Italic",
       "fontSize": 10,
       "lineHeight": 12,
       "tracking": 0.1
@@ -1572,16 +1522,17 @@
       "tracking": 0.1
     },
     "bodyCenteredTextStyle": {
+      "fontName": "ChronicleTextG1-Roman",
       "textAlignment": "center"
     },
     "bodyDropCapTextStyle": {
+      "fontName": "ChronicleTextG1-Roman",
       "dropCapStyle": {
         "fontName": "ChronicleDisplay-Black",
-        "numberOfCharacters": 1,
         "numberOfLines": 4,
-        "numberOfRaisedLines": 0
-      },
-      "fontName": "ChronicleTextG1-Roman"
+        "numberOfRaisedLines": 0,
+        "numberOfCharacters": 1
+      }
     },
     "bodyIntroUnderlined": {
       "fontName": "ChronicleDisplay-Roman",
@@ -1595,18 +1546,20 @@
       "fontName": "ChronicleTextG1-Roman"
     },
     "buttonBodyTextStyle": {
-      "fontName": "VerlagText-Book",
+      "fontName": "VerlagCondensed-Bold",
+      "textAlignment": "center",
       "fontSize": 17,
       "lineHeight": 20,
-      "textAlignment": "center",
-      "textColor": "#00ADEF",
-      "textTransform": "uppercase"
+      "textColor": "#5EAEE0",
+      "textTransform": "uppercase",
+      "tracking": 0.3
     },
     "buttonHeadingTextStyle": {
+      "fontName": "DidotLTStd-Bold",
       "fontSize": 22,
-      "lineHeight": 23,
-      "textAlignment": "center",
-      "tracking": -0.03
+      "lineHeight": 30,
+      "tracking": 0.04,
+      "textAlignment": "center"
     },
     "byTheNumbersTextStyle": {
       "fontName": "VerlagText-Black",
@@ -1617,17 +1570,17 @@
     },
     "calloutBodyTextStyle": {
       "fontName": "VerlagText-Book",
+      "textAlignment": "center",
       "fontSize": 17,
       "lineHeight": 20,
-      "textAlignment": "center",
       "textColor": "#00ADEF",
       "textTransform": "uppercase"
     },
     "calloutHeadingTextStyle": {
       "fontSize": 22,
       "lineHeight": 23,
-      "textAlignment": "center",
-      "tracking": -0.03
+      "tracking": -0.03,
+      "textAlignment": "center"
     },
     "captionAdTextStyle": {
       "//": "UNUSED"
@@ -1636,6 +1589,8 @@
       "textAlignment": "center"
     },
     "captionEmbeddedTextStyle": {
+      "fontName": "HelveticaNeue",
+      "lineHeight": 16,
       "conditional": [
         {
           "conditions": [
@@ -1646,15 +1601,14 @@
           "fontSize": 19,
           "lineHeight": 21
         }
-      ],
-      "fontName": "HelveticaNeue",
-      "lineHeight": 16
+      ]
     },
     "captionTextStyle": {
       "fontName": "VerlagText-Bold",
       "textAlignment": "center"
     },
     "captionTextStyle2": {
+      "fontSize": 14,
       "conditional": [
         {
           "conditions": [
@@ -1667,20 +1621,30 @@
         }
       ],
       "fontName": "VerlagText-Bold",
-      "fontSize": 14,
       "textAlignment": "center"
     },
     "default": {
       "fontName": "ChronicleDisplay-Black",
-      "hyphenation": false,
+      "textColor": "#000",
       "linkStyle": {
         "textColor": "#366a9b"
       },
-      "textColor": "#000"
+      "hyphenation": false
     },
     "default-author": {
-      "fontSize": 16,
-      "lineHeight": 22
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 430
+            }
+          ],
+          "fontSize": 15,
+          "lineHeight": 19
+        }
+      ],
+      "fontSize": 10,
+      "lineHeight": 12
     },
     "default-body": {
       "conditional": [
@@ -1696,8 +1660,8 @@
       ],
       "fontSize": 16,
       "lineHeight": 20,
-      "paragraphSpacingAfter": 12,
-      "paragraphSpacingBefore": 12
+      "paragraphSpacingBefore": 12,
+      "paragraphSpacingAfter": 12
     },
     "default-byline": {
       "//": "UNUSED"
@@ -1722,6 +1686,9 @@
       "lineHeight": 16
     },
     "default-heading2": {
+      "fontSize": 44,
+      "lineHeight": 42,
+      "tracking": 0.04,
       "conditional": [
         {
           "conditions": [
@@ -1729,30 +1696,34 @@
               "minViewportWidth": 500
             }
           ],
-          "fontSize": 32,
-          "lineHeight": 30
+          "fontSize": 44,
+          "lineHeight": 42
         }
-      ],
-      "fontSize": 44,
-      "lineHeight": 42
+      ]
     },
     "default-heading3": {
       "fontSize": 28,
-      "lineHeight": 26
+      "lineHeight": 26,
+      "tracking": 0.04
     },
     "default-heading4": {
       "fontSize": 19,
-      "lineHeight": 17
+      "lineHeight": 17,
+      "tracking": 0.04
     },
     "default-heading5": {
       "fontSize": 18,
-      "lineHeight": 20
+      "lineHeight": 20,
+      "tracking": 0.04
     },
     "default-heading6": {
       "fontSize": 16,
-      "lineHeight": 18
+      "lineHeight": 18,
+      "tracking": 0.04
     },
     "default-intro": {
+      "fontSize": 15,
+      "lineHeight": 24,
       "conditional": [
         {
           "conditions": [
@@ -1761,83 +1732,98 @@
             }
           ],
           "fontSize": 20,
-          "lineHeight": 25
+          "lineHeight": 29
         }
-      ],
-      "fontSize": 15,
-      "lineHeight": 20
+      ]
     },
     "default-photographer": {
       "fontSize": 16,
       "lineHeight": 22
     },
     "default-pullquote": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 430
+            }
+          ],
+          "fontSize": 30,
+          "lineHeight": 34
+        }
+      ],
       "fontSize": 20,
       "lineHeight": 21,
       "textAlignment": "center"
     },
     "default-title": {
-      "fontSize": 62,
-      "lineHeight": 54
+      "fontSize": 66,
+      "lineHeight": 66
     },
     "endOfStoryCalloutTextStyle": {
-      "fontName": "ChronicleTextG1-BoldItalic",
+      "fontName": "VerlagText-Bold",
       "fontSize": 16,
       "lineHeight": 20,
-      "textColor": "#fff"
+      "textColor": "#fff",
+      "linkStyle": {
+        "textColor": "#fff",
+        "underline": true
+      }
     },
     "floatImageCaptionTextStyle": {
       "fontName": "VerlagText-Bold",
       "textAlignment": "center"
     },
     "heading2CenteredTextStyle": {
-      "textAlignment": "center"
+      "textAlignment": "center",
+      "textColor": "#000",
+      "fontName": "DidotLTStd-Bold"
     },
     "heading2TextStyle": {
-      "//": "UNUSED"
+      "fontName": "DidotLTStd-Bold"
     },
     "heading3CenteredTextStyle": {
       "textAlignment": "center"
     },
     "heading3TextStyle": {
-      "//": "UNUSED"
+      "fontName": "DidotLTStd-Bold"
     },
     "heading4CenteredTextStyle": {
       "textAlignment": "center"
     },
     "heading4TextStyle": {
-      "//": "UNUSED"
+      "fontName": "DidotLTStd-Bold"
     },
     "heading5CenteredTextStyle": {
       "textAlignment": "center"
     },
     "heading5TextStyle": {
-      "//": "UNUSED"
+      "fontName": "DidotLTStd-Bold"
     },
     "heading6CenteredTextStyle": {
       "textAlignment": "center"
     },
     "heading6TextStyle": {
-      "//": "UNUSED"
+      "fontName": "DidotLTStd-Bold"
     },
     "headingCenteredTextStyle": {
       "fontName": "VerlagCondensed-Bold",
       "fontSize": 16,
-      "textAlignment": "center",
-      "tracking": 0.1
+      "tracking": 0.1,
+      "textAlignment": "center"
     },
     "introTextStyle": {
       "fontName": "VerlagText-Book",
-      "textTransform": "uppercase",
-      "tracking": 0.1
+      "tracking": 0.1,
+      "textTransform": "uppercase"
     },
     "photoCreditTextStyle": {
       "fontName": "VerlagText-Light",
       "fontSize": 10,
       "lineHeight": 12,
+      "tracking": 0.05,
       "textAlignment": "right",
-      "textTransform": "uppercase",
-      "tracking": 0.05
+      "textTransform": "uppercase"
     },
     "photographerTextStyle": {
       "fontName": "Knockout-48Featherweight",
@@ -1849,8 +1835,18 @@
     },
     "pullQuoteTextStyleBottom": {
       "fontName": "VerlagCondensed-Bold",
-      "fontSize": 15,
       "textColor": "#5EAEE0",
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 430
+            }
+          ],
+          "fontSize": 20
+        }
+      ],
+      "fontSize": 15,
       "textTransform": "uppercase",
       "tracking": 0.3
     },
@@ -1859,39 +1855,45 @@
       "tracking": -0.03
     },
     "rubricExclusiveCaptionTextStyle": {
-      "backgroundColor": "#000",
-      "blue_backgroundColor": "#5EAEE0",
       "fontName": "DidotLTStd-Bold",
       "fontSize": 16,
       "lineHeight": 24,
-      "people_exclusive": "#000",
-      "textAlignment": "center",
+      "tracking": 0.1,
+      "backgroundColor": "#000",
       "textColor": "#fff",
       "textTransform": "uppercase",
-      "tracking": 0.1,
-      "yellow_backgroundColor": "#fff200"
+      "blue_backgroundColor": "#5EAEE0",
+      "yellow_backgroundColor": "#fff200",
+      "people_exclusive": "#000",
+      "textAlignment": "center"
     },
     "rubricExclusiveTextStyle": {
-      "backgroundColor": "#000",
-      "blue_backgroundColor": "#00ADEF",
-      "fontName": "VerlagCompressed-Book",
-      "fontSize": 28,
-      "lineHeight": 36,
-      "textColor": "#fff",
-      "textTransform": "uppercase",
+      "fontName": "DidotLTStd-Bold",
+      "fontSize": 26,
+      "lineHeight": 34,
       "tracking": 0.1,
-      "yellow_backgroundColor": "#fff200"
+      "backgroundColor": "#000",
+      "textColor": "#fff",
+      "blue_backgroundColor": "#5EAEE0",
+      "yellow_backgroundColor": "#fff200",
+      "people_exclusive": "#000"
     },
     "rubricTextStyle": {
-      "backgroundColor": "#fff200",
-      "blue_backgroundColor": "#00ADEF",
-      "fontName": "VerlagCompressed-Book",
-      "fontSize": 28,
-      "lineHeight": 36,
-      "red_backgroundColor": "#E42628",
+      "fontName": "DidotLTStd-Bold",
+      "fontSize": 26,
+      "lineHeight": 34,
+      "tracking": 0.1,
       "textColor": "#000",
-      "textTransform": "uppercase",
-      "tracking": 0.1
+      "backgroundColor": "#fff200",
+      "//": "CHANGE COLOR TO MATCH ARTICLE CATEGORY",
+      "people_food": "#E42628",
+      "people_exclusive": "#000",
+      "people_picks": "#8C68AC",
+      "light_yellow_beauty,style,chatter": "#FFF78F",
+      "yellow_everything_else": "#fff200",
+      "people_beauty,style,chatter": "#F37160",
+      "red_backgroundColor": "#E42628",
+      "blue_backgroundColor": "#5EAEE0"
     },
     "scoopCustomTextStyle": {
       "//": "CHANGE TEXT COLOR TO MATCH ARTICLE CATEGORY",
@@ -1906,16 +1908,16 @@
       "tracking": 0
     },
     "sectionCustomTextStyle": {
-      "//": "CHANGE TEXT COLOR TO MATCH ARTICLE CATEGORY",
-      "fontName": "VerlagText-Black",
-      "fontSize": 36,
-      "lineHeight": 26,
-      "people_beauty,style,chatter": "#FFF200",
-      "people_exclusive": "#000",
-      "people_food": "#E42628",
-      "people_picks": "#8C68AC",
       "textColor": "#8C68AC",
-      "tracking": -0.04
+      "//": "CHANGE TEXT COLOR TO MATCH ARTICLE CATEGORY",
+      "people_food": "#E42628",
+      "people_exclusive": "#000",
+      "people_picks": "#8C68AC",
+      "people_beauty,style,chatter": "#FFF200",
+      "fontName": "VerlagText-Black",
+      "tracking": -0.08,
+      "fontSize": 34,
+      "lineHeight": 36
     },
     "sectionTextStyle": {
       "fontName": "VerlagText-Book",
@@ -1929,7 +1931,7 @@
       "fontName": "VerlagText-Bold"
     },
     "sidebarHeading2TextStyle": {
-      "//": "UNUSED"
+      "fontName": "DidotLTStd-Bold"
     },
     "sidebarHeading2TextStyle2": {
       "fontName": "Knockout-48Featherweight",
@@ -1941,10 +1943,14 @@
       }
     },
     "sidebarHeading3TextStyle": {
-      "fontName": "VerlagCondensed-Bold"
+      "fontName": "VerlagText-Black",
+      "fontSize": 22,
+      "lineHeight": 24
     },
     "sidebarHeading4TextStyle": {
-      "fontName": "VerlagText-Bold"
+      "fontName": "VerlagText-Bold",
+      "fontSize": 18,
+      "lineHeight": 20
     },
     "straplineAltTextStyle": {
       "fontName": "Knockout-48Featherweight",
@@ -1957,8 +1963,9 @@
     "straplineTextStyle": {
       "backgroundColor": "#fff200",
       "fontName": "DidotLTStd-Bold",
+      "lineHeight": 36,
       "fontSize": 30,
-      "lineHeight": 36
+      "tracking": 0.1
     },
     "titleTextStyle": {
       "fontName": "DidotLTStd-Bold",
@@ -1979,9 +1986,27 @@
       "lineHeight": 16
     },
     "wobTextStyle": {
-      "fontName": "ChronicleDisplay-Black",
+      "fontName": "DidotLTStd-Bold",
+      "lineHeight": 42,
       "fontSize": 40,
-      "lineHeight": 42
+      "tracking": 0.1
+    },
+    "questionTextStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 500
+            }
+          ],
+          "fontSize": 37,
+          "lineHeight": 40
+        }
+      ],
+      "fontName": "DidotLTStd-Bold",
+      "fontSize": 30,
+      "lineHeight": 35,
+      "tracking": 0.04
     }
   }
 }

@@ -84,7 +84,8 @@
             ],
             "hidden": true
           },
-          "URL": "https://public-assets.meredithcorp.io/f95554c59f38053f1aa415636842e0db/people-picks.jpg"
+          "URL": "https://public-assets.meredithcorp.io/f95554c59f38053f1aa415636842e0db/people-picks.jpg",
+          "uid": "uid22"
         },
         {
           "//": "======== IMAGE BLOCK - 487.0x344.0 ========",
@@ -106,7 +107,8 @@
             "hidden": false
           },
           "hidden": true,
-          "URL": "https://public-assets.meredithcorp.io/2b9e76a732df8458b4578daad7323e58/PPL_Picks_DM.png"
+          "URL": "https://public-assets.meredithcorp.io/2b9e76a732df8458b4578daad7323e58/PPL_Picks_DM.png",
+          "uid": "uid23"
         },
         {
           "role": "heading",
@@ -114,28 +116,32 @@
           "style": "straplineStyle",
           "textStyle": "straplineTextStyle",
           "format": "html",
-          "text": "&nbsp;Q&amp;a&nbsp;"
+          "text": "&nbsp;Q&amp;a&nbsp;",
+          "uid": "uid24"
         },
         {
           "role": "title",
           "layout": "titleLayout",
           "textStyle": "titleTextStyle",
           "format": "html",
-          "text": "Actor Taylor John Smith"
+          "text": "Actor Taylor John Smith",
+          "uid": "uid25"
         },
         {
           "role": "intro",
           "layout": "introLayout",
           "textStyle": "introTextStyle",
           "format": "html",
-          "text": "The <i>Sharp Objects</i> alum, 27, plays a guy in love with a strange backwoods girl (Daisy Edgar-Jones) in <i>Where the Crawdads Sing</i>."
+          "text": "The <i>Sharp Objects</i> alum, 27, plays a guy in love with a strange backwoods girl (Daisy Edgar-Jones) in <i>Where the Crawdads Sing</i> and added extra words.",
+          "uid": "uid26"
         },
         {
           "role": "author",
           "layout": "authorLayout",
           "textStyle": "authorTextStyle",
           "format": "html",
-          "text": "By <author-name>Dana Rose Falcone</author-name>"
+          "text": "By <author-name>Dana Rose Falcone</author-name>",
+          "uid": "uid27"
         },
         {
           "role": "container",
@@ -152,9 +158,11 @@
                 {
                   "role": "image",
                   "style": "headshotStyle",
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/afp_32e97jv_114/2003065-1-eng-US/afp_32e97jv_1142.png?q=100"
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/afp_32e97jv_114/2003065-1-eng-US/afp_32e97jv_1142.png?q=100",
+                  "uid": "uid30"
                 }
-              ]
+              ],
+              "uid": "conuid29"
             },
             {
               "role": "body",
@@ -162,7 +170,8 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<p id='headshot'><q>Were you nervous playing a character from a beloved book?</q><br />My sisters were like, “Don’t screw this up”—so the pressure came from my sisters.</p><p><q>How was filming in Louisiana?</q><br>There was one time—I’m in the marsh, the water is up to my chest, and I hear, “Don’t be alarmed, but there is a gator coming up to your right.”</p><p><q>What was Daisy like?</q><br>The first time we hung out, we went fishing and had been there for three hours—I caught nothing. The first time she cast out the line, she got a bite.</p>"
+              "text": "<p id='headshot'><q>Were you nervous playing a character from a beloved book?</q><br />My sisters were like, “Don’t screw this up”—so the pressure came from my sisters.</p><p><q>How was filming in Louisiana?</q><br>There was one time—I’m in the marsh, the water is up to my chest, and I hear, “Don’t be alarmed, but there is a gator coming up to your right.”</p><p><q>What was Daisy like?</q><br>The first time we hung out, we went fishing and had been there for three hours—I caught nothing. The first time she cast out the line, she got a bite.</p>",
+              "uid": "uid31"
             },
             {
               "role": "container",
@@ -175,25 +184,30 @@
                     "text": "Smith and Edgar-Jones.",
                     "textStyle": "captionEmbeddedTextStyle"
                   },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/df-00770/2003058-1-eng-US/df-007702.jpg?q=100"
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/df-00770/2003058-1-eng-US/df-007702.jpg?q=100",
+                  "uid": "uid33"
                 },
                 {
                   "role": "caption",
                   "layout": "captionLayout",
                   "textStyle": "captionTextStyle",
                   "format": "html",
-                  "text": "Smith and Edgar-Jones."
+                  "text": "Smith and Edgar-Jones.",
+                  "uid": "uid34"
                 }
-              ]
+              ],
+              "uid": "conuid32"
             }
-          ]
+          ],
+          "uid": "conuid28"
         },
         {
           "role": "body",
           "layout": "attributeLayout",
           "textStyle": "attributeTextStyle",
           "format": "html",
-          "text": "ANGELA WEISS/AFP/GETTY IMAGES; MICHELE K SHORT/COLUMBIA PICTURES; push to git"
+          "text": "ANGELA WEISS/AFP/GETTY IMAGES; MICHELE K SHORT/COLUMBIA PICTURES; push to git",
+          "uid": "uid35"
         },
         {
           "role": "container",
@@ -213,7 +227,8 @@
             {
               "role": "container",
               "layout": "dividerLayout",
-              "style": "dividerSectionHeadStyle"
+              "style": "dividerSectionHeadStyle",
+              "uid": "uid37"
             },
             {
               "//": "=== VISIT TOC LINK, ONLY VISIBLE IF USER IS IN ARTICLE VIEW ===",
@@ -221,11 +236,14 @@
               "layout": "bodyLayout",
               "textStyle": "captionTextStyle",
               "format": "html",
-              "text": "<a href=\"https://apple.news/ARY0BQQamEe22-nPPENTv1A\">Tap here</a> to see more from this week's issue of <bold-italic>People</bold-italic>"
+              "text": "<a href=\"https://apple.news/ARY0BQQamEe22-nPPENTv1A\">Tap here</a> to see more from this week's issue of <bold-italic>People</bold-italic>",
+              "uid": "uid38"
             }
-          ]
+          ],
+          "uid": "conuid36"
         }
-      ]
+      ],
+      "uid": "conuid21"
     }
   ],
   "componentLayouts": {

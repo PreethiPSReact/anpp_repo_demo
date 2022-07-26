@@ -56,7 +56,7 @@
           "layout": "sectionLayout",
           "textStyle": "sectionTextStyle",
           "format": "html",
-          "text": "<b>MARILYN</b> 60 years later"
+          "text": "<B>MARILYN</B> 60 YEARS LATER"
         },
         {
           "role": "container",
@@ -589,9 +589,11 @@
     "calloutStyle": {
       "border": {
         "all": {
-          "color": "#8d8d8d",
-          "width": 2
-        }
+          "color": "#000",
+          "width": 1
+        },
+        "left": false,
+        "right": false
       }
     },
     "captionAdStyle": {
@@ -691,7 +693,14 @@
       "//": "UNUSED"
     },
     "pullQuoteStyle": {
-      "//": "UNUSED"
+      "border": {
+        "all": {
+          "color": "#000",
+          "width": 1
+        },
+        "left": false,
+        "right": false
+      }
     },
     "sectionStyle": {
       "//": "UNUSED"
@@ -699,16 +708,18 @@
     "sidebarNoBackgroundStyle": {
       "border": {
         "all": {
-          "color": "#f2f2f2",
-          "width": 2
-        }
+          "color": "#000",
+          "width": 1
+        },
+        "left": false,
+        "right": false
       }
     },
     "sidebarStyle": {
-      "backgroundColor": "#f2f2f2",
+      "backgroundColor": "#FDE7DC",
       "conditional": [
         {
-          "backgroundColor": "#f2f2f2",
+          "backgroundColor": "#FDE7DC",
           "conditions": [
             {
               "minSpecVersion": "1.14",
@@ -723,39 +734,411 @@
     },
     "titleStyle": {
       "//": "UNUSED"
+    },
+    "agesStagesBodyContainerStyle": {
+      "backgroundColor": "#f4ebdc",
+      "conditional": [
+        {
+          "backgroundColor": "#f4ebdc",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "sidebarCenteredStyle": {
+      "backgroundColor": "#EDD6D1",
+      "conditional": [
+        {
+          "backgroundColor": "#EDD6D1",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "pullQuoteNoTopBorderStyle": {
+      "border": {
+        "all": {
+          "color": "#000",
+          "width": 1
+        },
+        "left": false,
+        "right": false,
+        "top": false
+      }
+    },
+    "coloredBoxHeadingStyle": {
+      "backgroundColor": "#EED4D4"
+    },
+    "ingredientsStyle": {
+      "tableStyle": {
+        "rows": {
+          "height": 20
+        },
+        "cells": {
+          "conditional": [
+            {
+              "horizontalAlignment": "right",
+              "padding": {
+                "right": 5
+              },
+              "selectors": [
+                {
+                  "columnIndex": 0
+                }
+              ],
+              "width": 10
+            },
+            {
+              "horizontalAlignment": "left",
+              "padding": {
+                "left": 5
+              },
+              "selectors": [
+                {
+                  "columnIndex": 1
+                }
+              ],
+              "width": 75
+            }
+          ],
+          "textStyle": "ingredientsTextStyle",
+          "verticalAlignment": "top"
+        },
+        "columns": {
+          "conditional": [
+            {
+              "selectors": [
+                {
+                  "columnIndex": 0
+                }
+              ],
+              "width": 10
+            },
+            {
+              "selectors": [
+                {
+                  "columnIndex": 1
+                }
+              ],
+              "width": 45
+            }
+          ]
+        }
+      }
+    },
+    "pillBlueLiteStyle": {
+      "backgroundColor": "#81c4cd",
+      "conditional": [
+        {
+          "backgroundColor": "#81c4cd",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ],
+      "mask": {
+        "radius": "50cw",
+        "type": "corners"
+      }
+    },
+    "pillBlueStyle": {
+      "backgroundColor": "#41c7f4",
+      "conditional": [
+        {
+          "backgroundColor": "#41c7f4",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ],
+      "mask": {
+        "radius": "50cw",
+        "type": "corners"
+      }
+    },
+    "pillGoldStyle": {
+      "backgroundColor": "#f0c04e",
+      "conditional": [
+        {
+          "backgroundColor": "#f0c04e",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ],
+      "mask": {
+        "radius": "50cw",
+        "type": "corners"
+      }
+    },
+    "pillOrangeLiteStyle": {
+      "backgroundColor": "#fbb161",
+      "conditional": [
+        {
+          "backgroundColor": "#fbb161",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ],
+      "mask": {
+        "radius": "50cw",
+        "type": "corners"
+      }
+    },
+    "pillOrangeStyle": {
+      "backgroundColor": "#f68e1d",
+      "conditional": [
+        {
+          "backgroundColor": "#f68e1d",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ],
+      "mask": {
+        "radius": "50cw",
+        "type": "corners"
+      }
+    },
+    "pillPinkLiteStyle": {
+      "backgroundColor": "#ebd6da",
+      "conditional": [
+        {
+          "backgroundColor": "#ebd6da",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ],
+      "mask": {
+        "radius": "50cw",
+        "type": "corners"
+      }
+    },
+    "pillPinkStyle": {
+      "backgroundColor": "#f7b9d4",
+      "conditional": [
+        {
+          "backgroundColor": "#f7b9d4",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ],
+      "mask": {
+        "radius": "50cw",
+        "type": "corners"
+      }
+    },
+    "pillYellowStyle": {
+      "backgroundColor": "#ffd400",
+      "conditional": [
+        {
+          "backgroundColor": "#ffd400",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ],
+      "mask": {
+        "radius": "50cw",
+        "type": "corners"
+      }
+    },
+    "bkgBlueLiteStyle": {
+      "backgroundColor": "#81c4cd",
+      "conditional": [
+        {
+          "backgroundColor": "#81c4cd",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "bkgBlueStyle": {
+      "backgroundColor": "#41c7f4",
+      "conditional": [
+        {
+          "backgroundColor": "#41c7f4",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "bkgGoldStyle": {
+      "backgroundColor": "#f0c04e",
+      "conditional": [
+        {
+          "backgroundColor": "#f0c04e",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "bkgOrangeLiteStyle": {
+      "backgroundColor": "#fbb161",
+      "conditional": [
+        {
+          "backgroundColor": "#fbb161",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "bkgOrangeStyle": {
+      "backgroundColor": "#e0922e",
+      "conditional": [
+        {
+          "backgroundColor": "#e0922e",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "bkgPinkLiteStyle": {
+      "backgroundColor": "#ebd6da",
+      "conditional": [
+        {
+          "backgroundColor": "#ebd6da",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "bkgPinkStyle": {
+      "backgroundColor": "#f7b9d4",
+      "conditional": [
+        {
+          "backgroundColor": "#f7b9d4",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "bkgTanStyle": {
+      "backgroundColor": "#fccaa1",
+      "conditional": [
+        {
+          "backgroundColor": "#fccaa1",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "bkgYellowStyle": {
+      "backgroundColor": "#ebe709",
+      "conditional": [
+        {
+          "backgroundColor": "#ebe709",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
     }
   },
   "textStyles": {
     "creditTextStyle": {
-      "fontName": "AvenirNext-Medium",
+      "fontName": "Graphik-Regular",
       "fontSize": 10,
-      "textColor": "#8d8d8d",
-      "textTransform": "uppercase",
-      "tracking": 0.1
+      "lineHeight": 12,
+      "textColor": "#6D6E70",
+      "tracking": 0.05
     },
     "default-tag-caption-heading": {
-      "fontName": "AvenirNext-Bold",
-      "fontSize": 14,
+      "fontName": "Graphik-Bold",
       "textTransform": "uppercase",
-      "tracking": 0.05
+      "tracking": 0.1,
+      "fontSize": 14
     },
     "default-tag-emoji": {
       "fontName": "AppleColorEmoji"
     },
     "default-tag-lede": {
-      "fontName": "AvenirNext-Bold"
+      "fontName": "Graphik-Bold",
+      "textTransform": "uppercase",
+      "tracking": 0.12,
+      "fontSize": 13
     },
     "default-tag-pullquote-attribution": {
-      "fontName": "Georgia-Bold",
-      "fontSize": 15,
-      "textTransform": "uppercase",
-      "tracking": 0.15
+      "fontSize": 13,
+      "fontName": "Graphik-Semibold",
+      "tracking": 0.05,
+      "textTransform": "uppercase"
     },
     "default-tag-sidebar-lede": {
-      "fontName": "AvenirNext-Bold",
-      "fontSize": 16,
+      "fontName": "Graphik-Bold",
       "textTransform": "uppercase",
-      "tracking": 0.05
+      "tracking": 0.12,
+      "fontSize": 13
     },
     "default-tag-sub-section": {
       "fontName": "AvenirNext-Medium"
@@ -765,242 +1148,263 @@
     },
     "subSectionTextStyle": {
       "//": "UNUSED"
+    },
+    "default-tag-callout": {
+      "//": "Bold body text",
+      "fontName": "Graphik-Bold",
+      "fontSize": 15,
+      "tracking": 0.02
+    },
+    "default-tag-subsection": {
+      "fontName": "Graphik-Medium",
+      "tracking": 0
+    },
+    "default-tag-att-italic": {
+      "fontName": "Graphik-SemiboldItalic"
+    },
+    "default-tag-intro-italic": {
+      "fontName": "Graphik-SemiboldItalic"
+    },
+    "default-tag-m": {
+      "fontName": "Graphik-Medium"
+    },
+    "pullQuoteAttributionTextStyle": {
+      "fontName": "Graphik-Regular",
+      "fontSize": 14
     }
   },
   "componentTextStyles": {
     "//": {
-      "//": "===================== LIFE OVERRIDES ====================="
+      "//": "===================== PARENTS OVERRIDES ====================="
     },
     "attributeTextStyle": {
-      "fontName": "AvenirNext-Medium",
       "fontSize": 10,
-      "lineHeight": 14,
-      "textColor": "#8d8d8d",
-      "textTransform": "uppercase",
-      "tracking": 0.1
+      "lineHeight": 12,
+      "textColor": "#6D6E70",
+      "tracking": 0.05,
+      "textTransform": "uppercase"
     },
     "authorTextStyle": {
-      "fontName": "Georgia-Bold",
+      "fontName": "Graphik-Semibold",
+      "tracking": 0.1,
       "textAlignment": "center",
-      "textTransform": "uppercase",
-      "tracking": 0.05
+      "textTransform": "uppercase"
     },
     "bodyCenteredTextStyle": {
-      "fontName": "Georgia",
-      "textAlignment": "center"
+      "textAlignment": "center",
+      "fontName": "Graphik-Medium"
     },
     "bodyDropCapTextStyle": {
-      "dropCapStyle": {
-        "fontName": "AvenirNext-Medium",
-        "numberOfCharacters": 1,
-        "numberOfLines": 4,
-        "numberOfRaisedLines": 0
-      },
-      "fontName": "Georgia"
+      "fontName": "Sentinel-Book"
     },
     "bodyTextStyle": {
-      "fontName": "Georgia"
+      "fontName": "Sentinel-Book"
     },
     "calloutBodyTextStyle": {
-      "fontName": "Georgia-Italic",
-      "fontSize": 22,
-      "lineHeight": 28,
+      "fontName": "Graphik-Medium",
+      "fontSize": 16,
+      "lineHeight": 20,
       "textAlignment": "center"
     },
     "calloutHeadingTextStyle": {
-      "fontName": "AvenirNext-Bold",
-      "fontSize": 24,
-      "lineHeight": 28,
+      "fontName": "Graphik-Bold",
+      "fontSize": 19,
+      "lineHeight": 21,
+      "tracking": 0.1,
       "textAlignment": "center",
-      "textTransform": "uppercase",
-      "tracking": -0.05
+      "textTransform": "uppercase"
     },
     "captionAdTextStyle": {
       "//": "UNUSED"
     },
     "captionCenteredTextStyle": {
+      "fontName": "Graphik-Medium",
       "textAlignment": "center"
     },
     "captionEmbeddedTextStyle": {
-      "fontName": "HelveticaNeue-Bold",
+      "fontName": "HelveticaNeue",
       "lineHeight": 16
     },
     "captionTextStyle": {
-      "fontName": "AvenirNext-Medium",
-      "textAlignment": "left"
+      "fontName": "Graphik-Medium"
     },
     "default": {
-      "fontName": "AvenirNext-Medium",
-      "hyphenation": false,
+      "fontName": "Graphik-Regular",
+      "textColor": "#000",
       "linkStyle": {
         "underline": true
       },
-      "textColor": "#000"
+      "hyphenation": false
     },
     "default-author": {
-      "fontSize": 15,
-      "lineHeight": 19
+      "fontSize": 11,
+      "lineHeight": 14
     },
     "default-body": {
-      "fontSize": 20,
-      "lineHeight": 26,
-      "paragraphSpacingAfter": 12,
-      "paragraphSpacingBefore": 12
+      "fontSize": 19,
+      "lineHeight": 24,
+      "paragraphSpacingBefore": 12,
+      "paragraphSpacingAfter": 12
     },
     "default-byline": {
       "//": "UNUSED"
     },
     "default-caption": {
-      "fontName": "AvenirNext-Medium",
-      "fontSize": 15,
-      "lineHeight": 22
+      "fontName": "Avenir-Book",
+      "fontSize": 13,
+      "lineHeight": 15
     },
     "default-heading": {
       "fontSize": 16,
-      "lineHeight": 16
+      "lineHeight": 18
     },
     "default-heading2": {
-      "fontSize": 45,
-      "lineHeight": 50
+      "fontSize": 35,
+      "lineHeight": 39,
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 500
+            }
+          ],
+          "fontSize": 26,
+          "lineHeight": 30
+        }
+      ]
     },
     "default-heading3": {
-      "fontSize": 24,
-      "lineHeight": 28
+      "fontSize": 22,
+      "lineHeight": 26
     },
     "default-heading4": {
-      "fontSize": 24,
-      "lineHeight": 28
-    },
-    "default-heading5": {
-      "fontSize": 22,
-      "lineHeight": 24
-    },
-    "default-heading6": {
       "fontSize": 18,
       "lineHeight": 20
     },
+    "default-heading5": {
+      "fontSize": 19,
+      "lineHeight": 21
+    },
+    "default-heading6": {
+      "fontSize": 15,
+      "lineHeight": 17
+    },
     "default-intro": {
-      "fontName": "Avenir-Book",
-      "fontSize": 18,
+      "fontSize": 17,
       "lineHeight": 20
     },
     "default-photographer": {
       "//": "UNUSED"
     },
     "default-pullquote": {
-      "fontSize": 30,
-      "lineHeight": 33
+      "fontSize": 16,
+      "lineHeight": 20,
+      "textAlignment": "center"
     },
     "default-title": {
-      "fontSize": 60,
-      "lineHeight": 66
+      "fontSize": 46,
+      "lineHeight": 50
     },
     "floatImageCaptionTextStyle": {
-      "fontName": "AvenirNext-Medium",
-      "textAlignment": "left"
+      "fontName": "Graphik-Medium"
     },
     "heading2CenteredTextStyle": {
-      "fontName": "AvenirNext-Bold",
+      "fontName": "Graphik-Bold",
       "textAlignment": "center"
     },
     "heading2TextStyle": {
-      "fontName": "AvenirNext-Bold",
-      "tracking": -0.02
+      "fontName": "Graphik-Bold"
     },
     "heading3CenteredTextStyle": {
-      "fontName": "AvenirNext-Bold",
-      "textAlignment": "center",
-      "textTransform": "uppercase",
-      "tracking": -0.05
+      "fontName": "Graphik-Black",
+      "textAlignment": "center"
     },
     "heading3TextStyle": {
-      "fontName": "AvenirNext-Bold",
-      "textTransform": "uppercase",
-      "tracking": -0.05
+      "fontName": "Graphik-Black"
     },
     "heading4CenteredTextStyle": {
+      "fontName": "Graphik-Bold",
+      "textTransform": "uppercase",
       "textAlignment": "center"
     },
     "heading4TextStyle": {
-      "fontName": "AvenirNext-Bold",
-      "tracking": -0.01
+      "fontName": "Graphik-Bold",
+      "textTransform": "uppercase",
+      "tracking": 0.1
     },
     "heading5CenteredTextStyle": {
+      "fontName": "Graphik-Bold",
       "textAlignment": "center"
     },
     "heading5TextStyle": {
-      "fontName": "Georgia-BoldItalic"
+      "fontName": "Graphik-Bold"
     },
     "heading6CenteredTextStyle": {
       "textAlignment": "center"
     },
     "heading6TextStyle": {
-      "fontName": "AvenirNext-Bold",
-      "tracking": 0.05
+      "fontName": "Graphik-Bold",
+      "textTransform": "uppercase"
     },
     "introTextStyle": {
-      "fontName": "Georgia-Italic",
+      "fontName": "Graphik-Semibold",
       "textAlignment": "center"
     },
     "listTextStyle": {
-      "fontSize": 17,
-      "lineHeight": 21
+      "fontName": "Graphik-Semibold",
+      "fontSize": 16,
+      "lineHeight": 20
     },
     "pullQuoteTextStyle": {
-      "fontName": "Georgia",
-      "textAlignment": "center"
+      "fontName": "Graphik-MediumItalic"
     },
     "sectionTextStyle": {
-      "fontName": "AvenirNext-Regular",
+      "fontName": "Graphik-Bold",
       "fontSize": 14,
-      "lineHeight": 16,
-      "textTransform": "uppercase",
-      "tracking": 0.05
+      "tracking": 0.11,
+      "textAlignment": "center"
     },
     "sidebarBodyCenteredTextStyle": {
-      "fontName": "AvenirNext-Medium",
-      "fontSize": 18,
-      "lineHeight": 26,
+      "fontName": "Graphik-Medium",
       "textAlignment": "center",
-      "tracking": 0.02
+      "fontSize": 15,
+      "lineHeight": 19
     },
     "sidebarBodyTextStyle": {
-      "fontName": "AvenirNext-Medium",
-      "fontSize": 18,
-      "lineHeight": 26,
-      "tracking": 0.02
+      "fontName": "Graphik-Medium",
+      "fontSize": 15,
+      "lineHeight": 19
     },
     "sidebarHeading2CenteredTextStyle": {
-      "fontName": "Georgia-Bold",
-      "fontSize": 45,
-      "lineHeight": 50,
+      "fontName": "Graphik-Black",
+      "textTransform": "uppercase",
+      "fontSize": 22,
+      "lineHeight": 24,
+      "tracking": 0.12,
       "textAlignment": "center"
     },
     "sidebarHeading2TextStyle": {
-      "fontName": "Georgia-Bold",
-      "fontSize": 45,
-      "lineHeight": 50
+      "fontName": "Graphik-Black",
+      "textTransform": "uppercase",
+      "fontSize": 22,
+      "lineHeight": 24,
+      "tracking": 0.12
     },
     "sidebarHeading3CenteredTextStyle": {
-      "fontName": "AvenirNext-Bold",
-      "fontSize": 24,
-      "lineHeight": 28,
-      "textAlignment": "center",
-      "textTransform": "uppercase",
-      "tracking": -0.05
+      "fontName": "Graphik-Bold",
+      "fontSize": 17,
+      "lineHeight": 19,
+      "textAlignment": "center"
     },
     "sidebarHeading3TextStyle": {
-      "fontName": "AvenirNext-Bold",
-      "fontSize": 24,
-      "lineHeight": 28,
-      "textTransform": "uppercase",
-      "tracking": -0.05
+      "fontName": "Graphik-Bold",
+      "fontSize": 17,
+      "lineHeight": 19
     },
     "sidebarHeading4TextStyle": {
-      "fontName": "AvenirNext-Bold",
-      "fontSize": 24,
-      "lineHeight": 28,
-      "tracking": -0.01
+      "fontName": "Graphik-Bold",
+      "fontSize": 15,
+      "lineHeight": 17
     },
     "sidebarHeadingCentered4TextStyle": {
       "fontName": "AvenirNext-Bold",
@@ -1014,10 +1418,24 @@
       "lineHeight": 26
     },
     "straplineTextStyle": {
-      "fontName": "AvenirNext-Bold",
+      "fontName": "Graphik-Semibold",
+      "fontSize": 14,
+      "lineHeight": 18,
+      "tracking": 0.06,
       "textAlignment": "center",
       "textTransform": "uppercase",
-      "tracking": 0.15
+      "textColor": "#f27a74",
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "textColor": "#f27a74"
+        }
+      ]
     },
     "subsectionIntroTextStyle": {
       "fontName": "Georgia-Italic",
@@ -1026,7 +1444,8 @@
       "textAlignment": "left"
     },
     "titleTextStyle": {
-      "fontName": "AvenirNext-Bold",
+      "fontName": "Graphik-Black",
+      "tracking": 0.02,
       "textAlignment": "center"
     },
     "tocTextStyle": {
@@ -1037,6 +1456,115 @@
       },
       "textAlignment": "center",
       "textColor": "#000"
+    },
+    "straplineLeftTextStyle": {
+      "fontName": "Graphik-Medium",
+      "fontSize": 14,
+      "lineHeight": 18,
+      "tracking": 0.06,
+      "textTransform": "uppercase"
+    },
+    "templateBodyTextStyle": {
+      "fontName": "Graphik-Regular",
+      "textAlignment": "center"
+    },
+    "templateAttributeTextStyle": {
+      "fontName": "Graphik-Semibold",
+      "fontSize": 14,
+      "lineHeight": 18,
+      "textAlignment": "center"
+    },
+    "authorBodyTextStyle": {
+      "fontName": "Graphik-Regular",
+      "fontSize": 14,
+      "lineHeight": 16
+    },
+    "pillTextStyle": {
+      "fontName": "Graphik-Semibold",
+      "fontSize": 15,
+      "lineHeight": 18,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.12
+    },
+    "photoCreditTextStyle": {
+      "fontName": "Graphik-Regular",
+      "fontSize": 10,
+      "lineHeight": 12,
+      "textColor": "#6D6E70",
+      "tracking": 0.05,
+      "textAlignment": "right"
+    },
+    "gigglesTextStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 415
+            }
+          ],
+          "fontSize": 67
+        }
+      ],
+      "fontName": "Graphik-Black",
+      "fontSize": 56,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.02
+    },
+    "sidebarHeading4CenteredTextStyle": {
+      "fontName": "Graphik-Bold",
+      "fontSize": 15,
+      "lineHeight": 17,
+      "textAlignment": "center"
+    },
+    "sidebarListTextStyle": {
+      "fontName": "Graphik-Medium",
+      "fontSize": 15,
+      "lineHeight": 19
+    },
+    "sourcesTextStyle": {
+      "fontName": "Graphik-Regular",
+      "fontSize": 12,
+      "lineHeight": 15
+    },
+    "recipeDetailsTextStyle": {
+      "fontName": "Graphik-Regular",
+      "fontSize": 14,
+      "lineHeight": 16
+    },
+    "ingredientsTextStyle": {
+      "fontName": "Graphik-Medium",
+      "fontSize": 16,
+      "lineHeight": 20
+    },
+    "recipeBodyTextStyle": {
+      "fontName": "Graphik-Regular",
+      "fontSize": 17,
+      "lineHeight": 22
+    },
+    "questionTextStyle": {
+      "fontName": "Graphik-Bold",
+      "fontSize": 18,
+      "lineHeight": 20
+    },
+    "recipeNutritionInfoTextStyle": {
+      "fontName": "Graphik-Medium",
+      "fontSize": 13,
+      "lineHeight": 15
+    },
+    "contestRulesTextStyle": {
+      "fontName": "Graphik-Regular",
+      "fontSize": 12,
+      "lineHeight": 14
+    },
+    "coloredBoxHeadingTextStyle": {
+      "fontName": "Graphik-Semibold",
+      "fontSize": 15,
+      "lineHeight": 18,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.12
     }
   }
 }

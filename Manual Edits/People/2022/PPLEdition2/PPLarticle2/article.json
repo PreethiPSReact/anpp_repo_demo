@@ -66,7 +66,8 @@
           "layout": "sectionCustomLayout",
           "textStyle": "scoopCustomTextStyle",
           "format": "html",
-          "text": "Scoop"
+          "text": "Scoop",
+          "uid": "uid134"
         },
         {
           "//": "====== NOTE: ITALICS DO NOT WORK WITH RUBRICS. SEE BOTTOM FOR STRAPLINE AND WOB EXAMPLES ======",
@@ -74,21 +75,24 @@
           "layout": "rubricLayout",
           "textStyle": "rubricTextStyle",
           "format": "html",
-          "text": "&nbsp;July 25, 2022 -- <i>People</i>&nbsp;"
+          "text": "&nbsp;July 25, 2022 -- <i>People</i>&nbsp;",
+          "uid": "uid135"
         },
         {
           "role": "title",
           "layout": "titleLayout",
           "textStyle": "titleTextStyle",
           "format": "html",
-          "text": "Chris Rock &amp; Lake Bell Sharing Laughter and Pasta on Date Nights"
+          "text": "Chris Rock &amp; Lake Bell Sharing Laughter and Pasta on Date Nights",
+          "uid": "uid136"
         },
         {
           "role": "author",
           "layout": "authorLayout",
           "textStyle": "authorTextStyle",
           "format": "html",
-          "text": "By <author-name>Emily Strohm</author-name> <br>With reporting by <author-name>Pernilla Cedenheim</author-name> and <author-name>Linda Marx</author-name>"
+          "text": "By <author-name>Emily Strohm</author-name> <br>With reporting by <author-name>Pernilla Cedenheim</author-name> and <author-name>Linda Marx</author-name>",
+          "uid": "uid137"
         },
         {
           "//": "======== HERO IMAGE CONTAINER =======",
@@ -99,9 +103,11 @@
               "//": "======== HERO IMAGE - H914.0/W1366.0 * 100 = 66.9106881 ========",
               "role": "photo",
               "layout": "fullBleedPhotoLayout",
-              "URL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/p019-ppl220725-chris-lake/2001610-1-eng-US/p019-ppl220725-chris-lake.jpg?q=100"
+              "URL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/p019-ppl220725-chris-lake/2001610-1-eng-US/p019-ppl220725-chris-lake.jpg?q=100",
+              "uid": "uid139"
             }
-          ]
+          ],
+          "uid": "conuid138"
         },
         {
           "//": "======== BODY CONTAINER =======",
@@ -114,7 +120,8 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "<lede>Things appear to be heating up in Chris</lede> Rock’s love life. The comedian, 57, and <i>Secret Life of Pets</i> actress Lake Bell, 43, first sparked romance rumors after they spent time together in Los Angeles over the Fourth of July weekend. On July 2 the duo shared pasta dishes during dinner at Giorgio Baldi in Santa Monica. The next day, they were spotted again enjoying a casual brunch. “It’s a good match,” says an industry source, who confirms that the pair have been seeing each other for a few months. “They get along fine and have things in common like laughing at everything—including themselves. They share a giant sense of humor and a way of looking at life with sarcasm and outrage, which gives them lots to laugh about.”"
+              "text": "<lede>Things appear to be heating up in Chris</lede> Rock’s love life additional text here. The comedian, 57, and <i>Secret Life of Pets</i> actress Lake Bell, 43, first sparked romance rumors after they spent time together in Los Angeles over the Fourth of July weekend. On July 2 the duo shared pasta dishes during dinner at Giorgio Baldi in Santa Monica. The next day, they were spotted again enjoying a casual brunch. “It’s a good match,” says an industry source, who confirms that the pair have been seeing each other for a few months. “They get along fine and have things in common like laughing at everything—including themselves. They share a giant sense of humor and a way of looking at life with sarcasm and outrage, which gives them lots to laugh about.”",
+              "uid": "uid141"
             },
             {
               "//": "======== FULL BLEED CONTAINER ========",
@@ -130,16 +137,19 @@
                     "text": "“You could tell from the smiles and laughter that they had fun,” a restaurant source says of Rock and Bell (on a July 2 dinner date).",
                     "textStyle": "captionEmbeddedTextStyle"
                   },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/bgus_241540_1552/1999217-1-eng-US/bgus_241540_1552.png?q=100"
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/bgus_241540_1552/1999217-1-eng-US/bgus_241540_1552.png?q=100",
+                  "uid": "uid143"
                 },
                 {
                   "role": "caption",
                   "layout": "captionLayout",
                   "textStyle": "captionTextStyle",
                   "format": "html",
-                  "text": "“You could tell from the smiles and laughter that they had fun,” a restaurant source says of Rock and Bell (on a July 2 dinner date)."
+                  "text": "“You could tell from the smiles and laughter that they had fun,” a restaurant source says of Rock and Bell (on a July 2 dinner date).",
+                  "uid": "uid144"
                 }
-              ]
+              ],
+              "uid": "conuid142"
             },
             {
               "//": "======== FULL BLEED CONTAINER ========",
@@ -155,16 +165,19 @@
                     "text": "<b>Career-Focused</b><br>Rock will appear in <i>Amsterdam</i> with Margot Robbie.",
                     "textStyle": "captionEmbeddedTextStyle"
                   },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/amsterdam32/1999210-1-eng-US/amsterdam32.jpg?q=100"
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/amsterdam32/1999210-1-eng-US/amsterdam32.jpg?q=100",
+                  "uid": "uid146"
                 },
                 {
                   "role": "caption",
                   "layout": "captionLayout",
                   "textStyle": "captionTextStyle",
                   "format": "html",
-                  "text": "<caption-heading>Career-Focused</caption-heading><br>Rock will appear in <bold-italic>Amsterdam</bold-italic> with Margot Robbie."
+                  "text": "<caption-heading>Career-Focused</caption-heading><br>Rock will appear in <bold-italic>Amsterdam</bold-italic> with Margot Robbie.",
+                  "uid": "uid147"
                 }
-              ]
+              ],
+              "uid": "conuid145"
             },
             {
               "role": "body",
@@ -172,7 +185,8 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "As their connection grows, Rock is busier than ever: This fall he’ll appear in the period comedy <i>Amsterdam</i> (due Nov. 4) and the biopic <i>Rustin</i> (about civil rights leader Bayard Rustin), and he’s now on the Rock Hart: Only Headliners Allowed comedy tour with Kevin Hart. “Chris is slammed,” says the source. “He is really busy and happy, and his time with Lake has been great.”"
+              "text": "As their connection grows, Rock is busier than ever: This fall he’ll appear in the period comedy <i>Amsterdam</i> (due Nov. 4) and the biopic <i>Rustin</i> (about civil rights leader Bayard Rustin), and he’s now on the Rock Hart: Only Headliners Allowed comedy tour with Kevin Hart. “Chris is slammed,” says the source. “He is really busy and happy, and his time with Lake has been great.”",
+              "uid": "uid148"
             },
             {
               "//": "======== FULL BLEED CONTAINER ========",
@@ -189,7 +203,8 @@
                     "textStyle": "captionEmbeddedTextStyle"
                   },
                   "photoCredit": "BLEECKER STREET",
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/summering_r_1472/1999203-1-eng-US/summering_r_1472.jpg?q=100"
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/summering_r_1472/1999203-1-eng-US/summering_r_1472.jpg?q=100",
+                  "uid": "uid150"
                 },
                 {
                   "role": "caption",
@@ -197,9 +212,11 @@
                   "textStyle": "captionTextStyle",
                   "format": "html",
                   "photoCredit": "BLEECKER STREET",
-                  "text": "Bell’s drama <bold-italic>Summering</bold-italic> is out next month."
+                  "text": "Bell’s drama <bold-italic>Summering</bold-italic> is out next month.",
+                  "uid": "uid151"
                 }
-              ]
+              ],
+              "uid": "conuid149"
             },
             {
               "role": "body",
@@ -207,7 +224,8 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "In addition to their shared sense of humor, the two are also both parents. Rock and his ex-wife Malaak Compton Rock—who split in 2016 after 20 years—share daughters Lola Simone, 20, and Zahra Savannah, 18; Bell is mom to son Ozgood, 5, and daughter Nova, 7, with her ex-husband Scott Campbell. (They split in October 2020 after seven years.) “Lake is a great mom, and her kids are her first priority,” says an insider. “She is having fun dating, though. It’s a pretty new relationship, and they see each other when they have time. They are getting to know each other and seem to have fun.”"
+              "text": "In addition to their shared sense of humor, the two are also both parents. Rock and his ex-wife Malaak Compton Rock—who split in 2016 after 20 years—share daughters Lola Simone, 20, and Zahra Savannah, 18; Bell is mom to son Ozgood, 5, and daughter Nova, 7, with her ex-husband Scott Campbell. (They split in October 2020 after seven years.) “Lake is a great mom, and her kids are her first priority,” says an insider. “She is having fun dating, though. It’s a pretty new relationship, and they see each other when they have time. They are getting to know each other and seem to have fun.”",
+              "uid": "uid152"
             },
             {
               "role": "pullquote",
@@ -215,7 +233,8 @@
               "style": "pullQuoteStyleTop",
               "textStyle": "pullQuoteTextStyleTop",
               "format": "html",
-              "text": "‘They have a lot in common, and Chris is impressed with her’"
+              "text": "‘They have a lot in common, and Chris is impressed with her’",
+              "uid": "uid153"
             },
             {
               "role": "pullquote",
@@ -223,7 +242,8 @@
               "style": "pullQuoteStyleBottom",
               "textStyle": "pullQuoteTextStyleBottom",
               "format": "html",
-              "text": "&mdash;ENTERTAINMENT SOURCE"
+              "text": "&mdash;ENTERTAINMENT SOURCE",
+              "uid": "uid154"
             },
             {
               "role": "body",
@@ -231,16 +251,19 @@
               "style": "paragraphStyle",
               "textStyle": "bodyTextStyle",
               "format": "html",
-              "text": "The low-key new romance comes nearly four months after Rock was slapped onstage at the Academy Awards by Will Smith when Rock made a joke about Smith’s wife, Jada Pinkett Smith. (Smith has since apologized and resigned from the Academy of Motion Picture Arts and Sciences.) As the comedian looks forward to joining Dave Chappelle for a joint comedy show in London in September, he’s enjoying his quality time with Bell. “Chris and Lake have a lot of great conversations,” says an L.A. entertainment source. “She is hilarious. They really do have a lot in common. The time they have had together has been positive.”"
+              "text": "The low-key new romance comes nearly four months after Rock was slapped onstage at the Academy Awards by Will Smith when Rock made a joke about Smith’s wife, Jada Pinkett Smith. (Smith has since apologized and resigned from the Academy of Motion Picture Arts and Sciences.) As the comedian looks forward to joining Dave Chappelle for a joint comedy show in London in September, he’s enjoying his quality time with Bell. “Chris and Lake have a lot of great conversations,” says an L.A. entertainment source. “She is hilarious. They really do have a lot in common. The time they have had together has been positive.”",
+              "uid": "uid155"
             },
             {
               "role": "body",
               "layout": "attributeLayout",
               "textStyle": "attributeTextStyle",
               "format": "html",
-              "text": "EMMA MCINTYRE/GETTY IMAGES; RICHARD SHOTWELL/INVISION/AP/SHUTTERSTOCK; VEGAN/BACKGRID; BLEECKER STREET"
+              "text": "EMMA MCINTYRE/GETTY IMAGES; RICHARD SHOTWELL/INVISION/AP/SHUTTERSTOCK; VEGAN/BACKGRID; BLEECKER STREET",
+              "uid": "uid156"
             }
-          ]
+          ],
+          "uid": "conuid140"
         },
         {
           "//": "=== NEXT UP ARTICLE LINK CONTAINER ===",
@@ -261,7 +284,8 @@
             {
               "role": "container",
               "layout": "dividerLayout",
-              "style": "dividerSectionHeadStyle"
+              "style": "dividerSectionHeadStyle",
+              "uid": "uid158"
             },
             {
               "//": "=== NEXT UP ARTICLE LINK, ONLY VISIBLE IF USER IS IN THE ISSUE ALREADY ===",
@@ -269,9 +293,11 @@
               "layout": "bodyLayout",
               "textStyle": "captionTextStyle",
               "format": "html",
-              "text": "Next up: <a href=\"https://apple.news/A1kP1J-m1RY6dx_-1SmXElg\">Love This! Keanu’s Adorable Airport Encounter</a>"
+              "text": "Next up: <a href=\"https://apple.news/A1kP1J-m1RY6dx_-1SmXElg\">Love This! Keanu’s Adorable Airport Encounter</a>",
+              "uid": "uid159"
             }
-          ]
+          ],
+          "uid": "conuid157"
         },
         {
           "role": "container",
@@ -291,7 +317,8 @@
             {
               "role": "container",
               "layout": "dividerLayout",
-              "style": "dividerSectionHeadStyle"
+              "style": "dividerSectionHeadStyle",
+              "uid": "uid161"
             },
             {
               "//": "=== VISIT TOC LINK, ONLY VISIBLE IF USER IS IN ARTICLE VIEW ===",
@@ -299,11 +326,14 @@
               "layout": "bodyLayout",
               "textStyle": "captionTextStyle",
               "format": "html",
-              "text": "<a href=\"https://apple.news/AyFNvAf7wEeyxF-fomvNNgQ\">Tap here</a> to see more from this week's issue of <bold-italic>People</bold-italic>"
+              "text": "<a href=\"https://apple.news/AyFNvAf7wEeyxF-fomvNNgQ\">Tap here</a> to see more from this week's issue of <bold-italic>People</bold-italic>",
+              "uid": "uid162"
             }
-          ]
+          ],
+          "uid": "conuid160"
         }
-      ]
+      ],
+      "uid": "conuid133"
     }
   ],
   "componentLayouts": {

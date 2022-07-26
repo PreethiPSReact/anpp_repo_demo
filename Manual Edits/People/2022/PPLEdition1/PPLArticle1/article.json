@@ -91,7 +91,7 @@
           "layout": "authorLayout",
           "textStyle": "authorTextStyle",
           "format": "html",
-          "text": "BBBBBBBy <author-name>Emily Strohm</author-name> <br>With reporting by <author-name>Pernilla Cedenheim</author-name> and <author-name>Linda Marx</author-name>",
+          "text": "BBBBBy <author-name>Emily Strohm</author-name> <br>With reporting by <author-name>Pernilla Cedenheim</author-name> and <author-name>Linda Marx</author-name>",
           "uid": "uid37"
         },
         {

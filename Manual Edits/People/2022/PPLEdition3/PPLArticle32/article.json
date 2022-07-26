@@ -1,0 +1,2168 @@
+{
+  "version": "1.9",
+  "identifier": "people_article_677-1001-24-2",
+  "title": "Brittney Griner’s Nightmare Continues",
+  "language": "en",
+  "layout": {
+    "columns": 20,
+    "gutter": 20,
+    "margin": 40,
+    "width": 1024
+  },
+  "subtitle": "The American athlete’s trial is set to begin, as a Russian court again extends her detention",
+  "metadata": {
+    "authors": [
+      "R.D."
+    ],
+    "dateCreated": "2022-06-29T16:54:27.985Z",
+    "dateModified": "2022-06-29T14:56:58+00:00",
+    "excerpt": "A resolution to Brittney Griner’s detainment took one step forward and another step back at a closed-door hearing in a Khimki city court near Moscow on June 27. The trial for the WNBA star, who has been in custody since Feb. 17—when Russian authorities allege she smuggled cannabis oil into the country—finally got a start date of July 1. But Griner, 31, was also ordered to remain in custody for an additional six months, pending a verdict, according to her attorney Alexander Boikov. If convicted, she faces up to 10 years in prison.",
+    "generatorName": "ANTE Generic Template",
+    "generatorVersion": "0.0.4.33-2022-06-09 18:32",
+    "issue": {
+      "identifier": "July 11, 2022",
+      "tocByline": "By R.D."
+    },
+    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/gettyimages_22430/1987330-1-eng-US/gettyimages_2242.jpg?q=100"
+  },
+  "documentStyle": {
+    "backgroundColor": "#eee"
+  },
+  "components": [
+    {
+      "role": "container",
+      "layout": {
+        "conditional": [
+          {
+            "conditions": [
+              {
+                "platform": "ios"
+              }
+            ],
+            "ignoreViewportPadding": true
+          },
+          {
+            "conditions": [
+              {
+                "maxViewportWidth": 1366,
+                "minViewportWidth": 1112
+              }
+            ],
+            "ignoreDocumentMargin": "none",
+            "ignoreViewportPadding": "none"
+          }
+        ],
+        "ignoreDocumentMargin": true
+      },
+      "style": {
+        "backgroundColor": "#fff"
+      },
+      "components": [
+        {
+          "//": "==== DEFAULT HEADER: SECTION ===",
+          "role": "heading",
+          "layout": "sectionLayout",
+          "textStyle": "sectionTextStyle",
+          "format": "html",
+          "text": "Passages"
+        },
+        {
+          "role": "container",
+          "layout": "dividerLayout",
+          "style": "dividerSectionHeadStyle"
+        },
+        {
+          "//": "==== DEFAULT HEADER: STRAPLINE/CATEGORY ===",
+          "role": "heading",
+          "layout": "straplineLayout",
+          "style": "straplineStyle",
+          "textStyle": "straplineTextStyle",
+          "format": "html",
+          "text": "&nbsp;International Controversy&nbsp;"
+        },
+        {
+          "//": "==== DEFAULT HEADER: TITLE ===",
+          "role": "title",
+          "layout": "titleLayout",
+          "textStyle": "titleTextStyle",
+          "format": "html",
+          "text": "Brittney Griner’s Nightmare Continues"
+        },
+        {
+          "//": "==== DEFAULT HEADER: INTRO ===",
+          "role": "intro",
+          "layout": "introLayout",
+          "textStyle": "introTextStyle",
+          "format": "html",
+          "text": "The American athlete’s trial is set to begin, as a Russian court again extends her detention"
+        },
+        {
+          "role": "author",
+          "layout": "authorLayout",
+          "textStyle": "authorTextStyle",
+          "format": "html",
+          "text": "By R.D."
+        },
+        {
+          "//": "======== HERO IMAGE CONTAINER =======",
+          "role": "container",
+          "layout": "heroImageLayout",
+          "components": [
+            {
+              "//": "======== HERO IMAGE - H1550.0/W1367.0 * 100 = 113.3869788 ========",
+              "role": "photo",
+              "layout": "fullBleedPhotoLayout",
+              "caption": {
+                "format": "html",
+                "text": "Brittney Griner in a Khimki court on June 27.",
+                "textStyle": "captionEmbeddedTextStyle"
+              },
+              "photoCredit": "KIRILL KUDRYAVTSEV/AFP/GETTY IMAGES",
+              "URL": "https://cdn-assets.ziniopro.com/var/site_677/storage/images/media2/images/gettyimages_22430/1987330-1-eng-US/gettyimages_2242.jpg?q=100"
+            },
+            {
+              "role": "caption",
+              "layout": "captionLayout",
+              "textStyle": "captionTextStyle",
+              "format": "html",
+              "photoCredit": "KIRILL KUDRYAVTSEV/AFP/GETTY IMAGES",
+              "text": "Brittney Griner in a Khimki court on June 27."
+            }
+          ]
+        },
+        {
+          "//": "======== BODY CONTAINER =======",
+          "role": "container",
+          "layout": "bodyContainerLayout",
+          "components": [
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "A resolution to Brittney Griner’s detainment took one step forward and another step back at a closed-door hearing in a Khimki city court near Moscow on June 27. The trial for the WNBA star, who has been in custody since Feb. 17—when Russian authorities allege she smuggled cannabis oil into the country—finally got a start date of July 1. But Griner, 31, was also ordered to remain in custody for an additional six months, pending a verdict, according to her attorney Alexander Boikov. If convicted, she faces up to 10 years in prison."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "Three days before Griner’s preliminary hearing, the U.S. House of Representatives passed a bipartisan resolution calling for her immediate release. “Not a day goes by that we aren’t thinking of Brittney and working to get her home,” said Rep. Greg Stanton of Arizona."
+            },
+            {
+              "role": "body",
+              "layout": "bodyLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyTextStyle",
+              "format": "html",
+              "text": "Griner’s wife, Cherelle—who told the Associated Press she has “zero trust in our government” after a phone call with Griner scheduled for June 18 went unconnected due to a “logistical error” by the State Department—nevertheless praised Congress’s efforts. Said Cherelle in a statement: “We need to be doing all we can to keep Brittney’s case on the forefront.”"
+            }
+          ]
+        },
+        {
+          "role": "body",
+          "layout": "attributeLayout",
+          "textStyle": "attributeTextStyle",
+          "format": "html",
+          "text": "KIRILL KUDRYAVTSEV/AFP/GETTY IMAGES"
+        },
+        {
+          "//": "=== NEXT UP ARTICLE LINK CONTAINER ===",
+          "role": "container",
+          "layout": "bodyContainerLayout",
+          "conditional": [
+            {
+              "conditions": [
+                {
+                  "viewLocation": "issue"
+                }
+              ],
+              "hidden": false
+            }
+          ],
+          "hidden": true,
+          "components": [
+            {
+              "role": "container",
+              "layout": "dividerLayout",
+              "style": "dividerSectionHeadStyle"
+            },
+            {
+              "//": "=== NEXT UP ARTICLE LINK, ONLY VISIBLE IF USER IS IN THE ISSUE ALREADY ===",
+              "role": "body",
+              "layout": "bodyLayout",
+              "textStyle": "captionTextStyle",
+              "format": "html",
+              "text": "Next up: <a href=\"https://apple.news/ANqhOzM2_QKunX24hxekSZg\">Passages</a>"
+            }
+          ]
+        },
+        {
+          "role": "container",
+          "layout": "bodyContainerLayout",
+          "conditional": [
+            {
+              "conditions": [
+                {
+                  "viewLocation": "article"
+                }
+              ],
+              "hidden": false
+            }
+          ],
+          "hidden": true,
+          "components": [
+            {
+              "role": "container",
+              "layout": "dividerLayout",
+              "style": "dividerSectionHeadStyle"
+            },
+            {
+              "//": "=== VISIT TOC LINK, ONLY VISIBLE IF USER IS IN ARTICLE VIEW ===",
+              "role": "body",
+              "layout": "bodyLayout",
+              "textStyle": "captionTextStyle",
+              "format": "html",
+              "text": "<a href=\"https://apple.news/A7UbhofYeEey3wPC6TBJtrQ\">Tap here</a> to see more from this week's issue of <bold-italic>People</bold-italic>"
+            }
+          ]
+        },
+        {
+          "//": "======== BODY CONTAINER =======",
+          "role": "container",
+          "layout": {
+            "ignoreDocumentMargin": true,
+            "padding": {
+              "bottom": "3cw",
+              "left": "0cw",
+              "right": "0cw",
+              "top": "3cw"
+            }
+          },
+          "style": {
+            "backgroundColor": "#f2f2f2",
+            "border": {
+              "all": {
+                "color": "#000",
+                "conditional": [
+                  {
+                    "color": "#fff",
+                    "conditions": [
+                      {
+                        "minSpecVersion": "1.14",
+                        "preferredColorScheme": "dark"
+                      }
+                    ]
+                  }
+                ],
+                "width": 7
+              },
+              "bottom": false,
+              "left": false,
+              "right": false,
+              "top": true
+            },
+            "conditional": [
+              {
+                "backgroundColor": "#1e1e1e",
+                "conditions": [
+                  {
+                    "minSpecVersion": "1.14",
+                    "preferredColorScheme": "dark"
+                  }
+                ]
+              }
+            ]
+          },
+          "components": [
+            {
+              "role": "heading4",
+              "layout": "heading4Layout",
+              "textStyle": {
+                "backgroundColor": "#fff200",
+                "conditional": [
+                  {
+                    "conditions": [
+                      {
+                        "minViewportWidth": 430
+                      }
+                    ],
+                    "fontSize": 35,
+                    "lineHeight": 48
+                  }
+                ],
+                "fontName": "VerlagText-Bold",
+                "fontSize": 35,
+                "lineHeight": 48,
+                "textAlignment": "center",
+                "tracking": -0.02
+              },
+              "format": "html",
+              "conditional": [
+                {
+                  "conditions": [
+                    {
+                      "minViewportWidth": 430
+                    }
+                  ],
+                  "hidden": true
+                }
+              ],
+              "text": "&nbsp;Don’t miss out!&nbsp;<br />&nbsp;Get more of the latest&nbsp;<br />&nbsp;celebrity exclusives&nbsp;<br />&nbsp;you love from <bold-italic>PEOPLE</bold-italic>&nbsp;<br />&nbsp;for just 75¢ an issue.&nbsp;"
+            },
+            {
+              "role": "heading4",
+              "layout": "heading4Layout",
+              "textStyle": {
+                "backgroundColor": "#fff200",
+                "conditional": [
+                  {
+                    "conditions": [
+                      {
+                        "minViewportWidth": 430
+                      }
+                    ],
+                    "fontSize": 35,
+                    "lineHeight": 48
+                  }
+                ],
+                "fontName": "VerlagText-Bold",
+                "fontSize": 35,
+                "lineHeight": 48,
+                "textAlignment": "center",
+                "tracking": -0.02
+              },
+              "format": "html",
+              "conditional": [
+                {
+                  "conditions": [
+                    {
+                      "minViewportWidth": 430
+                    }
+                  ],
+                  "hidden": false
+                }
+              ],
+              "hidden": true,
+              "text": "&nbsp;Don’t miss out!&nbsp;<br />&nbsp;Get more of the latest&nbsp;<br />&nbsp;celebrity exclusives&nbsp;<br />&nbsp;you love from <bold-italic>PEOPLE</bold-italic>&nbsp;<br />&nbsp;for just 75¢ an issue.&nbsp;"
+            },
+            {
+              "//": "======== BUY NOW BUTTON ========",
+              "role": "link_button",
+              "layout": {
+                "conditional": [
+                  {
+                    "conditions": [
+                      {
+                        "platform": "macos"
+                      }
+                    ],
+                    "padding": {
+                      "bottom": 10,
+                      "left": 20,
+                      "right": 20,
+                      "top": 10
+                    }
+                  }
+                ],
+                "margin": {
+                  "bottom": 20,
+                  "top": 20
+                },
+                "padding": {
+                  "bottom": 10,
+                  "left": 20,
+                  "right": 20,
+                  "top": 10
+                }
+              },
+              "style": {
+                "backgroundColor": "#21b1ea",
+                "conditional": [
+                  {
+                    "backgroundColor": "#21b1ea",
+                    "conditions": [
+                      {
+                        "minSpecVersion": "1.14",
+                        "preferredColorScheme": "dark"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "textStyle": {
+                "conditional": [
+                  {
+                    "conditions": [
+                      {
+                        "minSpecVersion": "1.14",
+                        "preferredColorScheme": "dark"
+                      }
+                    ],
+                    "textColor": "#fff"
+                  },
+                  {
+                    "conditions": [
+                      {
+                        "minViewportWidth": 430
+                      }
+                    ],
+                    "fontSize": 20,
+                    "lineHeight": 26
+                  }
+                ],
+                "fontName": "VerlagText-Bold",
+                "fontSize": 15,
+                "lineHeight": 15,
+                "textAlignment": "center",
+                "textColor": "#fff"
+              },
+              "format": "html",
+              "URL": "https://www.magazines.com/?containerName=ppl_on_jun22_07&utm_source=applenewsplus&utm_medium=partner&utm_campaign=ppl_5239",
+              "text": "SUBSCRIBE"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "componentLayouts": {
+    "attributeLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 15
+    },
+    "authorLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 8
+      }
+    },
+    "blockContainerLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "bodyContainerLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": 10
+    },
+    "bodyLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 10
+    },
+    "bodyNoMarginAboveLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10
+      }
+    },
+    "bottomPhotoDividerLayout": {
+      "//": "UNUSED"
+    },
+    "buttonBodyLayout": {
+      "margin": {
+        "bottom": 15,
+        "top": 10
+      },
+      "padding": {
+        "bottom": 5,
+        "left": 0,
+        "right": 0,
+        "top": 0
+      }
+    },
+    "buttonHeadingLayout": {
+      "margin": {
+        "top": 15
+      },
+      "padding": {
+        "bottom": 0,
+        "left": 0,
+        "right": 0,
+        "top": 5
+      }
+    },
+    "buttonLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 20,
+      "padding": {
+        "left": 10,
+        "right": 10
+      }
+    },
+    "byTheNumbersContainerLayout": {
+      "margin": {
+        "bottom": 10
+      }
+    },
+    "calloutBodyLayout": {
+      "margin": {
+        "bottom": 15
+      }
+    },
+    "calloutHeadingLayout": {
+      "margin": {
+        "top": 15
+      }
+    },
+    "calloutLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 20,
+      "padding": {
+        "left": 10,
+        "right": 10
+      }
+    },
+    "captionAdLayout": {
+      "//": "UNUSED"
+    },
+    "captionLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 430
+            }
+          ],
+          "padding": {
+            "left": "10cw",
+            "right": "10cw"
+          }
+        }
+      ],
+      "margin": 8
+    },
+    "collectionLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "darkModePaddingLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "margin": {
+            "bottom": 10,
+            "top": 10
+          },
+          "padding": "10"
+        }
+      ]
+    },
+    "dividerCollectionLayout": {
+      "//": "UNUSED"
+    },
+    "dividerLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 15
+      }
+    },
+    "dividerStandardLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "conditional": [
+        {
+          "columnSpan": 18,
+          "columnStart": 1,
+          "conditions": [
+            {
+              "minViewportWidth": 430
+            }
+          ],
+          "minimumHeight": 7
+        },
+        {
+          "columnSpan": 18,
+          "columnStart": 1,
+          "conditions": [
+            {
+              "minViewportWidth": 780
+            }
+          ],
+          "minimumHeight": 8
+        }
+      ],
+      "margin": 20,
+      "minimumHeight": 6
+    },
+    "dividerTocLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 15,
+        "top": 20
+      },
+      "minimumHeight": 10
+    },
+    "endOfStoryCalloutLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "padding": 10
+    },
+    "floatContainerLayout": {
+      "columnSpan": 4,
+      "columnStart": 1,
+      "conditional": [
+        {
+          "columnSpan": 4,
+          "columnStart": 0,
+          "conditions": [
+            {
+              "maxViewportWidth": 430
+            }
+          ]
+        }
+      ]
+    },
+    "fullBleedContainerLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "fullBleedDividerLayout": {
+      "//": "UNUSED"
+    },
+    "fullBleedLayout": {
+      "ignoreDocumentMargin": true
+    },
+    "fullBleedPhotoLayout": {
+      "conditional": [
+        {
+          "columnSpan": 18,
+          "columnStart": 1,
+          "conditions": [
+            {
+              "minViewportWidth": 700
+            }
+          ],
+          "ignoreDocumentMargin": false
+        }
+      ],
+      "ignoreDocumentMargin": true
+    },
+    "galleryPhotoLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "heading2Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 20
+      }
+    },
+    "heading3Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading4Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading5Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading6Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heroImageLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 15
+      }
+    },
+    "heroImageTallLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 15
+      }
+    },
+    "introLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "conditional": [
+        {
+          "columnSpan": 18,
+          "columnStart": 1,
+          "conditions": [
+            {
+              "minViewportWidth": 430
+            }
+          ],
+          "padding": {
+            "right": "10cw"
+          }
+        }
+      ],
+      "margin": {
+        "bottom": 10,
+        "top": 5
+      }
+    },
+    "noMarginLayout": {
+      "columnSpan": 18,
+      "columnStart": 1
+    },
+    "peopleCustomContainerLayout": {
+      "//": "IPAD CONDITION STYLING",
+      "conditional": [
+        {
+          "//": "PHONE CONDITION STYLING",
+          "conditions": [
+            {
+              "maxViewportWidth": 430
+            }
+          ],
+          "maximumContentWidth": "20cw",
+          "minimumWidth": "20cw"
+        }
+      ],
+      "maximumContentWidth": "15cw",
+      "minimumWidth": "15cw"
+    },
+    "peopleCustomLayout": {
+      "//": "IPAD CONDITION STYLING",
+      "conditional": [
+        {
+          "//": "PHONE CONDITION STYLING",
+          "conditions": [
+            {
+              "maxViewportWidth": 430
+            }
+          ],
+          "maximumContentWidth": "100cw",
+          "minimumWidth": "100cw",
+          "padding": {
+            "bottom": 0,
+            "left": 0,
+            "right": 0,
+            "top": 2
+          }
+        }
+      ],
+      "maximumContentWidth": "100cw",
+      "minimumWidth": "100cw",
+      "padding": {
+        "bottom": 0,
+        "left": 0,
+        "right": 0,
+        "top": 5
+      }
+    },
+    "peopleHeaderLayout": {
+      "//": "IPAD CONDITION STYLING",
+      "columnSpan": 18,
+      "columnStart": 1,
+      "conditional": [
+        {
+          "//": "PHONE CONDITION STYLING",
+          "conditions": [
+            {
+              "maxViewportWidth": 430
+            }
+          ],
+          "padding": {
+            "bottom": 0,
+            "left": 25,
+            "right": 0,
+            "top": 0
+          }
+        }
+      ],
+      "ignoreDocumentMargin": true
+    },
+    "photoCreditLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "top": 4
+      },
+      "padding": {
+        "right": 20
+      }
+    },
+    "productImageStandardLayout": {
+      "minimumHeight": 280
+    },
+    "pullQuoteLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "conditional": [
+        {
+          "columnSpan": 18,
+          "columnStart": 1,
+          "conditions": [
+            {
+              "minViewportWidth": 600
+            }
+          ],
+          "padding": {
+            "bottom": 20,
+            "left": "20cw",
+            "right": "20cw",
+            "top": 20
+          }
+        }
+      ],
+      "margin": {
+        "bottom": 20,
+        "left": 0,
+        "right": 0,
+        "top": 20
+      },
+      "padding": {
+        "bottom": 25,
+        "left": 20,
+        "right": 20,
+        "top": 20
+      }
+    },
+    "pullQuoteLayoutBottom": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "conditional": [
+        {
+          "columnSpan": 18,
+          "columnStart": 1,
+          "conditions": [
+            {
+              "minViewportWidth": 600
+            }
+          ],
+          "padding": {
+            "bottom": 20,
+            "left": "20cw",
+            "right": "20cw",
+            "top": 0
+          }
+        }
+      ],
+      "margin": {
+        "bottom": 20,
+        "left": 0,
+        "right": 0,
+        "top": 5
+      },
+      "padding": {
+        "bottom": 25,
+        "left": 20,
+        "right": 20,
+        "top": 0
+      }
+    },
+    "pullQuoteLayoutTop": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "conditional": [
+        {
+          "columnSpan": 18,
+          "columnStart": 1,
+          "conditions": [
+            {
+              "minViewportWidth": 600
+            }
+          ],
+          "padding": {
+            "bottom": 0,
+            "left": "20cw",
+            "right": "20cw",
+            "top": 20
+          }
+        }
+      ],
+      "margin": {
+        "bottom": 5,
+        "left": 0,
+        "right": 0,
+        "top": 20
+      },
+      "padding": {
+        "bottom": 0,
+        "left": 20,
+        "right": 20,
+        "top": 25
+      }
+    },
+    "rubricLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 5
+      }
+    },
+    "sectionCustomContainerLayout": {
+      "//": "IPAD CONDITION STYLING",
+      "conditional": [
+        {
+          "//": "PHONE CONDITION STYLING",
+          "conditions": [
+            {
+              "maxViewportWidth": 430
+            }
+          ],
+          "maximumContentWidth": "85cw",
+          "minimumWidth": "85cw"
+        }
+      ],
+      "maximumContentWidth": "90cw",
+      "minimumWidth": "90cw"
+    },
+    "sectionCustomLayout": {
+      "margin": {
+        "bottom": 15,
+        "top": 0
+      }
+    },
+    "sectionLayout": {
+      "margin": {
+        "bottom": 5,
+        "top": 5
+      }
+    },
+    "sidebarBlockContainerLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "sidebarBodyLayout": {
+      "margin": 8
+    },
+    "sidebarBodyNoMarginAboveLayout": {
+      "margin": {
+        "bottom": 8
+      }
+    },
+    "sidebarBodyNoMarginLayout": {
+      "margin": 0
+    },
+    "sidebarDividerLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 430
+            }
+          ],
+          "minimumHeight": 7
+        },
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 780
+            }
+          ],
+          "minimumHeight": 8
+        }
+      ],
+      "margin": 20,
+      "minimumHeight": 6
+    },
+    "sidebarFloatContainerLayout": {
+      "columnSpan": 4,
+      "columnStart": 0
+    },
+    "sidebarHeading2Layout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "sidebarHeading3Layout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "sidebarHeading4Layout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "sidebarLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 20,
+      "padding": {
+        "bottom": 10,
+        "top": 10
+      }
+    },
+    "sidebarLayout2": {
+      "columnSpan": 20,
+      "columnStart": 0,
+      "conditional": [
+        {
+          "columnSpan": 20,
+          "columnStart": 0,
+          "conditions": [
+            {
+              "maxViewportWidth": 780
+            }
+          ],
+          "ignoreViewportPadding": "both"
+        }
+      ],
+      "ignoreDocumentMargin": "both",
+      "ignoreViewportPadding": "both",
+      "margin": 20,
+      "padding": {
+        "bottom": 10,
+        "top": 10
+      }
+    },
+    "sidebarLeftAlignedFullBleedLayout": {
+      "columnSpan": 8,
+      "columnStart": 0,
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "maxViewportWidth": 430
+            }
+          ],
+          "margin": {
+            "bottom": 10
+          }
+        }
+      ],
+      "ignoreDocumentMargin": "both",
+      "ignoreViewportPadding": "both"
+    },
+    "sidebarLeftAlignedLayout": {
+      "columnSpan": 8,
+      "columnStart": 0,
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "maxViewportWidth": 430
+            }
+          ],
+          "margin": {
+            "bottom": 10
+          }
+        }
+      ]
+    },
+    "sidebarRightAlignedFullBleedLayout": {
+      "columnSpan": 8,
+      "columnStart": 12,
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "maxViewportWidth": 430
+            }
+          ],
+          "margin": {
+            "bottom": 10
+          }
+        }
+      ],
+      "ignoreDocumentMargin": "both",
+      "ignoreViewportPadding": "both"
+    },
+    "sidebarRightAlignedLayout": {
+      "columnSpan": 8,
+      "columnStart": 12,
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "maxViewportWidth": 430
+            }
+          ],
+          "margin": {
+            "bottom": 10
+          }
+        }
+      ]
+    },
+    "sidebarSingleBlockContainerLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "sidebarSmallMarginAboveLayout": {
+      "margin": {
+        "top": 4
+      }
+    },
+    "singleBlockContainerLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "smallMarginAboveLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 5
+      }
+    },
+    "straplineLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 5
+      }
+    },
+    "titleLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 5
+      }
+    },
+    "topPhotoDividerLayout": {
+      "//": "UNUSED"
+    },
+    "videoContainerLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 10
+      },
+      "padding": {
+        "bottom": 10
+      }
+    },
+    "videoIconLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 430
+            }
+          ],
+          "maximumContentWidth": 175
+        }
+      ],
+      "horizontalContentAlignment": "left",
+      "margin": {
+        "bottom": 2,
+        "top": 0
+      },
+      "maximumContentWidth": 150
+    },
+    "videoTitleLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 0
+      }
+    }
+  },
+  "componentStyles": {
+    "attributeStyle": {
+      "//": "UNUSED"
+    },
+    "authorStyle": {
+      "//": "UNUSED"
+    },
+    "bodyContainerStyle": {
+      "//": "UNUSED"
+    },
+    "captionAdStyle": {
+      "//": "UNUSED"
+    },
+    "cornersStyle": {
+      "mask": {
+        "radius": 1000,
+        "type": "corners"
+      }
+    },
+    "darkModeBackgroundStyle": {
+      "conditional": [
+        {
+          "backgroundColor": "#FFF",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "dividerSectionHeadStyle": {
+      "border": {
+        "all": {
+          "color": "#ececec",
+          "width": 1
+        },
+        "bottom": true,
+        "left": false,
+        "right": false,
+        "top": true
+      },
+      "conditional": [
+        {
+          "border": {
+            "all": {
+              "color": "#666666",
+              "width": 1
+            },
+            "bottom": true,
+            "left": false,
+            "right": false,
+            "top": true
+          },
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "dividerStandardStyle": {
+      "backgroundColor": "#000"
+    },
+    "dividerTocStyle": {
+      "//": "UNUSED"
+    },
+    "fullBleedContainerStyle": {
+      "//": "UNUSED"
+    },
+    "heading2Style": {
+      "//": "UNUSED"
+    },
+    "heading3Style": {
+      "//": "UNUSED"
+    },
+    "heading4Style": {
+      "//": "UNUSED"
+    },
+    "heading5Style": {
+      "//": "UNUSED"
+    },
+    "heading6Style": {
+      "//": "UNUSED"
+    },
+    "introStyle": {
+      "//": "UNUSED"
+    },
+    "paragraphDropCapStyle": {
+      "//": "UNUSED"
+    },
+    "paragraphStyle": {
+      "//": "UNUSED"
+    },
+    "peopleDividerStyle": {
+      "backgroundColor": "#000"
+    },
+    "photoContainerStyle": {
+      "//": "UNUSED"
+    },
+    "pullQuoteStyle": {
+      "//": "UNUSED"
+    },
+    "pullQuoteStyleBottom": {
+      "//": "UNUSED"
+    },
+    "pullQuoteStyleTop": {
+      "//": "UNUSED"
+    },
+    "sectionStyle": {
+      "//": "UNUSED"
+    },
+    "sidebarStyle": {
+      "border": {
+        "all": {
+          "color": "#000",
+          "width": 6
+        },
+        "left": false,
+        "right": false
+      },
+      "conditional": [
+        {
+          "border": {
+            "all": {
+              "color": "#000",
+              "width": 7
+            },
+            "left": false,
+            "right": false
+          },
+          "conditions": [
+            {
+              "minViewportWidth": 415
+            }
+          ]
+        },
+        {
+          "border": {
+            "all": {
+              "color": "#000",
+              "width": 8
+            },
+            "left": false,
+            "right": false
+          },
+          "conditions": [
+            {
+              "minViewportWidth": 780
+            }
+          ]
+        }
+      ]
+    },
+    "sidebarStyle2": {
+      "backgroundColor": "#E2E7EA",
+      "conditional": [
+        {
+          "backgroundColor": "#E2E7EA",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "straplineStyle": {
+      "//": "UNUSED"
+    },
+    "tableLayoutStyle": {
+      "tableStyle": {
+        "cells": {
+          "//": "*** ^ Note: this aligns image to bottom ***",
+          "conditional": [
+            {
+              "//": "***  ^ Note: this aligns text/desc to top ***",
+              "selectors": [
+                {
+                  "columnIndex": 7,
+                  "rowIndex": 1
+                },
+                {
+                  "columnIndex": 6,
+                  "rowIndex": 1
+                },
+                {
+                  "columnIndex": 5,
+                  "rowIndex": 1
+                },
+                {
+                  "columnIndex": 4,
+                  "rowIndex": 1
+                },
+                {
+                  "columnIndex": 3,
+                  "rowIndex": 1
+                },
+                {
+                  "columnIndex": 2,
+                  "rowIndex": 1
+                },
+                {
+                  "columnIndex": 1,
+                  "rowIndex": 1
+                },
+                {
+                  "columnIndex": 0,
+                  "rowIndex": 1
+                }
+              ],
+              "verticalAlignment": "top"
+            }
+          ],
+          "horizontalAlignment": "center",
+          "padding": {
+            "bottom": 8,
+            "left": 5,
+            "right": 10,
+            "top": 0
+          },
+          "verticalAlignment": "bottom"
+        },
+        "rows": {
+          "horizontalAlignment": "center",
+          "verticalAlignment": "top"
+        }
+      }
+    },
+    "titleStyle": {
+      "//": "UNUSED"
+    },
+    "videoStyle": {
+      "backgroundColor": "#fff",
+      "conditional": [
+        {
+          "backgroundColor": "#000",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "shadow": {
+            "color": "#ebebeb",
+            "offset": {
+              "x": 5,
+              "y": 15
+            },
+            "opacity": 0.23,
+            "radius": 10
+          }
+        }
+      ],
+      "shadow": {
+        "color": "#333",
+        "offset": {
+          "x": 5,
+          "y": 15
+        },
+        "opacity": 0.33,
+        "radius": 15
+      }
+    }
+  },
+  "textStyles": {
+    "creditTextStyle": {
+      "fontName": "VerlagText-Light",
+      "fontSize": 10,
+      "textColor": "#8d8d8d",
+      "textTransform": "uppercase",
+      "tracking": 0.05
+    },
+    "default-tag-ans": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "textColor": "#5EAEE0"
+        }
+      ],
+      "fontName": "ChronicleTextG1-Bold",
+      "fontSize": 23,
+      "textColor": "#5EAEE0"
+    },
+    "default-tag-author-name": {
+      "fontName": "VerlagText-Bold",
+      "textTransform": "uppercase"
+    },
+    "default-tag-black": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "textColor": "#000"
+        }
+      ],
+      "textColor": "#000"
+    },
+    "default-tag-black-italic": {
+      "fontName": "VerlagText-BlackItalic"
+    },
+    "default-tag-bold-italic": {
+      "fontName": "VerlagText-BoldItalic"
+    },
+    "default-tag-caption-heading": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 430
+            }
+          ],
+          "fontSize": 22,
+          "lineHeight": 25
+        }
+      ],
+      "fontName": "VerlagCondensed-Bold",
+      "fontSize": 16,
+      "tracking": 0.1
+    },
+    "default-tag-caption-italic": {
+      "fontName": "VerlagText-BoldItalic"
+    },
+    "default-tag-emoji": {
+      "fontName": "AppleColorEmoji"
+    },
+    "default-tag-investigates": {
+      "textColor": "red"
+    },
+    "default-tag-italicss": {
+      "fontName": "LeagueGothic-Italic",
+      "fontSize": 28
+    },
+    "default-tag-knockout-i": {
+      "fontName": "LeagueGothic-Italic",
+      "textTransform": "uppercase"
+    },
+    "default-tag-lede": {
+      "fontName": "VerlagText-Black",
+      "textTransform": "uppercase"
+    },
+    "default-tag-lede-alt": {
+      "fontName": "VerlagText-Black"
+    },
+    "default-tag-place": {
+      "fontName": "VerlagText-Bold"
+    },
+    "default-tag-q": {
+      "fontName": "VerlagText-Black"
+    },
+    "default-tag-question": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "textColor": "#F37160"
+        }
+      ],
+      "fontSize": 48,
+      "textColor": "#F37160"
+    },
+    "default-tag-red": {
+      "textColor": "#E42628"
+    },
+    "default-tag-scoop": {
+      "fontName": "VerlagText-BlackItalic",
+      "fontSize": 16,
+      "lineHeight": 34,
+      "textColor": "#E42628",
+      "tracking": -0.08
+    },
+    "default-tag-sidebar-lede": {
+      "fontName": "VerlagText-Black",
+      "textTransform": "uppercase"
+    },
+    "default-tag-sub": {
+      "textColor": "#fff"
+    },
+    "default-tag-subsection": {
+      "//": "IPAD CONDITION STYLING",
+      "conditional": [
+        {
+          "//": "PHONE CONDITION STYLING",
+          "conditions": [
+            {
+              "maxViewportWidth": 415
+            }
+          ],
+          "fontSize": 15
+        }
+      ],
+      "fontName": "VerlagText-Book",
+      "fontSize": 22,
+      "lineHeight": 26,
+      "textColor": "#000",
+      "textTransform": "uppercase",
+      "tracking": 0.07
+    },
+    "default-tag-title-italic": {
+      "fontName": "DidotLTStd-BoldItalic"
+    },
+    "default-tag-vcbi": {
+      "fontName": "VerlagCondensed-BoldItalic"
+    },
+    "default-tag-white": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "textColor": "#fff"
+        }
+      ],
+      "textColor": "#fff"
+    },
+    "endMarkerTextStyle": {
+      "//": "UNUSED"
+    },
+    "subSectionTextStyle": {
+      "//": "UNUSED"
+    }
+  },
+  "componentTextStyles": {
+    "//": {
+      "//": "===================== PEOPLE OVERRIDES ====================="
+    },
+    "attributeTextStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 430
+            }
+          ],
+          "fontSize": 13,
+          "lineHeight": 15
+        }
+      ],
+      "fontName": "VerlagText-Light",
+      "fontSize": 10,
+      "lineHeight": 12,
+      "textTransform": "uppercase",
+      "tracking": 0.05
+    },
+    "authorTextStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 430
+            }
+          ],
+          "fontSize": 15,
+          "lineHeight": 19
+        }
+      ],
+      "fontName": "ChronicleDisplay-Italic",
+      "fontSize": 10,
+      "lineHeight": 12,
+      "tracking": 0.1
+    },
+    "authorTextStyle2": {
+      "fontName": "ChronicleDisplay-Italic",
+      "tracking": 0.1
+    },
+    "bodyCenteredTextStyle": {
+      "fontName": "ChronicleTextG1-Roman",
+      "textAlignment": "center"
+    },
+    "bodyDropCapTextStyle": {
+      "dropCapStyle": {
+        "fontName": "ChronicleDisplay-Black",
+        "numberOfCharacters": 1,
+        "numberOfLines": 4,
+        "numberOfRaisedLines": 0
+      },
+      "fontName": "ChronicleTextG1-Roman"
+    },
+    "bodyIntroUnderlined": {
+      "fontName": "ChronicleDisplay-Roman",
+      "fontSize": 30,
+      "lineHeight": 34,
+      "underline": {
+        "color": "#EF7A00"
+      }
+    },
+    "bodyTextStyle": {
+      "fontName": "ChronicleTextG1-Roman"
+    },
+    "buttonBodyTextStyle": {
+      "fontName": "VerlagCondensed-Bold",
+      "fontSize": 17,
+      "lineHeight": 20,
+      "textAlignment": "center",
+      "textColor": "#5EAEE0",
+      "textTransform": "uppercase",
+      "tracking": 0.3
+    },
+    "buttonHeadingTextStyle": {
+      "fontName": "DidotLTStd-Bold",
+      "fontSize": 22,
+      "lineHeight": 30,
+      "textAlignment": "center",
+      "tracking": 0.04
+    },
+    "byTheNumbersTextStyle": {
+      "fontName": "VerlagText-Black",
+      "fontSize": 30,
+      "lineHeight": 34,
+      "textAlignment": "center",
+      "textTransform": "uppercase"
+    },
+    "calloutBodyTextStyle": {
+      "fontName": "VerlagText-Book",
+      "fontSize": 17,
+      "lineHeight": 20,
+      "textAlignment": "center",
+      "textColor": "#00ADEF",
+      "textTransform": "uppercase"
+    },
+    "calloutHeadingTextStyle": {
+      "fontSize": 22,
+      "lineHeight": 23,
+      "textAlignment": "center",
+      "tracking": -0.03
+    },
+    "captionAdTextStyle": {
+      "//": "UNUSED"
+    },
+    "captionCenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "captionEmbeddedTextStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 430
+            }
+          ],
+          "fontSize": 19,
+          "lineHeight": 21
+        }
+      ],
+      "fontName": "HelveticaNeue",
+      "lineHeight": 16
+    },
+    "captionTextStyle": {
+      "fontName": "VerlagText-Bold",
+      "textAlignment": "center"
+    },
+    "captionTextStyle2": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "textColor": "#000"
+        }
+      ],
+      "fontName": "VerlagText-Bold",
+      "fontSize": 14,
+      "textAlignment": "center"
+    },
+    "default": {
+      "fontName": "ChronicleDisplay-Black",
+      "hyphenation": false,
+      "linkStyle": {
+        "textColor": "#366a9b"
+      },
+      "textColor": "#000"
+    },
+    "default-author": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 430
+            }
+          ],
+          "fontSize": 15,
+          "lineHeight": 19
+        }
+      ],
+      "fontSize": 10,
+      "lineHeight": 12
+    },
+    "default-body": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 430
+            }
+          ],
+          "fontSize": 23,
+          "lineHeight": 29
+        }
+      ],
+      "fontSize": 16,
+      "lineHeight": 20,
+      "paragraphSpacingAfter": 12,
+      "paragraphSpacingBefore": 12
+    },
+    "default-byline": {
+      "//": "UNUSED"
+    },
+    "default-caption": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 430
+            }
+          ],
+          "fontSize": 19,
+          "lineHeight": 21
+        }
+      ],
+      "fontSize": 14,
+      "lineHeight": 16
+    },
+    "default-heading": {
+      "fontSize": 16,
+      "lineHeight": 16
+    },
+    "default-heading2": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 500
+            }
+          ],
+          "fontSize": 44,
+          "lineHeight": 42
+        }
+      ],
+      "fontSize": 44,
+      "lineHeight": 42,
+      "tracking": 0.04
+    },
+    "default-heading3": {
+      "fontSize": 28,
+      "lineHeight": 26,
+      "tracking": 0.04
+    },
+    "default-heading4": {
+      "fontSize": 19,
+      "lineHeight": 17,
+      "tracking": 0.04
+    },
+    "default-heading5": {
+      "fontSize": 18,
+      "lineHeight": 20,
+      "tracking": 0.04
+    },
+    "default-heading6": {
+      "fontSize": 16,
+      "lineHeight": 18,
+      "tracking": 0.04
+    },
+    "default-intro": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 430
+            }
+          ],
+          "fontSize": 20,
+          "lineHeight": 29
+        }
+      ],
+      "fontSize": 15,
+      "lineHeight": 24
+    },
+    "default-photographer": {
+      "//": "UNUSED"
+    },
+    "default-pullquote": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 430
+            }
+          ],
+          "fontSize": 30,
+          "lineHeight": 34
+        }
+      ],
+      "fontSize": 20,
+      "lineHeight": 21,
+      "textAlignment": "center"
+    },
+    "default-title": {
+      "fontSize": 66,
+      "lineHeight": 66
+    },
+    "endOfStoryCalloutTextStyle": {
+      "fontName": "VerlagText-Bold",
+      "fontSize": 16,
+      "lineHeight": 20,
+      "linkStyle": {
+        "textColor": "#fff",
+        "underline": true
+      },
+      "textColor": "#fff"
+    },
+    "floatImageCaptionTextStyle": {
+      "fontName": "VerlagText-Bold",
+      "textAlignment": "center"
+    },
+    "heading2CenteredTextStyle": {
+      "fontName": "DidotLTStd-Bold",
+      "textAlignment": "center",
+      "textColor": "#000"
+    },
+    "heading2TextStyle": {
+      "fontName": "DidotLTStd-Bold"
+    },
+    "heading3CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading3TextStyle": {
+      "fontName": "DidotLTStd-Bold"
+    },
+    "heading4CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading4TextStyle": {
+      "fontName": "DidotLTStd-Bold"
+    },
+    "heading5CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading5TextStyle": {
+      "fontName": "DidotLTStd-Bold"
+    },
+    "heading6CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading6TextStyle": {
+      "fontName": "DidotLTStd-Bold"
+    },
+    "headingCenteredTextStyle": {
+      "fontName": "VerlagCondensed-Bold",
+      "fontSize": 16,
+      "textAlignment": "center",
+      "tracking": 0.1
+    },
+    "introTextStyle": {
+      "fontName": "VerlagText-Book",
+      "textTransform": "uppercase",
+      "tracking": 0.1
+    },
+    "photoCreditTextStyle": {
+      "fontName": "VerlagText-Light",
+      "fontSize": 10,
+      "lineHeight": 12,
+      "textAlignment": "right",
+      "textTransform": "uppercase",
+      "tracking": 0.05
+    },
+    "pullQuoteTextStyle": {
+      "fontName": "ChronicleDisplay-Roman"
+    },
+    "pullQuoteTextStyleBottom": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 430
+            }
+          ],
+          "fontSize": 20
+        }
+      ],
+      "fontName": "VerlagCondensed-Bold",
+      "fontSize": 15,
+      "textColor": "#5EAEE0",
+      "textTransform": "uppercase",
+      "tracking": 0.3
+    },
+    "pullQuoteTextStyleTop": {
+      "fontName": "ChronicleDisplay-Roman",
+      "tracking": -0.03
+    },
+    "questionTextStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 500
+            }
+          ],
+          "fontSize": 37,
+          "lineHeight": 40
+        }
+      ],
+      "fontName": "DidotLTStd-Bold",
+      "fontSize": 30,
+      "lineHeight": 35,
+      "tracking": 0.04
+    },
+    "rubricExclusiveCaptionTextStyle": {
+      "backgroundColor": "#000",
+      "blue_backgroundColor": "#5EAEE0",
+      "fontName": "DidotLTStd-Bold",
+      "fontSize": 16,
+      "lineHeight": 24,
+      "people_exclusive": "#000",
+      "textAlignment": "center",
+      "textColor": "#fff",
+      "textTransform": "uppercase",
+      "tracking": 0.1,
+      "yellow_backgroundColor": "#fff200"
+    },
+    "rubricExclusiveTextStyle": {
+      "backgroundColor": "#000",
+      "blue_backgroundColor": "#5EAEE0",
+      "fontName": "DidotLTStd-Bold",
+      "fontSize": 26,
+      "lineHeight": 34,
+      "people_exclusive": "#000",
+      "textColor": "#fff",
+      "tracking": 0.1,
+      "yellow_backgroundColor": "#fff200"
+    },
+    "rubricTextStyle": {
+      "//": "CHANGE COLOR TO MATCH ARTICLE CATEGORY",
+      "backgroundColor": "#fff200",
+      "blue_backgroundColor": "#5EAEE0",
+      "fontName": "DidotLTStd-Bold",
+      "fontSize": 26,
+      "light_yellow_beauty,style,chatter": "#FFF78F",
+      "lineHeight": 34,
+      "people_beauty,style,chatter": "#F37160",
+      "people_exclusive": "#000",
+      "people_food": "#E42628",
+      "people_picks": "#8C68AC",
+      "red_backgroundColor": "#E42628",
+      "textColor": "#000",
+      "tracking": 0.1,
+      "yellow_everything_else": "#fff200"
+    },
+    "scoopCustomTextStyle": {
+      "//": "CHANGE TEXT COLOR TO MATCH ARTICLE CATEGORY",
+      "fontName": "VerlagText-BlackItalic",
+      "fontSize": 30,
+      "lineHeight": 34,
+      "people_beauty,style,chatter": "#FFF200",
+      "people_exclusive": "#000",
+      "people_food_scoop": "#E42628",
+      "people_picks": "#8C68AC",
+      "textColor": "#E42628",
+      "tracking": 0
+    },
+    "sectionCustomTextStyle": {
+      "//": "CHANGE TEXT COLOR TO MATCH ARTICLE CATEGORY",
+      "fontName": "VerlagText-Black",
+      "fontSize": 34,
+      "lineHeight": 36,
+      "people_beauty,style,chatter": "#FFF200",
+      "people_exclusive": "#000",
+      "people_food": "#E42628",
+      "people_picks": "#8C68AC",
+      "textColor": "#8C68AC",
+      "tracking": -0.08
+    },
+    "sectionTextStyle": {
+      "fontName": "VerlagText-Book",
+      "tracking": 0.1
+    },
+    "sidebarBodyCenteredTextStyle": {
+      "fontName": "VerlagText-Bold",
+      "textAlignment": "center"
+    },
+    "sidebarBodyTextStyle": {
+      "fontName": "VerlagText-Bold"
+    },
+    "sidebarHeading2TextStyle": {
+      "fontName": "DidotLTStd-Bold"
+    },
+    "sidebarHeading2TextStyle2": {
+      "fontName": "Knockout-48Featherweight",
+      "fontSize": 45,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "underline": {
+        "color": "#DF2367"
+      }
+    },
+    "sidebarHeading3TextStyle": {
+      "fontName": "VerlagText-Black",
+      "fontSize": 22,
+      "lineHeight": 24
+    },
+    "sidebarHeading4TextStyle": {
+      "fontName": "VerlagText-Bold",
+      "fontSize": 18,
+      "lineHeight": 20
+    },
+    "straplineAltTextStyle": {
+      "fontName": "Knockout-48Featherweight",
+      "fontSize": 30,
+      "lineHeight": 36,
+      "textColor": "#ca0088",
+      "textTransform": "uppercase",
+      "tracking": 0.15
+    },
+    "straplineTextStyle": {
+      "backgroundColor": "#fff200",
+      "fontName": "DidotLTStd-Bold",
+      "fontSize": 30,
+      "lineHeight": 36,
+      "tracking": 0.1
+    },
+    "titleTextStyle": {
+      "fontName": "DidotLTStd-Bold",
+      "tracking": 0.04
+    },
+    "tocTextStyle": {
+      "fontName": "AvenirNextCondensed-Medium",
+      "fontSize": 16,
+      "linkStyle": {
+        "underline": true
+      },
+      "textAlignment": "center",
+      "textColor": "#000"
+    },
+    "videoTitleTextStyle": {
+      "fontName": "VerlagText-Bold",
+      "fontSize": 14,
+      "lineHeight": 16
+    },
+    "wobTextStyle": {
+      "fontName": "DidotLTStd-Bold",
+      "fontSize": 40,
+      "lineHeight": 42,
+      "tracking": 0.1
+    }
+  }
+}

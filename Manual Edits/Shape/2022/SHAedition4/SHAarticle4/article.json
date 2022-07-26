@@ -1,0 +1,1319 @@
+{
+  "version": "1.9",
+  "identifier": "life_article_5390-173-1-1",
+  "title": "LIFE: Remembering Marilyn",
+  "language": "en",
+  "layout": {
+    "columns": 20,
+    "gutter": 20,
+    "margin": 40,
+    "width": 1024
+  },
+  "metadata": {
+    "dateCreated": "2022-06-23T18:54:22.240Z",
+    "dateModified": "2022-06-07T15:28:29+00:00",
+    "generatorName": "ANTE Generic Template",
+    "generatorVersion": "0.0.4.33-2022-06-09 18:32",
+    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/marilynlaug_026/128324-1-eng-US/marilynlaug_0262.jpg?q=100"
+  },
+  "documentStyle": {
+    "backgroundColor": "#eee"
+  },
+  "components": [
+    {
+      "role": "container",
+      "layout": {
+        "conditional": [
+          {
+            "conditions": [
+              {
+                "platform": "ios"
+              }
+            ],
+            "ignoreViewportPadding": true
+          },
+          {
+            "conditions": [
+              {
+                "maxViewportWidth": 1366,
+                "minViewportWidth": 1112
+              }
+            ],
+            "ignoreDocumentMargin": "none",
+            "ignoreViewportPadding": "none"
+          }
+        ],
+        "ignoreDocumentMargin": true
+      },
+      "style": {
+        "backgroundColor": "#fff"
+      },
+      "components": [
+        {
+          "//": "======== FULL BLEED CONTAINER ========",
+          "role": "container",
+          "layout": "singleBlockContainerLayout",
+          "components": [
+            {
+              "//": "======== IMAGE BLEED - H1758.0/W2588.0 * 100 = 67.9289026 ========",
+              "role": "image",
+              "layout": {
+                "maximumContentWidth": "25cw"
+              },
+              "URL": "https://public-assets.meredithcorp.io/4e72a49c63ffd5ac150f6edb6068b6c6/life.jpg"
+            }
+          ]
+        },
+        {
+          "//": "==== DEFAULT HEADER: TITLE ===",
+          "role": "title",
+          "layout": "titleLayout",
+          "textStyle": "titleTextStyle",
+          "format": "html",
+          "text": "Remembering Marilyn"
+        },
+        {
+          "//": "======== HERO IMAGE CONTAINER =======",
+          "role": "container",
+          "layout": "heroImageLayout",
+          "components": [
+            {
+              "//": "======== HERO IMAGE - H3255.0/W2392.0 * 100 = 136.0785953 ========",
+              "role": "photo",
+              "layout": "fullBleedPhotoLayout",
+              "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/marilynlaug_026/128324-1-eng-US/marilynlaug_0262.jpg?q=100"
+            }
+          ]
+        },
+        {
+          "//": "======== BODY CONTAINER =======",
+          "role": "container",
+          "layout": "bodyContainerLayout",
+          "components": [
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1758.0/W2588.0 * 100 = 67.9289026 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "caption": {
+                    "format": "html",
+                    "text": "Douglas Kirkland photographed Monroe for the 25th anniversary issue of LIFE. The star suggested the white silk sheets and free-flowing Dom Perignon for the shoot.",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/marilyninbe_027/128317-1-eng-US/marilyninbe_0272.jpg?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "style": "captionStyle",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "Douglas Kirkland photographed Monroe for the 25th anniversary issue of LIFE. The star suggested the white silk sheets and free-flowing Dom Perignon for the shoot."
+                }
+              ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1714.0/W2037.0 * 100 = 84.1433481 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "caption": {
+                    "format": "html",
+                    "text": "Monroe captured dancing by her close friend photographer Milton Greene in 1956.",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/mhg-mmo-blk_029/128310-1-eng-US/mhg-mmo-blk_0292.jpg?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "style": "captionStyle",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "Monroe captured dancing by her close friend photographer Milton Greene in 1956."
+                }
+              ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "fullBleedContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H2630.0/W1968.0 * 100 = 133.6382114 ========",
+                  "role": "photo",
+                  "layout": "fullBleedPhotoLayout",
+                  "caption": {
+                    "format": "html",
+                    "text": " In 1959",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/marilyn-hal_034/129178-1-eng-US/marilyn-hal_0342.jpg?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "style": "captionStyle",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": " In 1959"
+                }
+              ]
+            },
+            {
+              "role": "heading2",
+              "layout": "heading2Layout",
+              "style": "heading2Style",
+              "textStyle": "heading2CenteredTextStyle",
+              "format": "html",
+              "text": "A Star Like No Other"
+            },
+            {
+              "role": "body",
+              "layout": "bodyNoMarginAboveLayout",
+              "style": "paragraphStyle",
+              "textStyle": "bodyCenteredTextStyle",
+              "format": "html",
+              "text": "For a time, Marilyn Monroe was the most beautiful, most desired woman anywhere. But behind the glamorous images was a vulnerable star with an unhappy past. The story of Norma Jeane Baker’s unlikely path from foster homes to international fame to mysterious death is as dramatic as any film she ever made."
+            },
+            {
+              "role": "body",
+              "layout": "attributeLayout",
+              "style": "attributeStyle",
+              "textStyle": "attributeTextStyle",
+              "format": "html",
+              "text": "PHILIPPE HALSMAN/MAGNUM (2); DOUGLAS KIRKLAND; PHOTOGRAPHED BY MILTON H. GREENE © 2022 JOSHUA GREENE"
+            }
+          ]
+        },
+        {
+          "role": "container",
+          "layout": "bodyContainerLayout",
+          "conditional": [
+            {
+              "conditions": [
+                {
+                  "viewLocation": "article"
+                }
+              ],
+              "hidden": false
+            }
+          ],
+          "hidden": true,
+          "components": [
+            {
+              "role": "container",
+              "layout": "dividerLayout",
+              "style": "dividerSectionHeadStyle"
+            },
+            {
+              "//": "=== VISIT TOC LINK, ONLY VISIBLE IF USER IS IN ARTICLE VIEW ===",
+              "role": "body",
+              "layout": "bodyLayout",
+              "textStyle": "tocTextStyle",
+              "format": "html",
+              "text": "<a href='https://apple.news/AlyMoIfMREey7Rrp00ZE8qw'>Tap here</a> to see more from this issue of <i>LIFE</i>"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "componentLayouts": {
+    "attributeLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 15
+    },
+    "authorLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 5
+      }
+    },
+    "blockContainerLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "bodyContainerLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": 10
+    },
+    "bodyLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 10
+    },
+    "bodyNoMarginAboveLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10
+      }
+    },
+    "bottomPhotoDividerLayout": {
+      "//": "UNUSED"
+    },
+    "calloutBodyLayout": {
+      "margin": {
+        "bottom": 12,
+        "top": 12
+      }
+    },
+    "calloutHeadingLayout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "calloutLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "padding": {
+        "bottom": 10,
+        "left": 20,
+        "right": 20,
+        "top": 10
+      }
+    },
+    "captionAdLayout": {
+      "//": "UNUSED"
+    },
+    "captionLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 8,
+      "padding": {
+        "left": 15,
+        "right": 15
+      }
+    },
+    "chefImageLayout": {
+      "maximumWidth": 140,
+      "padding": {
+        "right": 15
+      }
+    },
+    "collectionLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "customAuthorLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10
+      }
+    },
+    "customHeaderTitleLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 12,
+      "padding": {
+        "left": "3cw",
+        "right": "3cw"
+      }
+    },
+    "darkModePaddingLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "padding": 10
+        }
+      ]
+    },
+    "dividerCollectionLayout": {
+      "//": "UNUSED"
+    },
+    "dividerLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 15,
+        "top": 10
+      }
+    },
+    "dividerStandardLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "minimumHeight": 1
+    },
+    "dividerTocLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 15,
+        "top": 20
+      },
+      "minimumHeight": 10
+    },
+    "floatContainerLayout": {
+      "columnSpan": 4,
+      "columnStart": 1,
+      "conditional": [
+        {
+          "columnSpan": 4,
+          "columnStart": 0,
+          "conditions": [
+            {
+              "maxViewportWidth": 415
+            }
+          ]
+        }
+      ]
+    },
+    "fullBleedContainerLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "fullBleedDividerLayout": {
+      "//": "UNUSED"
+    },
+    "fullBleedLayout": {
+      "ignoreDocumentMargin": true
+    },
+    "fullBleedPhotoLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 700
+            }
+          ],
+          "ignoreDocumentMargin": false
+        }
+      ],
+      "ignoreDocumentMargin": true
+    },
+    "galleryPhotoLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "heading2Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 20
+      }
+    },
+    "heading3Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading4Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading5Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading6Layout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 20
+      }
+    },
+    "headingNoMarginAboveLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 0
+      }
+    },
+    "heroImageLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 15
+      }
+    },
+    "heroImageTallLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 15
+      }
+    },
+    "ingredientsLayout": {
+      "margin": 8
+    },
+    "introLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10
+      }
+    },
+    "listLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 10,
+      "padding": {
+        "left": 10
+      }
+    },
+    "noMarginLayout": {
+      "margin": 0
+    },
+    "productImageStandardLayout": {
+      "minimumHeight": 280
+    },
+    "pullQuoteLayout": {
+      "columnSpan": 16,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 20,
+        "top": 20
+      }
+    },
+    "pullQuoteLayout1": {
+      "columnSpan": 16,
+      "columnStart": 2,
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 700
+            }
+          ],
+          "padding": {
+            "bottom": "2.75cw"
+          }
+        }
+      ],
+      "margin": {
+        "bottom": 0,
+        "top": 10
+      },
+      "padding": {
+        "bottom": "2.5cw"
+      }
+    },
+    "sectionLayout": {
+      "margin": {
+        "top": 5
+      }
+    },
+    "sidebarBodyLayout": {
+      "margin": {
+        "bottom": 12,
+        "top": 12
+      }
+    },
+    "sidebarDividerLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "minimumHeight": 1
+    },
+    "sidebarFloatContainerLayout": {
+      "columnSpan": 4,
+      "columnStart": 0
+    },
+    "sidebarHeading2Layout": {
+      "margin": {
+        "top": 20
+      }
+    },
+    "sidebarHeading3Layout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "sidebarHeading4Layout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "sidebarIntroLayout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "sidebarLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": 20,
+      "padding": {
+        "bottom": 10,
+        "left": 25,
+        "right": 25
+      }
+    },
+    "sidebarSingleBlockContainerLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "sidebarSmallMarginAboveLayout": {
+      "margin": {
+        "top": 2
+      }
+    },
+    "signatureLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "conditional": [
+        {
+          "columnSpan": 20,
+          "columnStart": 0,
+          "conditions": [
+            {
+              "maxViewportWidth": 415
+            }
+          ]
+        }
+      ],
+      "horizontalContentAlignment": "left",
+      "margin": 10,
+      "maximumContentWidth": 100
+    },
+    "singleBlockContainerLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "smallMarginAboveLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "top": 2
+      }
+    },
+    "spacerLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "straplineLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 1
+      }
+    },
+    "titleLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 2
+      }
+    },
+    "topPhotoDividerLayout": {
+      "//": "UNUSED"
+    }
+  },
+  "componentStyles": {
+    "attributeStyle": {
+      "//": "UNUSED"
+    },
+    "authorStyle": {
+      "//": "UNUSED"
+    },
+    "bodyContainerStyle": {
+      "//": "UNUSED"
+    },
+    "calloutStyle": {
+      "border": {
+        "all": {
+          "color": "#F50157",
+          "width": 5
+        }
+      }
+    },
+    "captionAdStyle": {
+      "//": "UNUSED"
+    },
+    "captionStyle": {
+      "border": {
+        "all": {
+          "color": "#8d8d8d",
+          "width": 2
+        },
+        "bottom": false,
+        "left": true,
+        "right": false,
+        "top": false
+      }
+    },
+    "darkModeBackgroundStyle": {
+      "conditional": [
+        {
+          "backgroundColor": "#FFF",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "dividerSectionHeadStyle": {
+      "border": {
+        "all": {
+          "color": "#ececec",
+          "width": 1
+        },
+        "bottom": true,
+        "left": false,
+        "right": false,
+        "top": true
+      },
+      "conditional": [
+        {
+          "border": {
+            "all": {
+              "color": "#666666",
+              "width": 1
+            },
+            "bottom": true,
+            "left": false,
+            "right": false,
+            "top": true
+          },
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "dividerStandardStyle": {
+      "backgroundColor": "#000"
+    },
+    "dividerTocStyle": {
+      "//": "UNUSED"
+    },
+    "fullBleedContainerStyle": {
+      "//": "UNUSED"
+    },
+    "heading2Style": {
+      "//": "UNUSED"
+    },
+    "heading3Style": {
+      "//": "UNUSED"
+    },
+    "heading4Style": {
+      "//": "UNUSED"
+    },
+    "heading5Style": {
+      "//": "UNUSED"
+    },
+    "heading6Style": {
+      "//": "UNUSED"
+    },
+    "introStyle": {
+      "//": "UNUSED"
+    },
+    "paragraphDropCapStyle": {
+      "//": "UNUSED"
+    },
+    "paragraphStyle": {
+      "//": "UNUSED"
+    },
+    "photoContainerStyle": {
+      "//": "UNUSED"
+    },
+    "pullQuoteStyle": {
+      "//": "UNUSED"
+    },
+    "sectionStyle": {
+      "//": "UNUSED"
+    },
+    "sidebarNoBackgroundStyle": {
+      "border": {
+        "all": {
+          "color": "#F50157",
+          "width": 4
+        }
+      }
+    },
+    "sidebarStyle": {
+      "backgroundColor": "#fff",
+      "border": {
+        "all": {
+          "color": "#000",
+          "width": 1
+        }
+      }
+    },
+    "straplineStyle": {
+      "//": "UNUSED"
+    },
+    "titleStyle": {
+      "//": "UNUSED"
+    },
+    "bigQuestionStyle": {
+      "border": {
+        "all": {
+          "color": "#000",
+          "width": 1
+        },
+        "left": false,
+        "right": false,
+        "top": false
+      }
+    },
+    "ingredientsStyle": {
+      "tableStyle": {
+        "cells": {
+          "conditional": [
+            {
+              "horizontalAlignment": "right",
+              "padding": {
+                "right": 5
+              },
+              "selectors": [
+                {
+                  "columnIndex": 0
+                }
+              ],
+              "width": 10
+            },
+            {
+              "horizontalAlignment": "left",
+              "padding": {
+                "left": 5
+              },
+              "selectors": [
+                {
+                  "columnIndex": 1
+                }
+              ],
+              "width": 90
+            }
+          ],
+          "textStyle": "ingredientsTextStyle",
+          "verticalAlignment": "top"
+        },
+        "columns": {
+          "conditional": [
+            {
+              "selectors": [
+                {
+                  "columnIndex": 0
+                }
+              ],
+              "width": 5
+            },
+            {
+              "selectors": [
+                {
+                  "columnIndex": 1
+                }
+              ],
+              "width": 45
+            }
+          ]
+        }
+      }
+    },
+    "sidebarGreenBorderStyle": {
+      "border": {
+        "all": {
+          "color": "#38a541",
+          "width": 25
+        }
+      }
+    }
+  },
+  "textStyles": {
+    "creditTextStyle": {
+      "fontName": "RivieraNights-Light",
+      "fontSize": 10,
+      "textAlignment": "center",
+      "textColor": "#8d8d8d",
+      "tracking": 0.05
+    },
+    "default-tag-caption-heading": {
+      "fontName": "RivieraNights-Bold",
+      "textTransform": "uppercase"
+    },
+    "default-tag-emoji": {
+      "fontName": "AppleColorEmoji"
+    },
+    "default-tag-lede": {
+      "fontName": "RivieraNights-Black",
+      "fontSize": 14,
+      "textTransform": "uppercase"
+    },
+    "default-tag-pullquote-attribution": {
+      "fontName": "AustinText-Italic",
+      "fontSize": 15,
+      "textAlignment": "center"
+    },
+    "default-tag-sidebar-lede": {
+      "fontName": "RivieraNights-Black",
+      "fontSize": 17,
+      "textTransform": "uppercase",
+      "tracking": 0.04
+    },
+    "default-tag-sub-section": {
+      "fontName": "AvenirNext-Medium"
+    },
+    "endMarkerTextStyle": {
+      "//": "UNUSED"
+    },
+    "subSectionTextStyle": {
+      "//": "UNUSED"
+    },
+    "default-tag-attributionproduct": {
+      "fontName": "RivieraNights-Medium",
+      "fontSize": 14
+    },
+    "default-tag-body-attribution": {
+      "fontName": "AustinText-Italic",
+      "fontSize": 15
+    },
+    "default-tag-bold": {
+      "fontName": "AustinText-Bold"
+    },
+    "default-tag-italic": {
+      "fontName": "AustinText-Italic"
+    },
+    "default-tag-italic-light": {
+      "fontName": "Austin-LightItalic"
+    },
+    "default-tag-m": {
+      "textTransform": "capitalize"
+    },
+    "default-tag-sidebar-b": {
+      "fontName": "AvenirNext-Bold"
+    },
+    "default-tag-sidebar-bolditalic": {
+      "fontName": "AvenirNext-BoldItalic"
+    },
+    "default-tag-sidebar-italic": {
+      "fontName": "AvenirNext-Italic"
+    },
+    "default-tag-subsection": {
+      "fontName": "RivieraNights-Light",
+      "fontSize": 12,
+      "textTransform": "lowercase",
+      "tracking": 0.07
+    },
+    "default-tag-title-italic": {
+      "fontName": "ivy-italic"
+    },
+    "default-tag-title-thin": {
+      "fontName": "RivieraNights-Light"
+    }
+  },
+  "componentTextStyles": {
+    "//": {
+      "//": "================ SHAPE OVERRIDES ================"
+    },
+    "attributeTextStyle": {
+      "fontName": "RivieraNights-Light",
+      "fontSize": 10,
+      "lineHeight": 12,
+      "tracking": 0.05,
+      "textTransform": "uppercase"
+    },
+    "authorTextStyle": {
+      "fontName": "Austin-Italic",
+      "textAlignment": "center",
+      "fontSize": 17,
+      "tracking": 0.05
+    },
+    "bodyCenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "bodyDropCapTextStyle": {
+      "dropCapStyle": {
+        "fontName": "RivieraNights-Black",
+        "numberOfCharacters": 1,
+        "numberOfLines": 4,
+        "numberOfRaisedLines": 0,
+        "textColor": "#F50157"
+      }
+    },
+    "bodyTextStyle": {
+      "fontName": "AustinText-Roman"
+    },
+    "calloutBodyTextStyle": {
+      "fontName": "RivieraNights-Medium",
+      "fontSize": 16,
+      "lineHeight": 20,
+      "textAlignment": "center"
+    },
+    "calloutHeadingTextStyle": {
+      "fontName": "RivieraNights-Bold",
+      "fontSize": 22,
+      "lineHeight": 24,
+      "textAlignment": "center"
+    },
+    "captionAdTextStyle": {
+      "//": "UNUSED"
+    },
+    "captionCenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "captionEmbeddedTextStyle": {
+      "fontName": "HelveticaNeue",
+      "lineHeight": 16
+    },
+    "captionTextStyle": {
+      "fontName": "RivieraNights-Regular",
+      "textAlignment": "center"
+    },
+    "default": {
+      "fontName": "AustinText-Roman",
+      "hyphenation": false,
+      "linkStyle": {
+        "textColor": "#000",
+        "underline": {
+          "color": "#000"
+        }
+      },
+      "textColor": "#000"
+    },
+    "default-author": {
+      "fontSize": 14,
+      "lineHeight": 18
+    },
+    "default-body": {
+      "fontSize": 18,
+      "lineHeight": 22,
+      "paragraphSpacingAfter": 12,
+      "paragraphSpacingBefore": 12
+    },
+    "default-byline": {
+      "//": "UNUSED"
+    },
+    "default-caption": {
+      "fontSize": 14,
+      "lineHeight": 16
+    },
+    "default-heading": {
+      "fontSize": 16,
+      "lineHeight": 16
+    },
+    "default-heading2": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 500
+            }
+          ],
+          "fontSize": 30,
+          "lineHeight": 32
+        }
+      ],
+      "fontSize": 42,
+      "lineHeight": 44
+    },
+    "default-heading3": {
+      "fontSize": 22,
+      "lineHeight": 24
+    },
+    "default-heading4": {
+      "fontSize": 18,
+      "lineHeight": 26
+    },
+    "default-heading5": {
+      "fontSize": 18,
+      "lineHeight": 20
+    },
+    "default-heading6": {
+      "fontSize": 16,
+      "lineHeight": 18
+    },
+    "default-intro": {
+      "fontSize": 25,
+      "lineHeight": 24
+    },
+    "default-photographer": {
+      "//": "UNUSED"
+    },
+    "default-pullquote": {
+      "fontSize": 40,
+      "lineHeight": 44,
+      "textAlignment": "center"
+    },
+    "default-title": {
+      "fontSize": 70,
+      "lineHeight": 66
+    },
+    "floatImageCaptionTextStyle": {
+      "fontName": "GillSans",
+      "textAlignment": "center"
+    },
+    "heading2CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading2TextStyle": {
+      "fontName": "RivieraNights-Black",
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "underline": {
+        "color": "#000"
+      }
+    },
+    "heading3CenteredTextStyle": {
+      "fontName": "RivieraNights-Bold",
+      "textTransform": "uppercase",
+      "textAlignment": "center"
+    },
+    "heading3TextStyle": {
+      "fontName": "RivieraNights-Bold",
+      "textTransform": "uppercase"
+    },
+    "heading4CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading4TextStyle": {
+      "fontName": "RivieraNights-Bold",
+      "textTransform": "uppercase"
+    },
+    "heading5CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading5TextStyle": {
+      "fontName": "RivieraNights-Bold",
+      "textTransform": "uppercase"
+    },
+    "heading6CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading6TextStyle": {
+      "fontName": "RivieraNights-Bold",
+      "textTransform": "uppercase"
+    },
+    "introTextStyle": {
+      "fontName": "Austin-Light",
+      "tracking": 0.05,
+      "fontSize": 27,
+      "lineHeight": 29,
+      "textAlignment": "center"
+    },
+    "listTextStyle": {
+      "fontSize": 17,
+      "lineHeight": 21
+    },
+    "pullQuoteTextStyle": {
+      "fontName": "Austin-Light",
+      "lineHeight": 36
+    },
+    "sectionTextStyle": {
+      "fontName": "RivieraNights-Bold",
+      "fontSize": 13,
+      "textTransform": "lowercase",
+      "tracking": 0.05
+    },
+    "sidebarBodyCenteredTextStyle": {
+      "fontName": "RivieraNights-Regular",
+      "fontSize": 17,
+      "textAlignment": "center"
+    },
+    "sidebarBodyTextStyle": {
+      "fontName": "RivieraNights-Regular",
+      "textAlignment": "center"
+    },
+    "sidebarHeading2CenteredTextStyle": {
+      "fontName": "RivieraNights-Bold",
+      "textTransform": "uppercase",
+      "fontSize": 34,
+      "lineHeight": 36,
+      "textAlignment": "center"
+    },
+    "sidebarHeading2TextStyle": {
+      "fontName": "RivieraNights-Bold",
+      "fontSize": 34,
+      "lineHeight": 36,
+      "textAlignment": "center",
+      "textTransform": "uppercase"
+    },
+    "sidebarHeading3CenteredTextStyle": {
+      "fontName": "RivieraNights-Bold",
+      "fontSize": 24,
+      "lineHeight": 26,
+      "textAlignment": "center",
+      "textTransform": "uppercase"
+    },
+    "sidebarHeading3TextStyle": {
+      "fontName": "RivieraNights-Bold",
+      "textTransform": "uppercase",
+      "fontSize": 24,
+      "lineHeight": 26,
+      "textAlignment": "center"
+    },
+    "sidebarHeading4TextStyle": {
+      "fontName": "RivieraNights-Bold",
+      "textTransform": "uppercase"
+    },
+    "sidebarHeadingCentered4TextStyle": {
+      "fontName": "AvenirNext-Bold",
+      "fontSize": 24,
+      "lineHeight": 28,
+      "textAlignment": "center"
+    },
+    "sidebarIntroTextStyle": {
+      "fontName": "RivieraNights-Regular",
+      "textAlignment": "center"
+    },
+    "straplineTextStyle": {
+      "//": "UNUSED"
+    },
+    "subsectionIntroTextStyle": {
+      "fontName": "Georgia-Italic",
+      "fontSize": 20,
+      "lineHeight": 26,
+      "textAlignment": "left"
+    },
+    "titleTextStyle": {
+      "fontName": "Austin-Roman",
+      "lineHeight": 70,
+      "fontSize": 75,
+      "textAlignment": "center",
+      "tracking": 0.01
+    },
+    "tocTextStyle": {
+      "fontName": "AvenirNextCondensed-Medium",
+      "fontSize": 16,
+      "textAlignment": "center",
+      "textColor": "#131313"
+    },
+    "bigQuestionBodyTextStyle": {
+      "fontName": "RivieraNights-Black",
+      "fontSize": 40,
+      "lineHeight": 40,
+      "textAlignment": "center"
+    },
+    "bigQuestionHeadingTextStyle": {
+      "fontName": "AustinHairline-Extrabold",
+      "fontSize": 220,
+      "lineHeight": 220,
+      "textAlignment": "center",
+      "textColor": "#d51c30",
+      "textTransform": "uppercase"
+    },
+    "captionLeftTextStyle": {
+      "fontName": "RivieraNights-Medium"
+    },
+    "heading2LeftAlignedTextStyle": {
+      "fontName": "RivieraNights-Black",
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "underline": {
+        "color": "#000"
+      }
+    },
+    "ingredientsTextStyle": {
+      "fontName": "RivieraNights-Bold",
+      "fontSize": 15,
+      "lineHeight": 19
+    },
+    "pullQuoteAttributionTextStyle": {
+      "fontName": "AustinText-Italic",
+      "fontSize": 15,
+      "lineHeight": 18,
+      "textAlignment": "center"
+    },
+    "readThroughRecipeTitleTextStyle": {
+      "fontName": "RivieraNights-Bold",
+      "fontSize": 34,
+      "lineHeight": 36,
+      "textAlignment": "center",
+      "textTransform": "uppercase"
+    },
+    "recipeBodyCenteredTextStyle": {
+      "fontName": "AustinText-Roman",
+      "fontSize": 18,
+      "textAlignment": "center"
+    },
+    "recipeBodyTextStyle": {
+      "fontName": "AustinText-Roman",
+      "fontSize": 18
+    },
+    "recipeDetailsTextStyle": {
+      "fontName": "RivieraNights-Regular",
+      "fontSize": 14,
+      "lineHeight": 23,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.07
+    },
+    "recipeTitleTextStyle": {
+      "fontName": "RivieraNights-Bold",
+      "fontSize": 34,
+      "lineHeight": 36,
+      "textAlignment": "center",
+      "textTransform": "uppercase"
+    },
+    "sidebarHeading4CenteredTextStyle": {
+      "fontName": "RivieraNights-Bold",
+      "textTransform": "uppercase",
+      "textAlignment": "center"
+    },
+    "digitalSectionHeadTextStyle": {
+      "fontName": "RivieraNights-Bold",
+      "fontSize": 65,
+      "textAlignment": "center",
+      "textColor": "#000",
+      "tracking": -0.04
+    },
+    "bodyTextStyleCentered": {
+      "textAlignment": "center"
+    }
+  }
+}

@@ -61,10 +61,10 @@
                 "maximumContentWidth": "25cw"
               },
               "URL": "https://public-assets.meredithcorp.io/4e72a49c63ffd5ac150f6edb6068b6c6/life.jpg",
-              "uid": "uid210"
+              "uid": "uid256"
             }
           ],
-          "uid": "conuid209"
+          "uid": "conuid255"
         },
         {
           "//": "==== DEFAULT HEADER: TITLE ===",
@@ -73,7 +73,7 @@
           "textStyle": "titleTextStyle",
           "format": "html",
           "text": "Remembering Marilyn",
-          "uid": "uid211"
+          "uid": "uid257"
         },
         {
           "//": "======== HERO IMAGE CONTAINER =======",
@@ -85,10 +85,10 @@
               "role": "photo",
               "layout": "fullBleedPhotoLayout",
               "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/marilynlaug_026/128324-1-eng-US/marilynlaug_0262.jpg?q=100",
-              "uid": "uid213"
+              "uid": "uid259"
             }
           ],
-          "uid": "conuid212"
+          "uid": "conuid258"
         },
         {
           "//": "======== BODY CONTAINER =======",
@@ -110,7 +110,7 @@
                     "textStyle": "captionEmbeddedTextStyle"
                   },
                   "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/marilyninbe_027/128317-1-eng-US/marilyninbe_0272.jpg?q=100",
-                  "uid": "uid216"
+                  "uid": "uid262"
                 },
                 {
                   "role": "caption",
@@ -118,11 +118,11 @@
                   "style": "captionStyle",
                   "textStyle": "captionTextStyle",
                   "format": "html",
-                  "text": "ZZZZZDouglas Kirkland photographed Monroe for the 25th anniversary issue of LIFE. The star suggested the white silk sheets and free-flowing Dom Perignon for the shoot.",
-                  "uid": "uid217"
+                  "text": "Douglas Kirkland photoghhhhhraphed Monroe for the 25th anniversary issue of LIFE. The star suggested the white silk sheets and free-flowing Dom Perignon for the shoot.",
+                  "uid": "uid263"
                 }
               ],
-              "uid": "conuid215"
+              "uid": "conuid261"
             },
             {
               "//": "======== FULL BLEED CONTAINER ========",
@@ -139,7 +139,7 @@
                     "textStyle": "captionEmbeddedTextStyle"
                   },
                   "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/mhg-mmo-blk_029/128310-1-eng-US/mhg-mmo-blk_0292.jpg?q=100",
-                  "uid": "uid219"
+                  "uid": "uid265"
                 },
                 {
                   "role": "caption",
@@ -148,10 +148,10 @@
                   "textStyle": "captionTextStyle",
                   "format": "html",
                   "text": "Monroe captured dancing by her close friend photographer Milton Greene in 1956.",
-                  "uid": "uid220"
+                  "uid": "uid266"
                 }
               ],
-              "uid": "conuid218"
+              "uid": "conuid264"
             },
             {
               "//": "======== FULL BLEED CONTAINER ========",
@@ -168,7 +168,7 @@
                     "textStyle": "captionEmbeddedTextStyle"
                   },
                   "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/marilyn-hal_034/129178-1-eng-US/marilyn-hal_0342.jpg?q=100",
-                  "uid": "uid222"
+                  "uid": "uid268"
                 },
                 {
                   "role": "caption",
@@ -177,10 +177,10 @@
                   "textStyle": "captionTextStyle",
                   "format": "html",
                   "text": " In 1959",
-                  "uid": "uid223"
+                  "uid": "uid269"
                 }
               ],
-              "uid": "conuid221"
+              "uid": "conuid267"
             },
             {
               "role": "heading2",
@@ -189,7 +189,7 @@
               "textStyle": "heading2CenteredTextStyle",
               "format": "html",
               "text": "A Star Like No Other",
-              "uid": "uid224"
+              "uid": "uid270"
             },
             {
               "role": "body",
@@ -198,7 +198,7 @@
               "textStyle": "bodyCenteredTextStyle",
               "format": "html",
               "text": "For a time, Marilyn Monroe was the most beautiful, most desired woman anywhere. But behind the glamorous images was a vulnerable star with an unhappy past. The story of Norma Jeane Baker’s unlikely path from foster homes to international fame to mysterious death is as dramatic as any film she ever made.",
-              "uid": "uid225"
+              "uid": "uid271"
             },
             {
               "role": "body",
@@ -207,10 +207,10 @@
               "textStyle": "attributeTextStyle",
               "format": "html",
               "text": "PHILIPPE HALSMAN/MAGNUM (2); DOUGLAS KIRKLAND; PHOTOGRAPHED BY MILTON H. GREENE © 2022 JOSHUA GREENE",
-              "uid": "uid226"
+              "uid": "uid272"
             }
           ],
-          "uid": "conuid214"
+          "uid": "conuid260"
         },
         {
           "role": "container",
@@ -231,7 +231,7 @@
               "role": "container",
               "layout": "dividerLayout",
               "style": "dividerSectionHeadStyle",
-              "uid": "uid228"
+              "uid": "uid274"
             },
             {
               "//": "=== VISIT TOC LINK, ONLY VISIBLE IF USER IS IN ARTICLE VIEW ===",
@@ -240,13 +240,13 @@
               "textStyle": "tocTextStyle",
               "format": "html",
               "text": "<a href='https://apple.news/AlyMoIfMREey7Rrp00ZE8qw'>Tap here</a> to see more from this issue of <i>LIFE</i>",
-              "uid": "uid229"
+              "uid": "uid275"
             }
           ],
-          "uid": "conuid227"
+          "uid": "conuid273"
         }
       ],
-      "uid": "conuid208"
+      "uid": "conuid254"
     }
   ],
   "componentLayouts": {

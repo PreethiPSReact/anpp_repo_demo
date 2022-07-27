@@ -60,11 +60,9 @@
               "layout": {
                 "maximumContentWidth": "25cw"
               },
-              "URL": "https://public-assets.meredithcorp.io/4e72a49c63ffd5ac150f6edb6068b6c6/life.jpg",
-              "uid": "uid30"
+              "URL": "https://public-assets.meredithcorp.io/4e72a49c63ffd5ac150f6edb6068b6c6/life.jpg"
             }
-          ],
-          "uid": "conuid29"
+          ]
         },
         {
           "//": "==== DEFAULT HEADER: TITLE ===",
@@ -72,8 +70,7 @@
           "layout": "titleLayout",
           "textStyle": "titleTextStyle",
           "format": "html",
-          "text": "Remembering Marilyn",
-          "uid": "uid31"
+          "text": "Remembering Marilyn"
         },
         {
           "//": "======== HERO IMAGE CONTAINER =======",
@@ -84,11 +81,9 @@
               "//": "======== HERO IMAGE - H3255.0/W2392.0 * 100 = 136.0785953 ========",
               "role": "photo",
               "layout": "fullBleedPhotoLayout",
-              "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/marilynlaug_026/128324-1-eng-US/marilynlaug_0262.jpg?q=100",
-              "uid": "uid33"
+              "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/marilynlaug_026/128324-1-eng-US/marilynlaug_0262.jpg?q=100"
             }
-          ],
-          "uid": "conuid32"
+          ]
         },
         {
           "//": "======== BODY CONTAINER =======",
@@ -109,8 +104,7 @@
                     "text": "Douglas Kirkland photographed Monroe for the 25th anniversary issue of LIFE. The star suggested the white silk sheets and free-flowing Dom Perignon for the shoot.",
                     "textStyle": "captionEmbeddedTextStyle"
                   },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/marilyninbe_027/128317-1-eng-US/marilyninbe_0272.jpg?q=100",
-                  "uid": "uid36"
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/marilyninbe_027/128317-1-eng-US/marilyninbe_0272.jpg?q=100"
                 },
                 {
                   "role": "caption",
@@ -118,11 +112,9 @@
                   "style": "captionStyle",
                   "textStyle": "captionTextStyle",
                   "format": "html",
-                  "text": "DDDDDDouglas Kirkland photographed Monroe for the 25th anniversary issue of LIFE. The star suggested the white silk sheets and free-flowing Dom Perignon for the shoot.",
-                  "uid": "uid37"
+                  "text": "Douglas Kirkland photographed Monroe for the 25th anniversary issue of LIFE. The star suggested the white silk sheets and free-flowing Dom Perignon for the shoot."
                 }
-              ],
-              "uid": "conuid35"
+              ]
             },
             {
               "//": "======== FULL BLEED CONTAINER ========",
@@ -138,8 +130,7 @@
                     "text": "Monroe captured dancing by her close friend photographer Milton Greene in 1956.",
                     "textStyle": "captionEmbeddedTextStyle"
                   },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/mhg-mmo-blk_029/128310-1-eng-US/mhg-mmo-blk_0292.jpg?q=100",
-                  "uid": "uid39"
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/mhg-mmo-blk_029/128310-1-eng-US/mhg-mmo-blk_0292.jpg?q=100"
                 },
                 {
                   "role": "caption",
@@ -147,11 +138,9 @@
                   "style": "captionStyle",
                   "textStyle": "captionTextStyle",
                   "format": "html",
-                  "text": "MMMMMMMMMMMonroe captured dancing by her close friend photographer Milton Greene in 1956.",
-                  "uid": "uid40"
+                  "text": "Monroe captured dancing by her close friend photographer Milton Greene in 1956."
                 }
-              ],
-              "uid": "conuid38"
+              ]
             },
             {
               "//": "======== FULL BLEED CONTAINER ========",
@@ -167,8 +156,7 @@
                     "text": " In 1959",
                     "textStyle": "captionEmbeddedTextStyle"
                   },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/marilyn-hal_034/129178-1-eng-US/marilyn-hal_0342.jpg?q=100",
-                  "uid": "uid42"
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/marilyn-hal_034/129178-1-eng-US/marilyn-hal_0342.jpg?q=100"
                 },
                 {
                   "role": "caption",
@@ -176,11 +164,9 @@
                   "style": "captionStyle",
                   "textStyle": "captionTextStyle",
                   "format": "html",
-                  "text": " In 1959",
-                  "uid": "uid43"
+                  "text": " In 1959"
                 }
-              ],
-              "uid": "conuid41"
+              ]
             },
             {
               "role": "heading2",
@@ -188,8 +174,7 @@
               "style": "heading2Style",
               "textStyle": "heading2CenteredTextStyle",
               "format": "html",
-              "text": "A Star Like No Other",
-              "uid": "uid44"
+              "text": "A Star Like No Other"
             },
             {
               "role": "body",
@@ -197,8 +182,7 @@
               "style": "paragraphStyle",
               "textStyle": "bodyCenteredTextStyle",
               "format": "html",
-              "text": "FFFFFFFFFFFor a time, Marilyn Monroe was the most beautiful, most desired woman anywhere. But behind the glamorous images was a vulnerable star with an unhappy past. The story of Norma Jeane Baker’s unlikely path from foster homes to international fame to mysterious death is as dramatic as any film she ever made.",
-              "uid": "uid45"
+              "text": "For a time, Marilyn Monroe was the most beautiful, most desired woman anywhere. But behind the glamorous images was a vulnerable star with an unhappy past. The story of Norma Jeane Baker’s unlikely path from foster homes to international fame to mysterious death is as dramatic as any film she ever made."
             },
             {
               "role": "body",
@@ -206,11 +190,9 @@
               "style": "attributeStyle",
               "textStyle": "attributeTextStyle",
               "format": "html",
-              "text": "PPPPPPHILIPPE HALSMAN/MAGNUM (2); DOUGLAS KIRKLAND; PHOTOGRAPHED BY MILTON H. GREENE © 2022 JOSHUA GREENE",
-              "uid": "uid46"
+              "text": "PHILIPPE HALSMAN/MAGNUM (2); DOUGLAS KIRKLAND; PHOTOGRAPHED BY MILTON H. GREENE © 2022 JOSHUA GREENE"
             }
-          ],
-          "uid": "conuid34"
+          ]
         },
         {
           "role": "container",
@@ -230,8 +212,7 @@
             {
               "role": "container",
               "layout": "dividerLayout",
-              "style": "dividerSectionHeadStyle",
-              "uid": "uid48"
+              "style": "dividerSectionHeadStyle"
             },
             {
               "//": "=== VISIT TOC LINK, ONLY VISIBLE IF USER IS IN ARTICLE VIEW ===",
@@ -239,14 +220,11 @@
               "layout": "bodyLayout",
               "textStyle": "tocTextStyle",
               "format": "html",
-              "text": "<a href='https://apple.news/AlyMoIfMREey7Rrp00ZE8qw'>Tap here</a> to see more from this issue of <i>LIFE</i>",
-              "uid": "uid49"
+              "text": "<a href='https://apple.news/AlyMoIfMREey7Rrp00ZE8qw'>Tap here</a> to see more from this issue of <i>LIFE</i>"
             }
-          ],
-          "uid": "conuid47"
+          ]
         }
-      ],
-      "uid": "conuid28"
+      ]
     }
   ],
   "componentLayouts": {

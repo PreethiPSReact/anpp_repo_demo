@@ -2,7 +2,7 @@
   "version": "1.9",
   "identifier": "life_article_5390-173-1-1",
   "title": "LIFE: Remembering Marilyn",
-  "language": "en",
+  "language": "eeeeeeen",
   "layout": {
     "columns": 20,
     "gutter": 20,
@@ -10,11 +10,12 @@
     "width": 1024
   },
   "metadata": {
-    "dateCreated": "2022-06-23T18:54:22.240Z",
-    "dateModified": "2022-06-07T15:28:29+00:00",
+    "dateCreated": "2022-06-23T18:54:31.949Z",
+    "dateModified": "2022-06-07T15:28:38+00:00",
+    "excerpt": "For a time, Marilyn Monroe was the most beautiful, most desired woman anywhere. But behind the glamorous images was a vulnerable star with an unhappy past. The story of Norma Jeane Baker’s unlikely path from foster homes to international fame to mysterious death is as dramatic as any film she ever made. ■",
     "generatorName": "ANTE Generic Template",
     "generatorVersion": "0.0.4.33-2022-06-09 18:32",
-    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/marilynlaug_026/128324-1-eng-US/marilynlaug_0262.jpg?q=100"
+    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/1943skiing/129185-1-eng-US/1943skiing2.jpg?q=100"
   },
   "documentStyle": {
     "backgroundColor": "#eee"
@@ -50,21 +51,19 @@
       },
       "components": [
         {
-          "//": "======== FULL BLEED CONTAINER ========",
+          "//": "==== DEFAULT HEADER: SECTION ===",
+          "role": "heading",
+          "layout": "sectionLayout",
+          "textStyle": "sectionTextStyle",
+          "format": "html",
+          "text": "<B>MARILYN</B> 60 YEARS LATER",
+          "uid": "uid831"
+        },
+        {
           "role": "container",
-          "layout": "singleBlockContainerLayout",
-          "components": [
-            {
-              "//": "======== IMAGE BLEED - H1758.0/W2588.0 * 100 = 67.9289026 ========",
-              "role": "image",
-              "layout": {
-                "maximumContentWidth": "25cw"
-              },
-              "URL": "https://public-assets.meredithcorp.io/4e72a49c63ffd5ac150f6edb6068b6c6/life.jpg",
-              "uid": "uid580"
-            }
-          ],
-          "uid": "conuid579"
+          "layout": "dividerLayout",
+          "style": "dividerSectionHeadStyle",
+          "uid": "uid832"
         },
         {
           "//": "==== DEFAULT HEADER: TITLE ===",
@@ -72,8 +71,8 @@
           "layout": "titleLayout",
           "textStyle": "titleTextStyle",
           "format": "html",
-          "text": "Remembering Marilyn",
-          "uid": "uid581"
+          "text": "Just one more",
+          "uid": "uid833"
         },
         {
           "//": "======== HERO IMAGE CONTAINER =======",
@@ -81,14 +80,28 @@
           "layout": "heroImageLayout",
           "components": [
             {
-              "//": "======== HERO IMAGE - H3255.0/W2392.0 * 100 = 136.0785953 ========",
+              "//": "======== HERO IMAGE - H2651.0/W1944.0 * 100 = 136.3683128 ========",
               "role": "photo",
               "layout": "fullBleedPhotoLayout",
-              "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/marilynlaug_026/128324-1-eng-US/marilynlaug_0262.jpg?q=100",
-              "uid": "uid583"
+              "caption": {
+                "format": "html",
+                "text": "Norma Jeane Baker, the future Marilyn Monroe, tries sand-dune skiing, circa 1943.",
+                "textStyle": "captionEmbeddedTextStyle"
+              },
+              "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/1943skiing/129185-1-eng-US/1943skiing2.jpg?q=100",
+              "uid": "uid835"
+            },
+            {
+              "role": "caption",
+              "layout": "captionLayout",
+              "style": "captionStyle",
+              "textStyle": "captionTextStyle",
+              "format": "html",
+              "text": "Norma Jeane Baker, the future Marilyn Monroe, tries sand-dune skiing, circa 1943.",
+              "uid": "uid836"
             }
           ],
-          "uid": "conuid582"
+          "uid": "conuid834"
         },
         {
           "//": "======== BODY CONTAINER =======",
@@ -96,121 +109,16 @@
           "layout": "bodyContainerLayout",
           "components": [
             {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "fullBleedContainerLayout",
-              "components": [
-                {
-                  "//": "======== IMAGE BLEED - H1758.0/W2588.0 * 100 = 67.9289026 ========",
-                  "role": "photo",
-                  "layout": "fullBleedPhotoLayout",
-                  "caption": {
-                    "format": "html",
-                    "text": "Douglas Kirkland photographed Monroe for the 25th anniversary issue of LIFE. The star suggested the white silk sheets and free-flowing Dom Perignon for the shoot.",
-                    "textStyle": "captionEmbeddedTextStyle"
-                  },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/marilyninbe_027/128317-1-eng-US/marilyninbe_0272.jpg?q=100",
-                  "uid": "uid586"
-                },
-                {
-                  "role": "caption",
-                  "layout": "captionLayout",
-                  "style": "captionStyle",
-                  "textStyle": "captionTextStyle",
-                  "format": "html",
-                  "text": "Douglas Kirkland photographed Monroe for the 25th anniversary issue of LIFE. The star suggested the white silk sheets and free-flowing Dom Perignon for the shoot.",
-                  "uid": "uid587"
-                }
-              ],
-              "uid": "conuid585"
-            },
-            {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "fullBleedContainerLayout",
-              "components": [
-                {
-                  "//": "======== IMAGE BLEED - H1714.0/W2037.0 * 100 = 84.1433481 ========",
-                  "role": "photo",
-                  "layout": "fullBleedPhotoLayout",
-                  "caption": {
-                    "format": "html",
-                    "text": "Monroe captured dancing by her close friend photographer Milton Greene in 1956.",
-                    "textStyle": "captionEmbeddedTextStyle"
-                  },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/mhg-mmo-blk_029/128310-1-eng-US/mhg-mmo-blk_0292.jpg?q=100",
-                  "uid": "uid589"
-                },
-                {
-                  "role": "caption",
-                  "layout": "captionLayout",
-                  "style": "captionStyle",
-                  "textStyle": "captionTextStyle",
-                  "format": "html",
-                  "text": "Monroe captured dancing by her close friend photographer Milton Greene in 1956.",
-                  "uid": "uid590"
-                }
-              ],
-              "uid": "conuid588"
-            },
-            {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "fullBleedContainerLayout",
-              "components": [
-                {
-                  "//": "======== IMAGE BLEED - H2630.0/W1968.0 * 100 = 133.6382114 ========",
-                  "role": "photo",
-                  "layout": "fullBleedPhotoLayout",
-                  "caption": {
-                    "format": "html",
-                    "text": " In 1959",
-                    "textStyle": "captionEmbeddedTextStyle"
-                  },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/marilyn-hal_034/129178-1-eng-US/marilyn-hal_0342.jpg?q=100",
-                  "uid": "uid592"
-                },
-                {
-                  "role": "caption",
-                  "layout": "captionLayout",
-                  "style": "captionStyle",
-                  "textStyle": "captionTextStyle",
-                  "format": "html",
-                  "text": " In 1959",
-                  "uid": "uid593"
-                }
-              ],
-              "uid": "conuid591"
-            },
-            {
-              "role": "heading2",
-              "layout": "heading2Layout",
-              "style": "heading2Style",
-              "textStyle": "heading2CenteredTextStyle",
-              "format": "html",
-              "text": "A Star Like No Othergggg",
-              "uid": "uid594"
-            },
-            {
-              "role": "body",
-              "layout": "bodyNoMarginAboveLayout",
-              "style": "paragraphStyle",
-              "textStyle": "bodyCenteredTextStyle",
-              "format": "html",
-              "text": "For a time, Marilyn Monroe was the most beautiful, most desired woman anywhere. But behind the glamorous images was a vulnerable star with an unhappy past. The story of Norma Jeane Baker’s unlikely path from foster homes to international fame to mysterious death is as dramatic as any film she ever made.",
-              "uid": "uid595"
-            },
-            {
               "role": "body",
               "layout": "attributeLayout",
               "style": "attributeStyle",
               "textStyle": "attributeTextStyle",
               "format": "html",
-              "text": "PHILIPPE HALSMAN/MAGNUM (2); DOUGLAS KIRKLAND; PHOTOGRAPHED BY MILTON H. GREENE © 2022 JOSHUA GREENE",
-              "uid": "uid596"
+              "text": "WWWWWWSILVER SCREEN COLLECTION/HULTON/GETTY",
+              "uid": "uid838"
             }
           ],
-          "uid": "conuid584"
+          "uid": "conuid837"
         },
         {
           "role": "container",
@@ -231,7 +139,7 @@
               "role": "container",
               "layout": "dividerLayout",
               "style": "dividerSectionHeadStyle",
-              "uid": "uid598"
+              "uid": "uid840"
             },
             {
               "//": "=== VISIT TOC LINK, ONLY VISIBLE IF USER IS IN ARTICLE VIEW ===",
@@ -240,13 +148,13 @@
               "textStyle": "tocTextStyle",
               "format": "html",
               "text": "<a href='https://apple.news/AlyMoIfMREey7Rrp00ZE8qw'>Tap here</a> to see more from this issue of <i>LIFE</i>",
-              "uid": "uid599"
+              "uid": "uid841"
             }
           ],
-          "uid": "conuid597"
+          "uid": "conuid839"
         }
       ],
-      "uid": "conuid578"
+      "uid": "conuid830"
     }
   ],
   "componentLayouts": {
@@ -823,7 +731,35 @@
     "titleStyle": {
       "//": "UNUSED"
     },
-    "bigQuestionStyle": {
+    "agesStagesBodyContainerStyle": {
+      "backgroundColor": "#f4ebdc",
+      "conditional": [
+        {
+          "backgroundColor": "#f4ebdc",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "sidebarCenteredStyle": {
+      "backgroundColor": "#EDD6D1",
+      "conditional": [
+        {
+          "backgroundColor": "#EDD6D1",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "pullQuoteNoTopBorderStyle": {
       "border": {
         "all": {
           "color": "#000",
@@ -833,6 +769,9 @@
         "right": false,
         "top": false
       }
+    },
+    "coloredBoxHeadingStyle": {
+      "backgroundColor": "#EED4D4"
     },
     "ingredientsStyle": {
       "tableStyle": {
@@ -888,6 +827,287 @@
         }
       }
     },
+    "pillBlueLiteStyle": {
+      "backgroundColor": "#81c4cd",
+      "conditional": [
+        {
+          "backgroundColor": "#81c4cd",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ],
+      "mask": {
+        "radius": "50cw",
+        "type": "corners"
+      }
+    },
+    "pillBlueStyle": {
+      "backgroundColor": "#41c7f4",
+      "conditional": [
+        {
+          "backgroundColor": "#41c7f4",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ],
+      "mask": {
+        "radius": "50cw",
+        "type": "corners"
+      }
+    },
+    "pillGoldStyle": {
+      "backgroundColor": "#f0c04e",
+      "conditional": [
+        {
+          "backgroundColor": "#f0c04e",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ],
+      "mask": {
+        "radius": "50cw",
+        "type": "corners"
+      }
+    },
+    "pillOrangeLiteStyle": {
+      "backgroundColor": "#fbb161",
+      "conditional": [
+        {
+          "backgroundColor": "#fbb161",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ],
+      "mask": {
+        "radius": "50cw",
+        "type": "corners"
+      }
+    },
+    "pillOrangeStyle": {
+      "backgroundColor": "#f68e1d",
+      "conditional": [
+        {
+          "backgroundColor": "#f68e1d",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ],
+      "mask": {
+        "radius": "50cw",
+        "type": "corners"
+      }
+    },
+    "pillPinkLiteStyle": {
+      "backgroundColor": "#ebd6da",
+      "conditional": [
+        {
+          "backgroundColor": "#ebd6da",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ],
+      "mask": {
+        "radius": "50cw",
+        "type": "corners"
+      }
+    },
+    "pillPinkStyle": {
+      "backgroundColor": "#f7b9d4",
+      "conditional": [
+        {
+          "backgroundColor": "#f7b9d4",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ],
+      "mask": {
+        "radius": "50cw",
+        "type": "corners"
+      }
+    },
+    "pillYellowStyle": {
+      "backgroundColor": "#ffd400",
+      "conditional": [
+        {
+          "backgroundColor": "#ffd400",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ],
+      "mask": {
+        "radius": "50cw",
+        "type": "corners"
+      }
+    },
+    "bkgBlueLiteStyle": {
+      "backgroundColor": "#81c4cd",
+      "conditional": [
+        {
+          "backgroundColor": "#81c4cd",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "bkgBlueStyle": {
+      "backgroundColor": "#41c7f4",
+      "conditional": [
+        {
+          "backgroundColor": "#41c7f4",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "bkgGoldStyle": {
+      "backgroundColor": "#f0c04e",
+      "conditional": [
+        {
+          "backgroundColor": "#f0c04e",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "bkgOrangeLiteStyle": {
+      "backgroundColor": "#fbb161",
+      "conditional": [
+        {
+          "backgroundColor": "#fbb161",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "bkgOrangeStyle": {
+      "backgroundColor": "#e0922e",
+      "conditional": [
+        {
+          "backgroundColor": "#e0922e",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "bkgPinkLiteStyle": {
+      "backgroundColor": "#ebd6da",
+      "conditional": [
+        {
+          "backgroundColor": "#ebd6da",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "bkgPinkStyle": {
+      "backgroundColor": "#f7b9d4",
+      "conditional": [
+        {
+          "backgroundColor": "#f7b9d4",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "bkgTanStyle": {
+      "backgroundColor": "#fccaa1",
+      "conditional": [
+        {
+          "backgroundColor": "#fccaa1",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "bkgYellowStyle": {
+      "backgroundColor": "#ebe709",
+      "conditional": [
+        {
+          "backgroundColor": "#ebe709",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "bigQuestionStyle": {
+      "border": {
+        "all": {
+          "color": "#000",
+          "width": 1
+        },
+        "left": false,
+        "right": false,
+        "top": false
+      }
+    },
     "sidebarGreenBorderStyle": {
       "border": {
         "all": {
@@ -937,6 +1157,31 @@
     "subSectionTextStyle": {
       "//": "UNUSED"
     },
+    "default-tag-callout": {
+      "//": "Bold body text",
+      "fontName": "Graphik-Bold",
+      "fontSize": 15,
+      "tracking": 0.02
+    },
+    "default-tag-subsection": {
+      "fontName": "RivieraNights-Light",
+      "fontSize": 12,
+      "textTransform": "lowercase",
+      "tracking": 0.07
+    },
+    "default-tag-att-italic": {
+      "fontName": "Graphik-SemiboldItalic"
+    },
+    "default-tag-intro-italic": {
+      "fontName": "Graphik-SemiboldItalic"
+    },
+    "default-tag-m": {
+      "textTransform": "capitalize"
+    },
+    "pullQuoteAttributionTextStyle": {
+      "fontName": "Graphik-Regular",
+      "fontSize": 14
+    },
     "default-tag-attributionproduct": {
       "fontName": "RivieraNights-Medium",
       "fontSize": 14
@@ -954,9 +1199,6 @@
     "default-tag-italic-light": {
       "fontName": "Austin-LightItalic"
     },
-    "default-tag-m": {
-      "textTransform": "capitalize"
-    },
     "default-tag-sidebar-b": {
       "fontName": "AvenirNext-Bold"
     },
@@ -965,12 +1207,6 @@
     },
     "default-tag-sidebar-italic": {
       "fontName": "AvenirNext-Italic"
-    },
-    "default-tag-subsection": {
-      "fontName": "RivieraNights-Light",
-      "fontSize": 12,
-      "textTransform": "lowercase",
-      "tracking": 0.07
     },
     "default-tag-title-italic": {
       "fontName": "ivy-italic"
@@ -1169,8 +1405,9 @@
       "textAlignment": "center"
     },
     "listTextStyle": {
-      "fontSize": 17,
-      "lineHeight": 21
+      "fontName": "Graphik-Semibold",
+      "fontSize": 16,
+      "lineHeight": 20
     },
     "pullQuoteTextStyle": {
       "fontName": "Austin-Light",
@@ -1255,6 +1492,116 @@
       "textAlignment": "center",
       "textColor": "#131313"
     },
+    "straplineLeftTextStyle": {
+      "fontName": "Graphik-Medium",
+      "fontSize": 14,
+      "lineHeight": 18,
+      "tracking": 0.06,
+      "textTransform": "uppercase"
+    },
+    "templateBodyTextStyle": {
+      "fontName": "Graphik-Regular",
+      "textAlignment": "center"
+    },
+    "templateAttributeTextStyle": {
+      "fontName": "Graphik-Semibold",
+      "fontSize": 14,
+      "lineHeight": 18,
+      "textAlignment": "center"
+    },
+    "authorBodyTextStyle": {
+      "fontName": "Graphik-Regular",
+      "fontSize": 14,
+      "lineHeight": 16
+    },
+    "pillTextStyle": {
+      "fontName": "Graphik-Semibold",
+      "fontSize": 15,
+      "lineHeight": 18,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.12
+    },
+    "photoCreditTextStyle": {
+      "fontName": "Graphik-Regular",
+      "fontSize": 10,
+      "lineHeight": 12,
+      "textColor": "#6D6E70",
+      "tracking": 0.05,
+      "textAlignment": "right"
+    },
+    "gigglesTextStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 415
+            }
+          ],
+          "fontSize": 67
+        }
+      ],
+      "fontName": "Graphik-Black",
+      "fontSize": 56,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.02
+    },
+    "sidebarHeading4CenteredTextStyle": {
+      "fontName": "RivieraNights-Bold",
+      "textTransform": "uppercase",
+      "textAlignment": "center"
+    },
+    "sidebarListTextStyle": {
+      "fontName": "Graphik-Medium",
+      "fontSize": 15,
+      "lineHeight": 19
+    },
+    "sourcesTextStyle": {
+      "fontName": "Graphik-Regular",
+      "fontSize": 12,
+      "lineHeight": 15
+    },
+    "recipeDetailsTextStyle": {
+      "fontName": "RivieraNights-Regular",
+      "fontSize": 14,
+      "lineHeight": 23,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.07
+    },
+    "ingredientsTextStyle": {
+      "fontName": "RivieraNights-Bold",
+      "fontSize": 15,
+      "lineHeight": 19
+    },
+    "recipeBodyTextStyle": {
+      "fontName": "AustinText-Roman",
+      "fontSize": 18
+    },
+    "questionTextStyle": {
+      "fontName": "Graphik-Bold",
+      "fontSize": 18,
+      "lineHeight": 20
+    },
+    "recipeNutritionInfoTextStyle": {
+      "fontName": "Graphik-Medium",
+      "fontSize": 13,
+      "lineHeight": 15
+    },
+    "contestRulesTextStyle": {
+      "fontName": "Graphik-Regular",
+      "fontSize": 12,
+      "lineHeight": 14
+    },
+    "coloredBoxHeadingTextStyle": {
+      "fontName": "Graphik-Semibold",
+      "fontSize": 15,
+      "lineHeight": 18,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.12
+    },
     "bigQuestionBodyTextStyle": {
       "fontName": "RivieraNights-Black",
       "fontSize": 40,
@@ -1280,11 +1627,6 @@
         "color": "#000"
       }
     },
-    "ingredientsTextStyle": {
-      "fontName": "RivieraNights-Bold",
-      "fontSize": 15,
-      "lineHeight": 19
-    },
     "pullQuoteAttributionTextStyle": {
       "fontName": "AustinText-Italic",
       "fontSize": 15,
@@ -1303,29 +1645,12 @@
       "fontSize": 18,
       "textAlignment": "center"
     },
-    "recipeBodyTextStyle": {
-      "fontName": "AustinText-Roman",
-      "fontSize": 18
-    },
-    "recipeDetailsTextStyle": {
-      "fontName": "RivieraNights-Regular",
-      "fontSize": 14,
-      "lineHeight": 23,
-      "textAlignment": "center",
-      "textTransform": "uppercase",
-      "tracking": 0.07
-    },
     "recipeTitleTextStyle": {
       "fontName": "RivieraNights-Bold",
       "fontSize": 34,
       "lineHeight": 36,
       "textAlignment": "center",
       "textTransform": "uppercase"
-    },
-    "sidebarHeading4CenteredTextStyle": {
-      "fontName": "RivieraNights-Bold",
-      "textTransform": "uppercase",
-      "textAlignment": "center"
     },
     "digitalSectionHeadTextStyle": {
       "fontName": "RivieraNights-Bold",

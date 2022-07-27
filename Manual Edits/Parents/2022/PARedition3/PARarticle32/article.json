@@ -57,13 +57,13 @@
           "textStyle": "sectionTextStyle",
           "format": "html",
           "text": "<B>MARILYN</B> 60 YEARS LATER",
-          "uid": "uid16"
+          "uid": "uid42"
         },
         {
           "role": "container",
           "layout": "dividerLayout",
           "style": "dividerSectionHeadStyle",
-          "uid": "uid17"
+          "uid": "uid43"
         },
         {
           "//": "==== DEFAULT HEADER: TITLE ===",
@@ -72,7 +72,7 @@
           "textStyle": "titleTextStyle",
           "format": "html",
           "text": "Just One More",
-          "uid": "uid18"
+          "uid": "uid44"
         },
         {
           "//": "======== HERO IMAGE CONTAINER =======",
@@ -89,7 +89,7 @@
                 "textStyle": "captionEmbeddedTextStyle"
               },
               "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/1943skiing/129185-1-eng-US/1943skiing2.jpg?q=100",
-              "uid": "uid20"
+              "uid": "uid46"
             },
             {
               "role": "caption",
@@ -98,10 +98,10 @@
               "textStyle": "captionTextStyle",
               "format": "html",
               "text": "Norma Jeane Baker, the future Marilyn Monroe, tries sand-dune skiing, circa 1943.",
-              "uid": "uid21"
+              "uid": "uid47"
             }
           ],
-          "uid": "conuid19"
+          "uid": "conuid45"
         },
         {
           "//": "======== BODY CONTAINER =======",
@@ -115,10 +115,10 @@
               "textStyle": "attributeTextStyle",
               "format": "html",
               "text": "SSSSILVER SCREEN COLLECTION/HULTON/GETTY",
-              "uid": "uid23"
+              "uid": "uid49"
             }
           ],
-          "uid": "conuid22"
+          "uid": "conuid48"
         },
         {
           "role": "container",
@@ -139,7 +139,7 @@
               "role": "container",
               "layout": "dividerLayout",
               "style": "dividerSectionHeadStyle",
-              "uid": "uid25"
+              "uid": "uid51"
             },
             {
               "//": "=== VISIT TOC LINK, ONLY VISIBLE IF USER IS IN ARTICLE VIEW ===",
@@ -148,13 +148,13 @@
               "textStyle": "tocTextStyle",
               "format": "html",
               "text": "<a href='https://apple.news/AlyMoIfMREey7Rrp00ZE8qw'>Tap here</a> to see more from this issue of <i>LIFE</i>",
-              "uid": "uid26"
+              "uid": "uid52"
             }
           ],
-          "uid": "conuid24"
+          "uid": "conuid50"
         }
       ],
-      "uid": "conuid15"
+      "uid": "conuid41"
     }
   ],
   "componentLayouts": {

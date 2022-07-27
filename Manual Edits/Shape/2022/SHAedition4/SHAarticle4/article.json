@@ -61,10 +61,10 @@
                 "maximumContentWidth": "25cw"
               },
               "URL": "https://public-assets.meredithcorp.io/4e72a49c63ffd5ac150f6edb6068b6c6/life.jpg",
-              "uid": "uid50"
+              "uid": "uid94"
             }
           ],
-          "uid": "conuid49"
+          "uid": "conuid93"
         },
         {
           "//": "==== DEFAULT HEADER: TITLE ===",
@@ -73,7 +73,7 @@
           "textStyle": "titleTextStyle",
           "format": "html",
           "text": "Remembering Marilyn",
-          "uid": "uid51"
+          "uid": "uid95"
         },
         {
           "//": "======== HERO IMAGE CONTAINER =======",
@@ -85,10 +85,22 @@
               "role": "photo",
               "layout": "fullBleedPhotoLayout",
               "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/marilynlaug_026/128324-1-eng-US/marilynlaug_0262.jpg?q=100",
-              "uid": "uid53"
+              "uid": "uid97"
             }
           ],
-          "uid": "conuid52"
+          "uid": "conuid96",
+          "conditional": [
+            {
+              "conditions": [
+                {
+                  "minSpecVersion": "1.14",
+                  "preferredColorScheme": "dark"
+                }
+              ],
+              "hidden": false
+            }
+          ],
+          "hidden": true
         },
         {
           "//": "======== BODY CONTAINER =======",
@@ -110,7 +122,7 @@
                     "textStyle": "captionEmbeddedTextStyle"
                   },
                   "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/marilyninbe_027/128317-1-eng-US/marilyninbe_0272.jpg?q=100",
-                  "uid": "uid56"
+                  "uid": "uid100"
                 },
                 {
                   "role": "caption",
@@ -118,11 +130,11 @@
                   "style": "captionStyle",
                   "textStyle": "captionTextStyle",
                   "format": "html",
-                  "text": "DDDDouglas Kirkland photographed Monroe for the 25th anniversary issue of LIFE. The star suggested the white silk sheets and free-flowing Dom Perignon for the shoot.b. PPPPPPPP",
-                  "uid": "uid57"
+                  "text": "Douglas Kirkland photographed Monroe for the 25th anniversary issue of LIFE. The star suggested the white silk sheets and free-flowing Dom Perignon for the shoot.",
+                  "uid": "uid101"
                 }
               ],
-              "uid": "conuid55"
+              "uid": "conuid99"
             },
             {
               "//": "======== FULL BLEED CONTAINER ========",
@@ -139,7 +151,7 @@
                     "textStyle": "captionEmbeddedTextStyle"
                   },
                   "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/mhg-mmo-blk_029/128310-1-eng-US/mhg-mmo-blk_0292.jpg?q=100",
-                  "uid": "uid59"
+                  "uid": "uid103"
                 },
                 {
                   "role": "caption",
@@ -147,11 +159,11 @@
                   "style": "captionStyle",
                   "textStyle": "captionTextStyle",
                   "format": "html",
-                  "text": "Monroe captured dancing by her close friend photographer Milton Greene in 1956.",
-                  "uid": "uid60"
+                  "text": "NMonroe captured dancing by her close friend photographer Milton Greene in 1956.",
+                  "uid": "uid104"
                 }
               ],
-              "uid": "conuid58"
+              "uid": "conuid102"
             },
             {
               "//": "======== FULL BLEED CONTAINER ========",
@@ -168,7 +180,7 @@
                     "textStyle": "captionEmbeddedTextStyle"
                   },
                   "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/marilyn-hal_034/129178-1-eng-US/marilyn-hal_0342.jpg?q=100",
-                  "uid": "uid62"
+                  "uid": "uid106"
                 },
                 {
                   "role": "caption",
@@ -177,10 +189,10 @@
                   "textStyle": "captionTextStyle",
                   "format": "html",
                   "text": " In 1959",
-                  "uid": "uid63"
+                  "uid": "uid107"
                 }
               ],
-              "uid": "conuid61"
+              "uid": "conuid105"
             },
             {
               "role": "heading2",
@@ -189,7 +201,7 @@
               "textStyle": "heading2CenteredTextStyle",
               "format": "html",
               "text": "A Star Like No Other",
-              "uid": "uid64"
+              "uid": "uid108"
             },
             {
               "role": "body",
@@ -198,7 +210,7 @@
               "textStyle": "bodyCenteredTextStyle",
               "format": "html",
               "text": "For a time, Marilyn Monroe was the most beautiful, most desired woman anywhere. But behind the glamorous images was a vulnerable star with an unhappy past. The story of Norma Jeane Baker’s unlikely path from foster homes to international fame to mysterious death is as dramatic as any film she ever made.",
-              "uid": "uid65"
+              "uid": "uid109"
             },
             {
               "role": "body",
@@ -207,10 +219,10 @@
               "textStyle": "attributeTextStyle",
               "format": "html",
               "text": "PHILIPPE HALSMAN/MAGNUM (2); DOUGLAS KIRKLAND; PHOTOGRAPHED BY MILTON H. GREENE © 2022 JOSHUA GREENE",
-              "uid": "uid66"
+              "uid": "uid110"
             }
           ],
-          "uid": "conuid54"
+          "uid": "conuid98"
         },
         {
           "role": "container",
@@ -231,7 +243,7 @@
               "role": "container",
               "layout": "dividerLayout",
               "style": "dividerSectionHeadStyle",
-              "uid": "uid68"
+              "uid": "uid112"
             },
             {
               "//": "=== VISIT TOC LINK, ONLY VISIBLE IF USER IS IN ARTICLE VIEW ===",
@@ -240,13 +252,13 @@
               "textStyle": "tocTextStyle",
               "format": "html",
               "text": "<a href='https://apple.news/AlyMoIfMREey7Rrp00ZE8qw'>Tap here</a> to see more from this issue of <i>LIFE</i>",
-              "uid": "uid69"
+              "uid": "uid113"
             }
           ],
-          "uid": "conuid67"
+          "uid": "conuid111"
         }
       ],
-      "uid": "conuid48"
+      "uid": "conuid92"
     }
   ],
   "componentLayouts": {

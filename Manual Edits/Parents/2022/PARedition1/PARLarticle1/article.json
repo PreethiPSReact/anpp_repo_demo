@@ -56,14 +56,12 @@
           "layout": "sectionLayout",
           "textStyle": "sectionTextStyle",
           "format": "html",
-          "text": "<B>MARILYN</B> 60 YEARS LATER",
-          "uid": "uid16"
+          "text": "<B>MARILYN</B> 60 YEARS LATER"
         },
         {
           "role": "container",
           "layout": "dividerLayout",
-          "style": "dividerSectionHeadStyle",
-          "uid": "uid17"
+          "style": "dividerSectionHeadStyle"
         },
         {
           "//": "==== DEFAULT HEADER: TITLE ===",
@@ -71,8 +69,7 @@
           "layout": "titleLayout",
           "textStyle": "titleTextStyle",
           "format": "html",
-          "text": "Just One More -- parents",
-          "uid": "uid18"
+          "text": "Just One More -- parents"
         },
         {
           "//": "======== HERO IMAGE CONTAINER =======",
@@ -88,8 +85,7 @@
                 "text": "Norma Jeane Baker, the future Marilyn Monroe, tries sand-dune skiing, circa 1943.",
                 "textStyle": "captionEmbeddedTextStyle"
               },
-              "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/1943skiing/129185-1-eng-US/1943skiing2.jpg?q=100",
-              "uid": "uid20"
+              "URL": "https://cdn-assets.ziniopro.com/var/site_5390/storage/images/media2/images/1943skiing/129185-1-eng-US/1943skiing2.jpg?q=100"
             },
             {
               "role": "caption",
@@ -97,11 +93,9 @@
               "style": "captionStyle",
               "textStyle": "captionTextStyle",
               "format": "html",
-              "text": "Norma Jeane Baker, the future Marilyn Monroe, tries sand-dune skiing, circa 1943.",
-              "uid": "uid21"
+              "text": "Norma Jeane Baker, the future Marilyn.... Monroe, tries sand-dune skiing, circa 1943."
             }
-          ],
-          "uid": "conuid19"
+          ]
         },
         {
           "//": "======== BODY CONTAINER =======",
@@ -114,11 +108,9 @@
               "style": "attributeStyle",
               "textStyle": "attributeTextStyle",
               "format": "html",
-              "text": "SILVER SCREEN COLLECTION/HULTON/GETTY",
-              "uid": "uid23"
+              "text": "SILVER SCREEN COLLECTION/HULTON/GETTY"
             }
-          ],
-          "uid": "conuid22"
+          ]
         },
         {
           "role": "container",
@@ -138,8 +130,7 @@
             {
               "role": "container",
               "layout": "dividerLayout",
-              "style": "dividerSectionHeadStyle",
-              "uid": "uid25"
+              "style": "dividerSectionHeadStyle"
             },
             {
               "//": "=== VISIT TOC LINK, ONLY VISIBLE IF USER IS IN ARTICLE VIEW ===",
@@ -147,14 +138,11 @@
               "layout": "bodyLayout",
               "textStyle": "tocTextStyle",
               "format": "html",
-              "text": "<a href='https://apple.news/AlyMoIfMREey7Rrp00ZE8qw'>Tap here</a> to see more from this issue of <i>LIFE</i>",
-              "uid": "uid26"
+              "text": "<a href='https://apple.news/AlyMoIfMREey7Rrp00ZE8qw'>Tap here</a> to see more from this issue of <i>LIFE</i>"
             }
-          ],
-          "uid": "conuid24"
+          ]
         }
-      ],
-      "uid": "conuid15"
+      ]
     }
   ],
   "componentLayouts": {

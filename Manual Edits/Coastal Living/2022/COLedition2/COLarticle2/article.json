@@ -59,11 +59,6 @@
           "text": "<b>MARILYN</b> 60 years later"
         },
         {
-          "role": "container",
-          "layout": "dividerLayout",
-          "style": "dividerSectionHeadStyle"
-        },
-        {
           "//": "==== DEFAULT HEADER: TITLE ===",
           "role": "title",
           "layout": "titleLayout",
@@ -589,10 +584,26 @@
     "calloutStyle": {
       "border": {
         "all": {
-          "color": "#8d8d8d",
-          "width": 2
+          "width": 4,
+          "color": "#009A5A"
         }
-      }
+      },
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "preferredColorScheme": "dark",
+              "minSpecVersion": "1.14"
+            }
+          ],
+          "border": {
+            "all": {
+              "width": 4,
+              "color": "#009A5A"
+            }
+          }
+        }
+      ]
     },
     "captionAdStyle": {
       "//": "UNUSED"
@@ -699,63 +710,110 @@
     "sidebarNoBackgroundStyle": {
       "border": {
         "all": {
-          "color": "#f2f2f2",
-          "width": 2
+          "width": 2,
+          "color": "#000"
         }
       }
     },
     "sidebarStyle": {
-      "backgroundColor": "#f2f2f2",
-      "conditional": [
-        {
-          "backgroundColor": "#f2f2f2",
-          "conditions": [
-            {
-              "minSpecVersion": "1.14",
-              "preferredColorScheme": "dark"
-            }
-          ]
-        }
-      ]
+      "backgroundColor": "#f2f2f2"
     },
     "straplineStyle": {
       "//": "UNUSED"
     },
     "titleStyle": {
       "//": "UNUSED"
+    },
+    "youSaidImageStyle": {
+      "backgroundColor": "#008080",
+      "mask": {
+        "type": "corners",
+        "radius": "60cw"
+      }
+    },
+    "ingredientsStyle": {
+      "tableStyle": {
+        "cells": {
+          "conditional": [
+            {
+              "horizontalAlignment": "right",
+              "padding": {
+                "right": 5
+              },
+              "selectors": [
+                {
+                  "columnIndex": 0
+                }
+              ],
+              "width": 10
+            },
+            {
+              "horizontalAlignment": "left",
+              "padding": {
+                "left": 5
+              },
+              "selectors": [
+                {
+                  "columnIndex": 1
+                }
+              ],
+              "width": 75
+            }
+          ],
+          "textStyle": "ingredientsTextStyle",
+          "verticalAlignment": "top"
+        },
+        "columns": {
+          "conditional": [
+            {
+              "selectors": [
+                {
+                  "columnIndex": 0
+                }
+              ],
+              "width": 10
+            },
+            {
+              "selectors": [
+                {
+                  "columnIndex": 1
+                }
+              ],
+              "width": 45
+            }
+          ]
+        }
+      }
     }
   },
   "textStyles": {
     "creditTextStyle": {
-      "fontName": "AvenirNext-Medium",
+      "fontName": "Gotham-Book",
       "fontSize": 10,
       "textColor": "#8d8d8d",
-      "textTransform": "uppercase",
-      "tracking": 0.1
+      "tracking": 0.05
     },
     "default-tag-caption-heading": {
-      "fontName": "AvenirNext-Bold",
-      "fontSize": 14,
-      "textTransform": "uppercase",
-      "tracking": 0.05
+      "fontSize": 15,
+      "fontName": "Gotham-Medium"
     },
     "default-tag-emoji": {
       "fontName": "AppleColorEmoji"
     },
     "default-tag-lede": {
-      "fontName": "AvenirNext-Bold"
+      "fontName": "GothamNarrow-Bold",
+      "tracking": 0.02
     },
     "default-tag-pullquote-attribution": {
-      "fontName": "Georgia-Bold",
-      "fontSize": 15,
-      "textTransform": "uppercase",
-      "tracking": 0.15
-    },
-    "default-tag-sidebar-lede": {
-      "fontName": "AvenirNext-Bold",
+      "fontName": "ChronicleDisplay-Roman",
       "fontSize": 16,
+      "textAlignment": "center",
       "textTransform": "uppercase",
       "tracking": 0.05
+    },
+    "default-tag-sidebar-lede": {
+      "fontName": "Gotham-Bold",
+      "textDecoration": "uppercase"
     },
     "default-tag-sub-section": {
       "fontName": "AvenirNext-Medium"
@@ -765,55 +823,75 @@
     },
     "subSectionTextStyle": {
       "//": "UNUSED"
+    },
+    "default-tag-subsection": {
+      "fontName": "Gotham-Medium",
+      "textTransform": "uppercase",
+      "textColor": "#009A5A",
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "preferredColorScheme": "dark",
+              "minSpecVersion": "1.14"
+            }
+          ],
+          "textColor": "#009A5A"
+        }
+      ],
+      "fontSize": 16,
+      "tracking": 0.1
+    },
+    "default-tag-caption-i": {
+      "fontName": "Gotham-Book"
     }
   },
   "componentTextStyles": {
     "//": {
-      "//": "===================== LIFE OVERRIDES ====================="
+      "//": "================ ALL RECIPES OVERRIDES ================"
     },
     "attributeTextStyle": {
-      "fontName": "AvenirNext-Medium",
+      "fontName": "GothamNarrow-Book",
       "fontSize": 10,
-      "lineHeight": 14,
-      "textColor": "#8d8d8d",
       "textTransform": "uppercase",
-      "tracking": 0.1
+      "lineHeight": 12,
+      "tracking": 0.05
     },
     "authorTextStyle": {
-      "fontName": "Georgia-Bold",
+      "fontName": "ChronicleDisplay-Bold",
+      "tracking": 0.1,
       "textAlignment": "center",
-      "textTransform": "uppercase",
-      "tracking": 0.05
+      "textTransform": "uppercase"
     },
     "bodyCenteredTextStyle": {
       "fontName": "Georgia",
       "textAlignment": "center"
     },
     "bodyDropCapTextStyle": {
+      "fontName": "ChronicleDisplay-Roman",
       "dropCapStyle": {
-        "fontName": "AvenirNext-Medium",
+        "fontName": "ChronicleDisplay-Light",
+        "numberOfLines": 5,
+        "numberOfRaisedLines": 0,
         "numberOfCharacters": 1,
-        "numberOfLines": 4,
-        "numberOfRaisedLines": 0
-      },
-      "fontName": "Georgia"
+        "textColor": "#000f",
+        "padding": 5
+      }
     },
     "bodyTextStyle": {
-      "fontName": "Georgia"
+      "tracking": 0.02
     },
     "calloutBodyTextStyle": {
-      "fontName": "Georgia-Italic",
-      "fontSize": 22,
-      "lineHeight": 28,
-      "textAlignment": "center"
+      "fontSize": 15,
+      "lineHeight": 19,
+      "textAlignment": "center",
+      "fontName": "Gotham-Book"
     },
     "calloutHeadingTextStyle": {
-      "fontName": "AvenirNext-Bold",
-      "fontSize": 24,
-      "lineHeight": 28,
-      "textAlignment": "center",
-      "textTransform": "uppercase",
-      "tracking": -0.05
+      "fontName": "ChronicleDisplay-Bold",
+      "fontSize": 28,
+      "lineHeight": 30,
+      "textAlignment": "center"
     },
     "captionAdTextStyle": {
       "//": "UNUSED"
@@ -822,90 +900,106 @@
       "textAlignment": "center"
     },
     "captionEmbeddedTextStyle": {
-      "fontName": "HelveticaNeue-Bold",
+      "fontName": "HelveticaNeue",
       "lineHeight": 16
     },
     "captionTextStyle": {
-      "fontName": "AvenirNext-Medium",
-      "textAlignment": "left"
+      "fontName": "Gotham-Book",
+      "tracking": 0.02
     },
     "default": {
-      "fontName": "AvenirNext-Medium",
-      "hyphenation": false,
+      "fontName": "ChronicleDisplay-Roman",
+      "textColor": "#000",
       "linkStyle": {
+        "fontName": "ChronicleDisplay-Bold",
+        "textColor": "#000",
         "underline": true
       },
-      "textColor": "#000"
+      "hyphenation": false
     },
     "default-author": {
-      "fontSize": 15,
-      "lineHeight": 19
+      "fontName": "Avenir-Book",
+      "fontSize": 14,
+      "lineHeight": 16
     },
     "default-body": {
-      "fontSize": 20,
-      "lineHeight": 26,
-      "paragraphSpacingAfter": 12,
-      "paragraphSpacingBefore": 12
+      "fontSize": 16,
+      "lineHeight": 20,
+      "paragraphSpacingBefore": 12,
+      "paragraphSpacingAfter": 12
     },
     "default-byline": {
       "//": "UNUSED"
     },
     "default-caption": {
-      "fontName": "AvenirNext-Medium",
-      "fontSize": 15,
-      "lineHeight": 22
+      "fontName": "Avenir-Book",
+      "fontSize": 14,
+      "lineHeight": 16
     },
     "default-heading": {
       "fontSize": 16,
       "lineHeight": 16
     },
     "default-heading2": {
-      "fontSize": 45,
-      "lineHeight": 50
+      "fontSize": 42,
+      "lineHeight": 44
     },
     "default-heading3": {
-      "fontSize": 24,
-      "lineHeight": 28
+      "fontSize": 32,
+      "lineHeight": 34
     },
     "default-heading4": {
-      "fontSize": 24,
-      "lineHeight": 28
+      "fontSize": 26,
+      "lineHeight": 28,
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 500
+            }
+          ],
+          "fontSize": 24,
+          "lineHeight": 26
+        }
+      ]
     },
     "default-heading5": {
-      "fontSize": 22,
-      "lineHeight": 24
+      "fontSize": 19,
+      "lineHeight": 21
     },
     "default-heading6": {
-      "fontSize": 18,
-      "lineHeight": 20
+      "fontSize": 17,
+      "lineHeight": 19
     },
     "default-intro": {
       "fontName": "Avenir-Book",
-      "fontSize": 18,
-      "lineHeight": 20
+      "fontSize": 20,
+      "lineHeight": 24
     },
     "default-photographer": {
       "//": "UNUSED"
     },
     "default-pullquote": {
-      "fontSize": 30,
-      "lineHeight": 33
+      "fontSize": 44,
+      "lineHeight": 44,
+      "textAlignment": "center"
     },
     "default-title": {
-      "fontSize": 60,
-      "lineHeight": 66
+      "fontSize": 66,
+      "lineHeight": 59
     },
     "floatImageCaptionTextStyle": {
-      "fontName": "AvenirNext-Medium",
-      "textAlignment": "left"
+      "fontName": "Gotham-BookItalic",
+      "tracking": 0.02
     },
     "heading2CenteredTextStyle": {
       "fontName": "AvenirNext-Bold",
       "textAlignment": "center"
     },
     "heading2TextStyle": {
-      "fontName": "AvenirNext-Bold",
-      "tracking": -0.02
+      "fontName": "ChronicleDisplay-Bold",
+      "tracking": 0.03,
+      "textTransform": "uppercase"
     },
     "heading3CenteredTextStyle": {
       "fontName": "AvenirNext-Bold",
@@ -914,32 +1008,37 @@
       "tracking": -0.05
     },
     "heading3TextStyle": {
-      "fontName": "AvenirNext-Bold",
-      "textTransform": "uppercase",
-      "tracking": -0.05
+      "fontName": "Gotham-Bold",
+      "tracking": 0.03,
+      "textTransform": "uppercase"
     },
     "heading4CenteredTextStyle": {
       "textAlignment": "center"
     },
     "heading4TextStyle": {
-      "fontName": "AvenirNext-Bold",
-      "tracking": -0.01
+      "fontName": "ChronicleDisplay-Bold",
+      "tracking": 0.03,
+      "textTransform": "uppercase"
     },
     "heading5CenteredTextStyle": {
+      "fontName": "GothamNarrow-Bold",
+      "textTransform": "uppercase",
       "textAlignment": "center"
     },
     "heading5TextStyle": {
-      "fontName": "Georgia-BoldItalic"
+      "fontName": "GothamNarrow-Bold",
+      "textTransform": "uppercase"
     },
     "heading6CenteredTextStyle": {
       "textAlignment": "center"
     },
     "heading6TextStyle": {
-      "fontName": "AvenirNext-Bold",
-      "tracking": 0.05
+      "fontName": "GothamNarrow-Bold",
+      "textTransform": "uppercase"
     },
     "introTextStyle": {
-      "fontName": "Georgia-Italic",
+      "fontName": "Gotham-Book",
+      "tracking": 0.03,
       "textAlignment": "center"
     },
     "listTextStyle": {
@@ -947,15 +1046,29 @@
       "lineHeight": 21
     },
     "pullQuoteTextStyle": {
-      "fontName": "Georgia",
-      "textAlignment": "center"
+      "fontName": "ChronicleDisplay-Bold",
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "fontSize": 25,
+      "lineHeight": 35,
+      "tracking": 0.03
     },
     "sectionTextStyle": {
-      "fontName": "AvenirNext-Regular",
-      "fontSize": 14,
-      "lineHeight": 16,
-      "textTransform": "uppercase",
-      "tracking": 0.05
+      "fontName": "ChronicleDisplay-Semi",
+      "fontSize": 20,
+      "lineHeight": 20,
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 415
+            }
+          ],
+          "lineHeight": 32
+        }
+      ],
+      "tracking": 0.02,
+      "textAlignment": "center"
     },
     "sidebarBodyCenteredTextStyle": {
       "fontName": "AvenirNext-Medium",
@@ -965,10 +1078,7 @@
       "tracking": 0.02
     },
     "sidebarBodyTextStyle": {
-      "fontName": "AvenirNext-Medium",
-      "fontSize": 18,
-      "lineHeight": 26,
-      "tracking": 0.02
+      "fontName": "Gotham-Book"
     },
     "sidebarHeading2CenteredTextStyle": {
       "fontName": "Georgia-Bold",
@@ -977,9 +1087,12 @@
       "textAlignment": "center"
     },
     "sidebarHeading2TextStyle": {
-      "fontName": "Georgia-Bold",
-      "fontSize": 45,
-      "lineHeight": 50
+      "fontName": "ChronicleDisplay-Bold",
+      "tracking": 0.03,
+      "textColor": "#009A5A",
+      "textTransform": "uppercase",
+      "fontSize": 32,
+      "lineHeight": 38
     },
     "sidebarHeading3CenteredTextStyle": {
       "fontName": "AvenirNext-Bold",
@@ -990,17 +1103,17 @@
       "tracking": -0.05
     },
     "sidebarHeading3TextStyle": {
-      "fontName": "AvenirNext-Bold",
-      "fontSize": 24,
-      "lineHeight": 28,
-      "textTransform": "uppercase",
-      "tracking": -0.05
+      "fontName": "Gotham-Bold",
+      "tracking": 0.03,
+      "fontSize": 28,
+      "lineHeight": 30,
+      "textTransform": "uppercase"
     },
     "sidebarHeading4TextStyle": {
-      "fontName": "AvenirNext-Bold",
+      "fontName": "Gotham-Bold",
+      "tracking": 0.03,
       "fontSize": 24,
-      "lineHeight": 28,
-      "tracking": -0.01
+      "lineHeight": 26
     },
     "sidebarHeadingCentered4TextStyle": {
       "fontName": "AvenirNext-Bold",
@@ -1009,14 +1122,10 @@
       "textAlignment": "center"
     },
     "sidebarIntroTextStyle": {
-      "fontName": "Georgia-Italic",
-      "fontSize": 20,
-      "lineHeight": 26
+      "fontName": "Gotham-Medium"
     },
     "straplineTextStyle": {
-      "fontName": "AvenirNext-Bold",
-      "textAlignment": "center",
-      "textTransform": "uppercase",
+      "fontName": "Gotham-Ultra",
       "tracking": 0.15
     },
     "subsectionIntroTextStyle": {
@@ -1026,7 +1135,9 @@
       "textAlignment": "left"
     },
     "titleTextStyle": {
-      "fontName": "AvenirNext-Bold",
+      "fontName": "ChronicleDisplay-Bold",
+      "tracking": 0.03,
+      "textTransform": "uppercase",
       "textAlignment": "center"
     },
     "tocTextStyle": {
@@ -1037,6 +1148,24 @@
       },
       "textAlignment": "center",
       "textColor": "#000"
+    },
+    "savedTextStyle": {
+      "fontName": "GothamNarrow-Book",
+      "fontSize": 16,
+      "lineHeight": 18,
+      "textTransform": "uppercase"
+    },
+    "ingredientsTextStyle": {
+      "fontName": "GothamNarrow-Book",
+      "lineHeight": 24
+    },
+    "recipeDetailsTextStyle": {
+      "fontName": "GothamNarrow-Book",
+      "fontSize": 14,
+      "lineHeight": 16
+    },
+    "reviewsTextStyle": {
+      "fontName": "GothamNarrow-Black"
     }
   }
 }

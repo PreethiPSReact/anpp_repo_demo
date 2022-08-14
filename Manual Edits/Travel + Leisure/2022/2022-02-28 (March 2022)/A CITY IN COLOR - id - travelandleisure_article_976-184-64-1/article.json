@@ -1,0 +1,1402 @@
+{
+  "version": "1.9",
+  "identifier": "coastalliving_article_889-125-12-1",
+  "title": "Sitting Pretty",
+  "language": "en",
+  "layout": {
+    "columns": 23,
+    "gutter": 20,
+    "margin": 62,
+    "width": 1024
+  },
+  "subtitle": "No matter where you choose to lounge this summer, here are five combos for matching your beach chair and your bathing suit",
+  "metadata": {
+    "authors": [
+      "By Jessica Thuston"
+    ],
+    "dateCreated": "2022-05-20T16:37:03.449Z",
+    "dateModified": "2022-05-18T20:18:03+00:00",
+    "excerpt": "■",
+    "generatorName": "ANTE Generic Template",
+    "generatorVersion": "0.0.4.32-2022-04-15 19:20",
+    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/bpc-g-lau-s_126/129638-1-eng-GB/bpc-g-lau-s_1262.png?q=100"
+  },
+  "documentStyle": {
+    "backgroundColor": "#eee"
+  },
+  "components": [
+    {
+      "role": "container",
+      "layout": {
+        "conditional": [
+          {
+            "conditions": [
+              {
+                "platform": "ios"
+              }
+            ],
+            "ignoreViewportPadding": true
+          },
+          {
+            "conditions": [
+              {
+                "maxViewportWidth": 1366,
+                "minViewportWidth": 1112
+              }
+            ],
+            "ignoreDocumentMargin": "none",
+            "ignoreViewportPadding": "none"
+          }
+        ],
+        "ignoreDocumentMargin": true
+      },
+      "style": {
+        "backgroundColor": "#fff"
+      },
+      "components": [
+        {
+          "//": "==== DEFAULT HEADER: SECTION ===",
+          "role": "heading",
+          "layout": "sectionLayout",
+          "textStyle": "sectionTextStyle",
+          "format": "html",
+          "text": "Currents | <subsection>Market Report</subsection>"
+        },
+        {
+          "//": "==== DEFAULT HEADER: TITLE ===",
+          "role": "title",
+          "layout": "titleLayout",
+          "textStyle": "titleTextStyle",
+          "format": "html",
+          "text": "Sitting Pretty"
+        },
+        {
+          "//": "==== DEFAULT HEADER: INTRO ===",
+          "role": "intro",
+          "layout": "introLayout",
+          "textStyle": "introTextStyle",
+          "format": "html",
+          "text": "No matter where you choose to lounge this summer, here are five combos for matching your beach chair and your bathing suit"
+        },
+        {
+          "role": "author",
+          "layout": "authorLayout",
+          "textStyle": "authorTextStyle",
+          "format": "html",
+          "text": "By Jessica Thuston"
+        },
+        {
+          "role": "heading2",
+          "layout": "heading2Layout",
+          "textStyle": "heading2TextStyle",
+          "format": "html",
+          "text": "ROMANTIC SAINT-TROPEZ"
+        },
+        {
+          "//": "======== HERO IMAGE CONTAINER =======",
+          "role": "container",
+          "layout": "singleBlockContainerLayout",
+          "components": [
+            {
+              "//": "======== HERO IMAGE - H1435.0/W1367.0 * 100 = 104.9743965 ========",
+              "role": "image",
+              "layout": {
+                "maximumContentWidth": "70cw"
+              },
+              "caption": {
+                "format": "html",
+                "text": "<bold>Romantic Saint-Tropez</bold><br><bold>CHAIR Business &amp; Pleasure The Sling Chair</bold> in Lauren’s Navy Stripe, $249.",
+                "textStyle": "captionEmbeddedTextStyle"
+              },
+              "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/bpc-g-lau-s_126/129638-1-eng-GB/bpc-g-lau-s_1262.png?q=100"
+            },
+            {
+              "role": "caption",
+              "layout": "captionLayout",
+              "textStyle": "captionTextStyle",
+              "format": "html",
+              "text": "<caption-heading>Chair</caption-heading><br><bold>Business & Pleasure The Sling Chair</bold> in Lauren’s Navy Stripe, $249 <a href=\"http://businessandpleasureco.com\">businessandpleasureco.com</a>"
+            }
+          ]
+        },
+        {
+          "//": "======== BODY CONTAINER =======",
+          "role": "container",
+          "layout": "bodyContainerLayout",
+          "components": [
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1722.0/W1367.0 * 100 = 125.9692758 ========",
+                  "role": "image",
+                  "layout": {
+                    "maximumContentWidth": "70cw"
+                  },
+                  "caption": {
+                    "format": "html",
+                    "text": "<bold>SUIT Vineyard Vines Anegada Floral Ruffle Bikini Top,</bold><br>$78, and <bold>High-Waisted Bikini Bottom,</bold> $75.",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/oceanreefbo_121/129645-1-eng-GB/oceanreefbo_1212.png?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Suit</caption-heading><br><bold>Vineyard Vines Anegada Floral Ruffle Bikini Top,</bold> $78, and <bold>High-Waisted Bikini Bottom,</bold> $75 <a href=\"http://tnuck.com\">tnuck.com</a>"
+                }
+              ]
+            },
+            {
+              "role": "container",
+              "layout": "dividerStandardLayout",
+              "style": "dividerStandardStyle"
+            },
+            {
+              "role": "heading2",
+              "layout": "heading2Layout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "WEST COAST SURF"
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1398.0/W1367.0 * 100 = 102.2677396 ========",
+                  "role": "image",
+                  "layout": {
+                    "maximumContentWidth": "70cw"
+                  },
+                  "caption": {
+                    "format": "html",
+                    "text": "<bold>West Coast Surf</bold><br><bold>CHAIR PARKIT Voyager Chair</bold> in Slate, $225.",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/parkit-003__128/129631-1-eng-GB/parkit-003__1282.png?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Chair</caption-heading><br><bold>PARKIT Voyager Chair</bold> in Slate, $225 <a href=\"http://parkitmovement.com\">parkitmovement.com</a>"
+                }
+              ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H2005.0/W1367.0 * 100 = 146.6715435 ========",
+                  "role": "image",
+                  "layout": {
+                    "maximumContentWidth": "60cw"
+                  },
+                  "caption": {
+                    "format": "html",
+                    "text": "<bold>SUIT Trina Turk Breeze Paddle Suit,</bold><br>$172.",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/trinaturk_b_131/129624-1-eng-GB/trinaturk_b_1312.png?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Suit</caption-heading><br><bold>Trina Turk Breeze Paddle Suit,</bold> $172 <a href=\"http://trinaturk.com\">trinaturk.com</a>"
+                }
+              ]
+            },
+            {
+              "role": "container",
+              "layout": "dividerStandardLayout",
+              "style": "dividerStandardStyle"
+            },
+            {
+              "role": "heading2",
+              "layout": "heading2Layout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "CARIBBEAN COOL"
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1397.0/W1367.0 * 100 = 102.1945867 ========",
+                  "role": "image",
+                  "layout": {
+                    "maximumContentWidth": "70cw"
+                  },
+                  "caption": {
+                    "format": "html",
+                    "text": "<bold>Caribbean Cool</bold><br><bold>CHAIR Serena &amp; Lily Palisades Outdoor Chair</bold> in Driftwood, $498.",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/serenalilyp_129/129617-1-eng-GB/serenalilyp_1292.png?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Chair</caption-heading><br><bold>Serena &amp; Lily Palisades Outdoor Chair</bold> in Driftwood, $498 <a href=\"http://serenaandlily.com\">serenaandlily.com</a>"
+                }
+              ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H2310.0/W1367.0 * 100 = 168.9831748 ========",
+                  "role": "image",
+                  "layout": {
+                    "maximumContentWidth": "50cw"
+                  },
+                  "caption": {
+                    "format": "html",
+                    "text": "<bold>SUIT Summersalt The Ruffle Backflip Suit</bold><br>In Hibiscus &amp; Tangerine, $95.",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/theruffleba_130/129610-1-eng-GB/theruffleba_1302.png?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Suit</caption-heading><br><bold>Summersalt The Ruffle Backflip Suit </bold>in Hibiscus &amp; Tangerine, $95 <a href=\"http://summersalt.com\">summersalt.com</a>"
+                }
+              ]
+            },
+            {
+              "role": "container",
+              "layout": "dividerStandardLayout",
+              "style": "dividerStandardStyle"
+            },
+            {
+              "role": "heading2",
+              "layout": "heading2Layout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "FLORIDA’S WHITE SANDS"
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1635.0/W1367.0 * 100 = 119.6049744 ========",
+                  "role": "image",
+                  "layout": {
+                    "maximumContentWidth": "70cw"
+                  },
+                  "caption": {
+                    "format": "html",
+                    "text": "<bold>Florida’s White Sands</bold><br><bold>CHAIR L.L.Bean Backpack Beach Chair</bold> in Ocean Blue, $89.",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/aa225429_pr_125/129603-1-eng-GB/aa225429_pr_1252.png?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Chair</caption-heading><br><bold>L.L.Bean Backpack Beach Chair</bold> in Ocean Blue, $89 <a href=\"http://llbean.com\">llbean.com</a>"
+                }
+              ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H2158.0/W1367.0 * 100 = 157.8639356 ========",
+                  "role": "image",
+                  "layout": {
+                    "maximumContentWidth": "60cw"
+                  },
+                  "caption": {
+                    "format": "html",
+                    "text": "<bold>SUIT Southern Tide Tie One Shoulder One Piece Swimsuit</bold><br>In Ocean Channel, $105.",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/8934_ocean__124/129596-1-eng-GB/8934_ocean__1242.png?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Suit</caption-heading><br><bold>Southern Tide Tie One Shoulder One Piece Swimsuit</bold> in Ocean Channel, $105 <a href=\"http://southerntide.com\">southerntide.com</a>"
+                }
+              ]
+            },
+            {
+              "role": "container",
+              "layout": "dividerStandardLayout",
+              "style": "dividerStandardStyle"
+            },
+            {
+              "role": "heading2",
+              "layout": "heading2Layout",
+              "textStyle": "heading2TextStyle",
+              "format": "html",
+              "text": "ALL-AMERICAN NANTUCKET"
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1832.0/W1367.0 * 100 = 134.0160936 ========",
+                  "role": "image",
+                  "layout": {
+                    "maximumContentWidth": "70cw"
+                  },
+                  "caption": {
+                    "format": "html",
+                    "text": "<bold>All-American Nantucket</bold><br><bold>CHAIR LowTides Dune High Beach Chair</bold> in Laura Ashley Sweet Alyssum, $169.",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/dune-laura__127/129582-1-eng-GB/dune-laura__1272.png?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Chair</caption-heading><br><bold>LowTides Dune High Beach Chair</bold> in Laura Ashley Sweet Alyssum, $169 <a href=\"http://lowtidesop.com\">lowtidesop.com</a>"
+                }
+              ]
+            },
+            {
+              "//": "======== FULL BLEED CONTAINER ========",
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "components": [
+                {
+                  "//": "======== IMAGE BLEED - H1505.0/W1366.0 * 100 = 110.1756955 ========",
+                  "role": "image",
+                  "layout": {
+                    "maximumContentWidth": "70cw"
+                  },
+                  "caption": {
+                    "format": "html",
+                    "text": "<bold>SUIT Marysia East River Top,</bold><br> $151, and <bold>Broadway Bottom,</bold> $148; <br><span data-anf-textstyle=\"creditTextStyle\">PRODUCTS COURTESY MANUFACTURERS</span>",
+                    "textStyle": "captionEmbeddedTextStyle"
+                  },
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/p012-bzo102397-red-swim-suit/131358-1-eng-GB/p012-bzo102397-red-swim-suit.png?q=100"
+                },
+                {
+                  "role": "caption",
+                  "layout": "captionLayout",
+                  "textStyle": "captionTextStyle",
+                  "format": "html",
+                  "text": "<caption-heading>Suit</caption-heading><br><bold>Marysia East River Top,</bold> $151, and <bold>Broadway Bottom,</bold> $148 <a href=\"http://marysia.com\">marysia.com</a>"
+                }
+              ]
+            },
+            {
+              "role": "body",
+              "layout": "attributeLayout",
+              "style": "attributeStyle",
+              "textStyle": "attributeTextStyle",
+              "format": "html",
+              "text": "PRODUCTS COURTESY MANUFACTURERS"
+            }
+          ]
+        },
+        {
+          "role": "container",
+          "layout": "bodyContainerLayout",
+          "conditional": [
+            {
+              "conditions": [
+                {
+                  "viewLocation": "article"
+                }
+              ],
+              "hidden": false
+            }
+          ],
+          "hidden": true,
+          "components": [
+            {
+              "role": "container",
+              "layout": "dividerLayout",
+              "style": "dividerSectionHeadStyle"
+            },
+            {
+              "//": "=== VISIT TOC LINK, ONLY VISIBLE IF USER IS IN ARTICLE VIEW ===",
+              "role": "body",
+              "layout": "bodyLayout",
+              "textStyle": "tocTextStyle",
+              "format": "html",
+              "text": "<a href='https://apple.news/Atu42odFLEeyNtj96zSKRvQ'>Tap here</a> to see more from this issue of <i>Coastal Living</i>"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "componentLayouts": {
+    "attributeLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": 15
+    },
+    "authorLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 5
+      }
+    },
+    "blockContainerLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "bodyContainerLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": 10
+    },
+    "bodyLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 10,
+        "top": 2
+      }
+    },
+    "bodySmallMarginAboveLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 10,
+        "top": 10
+      }
+    },
+    "bottomPhotoDividerLayout": {
+      "//": "UNUSED"
+    },
+    "calloutBodyLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 5
+      }
+    },
+    "calloutHeadingLayout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "calloutLayout": {
+      "columnSpan": 16,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "padding": {
+        "bottom": 10,
+        "left": 20,
+        "right": 20,
+        "top": 10
+      }
+    },
+    "captionAdLayout": {
+      "//": "UNUSED"
+    },
+    "captionLayout": {
+      "margin": 8
+    },
+    "collectionLayout": {
+      "columnSpan": 18,
+      "columnStart": 1,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "darkModePaddingLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "padding": 10
+        }
+      ]
+    },
+    "dividerCollectionLayout": {
+      "//": "UNUSED"
+    },
+    "dividerLayout": {
+      "margin": {
+        "bottom": 20,
+        "top": 10
+      }
+    },
+    "dividerStandardLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "minimumHeight": 1
+    },
+    "dividerTocLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 15,
+        "top": 20
+      },
+      "minimumHeight": 10
+    },
+    "floatContainerLayout": {
+      "columnSpan": 4,
+      "columnStart": 1,
+      "conditional": [
+        {
+          "columnSpan": 4,
+          "columnStart": 0,
+          "conditions": [
+            {
+              "maxViewportWidth": 415
+            }
+          ]
+        }
+      ]
+    },
+    "fullBleedContainerLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "fullBleedDividerLayout": {
+      "//": "UNUSED"
+    },
+    "fullBleedLayout": {
+      "ignoreDocumentMargin": true
+    },
+    "fullBleedPhotoLayout": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 700
+            }
+          ],
+          "ignoreDocumentMargin": false
+        }
+      ],
+      "ignoreDocumentMargin": true
+    },
+    "galleryPhotoLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "heading2Layout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading3Layout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading4Layout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading5Layout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading6Layout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heroImageLayout": {
+      "ignoreDocumentMargin": true,
+      "margin": {
+        "bottom": 10,
+        "top": 15
+      }
+    },
+    "heroImageTallLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 10,
+        "top": 15
+      }
+    },
+    "ingredientsLayout": {
+      "margin": 10
+    },
+    "ingredientsNoMarginAboveLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 0
+      }
+    },
+    "introLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 10
+      }
+    },
+    "noMarginLayout": {
+      "columnSpan": 19,
+      "columnStart": 2
+    },
+    "productImageStandardLayout": {
+      "minimumHeight": 280
+    },
+    "pullQuoteBodyLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 0,
+        "top": 5
+      }
+    },
+    "pullQuoteLayout": {
+      "columnSpan": 20,
+      "columnStart": 0,
+      "margin": {
+        "bottom": 15,
+        "top": 15
+      }
+    },
+    "sectionLayout": {
+      "margin": {
+        "bottom": "20",
+        "top": 5
+      }
+    },
+    "sidebarBodyLayout": {
+      "margin": {
+        "bottom": 10
+      }
+    },
+    "sidebarDividerLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "minimumHeight": 1
+    },
+    "sidebarFloatContainerLayout": {
+      "columnSpan": 4,
+      "columnStart": 0
+    },
+    "sidebarHeading2Layout": {
+      "margin": {
+        "top": 20
+      }
+    },
+    "sidebarHeading3Layout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "sidebarHeading4Layout": {
+      "margin": {
+        "top": 10
+      }
+    },
+    "sidebarIntroLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 5
+      }
+    },
+    "sidebarLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": 20,
+      "padding": {
+        "bottom": 10,
+        "left": 20,
+        "right": 20
+      }
+    },
+    "sidebarSingleBlockContainerLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "sidebarSmallMarginAboveLayout": {
+      "margin": {
+        "top": 2
+      }
+    },
+    "singleBlockContainerLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "smallMarginAboveLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "top": 2
+      }
+    },
+    "smallSpacerLayout": {
+      "maximumWidth": 5,
+      "minimumWidth": 5
+    },
+    "spacerLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "starsImageLayout": {
+      "margin": {
+        "top": 2
+      },
+      "maximumWidth": 100
+    },
+    "straplineLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "top": 10
+      }
+    },
+    "titleLayout": {
+      "columnSpan": 19,
+      "columnStart": 2,
+      "margin": {
+        "top": 5
+      }
+    },
+    "topPhotoDividerLayout": {
+      "//": "UNUSED"
+    },
+    "youSaidContainerLayout": {
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "youSaidImageLayout": {
+      "horizontalContentAlignment": "center",
+      "margin": {
+        "bottom": 10
+      }
+    }
+  },
+  "componentStyles": {
+    "attributeStyle": {
+      "//": "UNUSED"
+    },
+    "authorStyle": {
+      "//": "UNUSED"
+    },
+    "bodyContainerStyle": {
+      "//": "UNUSED"
+    },
+    "calloutStyle": {
+      "border": {
+        "all": {
+          "color": "#009A5A",
+          "width": 4
+        }
+      },
+      "conditional": [
+        {
+          "border": {
+            "all": {
+              "color": "#009A5A",
+              "width": 4
+            }
+          },
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "captionAdStyle": {
+      "//": "UNUSED"
+    },
+    "darkModeBackgroundStyle": {
+      "conditional": [
+        {
+          "backgroundColor": "#FFF",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "dividerSectionHeadStyle": {
+      "border": {
+        "all": {
+          "color": "#ececec",
+          "width": 1
+        },
+        "bottom": true,
+        "left": false,
+        "right": false,
+        "top": true
+      },
+      "conditional": [
+        {
+          "border": {
+            "all": {
+              "color": "#666666",
+              "width": 1
+            },
+            "bottom": true,
+            "left": false,
+            "right": false,
+            "top": true
+          },
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "dividerStandardStyle": {
+      "backgroundColor": "#000"
+    },
+    "dividerTocStyle": {
+      "//": "UNUSED"
+    },
+    "fullBleedContainerStyle": {
+      "//": "UNUSED"
+    },
+    "heading2Style": {
+      "//": "UNUSED"
+    },
+    "heading3Style": {
+      "//": "UNUSED"
+    },
+    "heading4Style": {
+      "//": "UNUSED"
+    },
+    "heading5Style": {
+      "//": "UNUSED"
+    },
+    "heading6Style": {
+      "//": "UNUSED"
+    },
+    "ingredientsStyle": {
+      "tableStyle": {
+        "cells": {
+          "conditional": [
+            {
+              "horizontalAlignment": "right",
+              "padding": {
+                "right": 5
+              },
+              "selectors": [
+                {
+                  "columnIndex": 0
+                }
+              ],
+              "width": 10
+            },
+            {
+              "horizontalAlignment": "left",
+              "padding": {
+                "left": 5
+              },
+              "selectors": [
+                {
+                  "columnIndex": 1
+                }
+              ],
+              "width": 75
+            }
+          ],
+          "textStyle": "ingredientsTextStyle",
+          "verticalAlignment": "top"
+        },
+        "columns": {
+          "conditional": [
+            {
+              "selectors": [
+                {
+                  "columnIndex": 0
+                }
+              ],
+              "width": 10
+            },
+            {
+              "selectors": [
+                {
+                  "columnIndex": 1
+                }
+              ],
+              "width": 45
+            }
+          ]
+        }
+      }
+    },
+    "introStyle": {
+      "//": "UNUSED"
+    },
+    "paragraphDropCapStyle": {
+      "//": "UNUSED"
+    },
+    "paragraphStyle": {
+      "//": "UNUSED"
+    },
+    "photoContainerStyle": {
+      "//": "UNUSED"
+    },
+    "pullQuoteStyle": {
+      "//": "UNUSED"
+    },
+    "sectionStyle": {
+      "//": "UNUSED"
+    },
+    "sidebarNoBackgroundStyle": {
+      "border": {
+        "all": {
+          "color": "#000",
+          "width": 2
+        }
+      }
+    },
+    "sidebarStyle": {
+      "backgroundColor": "#f2f2f2"
+    },
+    "straplineStyle": {
+      "//": "UNUSED"
+    },
+    "titleStyle": {
+      "//": "UNUSED"
+    },
+    "youSaidImageStyle": {
+      "backgroundColor": "#008080",
+      "mask": {
+        "radius": "60cw",
+        "type": "corners"
+      }
+    }
+  },
+  "textStyles": {
+    "creditTextStyle": {
+      "fontName": "Gotham-Book",
+      "fontSize": 10,
+      "textColor": "#8d8d8d",
+      "tracking": 0.05
+    },
+    "default-tag-bold": {
+      "fontName": "Gotham-Medium"
+    },
+    "default-tag-caption-heading": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "textColor": "#9891CB"
+        }
+      ],
+      "fontName": "Gotham-Medium",
+      "fontSize": 16,
+      "textColor": "#9891CB"
+    },
+    "default-tag-emoji": {
+      "fontName": "AppleColorEmoji"
+    },
+    "default-tag-lede": {
+      "fontName": "GothamNarrow-Bold",
+      "tracking": 0.02
+    },
+    "default-tag-pullquote-attribution": {
+      "fontName": "ChronicleDisplay-Roman",
+      "fontSize": 16,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.05
+    },
+    "default-tag-sidebar-lede": {
+      "fontName": "Gotham-Bold",
+      "textDecoration": "uppercase"
+    },
+    "default-tag-subsection": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ],
+          "textColor": "#9A94C9"
+        }
+      ],
+      "fontName": "Gotham-Medium",
+      "fontSize": 16,
+      "textColor": "#9A94C9",
+      "textTransform": "uppercase",
+      "tracking": 0.1
+    },
+    "endMarkerTextStyle": {
+      "//": "UNUSED"
+    },
+    "subSectionTextStyle": {
+      "//": "UNUSED"
+    }
+  },
+  "componentTextStyles": {
+    "//": {
+      "//": "================ ALL RECIPES OVERRIDES ================"
+    },
+    "attributeTextStyle": {
+      "fontName": "GothamNarrow-Book",
+      "fontSize": 10,
+      "lineHeight": 12,
+      "textTransform": "uppercase",
+      "tracking": 0.05
+    },
+    "authorTextStyle": {
+      "fontName": "ChronicleDisplay-Bold",
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.1
+    },
+    "bodyCenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "bodyDropCapTextStyle": {
+      "dropCapStyle": {
+        "fontName": "ChronicleDisplay-Light",
+        "numberOfCharacters": 1,
+        "numberOfLines": 5,
+        "numberOfRaisedLines": 0,
+        "padding": 5,
+        "textColor": "#000f"
+      },
+      "fontName": "ChronicleDisplay-Roman"
+    },
+    "bodyTextStyle": {
+      "tracking": 0.02
+    },
+    "calloutBodyTextStyle": {
+      "fontName": "Gotham-Book",
+      "fontSize": 15,
+      "lineHeight": 19,
+      "textAlignment": "center"
+    },
+    "calloutHeadingTextStyle": {
+      "fontName": "ChronicleDisplay-Bold",
+      "fontSize": 28,
+      "lineHeight": 30,
+      "textAlignment": "center"
+    },
+    "captionAdTextStyle": {
+      "//": "UNUSED"
+    },
+    "captionCenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "captionEmbeddedTextStyle": {
+      "fontName": "HelveticaNeue",
+      "lineHeight": 16
+    },
+    "captionTextStyle": {
+      "fontName": "Gotham-Book",
+      "tracking": 0.02
+    },
+    "default": {
+      "fontName": "ChronicleDisplay-Roman",
+      "hyphenation": false,
+      "linkStyle": {
+        "fontName": "ChronicleDisplay-Bold",
+        "textColor": "#000",
+        "underline": true
+      },
+      "textColor": "#000"
+    },
+    "default-author": {
+      "fontName": "Avenir-Book",
+      "fontSize": 14,
+      "lineHeight": 16
+    },
+    "default-body": {
+      "fontSize": 16,
+      "lineHeight": 20,
+      "paragraphSpacingAfter": 12,
+      "paragraphSpacingBefore": 12
+    },
+    "default-byline": {
+      "//": "UNUSED"
+    },
+    "default-caption": {
+      "fontName": "Avenir-Book",
+      "fontSize": 14,
+      "lineHeight": 16
+    },
+    "default-heading": {
+      "fontSize": 16,
+      "lineHeight": 16
+    },
+    "default-heading2": {
+      "fontSize": 32,
+      "lineHeight": 34
+    },
+    "default-heading3": {
+      "fontSize": 32,
+      "lineHeight": 34
+    },
+    "default-heading4": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 500
+            }
+          ],
+          "fontSize": 24,
+          "lineHeight": 26
+        }
+      ],
+      "fontSize": 26,
+      "lineHeight": 28
+    },
+    "default-heading5": {
+      "fontSize": 19,
+      "lineHeight": 21
+    },
+    "default-heading6": {
+      "fontSize": 17,
+      "lineHeight": 19
+    },
+    "default-intro": {
+      "fontName": "Avenir-Book",
+      "fontSize": 20,
+      "lineHeight": 24
+    },
+    "default-photographer": {
+      "//": "UNUSED"
+    },
+    "default-pullquote": {
+      "fontSize": 44,
+      "lineHeight": 44,
+      "textAlignment": "center"
+    },
+    "default-title": {
+      "fontSize": 66,
+      "lineHeight": 59
+    },
+    "floatImageCaptionTextStyle": {
+      "fontName": "Gotham-BookItalic",
+      "tracking": 0.02
+    },
+    "heading2CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading2TextStyle": {
+      "fontName": "ChronicleDisplay-Bold",
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.03
+    },
+    "heading3CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading3TextStyle": {
+      "fontName": "Gotham-Bold",
+      "textTransform": "uppercase",
+      "tracking": 0.03
+    },
+    "heading4CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading4TextStyle": {
+      "fontName": "ChronicleDisplay-Bold",
+      "textTransform": "uppercase",
+      "tracking": 0.03
+    },
+    "heading5CenteredTextStyle": {
+      "fontName": "GothamNarrow-Bold",
+      "textAlignment": "center",
+      "textTransform": "uppercase"
+    },
+    "heading5TextStyle": {
+      "fontName": "GothamNarrow-Bold",
+      "textTransform": "uppercase"
+    },
+    "heading6CenteredTextStyle": {
+      "textAlignment": "center"
+    },
+    "heading6TextStyle": {
+      "fontName": "GothamNarrow-Bold",
+      "textTransform": "uppercase"
+    },
+    "ingredientsTextStyle": {
+      "fontName": "GothamNarrow-Book",
+      "lineHeight": 24
+    },
+    "introTextStyle": {
+      "fontName": "Gotham-Book",
+      "textAlignment": "center",
+      "tracking": 0.03
+    },
+    "pullQuoteTextStyle": {
+      "fontName": "ChronicleDisplay-Bold",
+      "fontSize": 25,
+      "lineHeight": 35,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.03
+    },
+    "recipeDetailsTextStyle": {
+      "fontName": "GothamNarrow-Book",
+      "fontSize": 14,
+      "lineHeight": 16
+    },
+    "reviewsTextStyle": {
+      "fontName": "GothamNarrow-Black"
+    },
+    "savedTextStyle": {
+      "fontName": "GothamNarrow-Book",
+      "fontSize": 16,
+      "lineHeight": 18,
+      "textTransform": "uppercase"
+    },
+    "sectionTextStyle": {
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 415
+            }
+          ],
+          "lineHeight": 32
+        }
+      ],
+      "fontName": "ChronicleDisplay-Semi",
+      "fontSize": 20,
+      "lineHeight": 20,
+      "textAlignment": "center",
+      "tracking": 0.02
+    },
+    "sidebarBodyTextStyle": {
+      "fontName": "Gotham-Book"
+    },
+    "sidebarHeading2TextStyle": {
+      "fontName": "ChronicleDisplay-Bold",
+      "fontSize": 32,
+      "lineHeight": 38,
+      "textColor": "#009A5A",
+      "textTransform": "uppercase",
+      "tracking": 0.03
+    },
+    "sidebarHeading3TextStyle": {
+      "fontName": "Gotham-Bold",
+      "fontSize": 28,
+      "lineHeight": 30,
+      "textTransform": "uppercase",
+      "tracking": 0.03
+    },
+    "sidebarHeading4TextStyle": {
+      "fontName": "Gotham-Bold",
+      "fontSize": 24,
+      "lineHeight": 26,
+      "tracking": 0.03
+    },
+    "sidebarIntroTextStyle": {
+      "fontName": "Gotham-Medium"
+    },
+    "straplineTextStyle": {
+      "fontName": "Gotham-Ultra",
+      "tracking": 0.15
+    },
+    "titleTextStyle": {
+      "fontName": "ChronicleDisplay-Bold",
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.03
+    },
+    "tocTextStyle": {
+      "fontName": "AvenirNextCondensed-Medium",
+      "fontSize": 16,
+      "linkStyle": {
+        "underline": true
+      },
+      "textAlignment": "center",
+      "textColor": "#000"
+    }
+  }
+}

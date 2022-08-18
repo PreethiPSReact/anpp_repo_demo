@@ -1,28 +1,43 @@
 {
   "version": "1.9",
-  "identifier": "coastalliving_article_889-125-12-1",
-  "title": "Sitting Pretty",
+  "identifier": "travelandleisure_article_976-194-162-1",
+  "title": "A PICTURE OF PROVENCE",
   "language": "en",
   "layout": {
-    "columns": 23,
+    "columns": 10000000,
     "gutter": 20,
-    "margin": 62,
+    "margin": 85,
     "width": 1024
   },
-  "subtitle": "No matter where you choose to lounge this summer, here are five combos for matching your beach chair and your bathing suit",
+  "subtitle": "In pursuit of the scenery that inspired van Gogh and Cézanne, Rachel Donadio and her mother, an art historian, road-trip through the storied towns of the French Riviera—and discover a cultural scene that’s more alive than ever.",
   "metadata": {
     "authors": [
-      "By Jessica Thuston"
+      "Anaïs Boileau"
     ],
-    "dateCreated": "2022-05-20T16:37:03.449Z",
-    "dateModified": "2022-05-18T20:18:03+00:00",
-    "excerpt": "■",
-    "generatorName": "ANTE Generic Template",
-    "generatorVersion": "0.0.4.32-2022-04-15 19:20",
-    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/bpc-g-lau-s_126/129638-1-eng-GB/bpc-g-lau-s_1262.png?q=100"
+    "dateCreated": "2022-07-11T15:26:24.747Z",
+    "dateModified": "2022-07-08T20:22:19+00:00",
+    "excerpt": "ON A PERFECT LATE-SUMMER evening, as I drive from the airport into Marseille, the sun is setting on one side of the sky and a full moon is rising on the other. Everything is enveloped by soft pink light, the kind you often find in areas colonized by the ancient Greeks. Few places make my heart beat faster than Mediterranean ports—cities of arrival and departure, where there’s always a sense of possibility in the air. In Marseille, one of Europe’s oldest shipping hubs, I feel immediately at home.",
+    "generatorName": "ANTE Travel + Leisure Template",
+    "generatorVersion": "0.0.4.33-2022-06-09 18:32",
+    "issue": {
+      "identifier": "August 1, 2022",
+      "tocByline": "Photographs by Anaïs Boileau"
+    },
+    "thumbnailURL": "https://cdn-assets.ziniopro.com/var/site_976/storage/images/media2/images/tal0822fap0_060/248687-1-eng-GB/tal0822fap0_0602.jpg?q=100"
   },
   "documentStyle": {
-    "backgroundColor": "#eee"
+    "backgroundColor": "#eee",
+    "conditional": [
+      {
+        "backgroundColor": "#eee",
+        "conditions": [
+          {
+            "minSpecVersion": "1.14",
+            "preferredColorScheme": "dark"
+          }
+        ]
+      }
+    ]
   },
   "components": [
     {
@@ -55,375 +70,1486 @@
       },
       "components": [
         {
-          "//": "==== DEFAULT HEADER: SECTION ===",
-          "role": "heading",
-          "layout": "sectionLayout",
-          "textStyle": "sectionTextStyle",
-          "format": "html",
-          "text": "Currents | <subsection>Market Report</subsection>"
-        },
-        {
-          "//": "==== DEFAULT HEADER: TITLE ===",
-          "role": "title",
-          "layout": "titleLayout",
-          "textStyle": "titleTextStyle",
-          "format": "html",
-          "text": "Sitting Pretty"
-        },
-        {
-          "//": "==== DEFAULT HEADER: INTRO ===",
-          "role": "intro",
-          "layout": "introLayout",
-          "textStyle": "introTextStyle",
-          "format": "html",
-          "text": "No matter where you choose to lounge this summer, here are five combos for matching your beach chair and your bathing suit"
-        },
-        {
-          "role": "author",
-          "layout": "authorLayout",
-          "textStyle": "authorTextStyle",
-          "format": "html",
-          "text": "By Jessica Thuston"
-        },
-        {
-          "role": "heading2",
-          "layout": "heading2Layout",
-          "textStyle": "heading2TextStyle",
-          "format": "html",
-          "text": "ROMANTIC SAINT-TROPEZ"
-        },
-        {
-          "//": "======== HERO IMAGE CONTAINER =======",
           "role": "container",
-          "layout": "singleBlockContainerLayout",
+          "layout": {
+            "columnSpan": 10,
+            "columnStart": 0,
+            "ignoreDocumentMargin": true,
+            "minimumHeight": "67vw"
+          },
+          "style": {
+            "fill": {
+              "fillMode": "fit",
+              "horizontalAlignment": "center",
+              "type": "image",
+              "URL": "https://public-assets.meredithcorp.io/3b5c31729f805c33827bf2fbabac916b/aa_text_background_01.png",
+              "verticalAlignment": "center"
+            }
+          },
           "components": [
             {
-              "//": "======== HERO IMAGE - H1435.0/W1367.0 * 100 = 104.9743965 ========",
-              "role": "image",
+              "//": "--------------ROW ONE----------------",
+              "role": "container",
               "layout": {
-                "maximumContentWidth": "70cw"
+                "columnSpan": 10,
+                "columnStart": 0,
+                "ignoreDocumentMargin": true
               },
-              "caption": {
-                "format": "html",
-                "text": "<bold>Romantic Saint-Tropez</bold><br><bold>CHAIR Business &amp; Pleasure The Sling Chair</bold> in Lauren’s Navy Stripe, $249.",
-                "textStyle": "captionEmbeddedTextStyle"
+              "contentDisplay": {
+                "type": "horizontal_stack"
               },
-              "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/bpc-g-lau-s_126/129638-1-eng-GB/bpc-g-lau-s_1262.png?q=100"
+              "components": [
+                {
+                  "role": "container",
+                  "layout": {
+                    "minimumWidth": "33cw"
+                  },
+                  "components": [
+                    {
+                      "role": "container",
+                      "layout": {
+                        "minimumHeight": "22vw",
+                        "padding": {
+                          "left": "16cw",
+                          "right": "42cw"
+                        }
+                      },
+                      "behavior": {
+                        "factor": 0.8,
+                        "type": "parallax"
+                      },
+                      "components": [
+                        {
+                          "role": "photo",
+                          "URL": "https://public-assets.meredithcorp.io/a2175532f98093c439b0fd9853a83a2c/aa_de_gras_01.jpg"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "role": "container",
+                  "layout": {
+                    "minimumWidth": "33cw"
+                  },
+                  "components": [
+                    {
+                      "role": "container",
+                      "layout": {
+                        "minimumHeight": "22vw",
+                        "padding": {
+                          "left": "10cw",
+                          "right": "15cw"
+                        }
+                      },
+                      "behavior": {
+                        "factor": 0.4,
+                        "type": "parallax"
+                      },
+                      "components": [
+                        {
+                          "role": "photo",
+                          "caption": {
+                            "format": "html",
+                            "text": "La Mirande, a hotel in Avignon.",
+                            "textStyle": "captionEmbeddedTextStyle"
+                          },
+                          "URL": "https://public-assets.meredithcorp.io/fd1f7ab73b6e0f8ced34d43830fad3bd/aa_la_mirande_01.jpg"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "role": "container",
+                  "layout": {
+                    "minimumWidth": "33cw"
+                  },
+                  "components": [
+                    {
+                      "role": "container",
+                      "layout": {
+                        "minimumHeight": "22vw",
+                        "padding": {
+                          "left": "42cw",
+                          "right": "0cw"
+                        }
+                      },
+                      "behavior": {
+                        "factor": 0.6,
+                        "type": "parallax"
+                      },
+                      "components": [
+                        {
+                          "role": "photo",
+                          "caption": {
+                            "format": "html",
+                            "text": "The tower staircase at LUMA Arles, designed by Frank Gehry.",
+                            "textStyle": "captionEmbeddedTextStyle"
+                          },
+                          "URL": "https://public-assets.meredithcorp.io/49e2d97e97848c9f61b79dce5a9ed1da/aa_staircase_01.jpg"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             },
             {
-              "role": "caption",
-              "layout": "captionLayout",
-              "textStyle": "captionTextStyle",
-              "format": "html",
-              "text": "<caption-heading>Chair</caption-heading><br><bold>Business & Pleasure The Sling Chair</bold> in Lauren’s Navy Stripe, $249 <a href=\"http://businessandpleasureco.com\">businessandpleasureco.com</a>"
+              "//": "--------------ROW TWO----------------",
+              "role": "container",
+              "layout": {
+                "columnSpan": 10,
+                "columnStart": 0,
+                "ignoreDocumentMargin": true
+              },
+              "contentDisplay": {
+                "type": "horizontal_stack"
+              },
+              "components": [
+                {
+                  "role": "container",
+                  "layout": {
+                    "minimumWidth": "33cw"
+                  },
+                  "components": [
+                    {
+                      "role": "container",
+                      "layout": {
+                        "minimumHeight": "22vw",
+                        "padding": {
+                          "left": "35cw",
+                          "right": "15cw"
+                        }
+                      },
+                      "behavior": {
+                        "factor": 0.75,
+                        "type": "parallax"
+                      },
+                      "components": [
+                        {
+                          "role": "photo",
+                          "caption": {
+                            "format": "html",
+                            "text": "An exhibition of work by Laura Owens at Fondation Vincent van Gogh, in Arles.",
+                            "textStyle": "captionEmbeddedTextStyle"
+                          },
+                          "URL": "https://public-assets.meredithcorp.io/1facca0e63c1b2e23908c7ba26105e0e/aa_owens_01.jpg"
+                        }
+                      ]
+                    },
+                    {
+                      "role": "container",
+                      "layout": {
+                        "minimumHeight": "23vw",
+                        "padding": {
+                          "left": 0,
+                          "right": "60cw"
+                        }
+                      },
+                      "behavior": {
+                        "factor": 1.3,
+                        "type": "parallax"
+                      },
+                      "components": [
+                        {
+                          "role": "photo",
+                          "anchor": {
+                            "targetAnchorPosition": "bottom"
+                          },
+                          "caption": {
+                            "format": "html",
+                            "text": "Grilled red mullet and pattypan squash at Hélène Darroze’s restaurant at Villa La Coste.",
+                            "textStyle": "captionEmbeddedTextStyle"
+                          },
+                          "URL": "https://public-assets.meredithcorp.io/8b1f217544391e675a63be518950bd58/aa_mullet_01.jpg"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "role": "container",
+                  "layout": {
+                    "minimumWidth": "33cw"
+                  },
+                  "components": [
+                    {
+                      "role": "container",
+                      "layout": {
+                        "minimumHeight": "46vw",
+                        "padding": {
+                          "left": "18cw",
+                          "right": "16cw"
+                        }
+                      },
+                      "behavior": {
+                        "factor": 0.7,
+                        "type": "parallax"
+                      },
+                      "components": [
+                        {
+                          "role": "photo",
+                          "anchor": {
+                            "targetAnchorPosition": "center"
+                          },
+                          "caption": {
+                            "format": "html",
+                            "text": "A cabin by Nathalie du Pasquier at Collection Lambert, in Avignon.",
+                            "textStyle": "captionEmbeddedTextStyle"
+                          },
+                          "URL": "https://public-assets.meredithcorp.io/2ef18cee33c2c8d0d90c1758465cdb06/aa_du_pasquier_01.jpg"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "role": "container",
+                  "layout": {
+                    "minimumWidth": "33cw"
+                  },
+                  "components": [
+                    {
+                      "role": "container",
+                      "layout": {
+                        "minimumHeight": "22vw",
+                        "padding": {
+                          "left": "26cw",
+                          "right": "24cw"
+                        }
+                      },
+                      "behavior": {
+                        "factor": 0.65,
+                        "type": "parallax"
+                      },
+                      "components": [
+                        {
+                          "role": "photo",
+                          "anchor": {
+                            "targetAnchorPosition": "center"
+                          },
+                          "caption": {
+                            "format": "html",
+                            "text": "Cypress trees at Villa La Coste, a resort in Aix-en-Provence.",
+                            "textStyle": "captionEmbeddedTextStyle"
+                          },
+                          "URL": "https://public-assets.meredithcorp.io/5cab789889f1853e31acf6e240e66c4f/aa_trees_01.jpg"
+                        }
+                      ]
+                    },
+                    {
+                      "role": "container",
+                      "layout": {
+                        "minimumHeight": "23vw",
+                        "padding": {
+                          "left": "35cw",
+                          "right": "9cw"
+                        }
+                      },
+                      "behavior": {
+                        "factor": 1.15,
+                        "type": "parallax"
+                      },
+                      "components": [
+                        {
+                          "role": "photo",
+                          "anchor": {
+                            "targetAnchorPosition": "bottom"
+                          },
+                          "caption": {
+                            "format": "html",
+                            "text": "Plage des Catalans, a beach in Marseille.",
+                            "textStyle": "captionEmbeddedTextStyle"
+                          },
+                          "URL": "https://public-assets.meredithcorp.io/d1d17d7361bc338fc91e271052127a6b/aa_water_01.jpg"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
         {
-          "//": "======== BODY CONTAINER =======",
+          "role": "caption",
+          "layout": "captionLayout",
+          "textStyle": "captionTextStyle",
+          "format": "html",
+          "text": "Tap images for captions"
+        },
+        {
           "role": "container",
-          "layout": "bodyContainerLayout",
+          "layout": {
+            "columnSpan": 10,
+            "columnStart": 0,
+            "ignoreDocumentMargin": true
+          },
           "components": [
             {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "singleBlockContainerLayout",
+              "role": "section",
+              "layout": {
+                "columnSpan": 10,
+                "columnStart": 0,
+                "ignoreDocumentMargin": true
+              },
+              "style": {
+                "backgroundColor": "#fff"
+              },
               "components": [
                 {
-                  "//": "======== IMAGE BLEED - H1722.0/W1367.0 * 100 = 125.9692758 ========",
-                  "role": "image",
+                  "role": "title",
+                  "layout": "titleLayout",
+                  "textStyle": "titleTextStyle",
+                  "format": "html",
+                  "text": "A Picture<br>Of Provence"
+                },
+                {
+                  "role": "intro",
+                  "layout": "introLayout",
+                  "style": "introStyle",
+                  "textStyle": "introTextStyle",
+                  "format": "html",
+                  "text": "IIIIIIIn pursuit of the scenery that inspired van Gogh and Cézanne, <b>Rachel Donadio</b> and her mother, an art historian, raod-trip through the storied towns of the French Riviera-and discover a cultural scene that's more alive than ever."
+                },
+                {
+                  "role": "author",
+                  "layout": "authorLayout",
+                  "style": "authorStyle",
+                  "textStyle": "authorTextStyle",
+                  "format": "html",
+                  "text": "Photographs by Anais Boileau"
+                }
+              ]
+            },
+            {
+              "role": "section",
+              "layout": {
+                "columnSpan": 10,
+                "columnStart": 0,
+                "ignoreDocumentMargin": true
+              },
+              "style": {
+                "backgroundColor": "#fff",
+                "conditional": [
+                  {
+                    "conditions": [
+                      {
+                        "minViewportWidth": 500
+                      }
+                    ],
+                    "fill": {
+                      "horizontalAlignment": "left",
+                      "repeat": "none",
+                      "type": "repeatable_image",
+                      "URL": "https://public-assets.meredithcorp.io/72b0676a281a63916a99e86d64d50b19/aa_dropcap_01.png",
+                      "verticalAlignment": "top",
+                      "width": 200
+                    }
+                  }
+                ],
+                "fill": {
+                  "horizontalAlignment": "left",
+                  "repeat": "none",
+                  "type": "repeatable_image",
+                  "URL": "https://public-assets.meredithcorp.io/72b0676a281a63916a99e86d64d50b19/aa_dropcap_01.png",
+                  "verticalAlignment": "top",
+                  "width": 150
+                }
+              },
+              "components": [
+                {
+                  "role": "body",
+                  "layout": "bodyLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "bodyTextStyle",
+                  "format": "html",
+                  "text": "<br/><br/><br/><lede>ON A PERFECT LATE-SUMMER</lede> evening, as I drive from the airport into Marseille, the sun is setting on one side of the sky and a full moon is rising on the other. Everything is enveloped by soft pink light, the kind you often find in areas colonized by the ancient Greeks. Few places make my heart beat faster than Mediterranean ports—cities of arrival and departure, where there’s always a sense of possibility in the air. In Marseille, one of Europe’s oldest shipping hubs, I feel immediately at home."
+                },
+                {
+                  "role": "body",
+                  "layout": "bodyLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "bodyTextStyle",
+                  "format": "html",
+                  "text": "I have come to search for traces of painters of the past and visit new sites of contemporary art. Once immortalized by the Impressionists, today Provence is enlivened by rising generations of artists and architects, as well as ingenious chefs and hoteliers. Over a glass of Vermentino on the roof of the <body-bold>Sofitel Marseille Vieux Port</body-bold> (<a href=\"http://sofitel-marseille-vieuxport.com\">sofitel-marseille-vieuxport.com</a>;<i> doubles from $332</i>), looking down on the jolly sailboats, I study the itinerary: Aix-en-Provence, Avignon, Arles, back to Marseille."
+                },
+                {
+                  "role": "container",
                   "layout": {
-                    "maximumContentWidth": "70cw"
+                    "columnSpan": 10,
+                    "columnStart": 0,
+                    "conditional": [
+                      {
+                        "columnSpan": 5,
+                        "columnStart": 0,
+                        "conditions": [
+                          {
+                            "minViewportWidth": 500
+                          }
+                        ],
+                        "ignoreDocumentMargin": true
+                      }
+                    ],
+                    "ignoreDocumentMargin": true,
+                    "margin": {
+                      "top": 20
+                    },
+                    "padding": {
+                      "right": 10
+                    }
                   },
-                  "caption": {
-                    "format": "html",
-                    "text": "<bold>SUIT Vineyard Vines Anegada Floral Ruffle Bikini Top,</bold><br>$78, and <bold>High-Waisted Bikini Bottom,</bold> $75.",
-                    "textStyle": "captionEmbeddedTextStyle"
+                  "anchor": {
+                    "target": "photo1",
+                    "targetAnchorPosition": "top"
                   },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/oceanreefbo_121/129645-1-eng-GB/oceanreefbo_1212.png?q=100"
+                  "components": [
+                    {
+                      "role": "photo",
+                      "layout": {
+                        "ignoreDocumentMargin": true
+                      },
+                      "caption": {
+                        "format": "html",
+                        "text": "La Divine Comédie, an Avignon guesthouse that occupies a 17th-century villa.",
+                        "textStyle": "captionEmbeddedTextStyle"
+                      },
+                      "URL": "https://public-assets.meredithcorp.io/35e3c6fc0b2ff2ce7ddcea201e884c33/aa_photo_09.jpg"
+                    },
+                    {
+                      "role": "caption",
+                      "layout": "captionLayout",
+                      "textStyle": "captionTextStyle",
+                      "format": "html",
+                      "text": "La Divine Comédie, an Avignon guesthouse that occupies a 17th-century villa."
+                    }
+                  ]
+                },
+                {
+                  "role": "body",
+                  "layout": "bodyLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "bodyTextStyle",
+                  "format": "html",
+                  "text": "<span id='photo1'></span>Who better to join me on a journey through past and present than my mother, an art historian who has been taking me to museums since I was a baby? She arrives the next morning off a red-eye flight from the U.S., filled with energy and carrying snazzy new Nordic poles for balance. I haven’t seen her since before the pandemic, and I realize how much I’ve missed her.          <br/><br/><h2>Marseille</h2> <br/>Our first stop is the Museum of European and Mediterranean Civilizations, or <body-bold>MUCEM</body-bold> (<a href=\"http://mucem.org\">mucem.org</a>), an institution dedicated to the history and culture of the region, and particularly of Marseille, which has been a mishmash for thousands of years. The museum sits on the waterfront, the handsome façade of its modern building an elaborate web of concrete. Opened in 2013, it was designed by French architect Rudi Ricciotti, who linked it by elevated walkway to a historic structure called Fort St.-Jean, built by Louis XIV in 1660. The walkway offers views out to sea, where giant ferries ply their way to Corsica and Algeria, and inland, where two modern office towers rise. Jean Nouvel’s is flashy red, white, and blue; Zaha Hadid’s is more elegant and resembles two pillars of glass leaning into one another. <br/><br/>We wander through an exhibit on the Mediterranean diet—the history of couscous, nougat, pepper mills and trade routes, coffee, an intriguing display on the sexual crossings of citrus. “The clementine is not sterile, but auto-incompatible. The pollen can’t pollinate,” a wall panel reads. I am engrossed by the history of the eggplant, which reached the Middle East via the Islamic conquests of the eighth and 11th centuries from Egypt, then spread to elsewhere in North Africa, Spain, and beyond. “A prelude to lunch,” my mother says."
+                },
+                {
+                  "role": "container",
+                  "layout": "fullBleedContainerLayout",
+                  "components": [
+                    {
+                      "role": "photo",
+                      "layout": "fullBleedPhotoLayout",
+                      "caption": {
+                        "format": "html",
+                        "text": "A double-helix slide by Carsten Höller at LUMA Arles.",
+                        "textStyle": "captionEmbeddedTextStyle"
+                      },
+                      "URL": "https://cdn-assets.ziniopro.com/var/site_976/storage/images/media2/images/tal0822fap1_062/248624-1-eng-GB/tal0822fap1_0622.jpg?q=100"
+                    },
+                    {
+                      "role": "caption",
+                      "layout": "captionLayout",
+                      "textStyle": "captionTextStyle",
+                      "format": "html",
+                      "text": "A double-helix slide by Carsten Höller at LUMA Arles."
+                    }
+                  ]
+                },
+                {
+                  "role": "body",
+                  "layout": "bodyLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "bodyTextStyle",
+                  "format": "html",
+                  "text": "From the port, we stroll inland through tree-lined streets to <body-bold>Ourea</body-bold> (<a href=\"http://ourea-restaurant.com\">ourea-restaurant.com</a>;<i> tasting menus from $55</i>), one of several new restaurants that have made Marseille, with its adventurous spirit and cheap rents, one of Europe’s most dynamic food cities. And the lunch! Strings of nearly raw zucchini in a sauce of lemon and chickpeas, with apricots and fried sage leaves. An eggplant purée studded with red figs and Thai red basil. Tuna in a thick sauce with a kick of harissa. Tender slabs of pink veal."
+                },
+                {
+                  "role": "body",
+                  "layout": "bodyLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "bodyTextStyle",
+                  "format": "html",
+                  "text": "Matthieu Roche, who cofounded the restaurant in 2018, stops by our table in a blue apron. He describes his approach as “Mediterranean, with a bit of <i>voyage.”</i> He adds, “also a little <i>réflechi,”</i> or reflection. A mix of flavors, each distinct—not unlike Marseille itself."
+                },
+                {
+                  "//": "======== FULL BLEED CONTAINER ========",
+                  "role": "container",
+                  "layout": "fullBleedContainerLayout",
+                  "components": [
+                    {
+                      "//": "======== IMAGE BLEED - H1889.0/W2138.0 * 100 = 88.3536015 ========",
+                      "role": "photo",
+                      "layout": "fullBleedPhotoLayout",
+                      "caption": {
+                        "format": "html",
+                        "text": "A Sol LeWitt mural at Collection Lambert.",
+                        "textStyle": "captionEmbeddedTextStyle"
+                      },
+                      "URL": "https://cdn-assets.ziniopro.com/var/site_976/storage/images/media2/images/tal0822fap1_063/248617-1-eng-GB/tal0822fap1_0632.jpg?q=100"
+                    },
+                    {
+                      "role": "caption",
+                      "layout": "captionLayout",
+                      "textStyle": "captionTextStyle",
+                      "format": "html",
+                      "text": "A Sol LeWitt mural at Collection Lambert."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "role": "container",
+              "layout": "singleBlockContainerLayout",
+              "style": "photoContainerStyle",
+              "conditional": [
+                {
+                  "conditions": [
+                    {
+                      "minViewportWidth": 500
+                    }
+                  ],
+                  "hidden": true
+                }
+              ],
+              "hidden": false,
+              "components": [
+                {
+                  "role": "photo",
+                  "URL": "https://cdn-assets.ziniopro.com/var/site_976/storage/images/media2/images/p168-tal0822-france-map-illustration/249666-1-eng-GB/p168-tal0822-france-map-illustration.png?q=100"
+                }
+              ]
+            },
+            {
+              "role": "section",
+              "layout": {
+                "columnSpan": 10,
+                "columnStart": 0,
+                "ignoreDocumentMargin": true
+              },
+              "style": {
+                "backgroundColor": "#fff"
+              },
+              "components": [
+                {
+                  "role": "heading2",
+                  "layout": "heading2Layout",
+                  "textStyle": "heading2TextStyle",
+                  "format": "html",
+                  "text": "Aix-en-Provence"
+                },
+                {
+                  "role": "container",
+                  "layout": {
+                    "columnSpan": 5,
+                    "columnStart": 5,
+                    "ignoreDocumentMargin": true
+                  },
+                  "anchor": {
+                    "target": "map",
+                    "targetAnchorPosition": "top"
+                  },
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minViewportWidth": 500
+                        }
+                      ],
+                      "hidden": false
+                    }
+                  ],
+                  "hidden": true,
+                  "components": [
+                    {
+                      "role": "photo",
+                      "layout": {
+                        "ignoreDocumentMargin": true
+                      },
+                      "photoCredit": "ILLUSTRATION BY DONOUGH O’MALLEY",
+                      "URL": "https://cdn-assets.ziniopro.com/var/site_976/storage/images/media2/images/p168-tal0822-france-map-illustration/249666-1-eng-GB/p168-tal0822-france-map-illustration.png?q=100"
+                    }
+                  ]
+                },
+                {
+                  "role": "body",
+                  "layout": "bodyNoMarginAboveLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "bodyTextStyle",
+                  "format": "html",
+                  "text": "<p id='map'>Though less than an hour from anarchic, spirited Marseille, Aix feels like another world—quiet, baked by the sun, with pleasant streets and plazas with gurgling fountains. The next day, we wander past the Lycée Mignet, where two of the town’s most illustrious sons, Paul Cézanne and Émile Zola, were once inseparable classmates. (“We had friendship. We dreamed of love and glory,” a plaque on its wall reads, citing Zola.)</p><p>The annex of the <body-bold>Musée Granet</body-bold> (<a href=\"http://museegranet-aixenprovence.fr\">museegranet-aixenprovence.fr</a>), housed in a deconsecrated Gothic church, holds a collection of 20th-century art amassed by Jean Planque, a Swiss artist and dealer. We’re both impressed by his exquisite taste; every work stands out. Picasso, Braque, a Bonnard painting of a staircase in sunflower yellow, a colorful Sonia Delaunay composition, Monet’s Norwegian snowscape in grays and blues, and a mysterious 1913 painting by Félix Vallotton, <i>Winter Morning in Petersburg,</i> which reminds me of a de Chirico. Cooling images on a hot day. It is 91 degrees; afterward we stop at a café for a <i>citronnade.</p><p>En route to the <body-bold>Château de la Gaude</body-bold> (<a href=\"http://chateaudelagaude.com\">chateaudelagaude.com</a>;<i> doubles from $516</i>), a vineyard with a small hotel on the outskirts of Aix, we come upon a hillside of blurry Mediterranean pines, suddenly familiar from art history. “Now we’re driving into a Cézanne,” my mother says. His adored Mont Ste.-Victoire, which he painted over and over, from every angle, is nearby. What a gift to have this time together, an art-history road trip. I remember how my mother took me to Paris for the first time when I was 13, and we spent hours visiting the Musée d’Orsay and the Louvre. The beginning of an education.</p>"
+                },
+                {
+                  "role": "body",
+                  "layout": "bodyLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "bodyTextStyle",
+                  "format": "html",
+                  "text": "The air at the château is perfect, a microclimate with cool breezes. Its lush lawns are on a slight elevation, protected from the mistral, the region’s famously powerful wind. I breathe deeply. As evening falls, I take a walk. Vines. Olive trees, more of Cézanne’s pines. A couple is chatting in the swimming pool, glasses of rosé perched on the edge. We dine that evening under a canopy of pines in the garden and have our breakfast there the next morning—fresh air, fresh coffee, the rustling of branches, a brioche with figs."
+                },
+                {
+                  "role": "container",
+                  "layout": {
+                    "columnSpan": 10,
+                    "columnStart": 0,
+                    "ignoreDocumentMargin": true,
+                    "margin": {
+                      "top": 10
+                    }
+                  },
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minViewportWidth": 500
+                        }
+                      ],
+                      "hidden": false
+                    }
+                  ],
+                  "contentDisplay": {
+                    "type": "horizontal_stack"
+                  },
+                  "hidden": true,
+                  "identifier": "altmosaic",
+                  "components": [
+                    {
+                      "role": "container",
+                      "layout": {
+                        "minimumWidth": "36cw",
+                        "padding": {
+                          "bottom": 14,
+                          "right": 14
+                        }
+                      },
+                      "anchor": {
+                        "originAnchorPosition": "top",
+                        "target": "altmosaic",
+                        "targetAnchorPosition": "bottom"
+                      },
+                      "components": [
+                        {
+                          "role": "photo",
+                          "caption": {
+                            "format": "html",
+                            "text": "The façade of the Pope’s Palace, in Avignon.",
+                            "textStyle": "captionEmbeddedTextStyle"
+                          },
+                          "URL": "https://cdn-assets.ziniopro.com/var/site_976/storage/images/media2/images/tal0822fap1_052/248603-1-eng-GB/tal0822fap1_0522.jpg?q=100"
+                        }
+                      ]
+                    },
+                    {
+                      "role": "container",
+                      "layout": {
+                        "minimumWidth": "44cw",
+                        "padding": {
+                          "bottom": 14,
+                          "left": 14,
+                          "right": 14
+                        }
+                      },
+                      "components": [
+                        {
+                          "role": "photo",
+                          "anchor": {
+                            "targetAnchorPosition": "bottom"
+                          },
+                          "caption": {
+                            "format": "html",
+                            "text": "Roasted squash with hazelnuts and sage at Ourea, in Marseille.",
+                            "textStyle": "captionEmbeddedTextStyle"
+                          },
+                          "URL": "https://cdn-assets.ziniopro.com/var/site_976/storage/images/media2/images/tal0822fap1_053/248596-1-eng-GB/tal0822fap1_0532.jpg?q=100"
+                        }
+                      ]
+                    },
+                    {
+                      "role": "container",
+                      "layout": {
+                        "minimumWidth": "20cw",
+                        "padding": {
+                          "bottom": 4,
+                          "left": 10,
+                          "right": "20cw"
+                        }
+                      },
+                      "anchor": {
+                        "originAnchorPosition": "top",
+                        "target": "altmosaic",
+                        "targetAnchorPosition": "bottom"
+                      },
+                      "components": [
+                        {
+                          "role": "caption",
+                          "layout": "captionLayout",
+                          "textStyle": "captionTextStyle",
+                          "format": "html",
+                          "text": "The façade of the Pope’s Palace, in Avignon.   Roasted squash with hazelnuts and sage at Ourea, in Marseille.   The exterior of MUCEM, designed by architect Rudy Ricciotti."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "role": "container",
+                  "layout": {
+                    "columnSpan": 10,
+                    "columnStart": 0,
+                    "ignoreDocumentMargin": true,
+                    "margin": {
+                      "top": 10
+                    }
+                  },
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minViewportWidth": 500
+                        }
+                      ],
+                      "hidden": true
+                    }
+                  ],
+                  "contentDisplay": {
+                    "type": "horizontal_stack"
+                  },
+                  "hidden": false,
+                  "identifier": "altmosaic4",
+                  "components": [
+                    {
+                      "role": "container",
+                      "layout": {
+                        "minimumWidth": "40cw",
+                        "padding": {
+                          "bottom": 6,
+                          "right": 6
+                        }
+                      },
+                      "anchor": {
+                        "originAnchorPosition": "top",
+                        "target": "altmosaic4",
+                        "targetAnchorPosition": "bottom"
+                      },
+                      "components": [
+                        {
+                          "role": "photo",
+                          "caption": {
+                            "format": "html",
+                            "text": "The façade of the Pope’s Palace, in Avignon.",
+                            "textStyle": "captionEmbeddedTextStyle"
+                          },
+                          "URL": "https://cdn-assets.ziniopro.com/var/site_976/storage/images/media2/images/tal0822fap1_052/248603-1-eng-GB/tal0822fap1_0522.jpg?q=100"
+                        }
+                      ]
+                    },
+                    {
+                      "role": "container",
+                      "layout": {
+                        "minimumWidth": "60cw",
+                        "padding": {
+                          "bottom": 6,
+                          "left": 6,
+                          "right": "20cw"
+                        }
+                      },
+                      "components": [
+                        {
+                          "role": "photo",
+                          "anchor": {
+                            "targetAnchorPosition": "bottom"
+                          },
+                          "caption": {
+                            "format": "html",
+                            "text": "Roasted squash with hazelnuts and sage at Ourea, in Marseille.",
+                            "textStyle": "captionEmbeddedTextStyle"
+                          },
+                          "URL": "https://cdn-assets.ziniopro.com/var/site_976/storage/images/media2/images/tal0822fap1_053/248596-1-eng-GB/tal0822fap1_0532.jpg?q=100"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "role": "section",
+                  "layout": {
+                    "columnSpan": 10,
+                    "columnStart": 0,
+                    "conditional": [
+                      {
+                        "conditions": [
+                          {
+                            "minViewportWidth": 500
+                          }
+                        ],
+                        "margin": {
+                          "bottom": 20
+                        },
+                        "padding": {
+                          "left": "18cw",
+                          "top": 14
+                        }
+                      }
+                    ],
+                    "ignoreDocumentMargin": true,
+                    "margin": {
+                      "bottom": 0
+                    },
+                    "padding": {
+                      "left": "18cw",
+                      "top": 6
+                    }
+                  },
+                  "components": [
+                    {
+                      "role": "photo",
+                      "layout": "fullBleedPhotoLayout",
+                      "caption": {
+                        "format": "html",
+                        "text": "The exterior of MUCEM, designed by architect Rudy Ricciotti.",
+                        "textStyle": "captionEmbeddedTextStyle"
+                      },
+                      "URL": "https://cdn-assets.ziniopro.com/var/site_976/storage/images/media2/images/tal0822fap1_065/248589-1-eng-GB/tal0822fap1_0652.jpg?q=100"
+                    }
+                  ]
                 },
                 {
                   "role": "caption",
                   "layout": "captionLayout",
                   "textStyle": "captionTextStyle",
                   "format": "html",
-                  "text": "<caption-heading>Suit</caption-heading><br><bold>Vineyard Vines Anegada Floral Ruffle Bikini Top,</bold> $78, and <bold>High-Waisted Bikini Bottom,</bold> $75 <a href=\"http://tnuck.com\">tnuck.com</a>"
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minViewportWidth": 500
+                        }
+                      ],
+                      "hidden": true
+                    }
+                  ],
+                  "hidden": false,
+                  "text": "The façade of the Pope’s Palace, in Avignon.   Roasted squash with hazelnuts and sage at Ourea, in Marseille.   The exterior of MUCEM, designed by architect Rudy Ricciotti."
+                },
+                {
+                  "role": "container",
+                  "layout": {
+                    "columnSpan": 4,
+                    "columnStart": 0,
+                    "ignoreDocumentMargin": true,
+                    "margin": {
+                      "top": 24
+                    },
+                    "padding": {
+                      "right": 10
+                    }
+                  },
+                  "anchor": {
+                    "target": "oak",
+                    "targetAnchorPosition": "top"
+                  },
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minViewportWidth": 500
+                        }
+                      ],
+                      "hidden": false
+                    }
+                  ],
+                  "hidden": true,
+                  "components": [
+                    {
+                      "role": "photo",
+                      "layout": {
+                        "ignoreDocumentMargin": true
+                      },
+                      "caption": {
+                        "format": "html",
+                        "text": "Andy Goldsworthy’s <i>Oak Room,</i> on view at Château La Coste, a wine estate in Aix.",
+                        "textStyle": "captionEmbeddedTextStyle"
+                      },
+                      "URL": "https://cdn-assets.ziniopro.com/var/site_976/storage/images/media2/images/tal0822fap1_054/248610-1-eng-GB/tal0822fap1_0542.jpg?q=100"
+                    },
+                    {
+                      "role": "caption",
+                      "layout": {
+                        "ignoreDocumentMargin": true,
+                        "padding": {
+                          "bottom": 8,
+                          "left": 20,
+                          "right": 20,
+                          "top": 8
+                        }
+                      },
+                      "textStyle": "captionTextStyle",
+                      "format": "html",
+                      "text": "Andy Goldsworthy’s <caption-regular>Oak Room,</caption-regular> on view at Château La Coste, a wine estate in Aix."
+                    }
+                  ]
+                },
+                {
+                  "role": "body",
+                  "layout": "bodyLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "bodyTextStyle",
+                  "format": "html",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minViewportWidth": 500
+                        }
+                      ],
+                      "hidden": false
+                    }
+                  ],
+                  "hidden": true,
+                  "text": "<p>In past centuries, artists came to Provence for inspiration; today, they come on commission, but the results are no less spectacular. We trace the hillsides north of Aix to what will become a highlight of the trip: <body-bold>Château La Coste</body-bold> (<a href=\"http://chateau-la-coste.com\">chateau-la-coste.com</a>), a biodynamic vineyard that also has four restaurants, a luxury hotel, and a sculpture park with works by many of today’s leading artists, in addition to pavilions by Tadao Ando, Renzo Piano, and Richard Rogers. Up a winding road lined with cypress trees lies the hotel, <body-bold>Villa La Coste</body-bold> (<a href=\"http://villalacoste.com\">villalacoste.com</a>;<i> doubles from $1,900</i>),       <span id='oak'></span>      which opened in 2017 and is, to my mind, a perfect place to stay. A stone allée, shaded by a pergola wound with jasmine, links the hotel’s 28 small villas, which are Bauhaus-style glass boxes. As soon as we enter ours, it feels like coming home to a place I’ve never been before. Airy and calm, it is filled with art—a Louise Bourgeois lithograph above the bed, a yellow-and-black Calder collage. It feels like an elegant Midcentury Modern Manhattan apartment, but with views of Provence. </p>                 <p>My mother browses the art books on the shelves while I try out all the furniture: rattan-seated wooden chairs at a glass dining table, a sofa with soft cushions and crisp white linen slipcovers, a little wooden desk chair that hits the small of my back exactly right. I sink into the king-size bed with a wrought-iron frame and white sheets. The soles of the hotel slippers are an inch thick. Outside a glass door, I recline on a sun bed on the terrace and look past the swimming pool and the property’s Sauvignon Blanc and Vermentino vines to the mountains in the distance.</p>                <p>The Irish hotelier Patrick McKillen bought the vineyard in 2002, made it organic, and came up with the brilliant idea to give artists carte blanche to create site-specific works on the property. A concierge drives us in a cherry-red vintage Citroën 2 Chevaux with the roof rolled down. What a lark! We visit an installation by Ai Weiwei, a path built with stones taken from the port of Marseille, a reflection on migration. We walk into an underground nest by Andy Goldsworthy, with a roof of woven trees. It feels primal, sacred, like an ancient dwelling. From inside, I take a picture of my mother from behind as she stands in the doorframe in a sun hat, holding her walking sticks, and think to myself: <i>I will remember this visit for many years to come.</i></p>"
+                },
+                {
+                  "role": "container",
+                  "layout": "fullBleedPhotoLayout",
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minViewportWidth": 500
+                        }
+                      ],
+                      "hidden": true
+                    }
+                  ],
+                  "hidden": false,
+                  "components": [
+                    {
+                      "role": "body",
+                      "layout": "bodyLayout",
+                      "style": "paragraphStyle",
+                      "textStyle": "bodyTextStyle",
+                      "format": "html",
+                      "text": "In past centuries, artists came to Provence for inspiration; today, they come on commission, but the results are no less spectacular. We trace the hillsides north of Aix to what will become a highlight of the trip: <body-bold>Château La Coste</body-bold> (<a href=\"http://chateau-la-coste.com\">chateau-la-coste.com</a>), a biodynamic vineyard that also has four restaurants, a luxury hotel, and a sculpture park with works by many of today’s leading artists, in addition to pavilions by Tadao Ando, Renzo Piano, and Richard Rogers. Up a winding road lined with cypress trees lies the hotel, <body-bold>Villa La Coste</body-bold> (<a href=\"http://villalacoste.com\">villalacoste.com</a>;<i> doubles from $1,900</i>), which opened in 2017 and is, to my mind, a perfect place to stay. A stone allée, shaded by a pergola wound with jasmine, links the hotel’s 28 small villas, which are Bauhaus-style glass boxes. As soon as we enter ours, it feels like coming home to a place I’ve never been before. Airy and calm, it is filled with art—a Louise Bourgeois lithograph above the bed, a yellow-and-black Calder collage. It feels like an elegant Midcentury Modern Manhattan apartment, but with views of Provence."
+                    },
+                    {
+                      "role": "container",
+                      "layout": "fullBleedContainerLayout",
+                      "style": "fullBleedContainerStyle",
+                      "components": [
+                        {
+                          "role": "photo",
+                          "layout": "fullBleedPhotoLayout",
+                          "caption": {
+                            "format": "html",
+                            "text": "Andy Goldsworthy’s <i>Oak Room,</i> on view at Château La Coste, a wine estate in Aix.",
+                            "textStyle": "captionEmbeddedTextStyle"
+                          },
+                          "URL": "https://cdn-assets.ziniopro.com/var/site_976/storage/images/media2/images/tal0822fap1_054/248610-1-eng-GB/tal0822fap1_0542.jpg?q=100"
+                        },
+                        {
+                          "role": "caption",
+                          "layout": "captionLayout",
+                          "textStyle": "captionTextStyle",
+                          "format": "html",
+                          "text": "Andy Goldsworthy’s <caption-regular>Oak Room,</caption-regular> on view at Château La Coste, a wine estate in Aix."
+                        }
+                      ]
+                    },
+                    {
+                      "role": "body",
+                      "layout": "bodyLayout",
+                      "style": "paragraphStyle",
+                      "textStyle": "bodyTextStyle",
+                      "format": "html",
+                      "text": "My mother browses the art books on the shelves while I try out all the furniture: rattan-seated wooden chairs at a glass dining table, a sofa with soft cushions and crisp white linen slipcovers, a little wooden desk chair that hits the small of my back exactly right. I sink into the king-size bed with a wrought-iron frame and white sheets. The soles of the hotel slippers are an inch thick. Outside a glass door, I recline on a sun bed on the terrace and look past the swimming pool and the property’s Sauvignon Blanc and Vermentino vines to the mountains in the distance."
+                    },
+                    {
+                      "role": "body",
+                      "layout": "bodyLayout",
+                      "style": "paragraphStyle",
+                      "textStyle": "bodyTextStyle",
+                      "format": "html",
+                      "text": "The Irish hotelier Patrick McKillen bought the vineyard in 2002, made it organic, and came up with the brilliant idea to give artists carte blanche to create site-specific works on the property. A concierge drives us in a cherry-red vintage Citroën 2 Chevaux with the roof rolled down. What a lark! We visit an installation by Ai Weiwei, a path built with stones taken from the port of Marseille, a reflection on migration. We walk into an underground nest by Andy Goldsworthy, with a roof of woven trees. It feels primal, sacred, like an ancient dwelling. From inside, I take a picture of my mother from behind as she stands in the doorframe in a sun hat, holding her walking sticks, and think to myself: <i>I will remember this visit for many years to come.</i>"
+                    }
+                  ]
+                },
+                {
+                  "role": "body",
+                  "layout": "bodyLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "bodyTextStyle",
+                  "format": "html",
+                  "text": "Richard Rogers’s elegant glass pavilion is cantilevered over the landscape on orange metal beams—a long, rectangular tree house. In Richard Serra’s <i>Aix,</i> three rusted steel triangles jut out at different spots on a small hillside dotted with trees. Viewed from the side, the triangles are flat. Up close, they are thin lines. An exercise in perspective, like Cézanne’s paintings of nearby Mont Ste.-Victoire."
+                },
+                {
+                  "role": "body",
+                  "layout": "bodyLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "bodyTextStyle",
+                  "format": "html",
+                  "text": "That evening, we dine at <body-bold>Hélène Darroze at Villa La Coste</body-bold> (<a href=\"http://villalacoste.com\">villalacoste.com</a>;<i> tasting menu $181</i>). The world-class French chef took over the kitchen in 2021. From our table in the garden, the restaurant looks like Philip Johnson’s Glass House, and glows like a lantern. Our eight-course tasting menu is itself a work of art. Cucumber granita, caviar, oysters—a taste of the sea. A delicate dish of white peach and mackerel. A saffron risotto with fresh thyme. The thin ceramic bowls ring with the sound of our silverware. We laugh and reminisce, and I strike up a conversation in Italian with the restaurant manager, a dapper Neapolitan. The mains: dry-aged Hereford prime beef sirloin with red onion, rare and tender. Lamb with flavorful Japanese eggplant and earthy tarragon."
+                },
+                {
+                  "role": "body",
+                  "layout": "bodyLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "bodyTextStyle",
+                  "format": "html",
+                  "text": "I am beginning to think that these days at Villa La Coste may have ruined me. A person can adapt to anything—to difficult times, certainly, but also to meals like this one. Dessert arrives. Strawberries topped with slivers of salty black olives. A mousse of rich Vietnamese chocolate. A waiter slices a baba au rhum open like an expert surgeon before dousing it in peppery Armagnac, spooning in whipped cream, and topping it with plump raspberries."
+                },
+                {
+                  "role": "body",
+                  "layout": "bodyLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "bodyTextStyle",
+                  "format": "html",
+                  "text": "In between courses I speak to Darroze herself, a maestro and one of the few women in the Michelin three-starred pantheon: her restaurant at the Connaught, in London, was recognized. (She also oversees two Paris restaurants: the sleek Marsan and the more informal Joia.) She is blond, jolly, dressed in her chef’s whites with a large gold cross around her neck. I ask her what she hopes guests will take away from this place. It is simple, she says. “I want to bring them happiness.”"
                 }
               ]
             },
             {
-              "role": "container",
-              "layout": "dividerStandardLayout",
-              "style": "dividerStandardStyle"
-            },
-            {
-              "role": "heading2",
-              "layout": "heading2Layout",
-              "textStyle": "heading2TextStyle",
-              "format": "html",
-              "text": "WEST COAST SURF"
-            },
-            {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "singleBlockContainerLayout",
+              "role": "section",
+              "layout": {
+                "columnSpan": 10,
+                "columnStart": 0,
+                "ignoreDocumentMargin": true
+              },
+              "style": {
+                "backgroundColor": "#fff"
+              },
               "components": [
                 {
-                  "//": "======== IMAGE BLEED - H1398.0/W1367.0 * 100 = 102.2677396 ========",
-                  "role": "image",
+                  "//": "======== FULL BLEED CONTAINER ========",
+                  "role": "container",
+                  "layout": "fullBleedContainerLayout",
+                  "components": [
+                    {
+                      "//": "======== IMAGE BLEED - H2112.0/W2107.0 * 100 = 100.2373042 ========",
+                      "role": "photo",
+                      "layout": "fullBleedPhotoLayout",
+                      "caption": {
+                        "format": "html",
+                        "text": "<i>Crouching Spider,</i> by Louise Bourgeois, at Château La Coste.",
+                        "textStyle": "captionEmbeddedTextStyle"
+                      },
+                      "URL": "https://cdn-assets.ziniopro.com/var/site_976/storage/images/media2/images/tal0822fap1_064/248575-1-eng-GB/tal0822fap1_0642.jpg?q=100"
+                    },
+                    {
+                      "role": "caption",
+                      "layout": "captionLayout",
+                      "textStyle": "captionTextStyle",
+                      "format": "html",
+                      "text": "<caption-regular>Crouching Spider,</caption-regular> by Louise Bourgeois, at Château La Coste."
+                    }
+                  ]
+                },
+                {
+                  "role": "heading2",
+                  "layout": "heading2Layout",
+                  "textStyle": "heading2TextStyle",
+                  "format": "html",
+                  "text": "Avignon and Arles"
+                },
+                {
+                  "role": "body",
+                  "layout": "bodyNoMarginAboveLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "bodyTextStyle",
+                  "format": "html",
+                  "text": "The next morning I look out on the landscape from bed. My heart is as full as my stomach. It pains me to leave the Villa La Coste, but onward we go, following the Durance River west toward Avignon. We navigate our way into the gates of the city and stroll to the <body-bold>Collection Lambert</body-bold> (<a href=\"http://collectionlambert.com\">collectionlambert.com</a>), a museum of contemporary art amassed by the French dealer Yves Lambert. Basquiat. Nan Goldin. Anselm Kiefer. We have lunch in the tranquil garden of <body-bold>La Mirande</body-bold> (<a href=\"http://la-mirande.fr\">la-mirande.fr</a>; tasting menus from $96</i>), a historic hotel near the Palace of the Popes. The heart of Avignon is a maze of medieval streets and hidden gardens. I particularly love the oasis of <body-bold>La Divine Comédie</body-bold> (<a href=\"http://la-divine-comedie.com\">la-divine-comedie.com</a>;<i> doubles from $746</i>), a guesthouse with exquisite décor and a lush lawn with towering trees. Before we leave town, I crave a vista. I walk up into the palace gardens and look down on the wide expanse of the Rhône glimmering in the sun, and out over the ruins of the famous Pont d’Avignon."
+                },
+                {
+                  "role": "body",
+                  "layout": "bodyLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "bodyTextStyle",
+                  "format": "html",
+                  "text": "We leave the landscape of Cézanne for that of van Gogh and drive through fields of sunflowers, now brown and past their prime. Arles has been prosperous, and continuously inhabited, for millennia. A Phoenician town, then a big deal in the late Roman Empire. In clear morning light we walk past the ancient Roman arena to the city’s newest cultural offering: a shiny Frank Gehry tower inaugurated last year as the centerpiece of <body-bold>LUMA Arles</body-bold> (<a href=\"http://luma.org\">luma.org</a>), a cultural campus founded by the philanthropist and art collector Maja Hoffmann."
+                },
+                {
+                  "role": "body",
+                  "layout": "bodyLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "bodyTextStyle",
+                  "format": "html",
+                  "text": "From the outside, the building might be a set from <i>Dune</i>—a giant spaceship that landed on the outskirts of an ancient city. Inside, it’s a bit of a fun house. We observe our reflections in the mirrored ceiling the artist Olafur Eliasson has placed at the top of Gehry’s double-helix spiral staircase. In an atrium, Carsten Höller has installed two metal slides that curl downward two stories. Viewed from the high floors, the city stretches away below—the Roman amphitheater, the bend in the Rhône, the Camargue marshland, and, in the distance, the Alpilles mountain range."
+                },
+                {
+                  "role": "body",
+                  "layout": "bodyLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "bodyTextStyle",
+                  "format": "html",
+                  "text": "We spend the better part of two days exploring LUMA, a former railway-repair depot that includes a park, a skateboarding ramp, a design atelier, vast exhibition spaces, three different restaurants, and a hotel. In one theater space, Christian Marclay’s mesmerizing 24-hour video, <i>The Clock,</i> plays on a loop. I love this 2010 work, which splices together scenes from different movies, all involving clocks. I wish we could stay here forever, my mother and I, watching Marclay capture the passage of time."
+                },
+                {
+                  "role": "body",
+                  "layout": "bodyLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "bodyTextStyle",
+                  "format": "html",
+                  "text": "An exhibit of work from Hoffmann’s collection features Urs Fischer’s <i>Untitled (The Rape of the Sabine Women),</i> a giant rendering in wax of Giambologna’s famous Renaissance marble sculpture. A wick is lit at regular intervals, and visitors can watch the sculpture melt slowly away. We were also intrigued by Ghanaian British artist John Akomfrah’s <i>Four Nocturnes,</i> a 2019 video commissioned for the 2019 Venice Biennale."
+                },
+                {
+                  "role": "body",
+                  "layout": "bodyLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "bodyTextStyle",
+                  "format": "html",
+                  "text": "Our base in Arles is the excellent hotel <body-bold>Arlatan</body-bold> (<a href=\"http://arlatan.com\">arlatan.com</a>; <i>doubles from $192</i>). Designed by the Cuban-American artist Jorge Pardo, it opened in 2018 and is a mood improver, a joyous mix of colors and textures. The floors are decorated with swirling tiles, both Moorish and mod. Its lights and wall sconces are laser-cut plastic—a bit floral, a bit like underwater creatures. I love the feel of Arles. Human-scale, warm, friendly."
+                },
+                {
+                  "role": "body",
+                  "layout": "bodyLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "bodyTextStyle",
+                  "format": "html",
+                  "text": "At the <body-bold>Vincent van Gogh Foundation</body-bold> (<a href=\"http://fondation-vincentvangogh-arles.org\">fondation-vincentvangogh-arles.org</a>), we are delighted by an immersive exhibit by the Los Angeles–based artist Laura Owens, who has designed colorful wallpaper as a backdrop on which to hang some of her favorite van Gogh paintings. Later, I browse in <body-bold>Actes Sud</body-bold> (<a href=\"http://actes-sud.fr\">actes-sud.fr</a>), a first-rate bookstore run by the independent French publishing house of the same name. One morning we wander through the outdoor vegetable market, which is bursting with late-summer bounty. Peaches. Figs. Cheeses. Material for still lifes."
+                },
+                {
+                  "role": "container",
                   "layout": {
-                    "maximumContentWidth": "70cw"
+                    "columnSpan": 10,
+                    "columnStart": 0,
+                    "conditional": [
+                      {
+                        "conditions": [
+                          {
+                            "minViewportWidth": 500
+                          }
+                        ],
+                        "margin": {
+                          "top": 20
+                        }
+                      }
+                    ],
+                    "ignoreDocumentMargin": true,
+                    "margin": {
+                      "top": 10
+                    }
                   },
-                  "caption": {
-                    "format": "html",
-                    "text": "<bold>West Coast Surf</bold><br><bold>CHAIR PARKIT Voyager Chair</bold> in Slate, $225.",
-                    "textStyle": "captionEmbeddedTextStyle"
+                  "contentDisplay": {
+                    "type": "horizontal_stack"
                   },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/parkit-003__128/129631-1-eng-GB/parkit-003__1282.png?q=100"
+                  "identifier": "altmosaic2",
+                  "components": [
+                    {
+                      "role": "container",
+                      "layout": {
+                        "conditional": [
+                          {
+                            "conditions": [
+                              {
+                                "minViewportWidth": 500
+                              }
+                            ],
+                            "padding": {
+                              "bottom": 14,
+                              "right": 14
+                            }
+                          }
+                        ],
+                        "minimumWidth": "40cw",
+                        "padding": {
+                          "bottom": 6,
+                          "right": 6
+                        }
+                      },
+                      "anchor": {
+                        "originAnchorPosition": "top",
+                        "target": "altmosaic2",
+                        "targetAnchorPosition": "bottom"
+                      },
+                      "components": [
+                        {
+                          "role": "photo",
+                          "caption": {
+                            "format": "html",
+                            "text": "Matthieu Roche and Camille Froment at their restaurant, Ourea.",
+                            "textStyle": "captionEmbeddedTextStyle"
+                          },
+                          "URL": "https://cdn-assets.ziniopro.com/var/site_976/storage/images/media2/images/tal0822fap1_055/248568-1-eng-GB/tal0822fap1_0552.png?q=100"
+                        }
+                      ]
+                    },
+                    {
+                      "role": "container",
+                      "layout": {
+                        "conditional": [
+                          {
+                            "conditions": [
+                              {
+                                "minViewportWidth": 500
+                              }
+                            ],
+                            "padding": {
+                              "bottom": 14,
+                              "left": 14
+                            }
+                          }
+                        ],
+                        "minimumWidth": "60cw",
+                        "padding": {
+                          "bottom": 6,
+                          "left": 6
+                        }
+                      },
+                      "components": [
+                        {
+                          "role": "photo",
+                          "caption": {
+                            "format": "html",
+                            "text": "A 17th-century painting in the style of Jacopo Bassano at MUCEM.",
+                            "textStyle": "captionEmbeddedTextStyle"
+                          },
+                          "URL": "https://cdn-assets.ziniopro.com/var/site_976/storage/images/media2/images/tal0822fap1_057/248561-1-eng-GB/tal0822fap1_0572.jpg?q=100"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "role": "container",
+                  "layout": {
+                    "columnSpan": 10,
+                    "columnStart": 0,
+                    "conditional": [
+                      {
+                        "conditions": [
+                          {
+                            "minViewportWidth": 500
+                          }
+                        ],
+                        "margin": {
+                          "bottom": 20
+                        }
+                      }
+                    ],
+                    "ignoreDocumentMargin": true,
+                    "margin": {
+                      "bottom": 0
+                    }
+                  },
+                  "contentDisplay": {
+                    "type": "horizontal_stack"
+                  },
+                  "identifier": "altmosaic3",
+                  "components": [
+                    {
+                      "role": "container",
+                      "layout": {
+                        "conditional": [
+                          {
+                            "conditions": [
+                              {
+                                "minViewportWidth": 500
+                              }
+                            ],
+                            "padding": {
+                              "right": 14,
+                              "top": 14
+                            }
+                          }
+                        ],
+                        "minimumWidth": "60cw",
+                        "padding": {
+                          "right": 6,
+                          "top": 6
+                        }
+                      },
+                      "components": [
+                        {
+                          "role": "photo",
+                          "caption": {
+                            "format": "html",
+                            "text": "Plage des Catalans.",
+                            "textStyle": "captionEmbeddedTextStyle"
+                          },
+                          "URL": "https://cdn-assets.ziniopro.com/var/site_976/storage/images/media2/images/tal0822fap1_056/248554-1-eng-GB/tal0822fap1_0562.jpg?q=100"
+                        }
+                      ]
+                    },
+                    {
+                      "role": "container",
+                      "layout": {
+                        "conditional": [
+                          {
+                            "conditions": [
+                              {
+                                "minViewportWidth": 500
+                              }
+                            ],
+                            "padding": {
+                              "left": 14,
+                              "top": 14
+                            }
+                          }
+                        ],
+                        "minimumWidth": "40cw",
+                        "padding": {
+                          "left": 6,
+                          "top": 6
+                        }
+                      },
+                      "components": [
+                        {
+                          "role": "container",
+                          "components": [
+                            {
+                              "role": "photo",
+                              "caption": {
+                                "format": "html",
+                                "text": "Ai Weiwei’s <i>Ruyi Path</i> at Château La Coste.",
+                                "textStyle": "captionEmbeddedTextStyle"
+                              },
+                              "URL": "https://cdn-assets.ziniopro.com/var/site_976/storage/images/media2/images/tal0822fap2_058/248547-1-eng-GB/tal0822fap2_0582.jpg?q=100"
+                            }
+                          ]
+                        },
+                        {
+                          "role": "container",
+                          "layout": {
+                            "margin": {
+                              "top": 20
+                            },
+                            "padding": {
+                              "right": "40cw"
+                            }
+                          },
+                          "anchor": {
+                            "originAnchorPosition": "top",
+                            "target": "altmosaic3",
+                            "targetAnchorPosition": "bottom"
+                          },
+                          "conditional": [
+                            {
+                              "conditions": [
+                                {
+                                  "minViewportWidth": 500
+                                }
+                              ],
+                              "hidden": false
+                            }
+                          ],
+                          "hidden": true,
+                          "components": [
+                            {
+                              "role": "caption",
+                              "layout": "captionLayout",
+                              "textStyle": "captionTextStyle",
+                              "format": "html",
+                              "text": "Matthieu Roche and Camille Froment at their restaurant, Ourea.     A 17th-century painting in the style of Jacopo Bassano at MUCEM.            Plage des Catalans.           Ai Weiwei’s <caption-regular>Ruyi Path</caption-regular> at Château La Coste."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
                 },
                 {
                   "role": "caption",
                   "layout": "captionLayout",
                   "textStyle": "captionTextStyle",
                   "format": "html",
-                  "text": "<caption-heading>Chair</caption-heading><br><bold>PARKIT Voyager Chair</bold> in Slate, $225 <a href=\"http://parkitmovement.com\">parkitmovement.com</a>"
-                }
-              ]
-            },
-            {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "singleBlockContainerLayout",
-              "components": [
-                {
-                  "//": "======== IMAGE BLEED - H2005.0/W1367.0 * 100 = 146.6715435 ========",
-                  "role": "image",
-                  "layout": {
-                    "maximumContentWidth": "60cw"
-                  },
-                  "caption": {
-                    "format": "html",
-                    "text": "<bold>SUIT Trina Turk Breeze Paddle Suit,</bold><br>$172.",
-                    "textStyle": "captionEmbeddedTextStyle"
-                  },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/trinaturk_b_131/129624-1-eng-GB/trinaturk_b_1312.png?q=100"
+                  "conditional": [
+                    {
+                      "conditions": [
+                        {
+                          "minViewportWidth": 500
+                        }
+                      ],
+                      "hidden": true
+                    }
+                  ],
+                  "hidden": false,
+                  "text": "Matthieu Roche and Camille Froment at their restaurant, Ourea.     A 17th-century painting in the style of Jacopo Bassano at MUCEM.            Plage des Catalans.           Ai Weiwei’s <caption-regular>Ruyi Path</caption-regular> at Château La Coste."
                 },
                 {
-                  "role": "caption",
-                  "layout": "captionLayout",
-                  "textStyle": "captionTextStyle",
+                  "role": "heading2",
+                  "layout": "heading2Layout",
+                  "textStyle": "heading2TextStyle",
                   "format": "html",
-                  "text": "<caption-heading>Suit</caption-heading><br><bold>Trina Turk Breeze Paddle Suit,</bold> $172 <a href=\"http://trinaturk.com\">trinaturk.com</a>"
-                }
-              ]
-            },
-            {
-              "role": "container",
-              "layout": "dividerStandardLayout",
-              "style": "dividerStandardStyle"
-            },
-            {
-              "role": "heading2",
-              "layout": "heading2Layout",
-              "textStyle": "heading2TextStyle",
-              "format": "html",
-              "text": "CARIBBEAN COOL"
-            },
-            {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "singleBlockContainerLayout",
-              "components": [
-                {
-                  "//": "======== IMAGE BLEED - H1397.0/W1367.0 * 100 = 102.1945867 ========",
-                  "role": "image",
-                  "layout": {
-                    "maximumContentWidth": "70cw"
-                  },
-                  "caption": {
-                    "format": "html",
-                    "text": "<bold>Caribbean Cool</bold><br><bold>CHAIR Serena &amp; Lily Palisades Outdoor Chair</bold> in Driftwood, $498.",
-                    "textStyle": "captionEmbeddedTextStyle"
-                  },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/serenalilyp_129/129617-1-eng-GB/serenalilyp_1292.png?q=100"
+                  "text": "Aix and Marseille, Again"
                 },
                 {
-                  "role": "caption",
-                  "layout": "captionLayout",
-                  "textStyle": "captionTextStyle",
+                  "role": "body",
+                  "layout": "bodyNoMarginAboveLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "bodyTextStyle",
                   "format": "html",
-                  "text": "<caption-heading>Chair</caption-heading><br><bold>Serena &amp; Lily Palisades Outdoor Chair</bold> in Driftwood, $498 <a href=\"http://serenaandlily.com\">serenaandlily.com</a>"
-                }
-              ]
-            },
-            {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "singleBlockContainerLayout",
-              "components": [
-                {
-                  "//": "======== IMAGE BLEED - H2310.0/W1367.0 * 100 = 168.9831748 ========",
-                  "role": "image",
-                  "layout": {
-                    "maximumContentWidth": "50cw"
-                  },
-                  "caption": {
-                    "format": "html",
-                    "text": "<bold>SUIT Summersalt The Ruffle Backflip Suit</bold><br>In Hibiscus &amp; Tangerine, $95.",
-                    "textStyle": "captionEmbeddedTextStyle"
-                  },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/theruffleba_130/129610-1-eng-GB/theruffleba_1302.png?q=100"
+                  "text": "En route back to Marseille, we stop in Aix to visit the <body-bold>Vasarely Foundation</body-bold> (<a href=\"http://fondationvasarely.org\">fondationvasarely.org</a>), dedicated to Op Artist Victor Vasarely, a string of black and white prisms on a hillside with Cézanne’s old standby, Ste.-Victoire, in the distance. With his astigmatism-defying works, made up of circles and squares that turn 3-D when you look long enough, Vasarely was trying to collapse space and time. We have no such luck. We have covered much ground, and now the trip is at its end."
                 },
                 {
-                  "role": "caption",
-                  "layout": "captionLayout",
-                  "textStyle": "captionTextStyle",
-                  "format": "html",
-                  "text": "<caption-heading>Suit</caption-heading><br><bold>Summersalt The Ruffle Backflip Suit </bold>in Hibiscus &amp; Tangerine, $95 <a href=\"http://summersalt.com\">summersalt.com</a>"
-                }
-              ]
-            },
-            {
-              "role": "container",
-              "layout": "dividerStandardLayout",
-              "style": "dividerStandardStyle"
-            },
-            {
-              "role": "heading2",
-              "layout": "heading2Layout",
-              "textStyle": "heading2TextStyle",
-              "format": "html",
-              "text": "FLORIDA’S WHITE SANDS"
-            },
-            {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "singleBlockContainerLayout",
-              "components": [
-                {
-                  "//": "======== IMAGE BLEED - H1635.0/W1367.0 * 100 = 119.6049744 ========",
-                  "role": "image",
+                  "role": "container",
                   "layout": {
-                    "maximumContentWidth": "70cw"
+                    "columnSpan": 4,
+                    "columnStart": 6,
+                    "conditional": [
+                      {
+                        "conditions": [
+                          {
+                            "minViewportWidth": 500
+                          }
+                        ],
+                        "padding": {
+                          "left": 10
+                        }
+                      }
+                    ],
+                    "ignoreDocumentMargin": true,
+                    "margin": {
+                      "top": 20
+                    },
+                    "padding": {
+                      "left": 0
+                    }
                   },
-                  "caption": {
-                    "format": "html",
-                    "text": "<bold>Florida’s White Sands</bold><br><bold>CHAIR L.L.Bean Backpack Beach Chair</bold> in Ocean Blue, $89.",
-                    "textStyle": "captionEmbeddedTextStyle"
+                  "anchor": {
+                    "target": "table",
+                    "targetAnchorPosition": "top"
                   },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/aa225429_pr_125/129603-1-eng-GB/aa225429_pr_1252.png?q=100"
+                  "components": [
+                    {
+                      "role": "photo",
+                      "layout": {
+                        "ignoreDocumentMargin": true
+                      },
+                      "caption": {
+                        "format": "html",
+                        "text": "A table setting at Sofitel Marseille Vieux Port.",
+                        "textStyle": "captionEmbeddedTextStyle"
+                      },
+                      "URL": "https://cdn-assets.ziniopro.com/var/site_976/storage/images/media2/images/tal0822fap2_059/248540-1-eng-GB/tal0822fap2_0592.jpg?q=100"
+                    },
+                    {
+                      "role": "caption",
+                      "layout": "captionLayout",
+                      "textStyle": "captionTextStyle",
+                      "format": "html",
+                      "text": "A table setting at Sofitel Marseille Vieux Port."
+                    }
+                  ]
                 },
                 {
-                  "role": "caption",
-                  "layout": "captionLayout",
-                  "textStyle": "captionTextStyle",
+                  "role": "body",
+                  "layout": "bodyLayout",
+                  "style": "paragraphStyle",
+                  "textStyle": "bodyTextStyle",
                   "format": "html",
-                  "text": "<caption-heading>Chair</caption-heading><br><bold>L.L.Bean Backpack Beach Chair</bold> in Ocean Blue, $89 <a href=\"http://llbean.com\">llbean.com</a>"
+                  "text": "<p id='table'>I drive us into Marseille—the familiar traffic, the challenges to parking. We sit in a busy café in the old port and people-watch over an aperitif. Some women wear skimpy tops, others headscarves. Multicultural France. Then dinner at <body-bold>La Mercerie</body-bold> (<a href=\"http://lamerceriemarseille.com\">lamerceriemarseille.com</a>;<i> prix fixe $66</i>), a neo-bistro that the British chef Harry Cummins and French sommelier Laura Vidal opened in 2019. The meal still lingers in my mind. Not at all fussy, every flavor unexpected. It’s our last night, so we order two glasses of champagne and toast our health. Next is an amuse-bouche of slices of cucumber and honeydew with anchovy and spicy green pepper. Dessert is a tiramisu with buckwheat wafers, green-tea mascarpone, and a delicate nectarine sorbet with a hint of hot pepper and mezcal syrup.</p>      <p>We talk about the trip—the traces of Cézanne and van Gogh, Villa La Coste—and about the past and about the joy of looking at art together. Night has fallen. We’ll soon go back to our hotel with the view of the sea and public beach at the Plage des Catalans and the pink hills of l’Estaque, so adored by the Impressionists, across the bay. Tomorrow we’ll fly home. But on this final evening we’re savoring the end of summer. An electric tram passes. The plane trees are lit with orange streetlight. We make a list of restaurants and museums we didn’t have time for. We call a taxi. My mother picks up her walking sticks. “I think we should do this trip every year,” she says. I tell her I feel the same way.</p>"
                 }
               ]
-            },
-            {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "singleBlockContainerLayout",
-              "components": [
-                {
-                  "//": "======== IMAGE BLEED - H2158.0/W1367.0 * 100 = 157.8639356 ========",
-                  "role": "image",
-                  "layout": {
-                    "maximumContentWidth": "60cw"
-                  },
-                  "caption": {
-                    "format": "html",
-                    "text": "<bold>SUIT Southern Tide Tie One Shoulder One Piece Swimsuit</bold><br>In Ocean Channel, $105.",
-                    "textStyle": "captionEmbeddedTextStyle"
-                  },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/8934_ocean__124/129596-1-eng-GB/8934_ocean__1242.png?q=100"
-                },
-                {
-                  "role": "caption",
-                  "layout": "captionLayout",
-                  "textStyle": "captionTextStyle",
-                  "format": "html",
-                  "text": "<caption-heading>Suit</caption-heading><br><bold>Southern Tide Tie One Shoulder One Piece Swimsuit</bold> in Ocean Channel, $105 <a href=\"http://southerntide.com\">southerntide.com</a>"
-                }
-              ]
-            },
-            {
-              "role": "container",
-              "layout": "dividerStandardLayout",
-              "style": "dividerStandardStyle"
-            },
-            {
-              "role": "heading2",
-              "layout": "heading2Layout",
-              "textStyle": "heading2TextStyle",
-              "format": "html",
-              "text": "ALL-AMERICAN NANTUCKET"
-            },
-            {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "singleBlockContainerLayout",
-              "components": [
-                {
-                  "//": "======== IMAGE BLEED - H1832.0/W1367.0 * 100 = 134.0160936 ========",
-                  "role": "image",
-                  "layout": {
-                    "maximumContentWidth": "70cw"
-                  },
-                  "caption": {
-                    "format": "html",
-                    "text": "<bold>All-American Nantucket</bold><br><bold>CHAIR LowTides Dune High Beach Chair</bold> in Laura Ashley Sweet Alyssum, $169.",
-                    "textStyle": "captionEmbeddedTextStyle"
-                  },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/dune-laura__127/129582-1-eng-GB/dune-laura__1272.png?q=100"
-                },
-                {
-                  "role": "caption",
-                  "layout": "captionLayout",
-                  "textStyle": "captionTextStyle",
-                  "format": "html",
-                  "text": "<caption-heading>Chair</caption-heading><br><bold>LowTides Dune High Beach Chair</bold> in Laura Ashley Sweet Alyssum, $169 <a href=\"http://lowtidesop.com\">lowtidesop.com</a>"
-                }
-              ]
-            },
-            {
-              "//": "======== FULL BLEED CONTAINER ========",
-              "role": "container",
-              "layout": "singleBlockContainerLayout",
-              "components": [
-                {
-                  "//": "======== IMAGE BLEED - H1505.0/W1366.0 * 100 = 110.1756955 ========",
-                  "role": "image",
-                  "layout": {
-                    "maximumContentWidth": "70cw"
-                  },
-                  "caption": {
-                    "format": "html",
-                    "text": "<bold>SUIT Marysia East River Top,</bold><br> $151, and <bold>Broadway Bottom,</bold> $148; <br><span data-anf-textstyle=\"creditTextStyle\">PRODUCTS COURTESY MANUFACTURERS</span>",
-                    "textStyle": "captionEmbeddedTextStyle"
-                  },
-                  "URL": "https://cdn-assets.ziniopro.com/var/site_889/storage/images/media2/images/p012-bzo102397-red-swim-suit/131358-1-eng-GB/p012-bzo102397-red-swim-suit.png?q=100"
-                },
-                {
-                  "role": "caption",
-                  "layout": "captionLayout",
-                  "textStyle": "captionTextStyle",
-                  "format": "html",
-                  "text": "<caption-heading>Suit</caption-heading><br><bold>Marysia East River Top,</bold> $151, and <bold>Broadway Bottom,</bold> $148 <a href=\"http://marysia.com\">marysia.com</a>"
-                }
-              ]
-            },
-            {
-              "role": "body",
-              "layout": "attributeLayout",
-              "style": "attributeStyle",
-              "textStyle": "attributeTextStyle",
-              "format": "html",
-              "text": "PRODUCTS COURTESY MANUFACTURERS"
             }
           ]
+        },
+        {
+          "role": "body",
+          "layout": "attributeLayout",
+          "textStyle": "attributeTextStyle",
+          "format": "html",
+          "text": "ILLUSTRATION BY DONOUGH O’MALLEY"
         },
         {
           "role": "container",
@@ -451,7 +1577,7 @@
               "layout": "bodyLayout",
               "textStyle": "tocTextStyle",
               "format": "html",
-              "text": "<a href='https://apple.news/Atu42odFLEeyNtj96zSKRvQ'>Tap here</a> to see more from this issue of <i>Coastal Living</i>"
+              "text": "<a href='https://apple.news/Ax4ErvWHGSdK4p4u5mDW10g'>Tap here</a> to see more from this issue of <i>Travel + Leisure</i>"
             }
           ]
         }
@@ -459,46 +1585,44 @@
     }
   ],
   "componentLayouts": {
+    "//": {
+      "//": "====== Used for horizontal stack space ======"
+    },
     "attributeLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 10,
+      "columnStart": 0,
       "margin": 15
     },
     "authorLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 10,
+      "columnStart": 0,
       "margin": {
         "bottom": 5
       }
     },
     "blockContainerLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
-      "ignoreDocumentMargin": true,
-      "margin": {
-        "bottom": 10,
-        "top": 20
-      }
+      "//": "UNUSED"
     },
     "bodyContainerLayout": {
       "ignoreDocumentMargin": true,
       "margin": 10
     },
     "bodyLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 10,
+      "columnStart": 0,
+      "margin": 10
+    },
+    "bodyNoMarginAboveLayout": {
+      "columnSpan": 10,
+      "columnStart": 0,
       "margin": {
-        "bottom": 10,
-        "top": 2
+        "bottom": 10
       }
     },
-    "bodySmallMarginAboveLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
-      "margin": {
-        "bottom": 10,
-        "top": 10
-      }
+    "bodyNoMarginLayout": {
+      "//": "previously noMarginLayout",
+      "columnSpan": 10,
+      "columnStart": 0
     },
     "bottomPhotoDividerLayout": {
       "//": "UNUSED"
@@ -515,12 +1639,8 @@
       }
     },
     "calloutLayout": {
-      "columnSpan": 16,
-      "columnStart": 2,
-      "margin": {
-        "bottom": 10,
-        "top": 20
-      },
+      "columnSpan": 8,
+      "columnStart": 1,
       "padding": {
         "bottom": 10,
         "left": 20,
@@ -532,6 +1652,8 @@
       "//": "UNUSED"
     },
     "captionLayout": {
+      "columnSpan": 10,
+      "columnStart": 0,
       "margin": 8
     },
     "collectionLayout": {
@@ -542,40 +1664,40 @@
         "top": 20
       }
     },
-    "darkModePaddingLayout": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minSpecVersion": "1.14",
-              "preferredColorScheme": "dark"
-            }
-          ],
-          "padding": 10
-        }
-      ]
-    },
     "dividerCollectionLayout": {
       "//": "UNUSED"
     },
     "dividerLayout": {
+      "ignoreDocumentMargin": true,
       "margin": {
-        "bottom": 20,
-        "top": 10
+        "bottom": 15
       }
     },
     "dividerStandardLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 10,
+      "columnStart": 0,
+      "horizontalContentAlignment": "left",
       "margin": {
         "bottom": 10,
         "top": 20
       },
-      "minimumHeight": 1
+      "maximumContentWidth": "25cw",
+      "minimumHeight": 10
+    },
+    "dividerStandardLayout2": {
+      "columnSpan": 10,
+      "columnStart": 0,
+      "horizontalContentAlignment": "center",
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "maximumContentWidth": "25cw",
+      "minimumHeight": 10
     },
     "dividerTocLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 10,
+      "columnStart": 0,
       "margin": {
         "bottom": 15,
         "top": 20
@@ -583,6 +1705,148 @@
       "minimumHeight": 10
     },
     "floatContainerLayout": {
+      "columnSpan": 2,
+      "columnStart": 0,
+      "conditional": [
+        {
+          "columnSpan": 1,
+          "columnStart": 0,
+          "conditions": [
+            {
+              "maxViewportWidth": 415
+            }
+          ]
+        }
+      ]
+    },
+    "fullBleedContainerLayout": {
+      "ignoreDocumentMargin": "both",
+      "ignoreViewportPadding": "both",
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      }
+    },
+    "fullBleedDividerLayout": {
+      "//": "UNUSED"
+    },
+    "fullBleedLayout": {
+      "ignoreDocumentMargin": "both",
+      "ignoreViewportPadding": "both"
+    },
+    "fullBleedPhotoLayout": {
+      "ignoreDocumentMargin": "both",
+      "ignoreViewportPadding": "both"
+    },
+    "galleryPhotoLayout": {
+      "//": "UNUSED"
+    },
+    "heading2Layout": {
+      "columnSpan": 10,
+      "columnStart": 0,
+      "margin": {
+        "bottom": 5,
+        "top": 20
+      }
+    },
+    "heading3Layout": {
+      "columnSpan": 10,
+      "columnStart": 0,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading4Layout": {
+      "columnSpan": 10,
+      "columnStart": 0,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading5Layout": {
+      "columnSpan": 10,
+      "columnStart": 0,
+      "margin": {
+        "top": 10
+      }
+    },
+    "heading6Layout": {
+      "columnSpan": 10,
+      "columnStart": 0,
+      "margin": {
+        "top": 20
+      }
+    },
+    "heroImageLayout": {
+      "ignoreDocumentMargin": "both",
+      "ignoreViewportPadding": "both",
+      "margin": {
+        "bottom": 10,
+        "top": 15
+      }
+    },
+    "introLayout": {
+      "columnSpan": 10,
+      "columnStart": 0,
+      "margin": {
+        "bottom": 5
+      }
+    },
+    "logoLayout": {
+      "//": "TAL Logo - Used in Editors Letter",
+      "columnSpan": 10,
+      "columnStart": 0,
+      "horizontalContentAlignment": "center",
+      "margin": {
+        "top": 20
+      },
+      "maximumContentWidth": "60cw",
+      "minimumHeight": 50
+    },
+    "productImageStandardLayout": {
+      "minimumHeight": 280
+    },
+    "pullQuoteLayout": {
+      "columnSpan": 6,
+      "columnStart": 2,
+      "margin": {
+        "bottom": 20,
+        "top": 20
+      }
+    },
+    "sectionLayout": {
+      "margin": {
+        "bottom": 5,
+        "top": 5
+      }
+    },
+    "sidebarBodyLayout": {
+      "columnSpan": 10,
+      "columnStart": 0,
+      "margin": 10
+    },
+    "sidebarBodyNoMarginAboveLayout": {
+      "columnSpan": 10,
+      "columnStart": 0,
+      "margin": {
+        "bottom": 10
+      }
+    },
+    "sidebarBodyNoMarginLayout": {
+      "columnSpan": 10,
+      "columnStart": 0
+    },
+    "sidebarDividerLayout": {
+      "columnSpan": 10,
+      "columnStart": 0,
+      "horizontalContentAlignment": "left",
+      "margin": {
+        "bottom": 10,
+        "top": 20
+      },
+      "maximumContentWidth": "22cw"
+    },
+    "sidebarFloatContainerLayout": {
       "columnSpan": 4,
       "columnStart": 1,
       "conditional": [
@@ -597,253 +1861,81 @@
         }
       ]
     },
-    "fullBleedContainerLayout": {
-      "ignoreDocumentMargin": true,
-      "margin": {
-        "bottom": 10,
-        "top": 20
-      }
-    },
-    "fullBleedDividerLayout": {
-      "//": "UNUSED"
-    },
-    "fullBleedLayout": {
-      "ignoreDocumentMargin": true
-    },
-    "fullBleedPhotoLayout": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minViewportWidth": 700
-            }
-          ],
-          "ignoreDocumentMargin": false
-        }
-      ],
-      "ignoreDocumentMargin": true
-    },
-    "galleryPhotoLayout": {
-      "ignoreDocumentMargin": true,
-      "margin": {
-        "bottom": 10,
-        "top": 20
-      }
-    },
-    "heading2Layout": {
-      "columnSpan": 19,
-      "columnStart": 2,
-      "margin": {
-        "top": 10
-      }
-    },
-    "heading3Layout": {
-      "columnSpan": 19,
-      "columnStart": 2,
-      "margin": {
-        "top": 10
-      }
-    },
-    "heading4Layout": {
-      "columnSpan": 19,
-      "columnStart": 2,
-      "margin": {
-        "top": 10
-      }
-    },
-    "heading5Layout": {
-      "columnSpan": 19,
-      "columnStart": 2,
-      "margin": {
-        "top": 10
-      }
-    },
-    "heading6Layout": {
-      "columnSpan": 19,
-      "columnStart": 2,
-      "margin": {
-        "top": 10
-      }
-    },
-    "heroImageLayout": {
-      "ignoreDocumentMargin": true,
-      "margin": {
-        "bottom": 10,
-        "top": 15
-      }
-    },
-    "heroImageTallLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
-      "margin": {
-        "bottom": 10,
-        "top": 15
-      }
-    },
-    "ingredientsLayout": {
-      "margin": 10
-    },
-    "ingredientsNoMarginAboveLayout": {
-      "margin": {
-        "bottom": 10,
-        "top": 0
-      }
-    },
-    "introLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
-      "margin": {
-        "bottom": 10
-      }
-    },
-    "noMarginLayout": {
-      "columnSpan": 19,
-      "columnStart": 2
-    },
-    "productImageStandardLayout": {
-      "minimumHeight": 280
-    },
-    "pullQuoteBodyLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
-      "margin": {
-        "bottom": 0,
-        "top": 5
-      }
-    },
-    "pullQuoteLayout": {
-      "columnSpan": 20,
+    "sidebarHeading2Layout": {
+      "columnSpan": 10,
       "columnStart": 0,
       "margin": {
-        "bottom": 15,
-        "top": 15
-      }
-    },
-    "sectionLayout": {
-      "margin": {
-        "bottom": "20",
-        "top": 5
-      }
-    },
-    "sidebarBodyLayout": {
-      "margin": {
-        "bottom": 10
-      }
-    },
-    "sidebarDividerLayout": {
-      "margin": {
-        "bottom": 10,
-        "top": 20
-      },
-      "minimumHeight": 1
-    },
-    "sidebarFloatContainerLayout": {
-      "columnSpan": 4,
-      "columnStart": 0
-    },
-    "sidebarHeading2Layout": {
-      "margin": {
-        "top": 20
+        "top": 10
       }
     },
     "sidebarHeading3Layout": {
+      "columnSpan": 10,
+      "columnStart": 0,
       "margin": {
         "top": 10
       }
     },
     "sidebarHeading4Layout": {
+      "columnSpan": 10,
+      "columnStart": 0,
       "margin": {
         "top": 10
-      }
-    },
-    "sidebarIntroLayout": {
-      "margin": {
-        "bottom": 10,
-        "top": 5
       }
     },
     "sidebarLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
-      "margin": 20,
+      "ignoreDocumentMargin": "both",
+      "ignoreViewportPadding": "both",
+      "margin": {
+        "bottom": 20,
+        "top": 20
+      },
       "padding": {
-        "bottom": 10,
-        "left": 20,
-        "right": 20
+        "bottom": 20,
+        "top": 20
       }
     },
     "sidebarSingleBlockContainerLayout": {
+      "columnSpan": 10,
+      "columnStart": 0,
       "margin": {
         "bottom": 10,
         "top": 20
-      }
-    },
-    "sidebarSmallMarginAboveLayout": {
-      "margin": {
-        "top": 2
       }
     },
     "singleBlockContainerLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 10,
+      "columnStart": 0,
       "margin": {
         "bottom": 10,
         "top": 20
       }
-    },
-    "smallMarginAboveLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
-      "margin": {
-        "top": 2
-      }
-    },
-    "smallSpacerLayout": {
-      "maximumWidth": 5,
-      "minimumWidth": 5
     },
     "spacerLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 10,
+      "columnStart": 0,
       "margin": {
         "bottom": 10,
         "top": 20
       }
     },
-    "starsImageLayout": {
-      "margin": {
-        "top": 2
-      },
-      "maximumWidth": 100
-    },
     "straplineLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 10,
+      "columnStart": 0,
       "margin": {
-        "top": 10
+        "bottom": 2
       }
     },
     "titleLayout": {
-      "columnSpan": 19,
-      "columnStart": 2,
+      "columnSpan": 10,
+      "columnStart": 0,
+      "ignoreDocumentMargin": "right",
+      "ignoreViewportPadding": "right",
       "margin": {
-        "top": 5
+        "top": 15
       }
     },
     "topPhotoDividerLayout": {
       "//": "UNUSED"
-    },
-    "youSaidContainerLayout": {
-      "margin": {
-        "bottom": 10,
-        "top": 20
-      }
-    },
-    "youSaidImageLayout": {
-      "horizontalContentAlignment": "center",
-      "margin": {
-        "bottom": 10
-      }
     }
   },
   "componentStyles": {
@@ -859,26 +1951,10 @@
     "calloutStyle": {
       "border": {
         "all": {
-          "color": "#009A5A",
-          "width": 4
+          "color": "#000",
+          "width": 3
         }
-      },
-      "conditional": [
-        {
-          "border": {
-            "all": {
-              "color": "#009A5A",
-              "width": 4
-            }
-          },
-          "conditions": [
-            {
-              "minSpecVersion": "1.14",
-              "preferredColorScheme": "dark"
-            }
-          ]
-        }
-      ]
+      }
     },
     "captionAdStyle": {
       "//": "UNUSED"
@@ -891,6 +1967,30 @@
             {
               "minSpecVersion": "1.14",
               "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
+    },
+    "dividerNewStyle": {
+      "fill": {
+        "fillMode": "fit",
+        "type": "image",
+        "horizontalAlignment": "left",
+        "URL": "https://public-assets-dev.meredithcorp.io/c9ac08dffda87c9b20c0ffa6dc6a8cb5/slash.PNG"
+      },
+      "conditional": [
+        {
+          "fill": {
+            "fillMode": "fit",
+            "type": "image",
+            "horizontalAlignment": "left",
+            "URL": "https://public-assets.meredithcorp.io/2c69e97bf1ef728ebd2a0eac481691a8/slash-white.png"
+          },
+          "conditions": [
+            {
+              "preferredColorScheme": "dark",
+              "minSpecVersion": "1.14"
             }
           ]
         }
@@ -929,7 +2029,52 @@
       ]
     },
     "dividerStandardStyle": {
-      "backgroundColor": "#000"
+      "fill": {
+        "fillMode": "fit",
+        "type": "image",
+        "horizontalAlignment": "left",
+        "URL": "https://public-assets-dev.meredithcorp.io/c9ac08dffda87c9b20c0ffa6dc6a8cb5/slash.PNG"
+      },
+      "conditional": [
+        {
+          "fill": {
+            "fillMode": "fit",
+            "type": "image",
+            "horizontalAlignment": "left",
+            "URL": "https://public-assets.meredithcorp.io/2c69e97bf1ef728ebd2a0eac481691a8/slash-white.png"
+          },
+          "conditions": [
+            {
+              "preferredColorScheme": "dark",
+              "minSpecVersion": "1.14"
+            }
+          ]
+        }
+      ]
+    },
+    "dividerStandardStyle2": {
+      "fill": {
+        "fillMode": "fit",
+        "type": "image",
+        "horizontalAlignment": "center",
+        "URL": "https://public-assets-dev.meredithcorp.io/c9ac08dffda87c9b20c0ffa6dc6a8cb5/slash.PNG"
+      },
+      "conditional": [
+        {
+          "fill": {
+            "fillMode": "fit",
+            "type": "image",
+            "horizontalAlignment": "center",
+            "URL": "https://public-assets.meredithcorp.io/2c69e97bf1ef728ebd2a0eac481691a8/slash-white.png"
+          },
+          "conditions": [
+            {
+              "preferredColorScheme": "dark",
+              "minSpecVersion": "1.14"
+            }
+          ]
+        }
+      ]
     },
     "dividerTocStyle": {
       "//": "UNUSED"
@@ -952,62 +2097,32 @@
     "heading6Style": {
       "//": "UNUSED"
     },
-    "ingredientsStyle": {
-      "tableStyle": {
-        "cells": {
-          "conditional": [
+    "introStyle": {
+      "//": "UNUSED"
+    },
+    "logoStyle": {
+      "fill": {
+        "fillMode": "fit",
+        "type": "image",
+        "horizontalAlignment": "center",
+        "URL": "https://public-assets.meredithcorp.io/38f1c3a6bbd26fd0497651e248a4bcfe/logo.jpg"
+      },
+      "conditional": [
+        {
+          "fill": {
+            "fillMode": "fit",
+            "type": "image",
+            "horizontalAlignment": "center",
+            "URL": "https://public-assets.meredithcorp.io/17dc434c6a54105cf7e243c6833d700f/T&L_logo_DM.jpg"
+          },
+          "conditions": [
             {
-              "horizontalAlignment": "right",
-              "padding": {
-                "right": 5
-              },
-              "selectors": [
-                {
-                  "columnIndex": 0
-                }
-              ],
-              "width": 10
-            },
-            {
-              "horizontalAlignment": "left",
-              "padding": {
-                "left": 5
-              },
-              "selectors": [
-                {
-                  "columnIndex": 1
-                }
-              ],
-              "width": 75
-            }
-          ],
-          "textStyle": "ingredientsTextStyle",
-          "verticalAlignment": "top"
-        },
-        "columns": {
-          "conditional": [
-            {
-              "selectors": [
-                {
-                  "columnIndex": 0
-                }
-              ],
-              "width": 10
-            },
-            {
-              "selectors": [
-                {
-                  "columnIndex": 1
-                }
-              ],
-              "width": 45
+              "preferredColorScheme": "dark",
+              "minSpecVersion": "1.14"
             }
           ]
         }
-      }
-    },
-    "introStyle": {
-      "//": "UNUSED"
+      ]
     },
     "paragraphDropCapStyle": {
       "//": "UNUSED"
@@ -1024,92 +2139,91 @@
     "sectionStyle": {
       "//": "UNUSED"
     },
-    "sidebarNoBackgroundStyle": {
-      "border": {
-        "all": {
-          "color": "#000",
-          "width": 2
-        }
-      }
-    },
     "sidebarStyle": {
-      "backgroundColor": "#f2f2f2"
+      "backgroundColor": "#f3f3f3",
+      "conditional": [
+        {
+          "backgroundColor": "#f3f3f3",
+          "conditions": [
+            {
+              "minSpecVersion": "1.14",
+              "preferredColorScheme": "dark"
+            }
+          ]
+        }
+      ]
     },
     "straplineStyle": {
       "//": "UNUSED"
     },
     "titleStyle": {
       "//": "UNUSED"
-    },
-    "youSaidImageStyle": {
-      "backgroundColor": "#008080",
-      "mask": {
-        "radius": "60cw",
-        "type": "corners"
-      }
     }
   },
   "textStyles": {
     "creditTextStyle": {
-      "fontName": "Gotham-Book",
-      "fontSize": 10,
-      "textColor": "#8d8d8d",
-      "tracking": 0.05
+      "fontName": "GrifoS-Italic",
+      "textColor": "#8d8d8d"
     },
-    "default-tag-bold": {
-      "fontName": "Gotham-Medium"
+    "default-tag-b-23": {
+      "fontName": "SharpGroteskSmBold23"
+    },
+    "default-tag-b-25": {
+      "fontName": "SharpGroteskBold25"
+    },
+    "default-tag-body-bold": {
+      "fontName": "SharpGroteskSmBold23",
+      "fontSize": 16
     },
     "default-tag-caption-heading": {
-      "conditional": [
-        {
-          "conditions": [
-            {
-              "minSpecVersion": "1.14",
-              "preferredColorScheme": "dark"
-            }
-          ],
-          "textColor": "#9891CB"
-        }
-      ],
-      "fontName": "Gotham-Medium",
-      "fontSize": 16,
-      "textColor": "#9891CB"
+      "fontName": "GrifoS-Bold",
+      "textTransform": "uppercase"
+    },
+    "default-tag-caption-regular": {
+      "fontName": "GrifoS-Medium"
     },
     "default-tag-emoji": {
       "fontName": "AppleColorEmoji"
     },
-    "default-tag-lede": {
-      "fontName": "GothamNarrow-Bold",
-      "tracking": 0.02
-    },
-    "default-tag-pullquote-attribution": {
-      "fontName": "ChronicleDisplay-Roman",
-      "fontSize": 16,
-      "textAlignment": "center",
-      "textTransform": "uppercase",
-      "tracking": 0.05
-    },
-    "default-tag-sidebar-lede": {
-      "fontName": "Gotham-Bold",
-      "textDecoration": "uppercase"
-    },
-    "default-tag-subsection": {
+    "default-tag-h2": {
       "conditional": [
         {
           "conditions": [
             {
-              "minSpecVersion": "1.14",
-              "preferredColorScheme": "dark"
+              "minViewportWidth": 500
             }
           ],
-          "textColor": "#9A94C9"
+          "fontSize": 30,
+          "lineHeight": 32
         }
       ],
-      "fontName": "Gotham-Medium",
+      "fontName": "SharpGroteskSmBold23",
+      "fontSize": 38,
+      "lineHeight": 40
+    },
+    "default-tag-intro-name": {
+      "fontName": "GrifoS-Bold"
+    },
+    "default-tag-lede": {
+      "fontName": "SharpGroteskBook18",
       "fontSize": 16,
-      "textColor": "#9A94C9",
-      "textTransform": "uppercase",
-      "tracking": 0.1
+      "tracking": 0.1,
+      "textTransform": "uppercase"
+    },
+    "default-tag-mi-20": {
+      "fontName": "SharpGroteskMediumItalic20"
+    },
+    "default-tag-pullquote-attribution": {
+      "fontSize": 15
+    },
+    "default-tag-sidebar-italic": {
+      "fontName": "SharpGroteskMediumItalic20"
+    },
+    "default-tag-sidebar-lede": {
+      "fontName": "SharpGroteskSmBold23"
+    },
+    "default-tag-uc": {
+      "textTransform": "uppercase"
     },
     "endMarkerTextStyle": {
       "//": "UNUSED"
@@ -1119,83 +2233,100 @@
     }
   },
   "componentTextStyles": {
-    "//": {
-      "//": "================ ALL RECIPES OVERRIDES ================"
-    },
-    "attributeTextStyle": {
-      "fontName": "GothamNarrow-Book",
-      "fontSize": 10,
-      "lineHeight": 12,
-      "textTransform": "uppercase",
-      "tracking": 0.05
-    },
-    "authorTextStyle": {
-      "fontName": "ChronicleDisplay-Bold",
+    "articleNameTextStyle": {
+      "fontName": "GrifoS-Regular",
+      "fontSize": 55,
+      "lineHeight": 57,
       "textAlignment": "center",
       "textTransform": "uppercase",
-      "tracking": 0.1
+      "underline": true
+    },
+    "articleSubsectionTextStyle": {
+      "fontName": "SharpGroteskSmBold23",
+      "fontSize": 38,
+      "lineHeight": 40,
+      "textAlignment": "center",
+      "textTransform": "uppercase"
+    },
+    "attributeTextStyle": {
+      "fontName": "Flama-Light",
+      "fontSize": 10,
+      "lineHeight": 12,
+      "tracking": 0.05,
+      "textTransform": "uppercase"
+    },
+    "authorCenteredTextStyle": {
+      "fontName": "GrifoS-Bold",
+      "textAlignment": "center"
+    },
+    "authorTextStyle": {
+      "fontName": "GrifoS-Bold"
     },
     "bodyCenteredTextStyle": {
+      "fontName": "GrifoS-Regular",
       "textAlignment": "center"
     },
     "bodyDropCapTextStyle": {
       "dropCapStyle": {
-        "fontName": "ChronicleDisplay-Light",
+        "fontName": "Loggia-Regular",
         "numberOfCharacters": 1,
-        "numberOfLines": 5,
-        "numberOfRaisedLines": 0,
-        "padding": 5,
-        "textColor": "#000f"
+        "numberOfLines": 4
       },
-      "fontName": "ChronicleDisplay-Roman"
+      "fontName": "GrifoS-Regular"
     },
     "bodyTextStyle": {
-      "tracking": 0.02
+      "fontName": "GrifoS-Regular"
     },
     "calloutBodyTextStyle": {
-      "fontName": "Gotham-Book",
-      "fontSize": 15,
-      "lineHeight": 19,
+      "fontSize": 16,
+      "lineHeight": 20,
       "textAlignment": "center"
     },
     "calloutHeadingTextStyle": {
-      "fontName": "ChronicleDisplay-Bold",
-      "fontSize": 28,
-      "lineHeight": 30,
-      "textAlignment": "center"
+      "fontName": "SharpGroteskSmBold23",
+      "fontSize": 19,
+      "lineHeight": 21,
+      "textAlignment": "center",
+      "textTransform": "uppercase"
     },
     "captionAdTextStyle": {
       "//": "UNUSED"
     },
     "captionCenteredTextStyle": {
-      "textAlignment": "center"
+      "linkStyle": {
+        "fontName": "GrifoS-Medium",
+        "textColor": "#366a9b"
+      },
+      "textAlignment": "center",
+      "fontName": "GrifoS-MediumItalic"
     },
     "captionEmbeddedTextStyle": {
       "fontName": "HelveticaNeue",
       "lineHeight": 16
     },
     "captionTextStyle": {
-      "fontName": "Gotham-Book",
-      "tracking": 0.02
+      "linkStyle": {
+        "fontName": "GrifoS-Medium",
+        "textColor": "#366a9b"
+      },
+      "fontName": "GrifoS-MediumItalic"
     },
     "default": {
-      "fontName": "ChronicleDisplay-Roman",
+      "fontName": "GrifoS-Regular",
       "hyphenation": false,
       "linkStyle": {
-        "fontName": "ChronicleDisplay-Bold",
-        "textColor": "#000",
-        "underline": true
+        "textColor": "#366a9b"
       },
-      "textColor": "#000"
+      "textColor": "#221E1F"
     },
     "default-author": {
-      "fontName": "Avenir-Book",
-      "fontSize": 14,
-      "lineHeight": 16
+      "fontSize": 24,
+      "lineHeight": 26,
+      "tracking": -0.01
     },
     "default-body": {
-      "fontSize": 16,
-      "lineHeight": 20,
+      "fontSize": 18,
+      "lineHeight": 22,
       "paragraphSpacingAfter": 12,
       "paragraphSpacingBefore": 12
     },
@@ -1203,23 +2334,48 @@
       "//": "UNUSED"
     },
     "default-caption": {
-      "fontName": "Avenir-Book",
       "fontSize": 14,
-      "lineHeight": 16
+      "lineHeight": 17
     },
     "default-heading": {
       "fontSize": 16,
       "lineHeight": 16
     },
     "default-heading2": {
-      "fontSize": 32,
-      "lineHeight": 34
+      "//": "UNUSED"
     },
     "default-heading3": {
-      "fontSize": 32,
-      "lineHeight": 34
+      "//": "UNUSED"
     },
     "default-heading4": {
+      "//": "UNUSED"
+    },
+    "default-heading5": {
+      "//": "UNUSED"
+    },
+    "default-heading6": {
+      "//": "UNUSED"
+    },
+    "default-intro": {
+      "fontSize": 24,
+      "lineHeight": 26,
+      "tracking": -0.01
+    },
+    "default-photographer": {
+      "//": "UNUSED"
+    },
+    "default-pullquote": {
+      "//": "UNUSED"
+    },
+    "default-title": {
+      "//": "UNUSED"
+    },
+    "floatImageCaptionTextStyle": {
+      "fontName": "GrifoS-Italic"
+    },
+    "heading2CenteredTextStyle": {
+      "fontName": "SharpGroteskSmBold23",
+      "textAlignment": "center",
       "conditional": [
         {
           "conditions": [
@@ -1227,172 +2383,247 @@
               "minViewportWidth": 500
             }
           ],
-          "fontSize": 24,
-          "lineHeight": 26
+          "fontSize": 30,
+          "lineHeight": 32
         }
       ],
-      "fontSize": 26,
-      "lineHeight": 28
-    },
-    "default-heading5": {
-      "fontSize": 19,
-      "lineHeight": 21
-    },
-    "default-heading6": {
-      "fontSize": 17,
-      "lineHeight": 19
-    },
-    "default-intro": {
-      "fontName": "Avenir-Book",
-      "fontSize": 20,
-      "lineHeight": 24
-    },
-    "default-photographer": {
-      "//": "UNUSED"
-    },
-    "default-pullquote": {
-      "fontSize": 44,
-      "lineHeight": 44,
-      "textAlignment": "center"
-    },
-    "default-title": {
-      "fontSize": 66,
-      "lineHeight": 59
-    },
-    "floatImageCaptionTextStyle": {
-      "fontName": "Gotham-BookItalic",
-      "tracking": 0.02
-    },
-    "heading2CenteredTextStyle": {
-      "textAlignment": "center"
+      "fontSize": 38,
+      "lineHeight": 40
     },
     "heading2TextStyle": {
-      "fontName": "ChronicleDisplay-Bold",
-      "textAlignment": "center",
-      "textTransform": "uppercase",
-      "tracking": 0.03
-    },
-    "heading3CenteredTextStyle": {
-      "textAlignment": "center"
-    },
-    "heading3TextStyle": {
-      "fontName": "Gotham-Bold",
-      "textTransform": "uppercase",
-      "tracking": 0.03
-    },
-    "heading4CenteredTextStyle": {
-      "textAlignment": "center"
-    },
-    "heading4TextStyle": {
-      "fontName": "ChronicleDisplay-Bold",
-      "textTransform": "uppercase",
-      "tracking": 0.03
-    },
-    "heading5CenteredTextStyle": {
-      "fontName": "GothamNarrow-Bold",
-      "textAlignment": "center",
-      "textTransform": "uppercase"
-    },
-    "heading5TextStyle": {
-      "fontName": "GothamNarrow-Bold",
-      "textTransform": "uppercase"
-    },
-    "heading6CenteredTextStyle": {
-      "textAlignment": "center"
-    },
-    "heading6TextStyle": {
-      "fontName": "GothamNarrow-Bold",
-      "textTransform": "uppercase"
-    },
-    "ingredientsTextStyle": {
-      "fontName": "GothamNarrow-Book",
-      "lineHeight": 24
-    },
-    "introTextStyle": {
-      "fontName": "Gotham-Book",
-      "textAlignment": "center",
-      "tracking": 0.03
-    },
-    "pullQuoteTextStyle": {
-      "fontName": "ChronicleDisplay-Bold",
-      "fontSize": 25,
-      "lineHeight": 35,
-      "textAlignment": "center",
-      "textTransform": "uppercase",
-      "tracking": 0.03
-    },
-    "recipeDetailsTextStyle": {
-      "fontName": "GothamNarrow-Book",
-      "fontSize": 14,
-      "lineHeight": 16
-    },
-    "reviewsTextStyle": {
-      "fontName": "GothamNarrow-Black"
-    },
-    "savedTextStyle": {
-      "fontName": "GothamNarrow-Book",
-      "fontSize": 16,
-      "lineHeight": 18,
-      "textTransform": "uppercase"
-    },
-    "sectionTextStyle": {
+      "fontName": "SharpGroteskSmBold23",
       "conditional": [
         {
           "conditions": [
             {
-              "minViewportWidth": 415
+              "minViewportWidth": 500
             }
           ],
+          "fontSize": 30,
           "lineHeight": 32
         }
       ],
-      "fontName": "ChronicleDisplay-Semi",
-      "fontSize": 20,
-      "lineHeight": 20,
+      "fontSize": 38,
+      "lineHeight": 40
+    },
+    "heading3CenteredTextStyle": {
+      "fontName": "SharpGroteskMedium20",
       "textAlignment": "center",
-      "tracking": 0.02
+      "textTransform": "uppercase",
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 500
+            }
+          ],
+          "fontSize": 26,
+          "lineHeight": 28
+        }
+      ],
+      "fontSize": 32,
+      "lineHeight": 34
+    },
+    "heading3TextStyle": {
+      "fontName": "SharpGroteskMedium20",
+      "textTransform": "uppercase",
+      "conditional": [
+        {
+          "conditions": [
+            {
+              "minViewportWidth": 500
+            }
+          ],
+          "fontSize": 26,
+          "lineHeight": 28
+        }
+      ],
+      "fontSize": 32,
+      "lineHeight": 34
+    },
+    "heading4CenteredTextStyle": {
+      "fontName": "SharpGroteskSmBold23",
+      "fontSize": 21,
+      "textAlignment": "center",
+      "lineHeight": 23
+    },
+    "heading4TextStyle": {
+      "fontName": "SharpGroteskSmBold23",
+      "fontSize": 21,
+      "lineHeight": 23
+    },
+    "heading5CenteredTextStyle": {
+      "fontName": "SharpGroteskMedium20",
+      "fontSize": 18,
+      "textTransform": "uppercase",
+      "textAlignment": "center",
+      "lineHeight": 20
+    },
+    "heading5TextStyle": {
+      "fontName": "SharpGroteskMedium20",
+      "fontSize": 18,
+      "textTransform": "uppercase",
+      "lineHeight": 20
+    },
+    "heading6CenteredTextStyle": {
+      "fontName": "SharpGroteskSmBold23",
+      "fontSize": 16,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "lineHeight": 20
+    },
+    "heading6TextStyle": {
+      "fontName": "SharpGroteskSmBold23",
+      "fontSize": 16,
+      "textTransform": "uppercase",
+      "lineHeight": 20
+    },
+    "introCenteredTextStyle": {
+      "fontName": "GrifoS-Regular",
+      "textAlignment": "center"
+    },
+    "introTextStyle": {
+      "fontName": "GrifoS-Regular"
+    },
+    "locationSubHeaderTextStyle": {
+      "fontName": "AvenirNextCondensed-UltraLight",
+      "fontSize": 40,
+      "lineHeight": 42,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "textColor": "#111"
+    },
+    "pullQuoteTextStyle": {
+      "fontName": "SharpGroteskMedium20",
+      "fontSize": 26,
+      "textTransform": "uppercase",
+      "textAlignment": "center",
+      "lineHeight": 30
+    },
+    "sectionTextStyle": {
+      "fontName": "Loggia-SemiBold",
+      "fontSize": 20,
+      "lineHeight": 24,
+      "textTransform": "uppercase",
+      "tracking": 0.2
+    },
+    "sidebarAuthorTextStyle": {
+      "fontName": "SharpGroteskMedium20",
+      "fontSize": 16,
+      "lineHeight": 24,
+      "textAlignment": "left",
+      "textTransform": "uppercase",
+      "tracking": 0.1
+    },
+    "sidebarBodyCenteredTextStyle": {
+      "fontName": "SharpGroteskBook18",
+      "fontSize": 15,
+      "textAlignment": "center",
+      "lineHeight": 20
     },
     "sidebarBodyTextStyle": {
-      "fontName": "Gotham-Book"
+      "fontName": "SharpGroteskBook18",
+      "fontSize": 15,
+      "lineHeight": 20
     },
-    "sidebarHeading2TextStyle": {
-      "fontName": "ChronicleDisplay-Bold",
-      "fontSize": 32,
-      "lineHeight": 38,
-      "textColor": "#009A5A",
-      "textTransform": "uppercase",
-      "tracking": 0.03
-    },
-    "sidebarHeading3TextStyle": {
-      "fontName": "Gotham-Bold",
-      "fontSize": 28,
-      "lineHeight": 30,
-      "textTransform": "uppercase",
-      "tracking": 0.03
-    },
-    "sidebarHeading4TextStyle": {
-      "fontName": "Gotham-Bold",
-      "fontSize": 24,
-      "lineHeight": 26,
-      "tracking": 0.03
-    },
-    "sidebarIntroTextStyle": {
-      "fontName": "Gotham-Medium"
-    },
-    "straplineTextStyle": {
-      "fontName": "Gotham-Ultra",
-      "tracking": 0.15
-    },
-    "titleTextStyle": {
-      "fontName": "ChronicleDisplay-Bold",
+    "sidebarByTheNumbersTextStyle": {
+      "fontName": "Mr.BanksStencil-Bold",
+      "fontSize": 60,
+      "lineHeight": 65,
       "textAlignment": "center",
       "textTransform": "uppercase",
       "tracking": 0.03
+    },
+    "sidebarHeading2CenteredTextStyle": {
+      "fontName": "SharpGroteskMedium20",
+      "fontSize": 40,
+      "lineHeight": 47,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.03
+    },
+    "sidebarHeading2TextStyle": {
+      "fontName": "SharpGroteskMedium20",
+      "fontSize": 40,
+      "lineHeight": 47,
+      "textTransform": "uppercase",
+      "tracking": 0.03
+    },
+    "sidebarHeading2TextStyleQuoteTitle": {
+      "fontName": "SharpGroteskSmBold23",
+      "fontSize": 25,
+      "lineHeight": 27,
+      "textTransform": "uppercase",
+      "tracking": 0.03,
+      "textAlignment": "center"
+    },
+    "sidebarHeading3TextStyle": {
+      "fontName": "SharpGroteskSmBold23",
+      "fontSize": 18,
+      "lineHeight": 20,
+      "textTransform": "uppercase",
+      "tracking": 0.01
+    },
+    "sidebarHeading3TextStyleQuoteLabel": {
+      "fontName": "SharpGroteskSmBold23",
+      "fontSize": 18,
+      "lineHeight": 20,
+      "textAlignment": "center",
+      "tracking": 0.01
+    },
+    "sidebarHeading4TextStyle": {
+      "fontName": "SharpGroteskMedium20",
+      "fontSize": 16,
+      "lineHeight": 18,
+      "underline": true
+    },
+    "sidebarPullQuoteTextStyle": {
+      "//": "UNUSED"
+    },
+    "straplineCenteredTextStyle": {
+      "fontName": "SharpGroteskBook18",
+      "fontSize": 15,
+      "lineHeight": 15,
+      "textAlignment": "center",
+      "textTransform": "uppercase",
+      "tracking": 0.1
+    },
+    "straplineTextStyle": {
+      "fontName": "SharpGroteskBook18",
+      "tracking": 0.1,
+      "fontSize": 15,
+      "lineHeight": 15,
+      "textTransform": "uppercase"
+    },
+    "titleDiscoveriesTextStyle": {
+      "fontName": "GrifoS-Light",
+      "fontSize": 68,
+      "lineHeight": 68
+    },
+    "titleEditorsLetterTextStyle": {
+      "fontName": "Mr.BanksStencil-Bold",
+      "fontSize": 44,
+      "lineHeight": 50,
+      "textAlignment": "center"
+    },
+    "titleExperiencesTextStyle": {
+      "fontName": "SharpGroteskMedium20",
+      "fontSize": 55,
+      "lineHeight": 55
+    },
+    "titleIntelligentTravelerTextStyle": {
+      "fontName": "Mr.BanksStencil-Bold",
+      "fontSize": 55,
+      "lineHeight": 55
+    },
+    "titleTextStyle": {
+      "//": "UNUSED"
     },
     "tocTextStyle": {
       "fontName": "AvenirNextCondensed-Medium",
       "fontSize": 16,
       "linkStyle": {
+        "fontName": "AvenirNextCondensed-Medium",
         "underline": true
       },
       "textAlignment": "center",
